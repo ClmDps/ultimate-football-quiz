@@ -1,0 +1,1754 @@
+[
+  {
+    "id": "odd_1",
+    "options": ["Zinédine Zidane", "Ronaldinho", "Luka Modrić", "Thierry Henry"],
+    "answer": "Thierry Henry",
+    "common_link": "Ils ont tous remporté le Ballon d'Or.",
+    "reason": "Thierry Henry a terminé sur le podium mais ne l'a jamais gagné. Les trois autres l'ont remporté.",
+    "difficulty": 1
+  },
+  {
+    "id": "odd_2",
+    "options": ["Inter Milan", "Bayern Munich", "Ajax Amsterdam", "Juventus"],
+    "answer": "Juventus",
+    "common_link": "Ils ont réalisé le Triplé (Championnat + Coupe + C1) sur une saison.",
+    "reason": "La Juventus n'a jamais réalisé le triplé. L'Inter (2010), le Bayern (2013, 2020) et l'Ajax (1972) l'ont fait.",
+    "difficulty": 2
+  },
+  {
+    "id": "odd_3",
+    "options": ["Sadio Mané", "Mohamed Salah", "Roberto Firmino", "Philippe Coutinho"],
+    "answer": "Philippe Coutinho",
+    "common_link": "Ils ont remporté la Premier League avec Liverpool.",
+    "reason": "Coutinho a quitté le club pour Barcelone en 2018, deux ans avant le titre de 2020.",
+    "difficulty": 2
+  },
+  {
+    "id": "odd_4",
+    "options": ["Ronaldo Nazário", "Zlatan Ibrahimović", "Gianluigi Buffon", "Kaká"],
+    "answer": "Kaká",
+    "common_link": "Ils n'ont jamais gagné la Ligue des Champions.",
+    "reason": "Kaká l'a remportée avec l'AC Milan en 2007. Les trois autres légendes ne l'ont jamais gagnée.",
+    "difficulty": 2
+  },
+  {
+    "id": "odd_5",
+    "options": ["Andrea Pirlo", "Clarence Seedorf", "Roberto Baggio", "Francesco Totti"],
+    "answer": "Francesco Totti",
+    "common_link": "Ils ont joué pour l'Inter Milan ET l'AC Milan.",
+    "reason": "Totti n'a joué que pour l'AS Roma. Pirlo, Seedorf et Baggio ont fait les deux clubs milanais.",
+    "difficulty": 2
+  },
+  {
+    "id": "odd_6",
+    "options": ["Robert Lewandowski", "Sergio Agüero", "Karim Benzema", "Harry Kane"],
+    "answer": "Harry Kane",
+    "common_link": "Ils ont joué en Liga espagnole.",
+    "reason": "Harry Kane a joué en Angleterre et en Allemagne (Bayern), mais jamais en Espagne.",
+    "difficulty": 1
+  },
+  {
+    "id": "odd_7",
+    "options": ["Didier Deschamps", "Franz Beckenbauer", "Mário Zagallo", "Diego Maradona"],
+    "answer": "Diego Maradona",
+    "common_link": "Ils ont gagné la Coupe du Monde comme joueur ET sélectionneur.",
+    "reason": "Maradona a échoué en tant que sélectionneur (2010). Les trois autres ont réussi le doublé.",
+    "difficulty": 2
+  },
+  {
+    "id": "odd_8",
+    "options": ["Lionel Messi", "Luis Suárez", "Neymar", "Cristiano Ronaldo"],
+    "answer": "Cristiano Ronaldo",
+    "common_link": "Ils ont joué pour le FC Barcelone.",
+    "reason": "Cristiano Ronaldo est une légende du Real Madrid.",
+    "difficulty": 1
+  },
+  {
+    "id": "odd_9",
+    "options": ["Carlo Ancelotti", "Pep Guardiola", "José Mourinho", "Jürgen Klopp"],
+    "answer": "Jürgen Klopp",
+    "common_link": "Ils ont remporté la Ligue des Champions avec deux clubs différents.",
+    "reason": "Klopp ne l'a gagnée qu'avec Liverpool. Ancelotti (Milan/Real), Pep (Barça/City), Mourinho (Porto/Inter) ont doublé.",
+    "difficulty": 3
+  },
+  {
+    "id": "odd_10",
+    "options": ["Hugo Lloris", "Fabien Barthez", "Steve Mandanda", "Mike Maignan"],
+    "answer": "Mike Maignan",
+    "common_link": "Ils ont été sacrés Champions du Monde.",
+    "reason": "Maignan n'était pas dans les groupes de 1998 ou 2018.",
+    "difficulty": 1
+  },
+  {
+    "id": "odd_11",
+    "options": ["Erling Haaland", "Martin Ødegaard", "Ole Gunnar Solskjær", "Alexander Isak"],
+    "answer": "Alexander Isak",
+    "common_link": "Ils sont de nationalité norvégienne.",
+    "reason": "Isak est Suédois.",
+    "difficulty": 1
+  },
+  {
+    "id": "odd_12",
+    "options": ["Fernando Torres", "Luis Suárez", "Xabi Alonso", "David Silva"],
+    "answer": "David Silva",
+    "common_link": "Ils ont joué pour Liverpool.",
+    "reason": "David Silva est une légende de Manchester City.",
+    "difficulty": 2
+  },
+  {
+    "id": "odd_13",
+    "options": ["Cesc Fàbregas", "Gerard Piqué", "Jordi Alba", "Sergio Ramos"],
+    "answer": "Sergio Ramos",
+    "common_link": "Ils ont été formés à la Masia (Barcelone).",
+    "reason": "Ramos a été formé au Séville FC.",
+    "difficulty": 2
+  },
+  {
+    "id": "odd_14",
+    "options": ["Paolo Maldini", "Ryan Giggs", "Carles Puyol", "Steven Gerrard"],
+    "answer": "Steven Gerrard",
+    "common_link": "Ils n'ont connu qu'un seul club professionnel.",
+    "reason": "Gerrard a terminé sa carrière aux LA Galaxy. Les autres sont des 'One Club Men' absolus.",
+    "difficulty": 2
+  },
+  {
+    "id": "odd_15",
+    "options": ["Angel Di Maria", "Paulo Dybala", "Deco", "Karim Benzema"],
+    "answer": "Karim Benzema",
+    "common_link": "Ils ont joué avec Cristiano Ronaldo ET Lionel Messi.",
+    "reason": "Benzema a joué avec Ronaldo au Real, mais jamais avec Messi.",
+    "difficulty": 3
+  },
+  {
+    "id": "odd_16",
+    "options": ["AC Milan", "Inter Milan", "Juventus", "AS Roma"],
+    "answer": "AS Roma",
+    "common_link": "Ils ont remporté la Ligue des Champions (C1).",
+    "reason": "La Roma a perdu sa seule finale en 1984. Les trois autres ont remporté le trophée.",
+    "difficulty": 2
+  },
+  {
+    "id": "odd_17",
+    "options": ["Riyad Mahrez", "Sadio Mané", "Samuel Eto'o", "Didier Drogba"],
+    "answer": "Didier Drogba",
+    "common_link": "Ils ont remporté la Coupe d'Afrique des Nations (CAN).",
+    "reason": "Drogba a joué deux finales mais ne l'a jamais gagnée.",
+    "difficulty": 2
+  },
+  {
+    "id": "odd_18",
+    "options": ["Zlatan Ibrahimović", "David Beckham", "Thiago Silva", "Edinson Cavani"],
+    "answer": "Edinson Cavani",
+    "common_link": "Ils ont joué pour le PSG et l'AC Milan.",
+    "reason": "Cavani n'a jamais joué à l'AC Milan (Palerme et Naples en Italie).",
+    "difficulty": 2
+  },
+  {
+    "id": "odd_19",
+    "options": ["N'Golo Kanté", "Riyad Mahrez", "Jamie Vardy", "Harry Maguire"],
+    "answer": "Harry Maguire",
+    "common_link": "Ils ont été champions d'Angleterre avec Leicester en 2016.",
+    "reason": "Maguire a rejoint Leicester après le titre.",
+    "difficulty": 2
+  },
+  {
+    "id": "odd_20",
+    "options": ["Luka Modrić", "Gareth Bale", "Rafael van der Vaart", "Toni Kroos"],
+    "answer": "Toni Kroos",
+    "common_link": "Ils ont joué pour Tottenham et le Real Madrid.",
+    "reason": "Kroos a été transféré du Bayern Munich, il n'a jamais joué à Tottenham.",
+    "difficulty": 3
+  },
+  {
+    "id": "odd_21",
+    "options": ["Just Fontaine", "Gerd Müller", "Sandor Kocsis", "Miroslav Klose"],
+    "answer": "Miroslav Klose",
+    "common_link": "Ils ont une moyenne supérieure à 1 but par match en Coupe du Monde.",
+    "reason": "Klose est le meilleur buteur (16 buts) mais en 24 matchs (ratio < 1). Les autres ont marqué plus de buts que de matchs joués.",
+    "difficulty": 4
+  },
+  {
+    "id": "odd_22",
+    "options": ["Kevin De Bruyne", "Mohamed Salah", "Romelu Lukaku", "Sergio Agüero"],
+    "answer": "Sergio Agüero",
+    "common_link": "Ils ont été sous contrat avec Chelsea.",
+    "reason": "Agüero n'a joué qu'à Manchester City en Angleterre.",
+    "difficulty": 2
+  },
+  {
+    "id": "odd_23",
+    "options": ["Marco van Basten", "Michel Platini", "Johan Cruyff", "Zinédine Zidane"],
+    "answer": "Zinédine Zidane",
+    "common_link": "Ils ont gagné le Ballon d'Or au moins 3 fois.",
+    "reason": "Zidane ne l'a gagné qu'une seule fois (1998). Les autres l'ont eu 3 fois.",
+    "difficulty": 2
+  },
+  {
+    "id": "odd_24",
+    "options": ["Manchester United", "Chelsea", "Liverpool", "Arsenal"],
+    "answer": "Arsenal",
+    "common_link": "Ils ont remporté la Ligue des Champions (C1).",
+    "reason": "Arsenal a perdu sa seule finale en 2006. Les autres l'ont gagnée.",
+    "difficulty": 1
+  },
+  {
+    "id": "odd_25",
+    "options": ["Diego Simeone", "Mauricio Pochettino", "Marcelo Bielsa", "Unai Emery"],
+    "answer": "Unai Emery",
+    "common_link": "Ce sont des entraîneurs argentins.",
+    "reason": "Unai Emery est Espagnol.",
+    "difficulty": 1
+  },
+  {
+    "id": "odd_26",
+    "options": ["Zlatan Ibrahimović", "Patrick Vieira", "Fabio Cannavaro", "Alessandro Del Piero"],
+    "answer": "Alessandro Del Piero",
+    "common_link": "Ils ont quitté la Juventus en 2006 suite au scandale Calciopoli.",
+    "reason": "Del Piero (comme Buffon) est resté fidèle au club en Serie B. Les autres sont partis.",
+    "difficulty": 2
+  },
+  {
+    "id": "odd_27",
+    "options": ["Cafu", "Dani Alves", "Maicon", "Roberto Carlos"],
+    "answer": "Roberto Carlos",
+    "common_link": "Ce sont des latéraux droits brésiliens.",
+    "reason": "Roberto Carlos était un latéral gauche.",
+    "difficulty": 1
+  },
+  {
+    "id": "odd_28",
+    "options": ["Thomas Müller", "Philipp Lahm", "Bastian Schweinsteiger", "Manuel Neuer"],
+    "answer": "Manuel Neuer",
+    "common_link": "Ils ont été formés au Bayern Munich.",
+    "reason": "Neuer a été formé à Schalke 04.",
+    "difficulty": 2
+  },
+  {
+    "id": "odd_29",
+    "options": ["Thierry Henry", "Patrick Vieira", "Robert Pirès", "Dennis Bergkamp"],
+    "answer": "Dennis Bergkamp",
+    "common_link": "Ils sont champions du monde.",
+    "reason": "Bergkamp est Néerlandais, il n'a jamais gagné le Mondial. Les Français de la liste ont gagné en 1998.",
+    "difficulty": 2
+  },
+  {
+    "id": "odd_30",
+    "options": ["Vinícius Júnior", "Rodrygo", "Eder Militão", "Marquinhos"],
+    "answer": "Marquinhos",
+    "common_link": "Ils jouent (ou ont joué) au Real Madrid.",
+    "reason": "Marquinhos n'a jamais joué au Real Madrid (Roma, PSG).",
+    "difficulty": 1
+  },
+  {
+    "id": "odd_31",
+    "options": ["Nottingham Forest", "Aston Villa", "Chelsea", "Arsenal"],
+    "answer": "Arsenal",
+    "common_link": "Ils ont remporté la C1 (Ligue des Champions).",
+    "reason": "Arsenal est le seul club de cette liste à ne jamais l'avoir gagnée. Forest (x2), Villa (x1), Chelsea (x2).",
+    "difficulty": 2
+  },
+  {
+    "id": "odd_32",
+    "options": ["Eric Cantona", "George Best", "Ryan Giggs", "David Ginola"],
+    "answer": "David Ginola",
+    "common_link": "Ils sont des légendes de Manchester United.",
+    "reason": "Ginola a brillé à Newcastle et Tottenham, mais n'a jamais joué pour Man Utd.",
+    "difficulty": 2
+  },
+  {
+    "id": "odd_33",
+    "options": ["Carles Puyol", "Andrés Iniesta", "Xavi Hernández", "Iker Casillas"],
+    "answer": "Iker Casillas",
+    "common_link": "Ils ont joué toute leur carrière en Espagne au FC Barcelone.",
+    "reason": "Casillas est l'emblème du Real Madrid.",
+    "difficulty": 1
+  },
+  {
+    "id": "odd_34",
+    "options": ["James Rodríguez", "Keylor Navas", "Javier Hernández (Chicharito)", "Radamel Falcao"],
+    "answer": "Radamel Falcao",
+    "common_link": "Ils ont porté le maillot du Real Madrid.",
+    "reason": "Falcao a joué chez le rival, l'Atlético Madrid.",
+    "difficulty": 2
+  },
+  {
+    "id": "odd_35",
+    "options": ["Franck Ribéry", "Arjen Robben", "Manuel Neuer", "Marco Reus"],
+    "answer": "Marco Reus",
+    "common_link": "Ils ont remporté la Ligue des Champions 2013.",
+    "reason": "Reus jouait pour Dortmund et a perdu cette finale contre les trois autres.",
+    "difficulty": 2
+  },
+  {
+    "id": "odd_36",
+    "options": ["Bernard Lama", "Keylor Navas", "Gianluigi Donnarumma", "Fabien Barthez"],
+    "answer": "Fabien Barthez",
+    "common_link": "Ils ont été gardiens du Paris Saint-Germain.",
+    "reason": "Barthez n'a jamais joué au PSG (OM, Monaco, Nantes, Man Utd).",
+    "difficulty": 2
+  },
+  {
+    "id": "odd_37",
+    "options": ["Ashley Cole", "Cesc Fàbregas", "Olivier Giroud", "Robert Pirès"],
+    "answer": "Robert Pirès",
+    "common_link": "Ils ont joué pour Arsenal ET Chelsea.",
+    "reason": "Pirès a joué à Arsenal et Aston Villa, mais jamais à Chelsea.",
+    "difficulty": 3
+  },
+  {
+    "id": "odd_38",
+    "options": ["Rivaldo", "Ronaldinho", "Kaká", "Neymar"],
+    "answer": "Neymar",
+    "common_link": "Ils ont remporté le Ballon d'Or.",
+    "reason": "Neymar n'a jamais remporté le Ballon d'Or (meilleur classement : 3ème). Les trois autres l'ont gagné.",
+    "difficulty": 2
+  },
+  {
+    "id": "odd_39",
+    "options": ["Zinédine Zidane", "Lilian Thuram", "Marcel Desailly", "Laurent Blanc"],
+    "answer": "Laurent Blanc",
+    "common_link": "Ils ont joué la finale de la Coupe du Monde 1998.",
+    "reason": "Laurent Blanc était suspendu pour la finale suite à un carton rouge en demie.",
+    "difficulty": 3
+  },
+  {
+    "id": "odd_40",
+    "options": ["Luis Suárez", "Edinson Cavani", "Diego Forlán", "Diego Godín"],
+    "answer": "Diego Godín",
+    "common_link": "Ce sont des attaquants uruguayens.",
+    "reason": "Godín est un défenseur central.",
+    "difficulty": 1
+  },
+  {
+    "id": "odd_41",
+    "options": ["Manchester City", "Chelsea", "Leicester City", "Newcastle United"],
+    "answer": "Newcastle United",
+    "common_link": "Ils ont été champions d'Angleterre au 21ème siècle.",
+    "reason": "Le dernier titre de Newcastle remonte à 1927.",
+    "difficulty": 2
+  },
+  {
+    "id": "odd_42",
+    "options": ["Fabio Cannavaro", "Luka Modrić", "Karim Benzema", "Raúl González"],
+    "answer": "Raúl González",
+    "common_link": "Ils ont remporté le Ballon d'Or sous le maillot du Real Madrid.",
+    "reason": "Raúl est une légende mais n'a jamais gagné le Ballon d'Or (2ème en 2001).",
+    "difficulty": 3
+  },
+  {
+    "id": "odd_43",
+    "options": ["Wesley Sneijder", "Arjen Robben", "Ruud van Nistelrooy", "Robin van Persie"],
+    "answer": "Robin van Persie",
+    "common_link": "Ils ont joué pour le Real Madrid.",
+    "reason": "Van Persie n'a jamais joué en Espagne (Feyenoord, Arsenal, Man Utd, Fenerbahçe).",
+    "difficulty": 2
+  },
+  {
+    "id": "odd_44",
+    "options": ["Bayern Munich", "Borussia Dortmund", "Hambourg SV", "Bayer Leverkusen"],
+    "answer": "Bayer Leverkusen",
+    "common_link": "Ils ont remporté la Ligue des Champions (C1).",
+    "reason": "Leverkusen a perdu la finale en 2002. Hambourg (1983), Dortmund (1997) et le Bayern l'ont gagnée.",
+    "difficulty": 3
+  },
+  {
+    "id": "odd_45",
+    "options": ["Paul Pogba", "Anthony Martial", "Raphaël Varane", "Antoine Griezmann"],
+    "answer": "Antoine Griezmann",
+    "common_link": "Ils ont joué pour Manchester United.",
+    "reason": "Griezmann n'a jamais joué en Premier League.",
+    "difficulty": 2
+  },
+  {
+    "id": "odd_46",
+    "options": ["River Plate", "Boca Juniors", "Independiente", "Santos FC"],
+    "answer": "Santos FC",
+    "common_link": "Ce sont des clubs argentins.",
+    "reason": "Santos est un club brésilien.",
+    "difficulty": 1
+  },
+  {
+    "id": "odd_47",
+    "options": ["Pep Guardiola", "Luis Enrique", "Xavi Hernández", "Mikel Arteta"],
+    "answer": "Mikel Arteta",
+    "common_link": "Ils ont été entraîneurs principaux du FC Barcelone.",
+    "reason": "Arteta a été formé au Barça mais n'a jamais entraîné l'équipe première.",
+    "difficulty": 2
+  },
+  {
+    "id": "odd_48",
+    "options": ["Kylian Mbappé", "Thierry Henry", "David Trezeguet", "Karim Benzema"],
+    "answer": "Karim Benzema",
+    "common_link": "Ils ont été formés à l'AS Monaco.",
+    "reason": "Benzema a été formé à l'Olympique Lyonnais.",
+    "difficulty": 2
+  },
+  {
+    "id": "odd_49",
+    "options": ["Pelé", "Diego Maradona", "Zinédine Zidane", "Michel Platini"],
+    "answer": "Michel Platini",
+    "common_link": "Ils ont remporté la Coupe du Monde.",
+    "reason": "Platini n'a jamais dépassé les demi-finales du Mondial.",
+    "difficulty": 1
+  },
+  {
+    "id": "odd_50",
+    "options": ["Erling Haaland", "Ole Gunnar Solskjær", "Martin Ødegaard", "Zlatan Ibrahimović"],
+    "answer": "Zlatan Ibrahimović",
+    "common_link": "Ils sont de nationalité norvégienne.",
+    "reason": "Zlatan est Suédois.",
+    "difficulty": 1
+  },
+  {
+    "id": "odd_51",
+    "options": ["Lionel Messi", "Luka Modrić", "Karim Benzema", "Neymar"],
+    "answer": "Neymar",
+    "common_link": "Ils ont remporté le Ballon d'Or.",
+    "reason": "Neymar n'a jamais gagné le Ballon d'Or (meilleur classement : 3ème). Les trois autres l'ont remporté.",
+    "difficulty": 1
+  },
+  {
+    "id": "odd_52",
+    "options": ["Athletic Bilbao", "Real Madrid", "FC Barcelone", "Atlético de Madrid"],
+    "answer": "Atlético de Madrid",
+    "common_link": "Ils n'ont jamais été relégués en deuxième division espagnole.",
+    "reason": "L'Atlético a connu la relégation (notamment en 2000). Les trois autres ont toujours joué en Liga.",
+    "difficulty": 2
+  },
+  {
+    "id": "odd_53",
+    "options": ["Wayne Rooney", "Bobby Charlton", "Andy Cole", "Alan Shearer"],
+    "answer": "Alan Shearer",
+    "common_link": "Ils ont joué pour Manchester United.",
+    "reason": "Shearer est une légende de Newcastle et Blackburn, il a refusé de signer à Man Utd.",
+    "difficulty": 2
+  },
+  {
+    "id": "odd_54",
+    "options": ["Juventus", "AC Milan", "Inter Milan", "SSC Napoli"],
+    "answer": "SSC Napoli",
+    "common_link": "Ils ont remporté la Ligue des Champions (C1).",
+    "reason": "Naples n'a jamais remporté la C1. Les trois géants du Nord l'ont fait.",
+    "difficulty": 2
+  },
+  {
+    "id": "odd_55",
+    "options": ["Lionel Messi", "Kylian Mbappé", "Erling Haaland", "Cristiano Ronaldo"],
+    "answer": "Cristiano Ronaldo",
+    "common_link": "Ils ont remporté le trophée Golden Boy (Meilleur jeune).",
+    "reason": "Ronaldo ne l'a jamais gagné (Rooney l'a eu à son époque). Messi, Mbappé et Haaland l'ont gagné.",
+    "difficulty": 3
+  },
+  {
+    "id": "odd_56",
+    "options": ["Arsène Wenger", "Unai Emery", "Mikel Arteta", "José Mourinho"],
+    "answer": "José Mourinho",
+    "common_link": "Ils ont entraîné Arsenal.",
+    "reason": "Mourinho a entraîné Chelsea, Man Utd et Tottenham, mais jamais les Gunners.",
+    "difficulty": 1
+  },
+  {
+    "id": "odd_57",
+    "options": ["Sergio Busquets", "Xavi Hernández", "Andrés Iniesta", "Xabi Alonso"],
+    "answer": "Xabi Alonso",
+    "common_link": "Ce sont des légendes du FC Barcelone.",
+    "reason": "Xabi Alonso est une légende du Real Madrid et de Liverpool.",
+    "difficulty": 1
+  },
+  {
+    "id": "odd_58",
+    "options": ["Alisson Becker", "Ederson", "Dida", "Manuel Neuer"],
+    "answer": "Manuel Neuer",
+    "common_link": "Ce sont des gardiens brésiliens.",
+    "reason": "Neuer est allemand.",
+    "difficulty": 1
+  },
+  {
+    "id": "odd_59",
+    "options": ["Ajax Amsterdam", "PSV Eindhoven", "Feyenoord", "Club Bruges"],
+    "answer": "Club Bruges",
+    "common_link": "Ce sont des clubs néerlandais (Pays-Bas).",
+    "reason": "Le Club Bruges est un club belge.",
+    "difficulty": 1
+  },
+  {
+    "id": "odd_60",
+    "options": ["Paolo Maldini", "Francesco Totti", "Ryan Giggs", "Andrea Pirlo"],
+    "answer": "Andrea Pirlo",
+    "common_link": "Ce sont des 'One Club Men' (un seul club dans leur carrière).",
+    "reason": "Pirlo a joué pour l'Inter, le Milan, la Juve, Brescia et NYCFC.",
+    "difficulty": 2
+  },
+  {
+    "id": "odd_61",
+    "options": ["Pelé", "Diego Maradona", "Lionel Messi", "Johan Cruyff"],
+    "answer": "Johan Cruyff",
+    "common_link": "Ils ont remporté la Coupe du Monde.",
+    "reason": "Cruyff a perdu la finale en 1974. Les trois autres l'ont gagnée.",
+    "difficulty": 1
+  },
+  {
+    "id": "odd_62",
+    "options": ["Mohamed Salah", "Sadio Mané", "Roberto Firmino", "Sergio Agüero"],
+    "answer": "Sergio Agüero",
+    "common_link": "Ils ont formé l'attaque de Liverpool sous Jürgen Klopp.",
+    "reason": "Agüero est le meilleur buteur de l'histoire de Manchester City.",
+    "difficulty": 1
+  },
+  {
+    "id": "odd_63",
+    "options": ["Allemagne", "Italie", "France", "Pays-Bas"],
+    "answer": "Pays-Bas",
+    "common_link": "Ils ont remporté la Coupe du Monde.",
+    "reason": "Les Pays-Bas ont perdu 3 finales (1974, 1978, 2010) mais n'ont jamais gagné.",
+    "difficulty": 2
+  },
+  {
+    "id": "odd_64",
+    "options": ["Boca Juniors", "River Plate", "Racing Club", "Flamengo"],
+    "answer": "Flamengo",
+    "common_link": "Ce sont des clubs argentins.",
+    "reason": "Flamengo est un club brésilien (Rio de Janeiro).",
+    "difficulty": 1
+  },
+  {
+    "id": "odd_65",
+    "options": ["Kylian Mbappé", "Antoine Griezmann", "Olivier Giroud", "Karim Benzema"],
+    "answer": "Karim Benzema",
+    "common_link": "Ils ont été champions du monde 2018 avec la France.",
+    "reason": "Benzema n'était pas sélectionné lors de l'épopée en Russie.",
+    "difficulty": 1
+  },
+  {
+    "id": "odd_66",
+    "options": ["Chelsea", "Manchester City", "Nottingham Forest", "Paris Saint-Germain"],
+    "answer": "Paris Saint-Germain",
+    "common_link": "Ils ont remporté la Ligue des Champions (C1).",
+    "reason": "Le PSG court toujours après sa première C1. Forest (x2), Chelsea (x2) et City (x1) l'ont.",
+    "difficulty": 2
+  },
+  {
+    "id": "odd_67",
+    "options": ["Frank Lampard", "Paul Scholes", "David Beckham", "Steven Gerrard"],
+    "answer": "Steven Gerrard",
+    "common_link": "Ils ont remporté la Premier League.",
+    "reason": "Gerrard n'a jamais gagné le championnat d'Angleterre (la fameuse glissade...).",
+    "difficulty": 2
+  },
+  {
+    "id": "odd_68",
+    "options": ["Luis Suárez", "Robert Lewandowski", "Edinson Cavani", "Neymar"],
+    "answer": "Neymar",
+    "common_link": "Ce sont des avant-centres (Numéros 9 purs).",
+    "reason": "Neymar est un ailier ou numéro 10. Les autres sont des buteurs de surface.",
+    "difficulty": 1
+  },
+  {
+    "id": "odd_69",
+    "options": ["José Mourinho", "Pep Guardiola", "Carlo Ancelotti", "Zinédine Zidane"],
+    "answer": "Zinédine Zidane",
+    "common_link": "Ils ont entraîné en Premier League (Angleterre).",
+    "reason": "Zidane n'a jamais entraîné de club anglais.",
+    "difficulty": 2
+  },
+  {
+    "id": "odd_70",
+    "options": ["Celtic Glasgow", "Glasgow Rangers", "Aberdeen", "Liverpool"],
+    "answer": "Liverpool",
+    "common_link": "Ce sont des clubs écossais.",
+    "reason": "Liverpool est un club anglais.",
+    "difficulty": 1
+  },
+  {
+    "id": "odd_71",
+    "options": ["Son Heung-min", "Park Ji-sung", "Kim Min-jae", "Hidetoshi Nakata"],
+    "answer": "Hidetoshi Nakata",
+    "common_link": "Ce sont des joueurs sud-coréens.",
+    "reason": "Nakata est une légende du football japonais.",
+    "difficulty": 2
+  },
+  {
+    "id": "odd_72",
+    "options": ["Kevin De Bruyne", "Thibaut Courtois", "Romelu Lukaku", "Virgil van Dijk"],
+    "answer": "Virgil van Dijk",
+    "common_link": "Ils sont de nationalité belge.",
+    "reason": "Van Dijk est le capitaine des Pays-Bas.",
+    "difficulty": 1
+  },
+  {
+    "id": "odd_73",
+    "options": ["Camp Nou", "Santiago Bernabéu", "Old Trafford", "Wembley"],
+    "answer": "Wembley",
+    "common_link": "Ce sont des stades appartenant à un club.",
+    "reason": "Wembley est le stade national de l'Angleterre, il n'appartient pas à un club spécifique.",
+    "difficulty": 2
+  },
+  {
+    "id": "odd_74",
+    "options": ["Raheem Sterling", "Bukayo Saka", "Marcus Rashford", "Gareth Bale"],
+    "answer": "Gareth Bale",
+    "common_link": "Ils sont internationaux anglais.",
+    "reason": "Gareth Bale est Gallois.",
+    "difficulty": 1
+  },
+  {
+    "id": "odd_75",
+    "options": ["Thomas Müller", "Philipp Lahm", "Bastian Schweinsteiger", "Robert Lewandowski"],
+    "answer": "Robert Lewandowski",
+    "common_link": "Ils ont remporté la Ligue des Champions 2013 avec le Bayern Munich.",
+    "reason": "Lewandowski jouait en face, pour le Borussia Dortmund, lors de cette finale.",
+    "difficulty": 3
+  },
+  {
+    "id": "odd_76",
+    "options": ["Jan Oblak", "Thibaut Courtois", "David de Gea", "Marc-André ter Stegen"],
+    "answer": "Marc-André ter Stegen",
+    "common_link": "Ils ont joué pour l'Atlético de Madrid.",
+    "reason": "De Gea (formé), Courtois (prêt) et Oblak (légende) ont gardé les buts de l'Atlético. Ter Stegen n'a fait que le Barça en Espagne.",
+    "difficulty": 3
+  },
+  {
+    "id": "odd_77",
+    "options": ["Zlatan Ibrahimović", "Henrik Larsson", "Alexander Isak", "Erling Haaland"],
+    "answer": "Erling Haaland",
+    "common_link": "Ils sont suédois.",
+    "reason": "Haaland est norvégien.",
+    "difficulty": 1
+  },
+  {
+    "id": "odd_78",
+    "options": ["Samuel Eto'o", "Didier Drogba", "Sadio Mané", "George Weah"],
+    "answer": "George Weah",
+    "common_link": "Ils n'ont PAS gagné le Ballon d'Or France Football.",
+    "reason": "George Weah est le seul Africain de l'histoire à avoir remporté le Ballon d'Or (1995). Les autres ne l'ont pas eu.",
+    "difficulty": 3
+  },
+  {
+    "id": "odd_79",
+    "options": ["Juventus", "AC Milan", "Inter Milan", "AS Roma"],
+    "answer": "AS Roma",
+    "common_link": "Roberto Baggio a porté leurs couleurs.",
+    "reason": "Le 'Divin Codino' a joué pour la Juve, le Milan et l'Inter, mais jamais pour la Roma.",
+    "difficulty": 3
+  },
+  {
+    "id": "odd_80",
+    "options": ["John Terry", "Rio Ferdinand", "Sol Campbell", "Jamie Carragher"],
+    "answer": "Jamie Carragher",
+    "common_link": "Ils ont été champions d'Angleterre (Premier League).",
+    "reason": "Carragher a tout gagné avec Liverpool sauf la Premier League.",
+    "difficulty": 2
+  },
+  {
+    "id": "odd_81",
+    "options": ["Olympique de Marseille", "AS Monaco", "Paris Saint-Germain", "Olympique Lyonnais"],
+    "answer": "Olympique Lyonnais",
+    "common_link": "Ils ont atteint la finale de la Ligue des Champions (C1).",
+    "reason": "L'OL a atteint les demi-finales (2010, 2020) mais jamais la finale. OM (x2), Monaco (x1), PSG (x1) l'ont fait.",
+    "difficulty": 2
+  },
+  {
+    "id": "odd_82",
+    "options": ["Ronaldo Nazário", "Rivaldo", "Ronaldinho", "Romário"],
+    "answer": "Romário",
+    "common_link": "Ils ont remporté la Coupe du Monde 2002.",
+    "reason": "Romário a été écarté de la sélection juste avant le tournoi. Le trio '3R' a mené le Brésil au titre.",
+    "difficulty": 2
+  },
+  {
+    "id": "odd_83",
+    "options": ["Benfica", "FC Porto", "Sporting CP", "SC Braga"],
+    "answer": "SC Braga",
+    "common_link": "Ce sont les 'Três Grandes' (les 3 grands clubs historiques) du Portugal.",
+    "reason": "Braga est considéré comme le 4ème grand, mais ne fait pas partie du trio historique 'Os Três Grandes'.",
+    "difficulty": 2
+  },
+  {
+    "id": "odd_84",
+    "options": ["N'Golo Kanté", "Claude Makélélé", "Marcel Desailly", "Patrick Vieira"],
+    "answer": "Patrick Vieira",
+    "common_link": "Ils ont joué pour Chelsea.",
+    "reason": "Vieira est une légende d'Arsenal et a joué à City, mais jamais à Chelsea.",
+    "difficulty": 2
+  },
+  {
+    "id": "odd_85",
+    "options": ["SSC Napoli", "AS Roma", "Lazio Rome", "Juventus"],
+    "answer": "Juventus",
+    "common_link": "Ce sont des clubs du Sud ou du Centre de l'Italie.",
+    "reason": "La Juventus (Turin) est un club du Nord (Piémont).",
+    "difficulty": 1
+  },
+  {
+    "id": "odd_86",
+    "options": ["Erling Haaland", "Kylian Mbappé", "Vinícius Júnior", "Lionel Messi"],
+    "answer": "Lionel Messi",
+    "common_link": "Ils sont nés après l'an 1998 (Nouvelle Génération).",
+    "reason": "Messi est né en 1987. Les trois autres sont les figures de la nouvelle ère.",
+    "difficulty": 1
+  },
+  {
+    "id": "odd_87",
+    "options": ["Xabi Alonso", "Mikel Arteta", "Andoni Iraola", "Pep Guardiola"],
+    "answer": "Pep Guardiola",
+    "common_link": "Ce sont des entraîneurs d'origine basque.",
+    "reason": "Guardiola est Catalan. Les trois autres viennent du Pays Basque.",
+    "difficulty": 3
+  },
+  {
+    "id": "odd_88",
+    "options": ["Alexis Sánchez", "Arturo Vidal", "Claudio Bravo", "James Rodríguez"],
+    "answer": "James Rodríguez",
+    "common_link": "Ce sont des joueurs chiliens.",
+    "reason": "James est Colombien.",
+    "difficulty": 1
+  },
+  {
+    "id": "odd_89",
+    "options": ["Séville FC", "Atlético de Madrid", "Valence CF", "Athletic Bilbao"],
+    "answer": "Athletic Bilbao",
+    "common_link": "Ils ont remporté la Ligue Europa (ou Coupe UEFA) au 21ème siècle.",
+    "reason": "Bilbao a perdu deux finales (1977, 2012) mais ne l'a jamais gagnée. Séville, l'Atlético et Valence l'ont gagnée.",
+    "difficulty": 3
+  },
+  {
+    "id": "odd_90",
+    "options": ["Gavi", "Pedri", "Ansu Fati", "Jude Bellingham"],
+    "answer": "Jude Bellingham",
+    "common_link": "Ils jouent (ou ont joué) pour le FC Barcelone.",
+    "reason": "Bellingham est une star du Real Madrid.",
+    "difficulty": 1
+  },
+  {
+    "id": "odd_91",
+    "options": ["Alex Ferguson", "David Moyes", "Kenny Dalglish", "Arsène Wenger"],
+    "answer": "Arsène Wenger",
+    "common_link": "Ce sont des entraîneurs écossais.",
+    "reason": "Wenger est Français.",
+    "difficulty": 2
+  },
+  {
+    "id": "odd_92",
+    "options": ["AC Milan", "Inter Milan", "AS Roma", "Juventus"],
+    "answer": "Juventus",
+    "common_link": "Ils partagent leur stade avec un autre grand club de Serie A.",
+    "reason": "La Juve possède son propre stade (Allianz Stadium). Milan/Inter partagent San Siro, Roma/Lazio partagent l'Olimpico.",
+    "difficulty": 2
+  },
+  {
+    "id": "odd_93",
+    "options": ["Vinícius Júnior", "Rodrygo", "Eder Militão", "Neymar"],
+    "answer": "Neymar",
+    "common_link": "Ils ont gagné la Ligue des Champions avec le Real Madrid.",
+    "reason": "Neymar a gagné la C1 avec le FC Barcelone.",
+    "difficulty": 2
+  },
+  {
+    "id": "odd_94",
+    "options": ["Virgil van Dijk", "Matthijs de Ligt", "Nathan Aké", "Jan Vertonghen"],
+    "answer": "Jan Vertonghen",
+    "common_link": "Ce sont des défenseurs néerlandais.",
+    "reason": "Vertonghen est Belge.",
+    "difficulty": 1
+  },
+  {
+    "id": "odd_95",
+    "options": ["Carlos Tévez", "Sergio Agüero", "Angel Di Maria", "Javier Mascherano"],
+    "answer": "Javier Mascherano",
+    "common_link": "Ils ont joué pour Manchester City ou Manchester United.",
+    "reason": "Mascherano a joué pour West Ham et Liverpool en Angleterre. Tévez (les deux), Agüero (City), Di Maria (United).",
+    "difficulty": 3
+  },
+  {
+    "id": "odd_96",
+    "options": ["Dino Zoff", "Gianluigi Buffon", "Gianluigi Donnarumma", "Iker Casillas"],
+    "answer": "Iker Casillas",
+    "common_link": "Ce sont des gardiens italiens.",
+    "reason": "Casillas est Espagnol.",
+    "difficulty": 1
+  },
+  {
+    "id": "odd_97",
+    "options": ["Luís Figo", "Rui Costa", "Deco", "Cristiano Ronaldo"],
+    "answer": "Cristiano Ronaldo",
+    "common_link": "Ils sont retraités (Janvier 2026).",
+    "reason": "En janvier 2026, CR7 joue toujours (probablement en Arabie ou ailleurs). Les autres ont arrêté depuis longtemps.",
+    "difficulty": 2
+  },
+  {
+    "id": "odd_98",
+    "options": ["Arsenal", "Chelsea", "Tottenham Hotspur", "West Ham United"],
+    "answer": "West Ham United",
+    "common_link": "Ils ont atteint la finale de la Ligue des Champions (C1).",
+    "reason": "West Ham a gagné la C4 et la C2, mais n'a jamais atteint la finale de la C1. Arsenal (2006), Chelsea (2008, 2012, 2021) et Tottenham (2019) l'ont fait.",
+    "difficulty": 3
+  },
+  {
+    "id": "odd_99",
+    "options": ["Leicester City", "Blackburn Rovers", "Manchester United", "Tottenham Hotspur"],
+    "answer": "Tottenham Hotspur",
+    "common_link": "Ils ont remporté la Premier League (depuis 1992).",
+    "reason": "Tottenham n'a pas gagné le championnat depuis 1961. Blackburn (1995) et Leicester (2016) l'ont fait.",
+    "difficulty": 2
+  },
+  {
+    "id": "odd_100",
+    "options": ["Lamine Yamal", "Pau Cubarsí", "Gavi", "Jude Bellingham"],
+    "answer": "Jude Bellingham",
+    "common_link": "Ce sont des jeunes talents formés à La Masia (Barcelone).",
+    "reason": "Bellingham a été formé à Birmingham City.",
+    "difficulty": 1
+  },
+  {
+    "id": "odd_101",
+    "options": ["Luís Figo", "Ronaldo Nazário", "Luis Enrique", "Alessandro Del Piero"],
+    "answer": "Alessandro Del Piero",
+    "common_link": "Ils ont joué pour le Real Madrid ET le FC Barcelone.",
+    "reason": "Del Piero est une légende de la Juventus. Les trois autres ont porté les maillots des deux rivaux espagnols.",
+    "difficulty": 2
+  },
+  {
+    "id": "odd_102",
+    "options": ["Luka Modrić", "Ivan Rakitić", "Mario Mandžukić", "Nemanja Vidić"],
+    "answer": "Nemanja Vidić",
+    "common_link": "Ce sont des joueurs croates.",
+    "reason": "Vidić était serbe.",
+    "difficulty": 1
+  },
+  {
+    "id": "odd_103",
+    "options": ["Unai Emery", "Mikel Arteta", "Xabi Alonso", "Luis de la Fuente"],
+    "answer": "Luis de la Fuente",
+    "common_link": "Ils sont originaires du Pays Basque.",
+    "reason": "Luis de la Fuente est originaire de La Rioja. Les trois autres sont basques.",
+    "difficulty": 3
+  },
+  {
+    "id": "odd_104",
+    "options": ["Diego Maradona", "Lionel Messi", "Mario Kempes", "Gabriel Batistuta"],
+    "answer": "Gabriel Batistuta",
+    "common_link": "Ils ont remporté la Coupe du Monde.",
+    "reason": "Batistuta est le meilleur buteur argentin en CDM (avant Messi), mais n'a jamais dépassé les quarts de finale.",
+    "difficulty": 2
+  },
+  {
+    "id": "odd_105",
+    "options": ["Nottingham Forest", "Manchester City", "Chelsea", "Tottenham Hotspur"],
+    "answer": "Tottenham Hotspur",
+    "common_link": "Ils ont remporté la Ligue des Champions (C1).",
+    "reason": "Tottenham a atteint la finale en 2019 mais ne l'a jamais gagnée. Forest (x2), City et Chelsea l'ont gagnée.",
+    "difficulty": 2
+  },
+  {
+    "id": "odd_106",
+    "options": ["Zinédine Zidane", "Emmanuel Petit", "Kylian Mbappé", "Olivier Giroud"],
+    "answer": "Olivier Giroud",
+    "common_link": "Ils ont marqué en finale de Coupe du Monde.",
+    "reason": "Giroud n'a jamais marqué en finale. Zidane (1998, 2006), Petit (1998) et Mbappé (2018, 2022) l'ont fait.",
+    "difficulty": 2
+  },
+  {
+    "id": "odd_107",
+    "options": ["Lionel Messi", "Mohamed Salah", "Antoine Griezmann", "Neymar"],
+    "answer": "Neymar",
+    "common_link": "Ce sont des gauchers (pied fort gauche).",
+    "reason": "Neymar est droitier (bien qu'il soit très à l'aise des deux pieds). Les trois autres sont des gauchers exclusifs.",
+    "difficulty": 1
+  },
+  {
+    "id": "odd_108",
+    "options": ["Inter Milan", "Juventus", "AC Milan", "Parme"],
+    "answer": "Inter Milan",
+    "common_link": "Ils ont connu la relégation en Serie B.",
+    "reason": "L'Inter Milan est le seul club italien à n'avoir jamais été relégué de son histoire.",
+    "difficulty": 3
+  },
+  {
+    "id": "odd_109",
+    "options": ["Carlo Ancelotti", "Zinédine Zidane", "Pep Guardiola", "Diego Simeone"],
+    "answer": "Diego Simeone",
+    "common_link": "Ils ont remporté la Ligue des Champions comme entraîneur.",
+    "reason": "Simeone a perdu deux finales avec l'Atlético (2014, 2016). Les autres l'ont gagnée plusieurs fois.",
+    "difficulty": 2
+  },
+  {
+    "id": "odd_110",
+    "options": ["Nicolas Anelka", "Cesc Fàbregas", "Samir Nasri", "Robert Pirès"],
+    "answer": "Robert Pirès",
+    "common_link": "Ils ont joué pour Arsenal et Manchester City.",
+    "reason": "Pirès a joué pour Arsenal et Aston Villa, mais jamais pour City. Les trois autres ont fait les deux.",
+    "difficulty": 3
+  },
+  {
+    "id": "odd_111",
+    "options": ["Thiago Silva", "Marquinhos", "David Luiz", "Marcelo"],
+    "answer": "Marcelo",
+    "common_link": "Ils ont joué pour le Paris Saint-Germain.",
+    "reason": "Marcelo est une légende du Real Madrid. Les trois autres défenseurs brésiliens ont joué au PSG.",
+    "difficulty": 1
+  },
+  {
+    "id": "odd_112",
+    "options": ["Ajax Amsterdam", "Juventus", "Manchester United", "Bayern Munich"],
+    "answer": "Bayern Munich",
+    "common_link": "Zlatan Ibrahimović a porté leurs couleurs.",
+    "reason": "Zlatan a joué à l'Ajax, la Juve et United. Il n'a jamais joué en Bundesliga.",
+    "difficulty": 2
+  },
+  {
+    "id": "odd_113",
+    "options": ["Harry Kane", "Teddy Sheringham", "Jürgen Klinsmann", "Thierry Henry"],
+    "answer": "Thierry Henry",
+    "common_link": "Ils ont joué pour Tottenham Hotspur.",
+    "reason": "Henry est la légende du rival absolu, Arsenal.",
+    "difficulty": 1
+  },
+  {
+    "id": "odd_114",
+    "options": ["Rui Costa", "Luís Figo", "Deco", "Pauleta"],
+    "answer": "Pauleta",
+    "common_link": "Ils ont remporté la Ligue des Champions (C1).",
+    "reason": "Pauleta est un buteur légendaire mais n'a jamais gagné la C1. Costa (Milan), Figo (Real) et Deco (Porto/Barça) l'ont gagnée.",
+    "difficulty": 2
+  },
+  {
+    "id": "odd_115",
+    "options": ["Hambourg SV", "Borussia Dortmund", "Bayer Leverkusen", "Bayern Munich"],
+    "answer": "Bayer Leverkusen",
+    "common_link": "Ils ont remporté la Ligue des Champions (C1).",
+    "reason": "Leverkusen a perdu la finale en 2002. Hambourg (1983) et Dortmund (1997) l'ont gagnée.",
+    "difficulty": 3
+  },
+  {
+    "id": "odd_116",
+    "options": ["Kevin De Bruyne", "Mohamed Salah", "Antonio Rüdiger", "Juan Mata"],
+    "answer": "Juan Mata",
+    "common_link": "Ils ont été vendus par Chelsea puis ont brillé ailleurs.",
+    "reason": "Mata a brillé à Chelsea (joueur de l'année x2) avant d'être vendu. KDB, Salah et Rüdiger ont explosé après leur départ.",
+    "difficulty": 3
+  },
+  {
+    "id": "odd_117",
+    "options": ["Eden Hazard", "Joe Cole", "Dimitri Payet", "Rio Ferdinand"],
+    "answer": "Rio Ferdinand",
+    "common_link": "Ils ont joué pour le LOSC Lille.",
+    "reason": "Ferdinand n'a jamais joué en France. Hazard, Cole (prêt) et Payet sont passés par Lille.",
+    "difficulty": 2
+  },
+  {
+    "id": "odd_118",
+    "options": ["José Mourinho", "André Villas-Boas", "Nuno Espírito Santo", "Rúben Amorim"],
+    "answer": "Rúben Amorim",
+    "common_link": "Ils ont été assistants ou disciples de Bobby Robson/Mourinho à Porto.",
+    "reason": "Amorim est d'une génération plus jeune et affilié au Benfica/Sporting, sans lien direct avec le staff Robson/Mourinho de l'époque Porto.",
+    "difficulty": 4
+  },
+  {
+    "id": "odd_119",
+    "options": ["Ederson", "Alisson Becker", "Claudio Taffarel", "José Luis Chilavert"],
+    "answer": "José Luis Chilavert",
+    "common_link": "Ce sont des gardiens brésiliens.",
+    "reason": "Chilavert était paraguayen.",
+    "difficulty": 1
+  },
+  {
+    "id": "odd_120",
+    "options": ["David Beckham", "Michael Owen", "Steve McManaman", "Gary Lineker"],
+    "answer": "Gary Lineker",
+    "common_link": "Ils ont joué pour le Real Madrid.",
+    "reason": "Lineker a joué pour le FC Barcelone. Les trois autres ont joué au Real.",
+    "difficulty": 2
+  },
+  {
+    "id": "odd_121",
+    "options": ["Gianluigi Buffon", "Fabio Cannavaro", "Lilian Thuram", "Pavel Nedvěd"],
+    "answer": "Pavel Nedvěd",
+    "common_link": "Ils ont joué ensemble à Parme ET à la Juventus.",
+    "reason": "Nedvěd vient de la Lazio. Buffon, Cannavaro et Thuram ont été transférés de Parme à la Juve.",
+    "difficulty": 3
+  },
+  {
+    "id": "odd_122",
+    "options": ["Sadio Mané", "Kalidou Koulibaly", "Edouard Mendy", "Pierre-Emerick Aubameyang"],
+    "answer": "Pierre-Emerick Aubameyang",
+    "common_link": "Ils sont internationaux sénégalais.",
+    "reason": "Aubameyang est international gabonais.",
+    "difficulty": 1
+  },
+  {
+    "id": "odd_123",
+    "options": ["Estadio Azteca", "Maracanã", "Rose Bowl", "Anfield"],
+    "answer": "Anfield",
+    "common_link": "Ils ont accueilli une finale de Coupe du Monde.",
+    "reason": "Anfield (Liverpool) n'a jamais accueilli de finale de Mondial. Les trois autres, si.",
+    "difficulty": 2
+  },
+  {
+    "id": "odd_124",
+    "options": ["Pep Guardiola", "Xavi Hernández", "Mikel Arteta", "Sergio Busquets"],
+    "answer": "Mikel Arteta",
+    "common_link": "Ils ont gagné la Ligue des Champions comme joueur du FC Barcelone.",
+    "reason": "Arteta a été formé au Barça mais est parti jeune sans gagner la C1. Les trois autres l'ont gagnée.",
+    "difficulty": 2
+  },
+  {
+    "id": "odd_125",
+    "options": ["Riyad Mahrez", "N'Golo Kanté", "Benjamin Mendy", "Bernardo Silva"],
+    "answer": "Bernardo Silva",
+    "common_link": "Ils ont joué pour Leicester City.",
+    "reason": "Bernardo Silva a joué à Monaco et City, mais pas à Leicester. Mahrez, Kanté et Mendy (avant Monaco) ont un lien avec Leicester ou Le Havre/PL ? Non, Mahrez/Kanté ok. Mendy non. Question erronée. Nouvelle :",
+    "difficulty": 2
+  },
+  {
+    "id": "odd_125_clean",
+    "options": ["Wes Morgan", "Kasper Schmeichel", "Jamie Vardy", "Harry Kane"],
+    "answer": "Harry Kane",
+    "common_link": "Ils ont été champions d'Angleterre avec Leicester (2016).",
+    "reason": "Kane (Tottenham) était le rival pour le titre. Il a été prêté à Leicester très jeune, mais n'était pas là pour le titre.",
+    "difficulty": 2
+  },
+  {
+    "id": "odd_126",
+    "options": ["FC Nantes", "Stade de Reims", "AS Saint-Étienne", "Paris Saint-Germain"],
+    "answer": "Paris Saint-Germain",
+    "common_link": "Ils ont gagné le championnat de France au moins 8 fois.",
+    "reason": "Ce n'est pas le bon lien, le PSG a gagné plus. Le lien : Ils ont atteint une finale de C1. Nantes ne l'a jamais fait. Reims (x2), ASSE (1976), PSG (2020).",
+    "difficulty": 3
+  },
+  {
+    "id": "odd_127",
+    "options": ["Romelu Lukaku", "Zlatan Ibrahimović", "Paul Pogba", "Alexis Sánchez"],
+    "answer": "Zlatan Ibrahimović",
+    "common_link": "Ils ont joué pour Manchester United ET l'Inter Milan.",
+    "reason": "Lukaku, Pogba (Juve? non), Sanchez. Attendez. Pogba n'a pas fait l'Inter. Lukaku (Oui), Zlatan (Oui), Sanchez (Oui), Young (Oui). Pogba est l'intrus.",
+    "difficulty": 3
+  },
+  {
+    "id": "odd_127_final",
+    "options": ["Romelu Lukaku", "Alexis Sánchez", "Ashley Young", "Paul Pogba"],
+    "answer": "Paul Pogba",
+    "common_link": "Ils ont joué pour Manchester United et l'Inter Milan.",
+    "reason": "Pogba a joué à la Juve, pas à l'Inter.",
+    "difficulty": 3
+  },
+  {
+    "id": "odd_128",
+    "options": ["Victor Osimhen", "Jay-Jay Okocha", "Nwankwo Kanu", "Yaya Touré"],
+    "answer": "Yaya Touré",
+    "common_link": "Ils sont nigérians (Super Eagles).",
+    "reason": "Yaya Touré est Ivoirien.",
+    "difficulty": 1
+  },
+  {
+    "id": "odd_129",
+    "options": ["Thomas Tuchel", "Jürgen Klopp", "Hansi Flick", "Julian Nagelsmann"],
+    "answer": "Jürgen Klopp",
+    "common_link": "Ils ont entraîné le Bayern Munich.",
+    "reason": "Klopp est la légende du Borussia Dortmund, il n'a jamais entraîné le Bayern.",
+    "difficulty": 2
+  },
+  {
+    "id": "odd_130",
+    "options": ["Raúl González", "Iker Casillas", "Sergio Ramos", "Andrés Iniesta"],
+    "answer": "Andrés Iniesta",
+    "common_link": "Ils ont joué plus de 600 matchs pour le Real Madrid.",
+    "reason": "Iniesta est une légende du FC Barcelone.",
+    "difficulty": 1
+  },
+  {
+    "id": "odd_131",
+    "options": ["Cafu", "Ronaldo Nazário", "Dida", "Kaká"],
+    "answer": "Ronaldo Nazário",
+    "common_link": "Ils ont remporté la Ligue des Champions avec l'AC Milan.",
+    "reason": "Ronaldo a joué au Milan (2007) mais n'était pas qualifié pour la C1 (ayant joué avec le Real en début de saison). Il ne l'a jamais gagnée. Les autres l'ont gagnée en 2007.",
+    "difficulty": 4
+  },
+  {
+    "id": "odd_132",
+    "options": ["Arsenal", "Manchester United", "Liverpool", "Aston Villa"],
+    "answer": "Arsenal",
+    "common_link": "Ils ont remporté la C1 (Coupe des Clubs Champions).",
+    "reason": "Aston Villa (1982), United et Liverpool l'ont gagnée. Arsenal non.",
+    "difficulty": 2
+  },
+  {
+    "id": "odd_133",
+    "options": ["Gareth Bale", "Ryan Giggs", "Ian Rush", "George Best"],
+    "answer": "George Best",
+    "common_link": "Ce sont des joueurs gallois.",
+    "reason": "George Best était Nord-Irlandais.",
+    "difficulty": 2
+  },
+  {
+    "id": "odd_134",
+    "options": ["Eden Hazard", "Gervinho", "Dimitri Payet", "Nicolas Pépé"],
+    "answer": "Dimitri Payet",
+    "common_link": "Ils ont quitté le LOSC Lille pour un club anglais.",
+    "reason": "Hazard (Chelsea), Gervinho (Arsenal), Pépé (Arsenal). Payet a quitté Lille pour l'OM.",
+    "difficulty": 3
+  },
+  {
+    "id": "odd_135",
+    "options": ["Celtic Glasgow", "Benfica", "Ajax Amsterdam", "Galatasaray"],
+    "answer": "Galatasaray",
+    "common_link": "Ils ont remporté la Ligue des Champions (C1).",
+    "reason": "Le Celtic (1967), Benfica (x2) et l'Ajax (x4) ont gagné. Galatasaray n'a gagné que la C3 (UEFA).",
+    "difficulty": 2
+  },
+  {
+    "id": "odd_136",
+    "options": ["Miroslav Klose", "Lukas Podolski", "Mesut Özil", "Thomas Müller"],
+    "answer": "Thomas Müller",
+    "common_link": "Ils ont des origines familiales non-allemandes (Pologne/Turquie).",
+    "reason": "Klose et Podolski (Pologne), Özil (Turquie). Müller n'a pas cette double culture marquée.",
+    "difficulty": 3
+  },
+  {
+    "id": "odd_137",
+    "options": ["Falcao", "James Rodríguez", "Carlos Valderrama", "Arturo Vidal"],
+    "answer": "Arturo Vidal",
+    "common_link": "Ce sont des légendes colombiennes.",
+    "reason": "Vidal est Chilien.",
+    "difficulty": 1
+  },
+  {
+    "id": "odd_138",
+    "options": ["Karim Benzema", "Samir Nasri", "Hatem Ben Arfa", "Jérémy Ménez"],
+    "answer": "Jérémy Ménez",
+    "common_link": "Ils sont nés en 1987 (Génération 87).",
+    "reason": "Tous sont de la génération 87. L'intrus est ailleurs. Ah, Benzema a gagné le Ballon d'Or. Ou Nasri n'a pas joué au PSG. Ménez et Ben Arfa ont joué au PSG. Nasri non. Benzema non. Lien faible. Nouvelle question :",
+    "difficulty": 3
+  },
+  {
+    "id": "odd_138_clean",
+    "options": ["Hatem Ben Arfa", "Jérémy Ménez", "Mamadou Sakho", "Karim Benzema"],
+    "answer": "Karim Benzema",
+    "common_link": "Ils ont joué pour le Paris Saint-Germain.",
+    "reason": "Ben Arfa, Ménez et Sakho ont porté le maillot parisien. Benzema est resté fidèle à l'OL avant le Real.",
+    "difficulty": 2
+  },
+  {
+    "id": "odd_139",
+    "options": ["FC Barcelone", "Real Madrid", "Osasuna", "Athletic Bilbao"],
+    "answer": "Osasuna",
+    "common_link": "Ce sont des clubs détenus par leurs supporters (Socios).",
+    "reason": "Il n'y a que 4 clubs en Espagne qui ne sont pas des SAD (Sociétés Anonymes) : Real, Barça, Bilbao et... Osasuna. Ah mince, c'est vrai. Donc pas d'intrus ici. Changeons.",
+    "difficulty": 4
+  },
+  {
+    "id": "odd_139_final",
+    "options": ["FC Barcelone", "Real Madrid", "Athletic Bilbao", "Valencia CF"],
+    "answer": "Valencia CF",
+    "common_link": "Ils n'ont jamais été relégués de Liga.",
+    "reason": "Valence a été relégué en 1986. Les trois autres n'ont jamais connu la descente.",
+    "difficulty": 3
+  },
+  {
+    "id": "odd_140",
+    "options": ["Roger Milla", "Samuel Eto'o", "Rigobert Song", "Abedi Pelé"],
+    "answer": "Abedi Pelé",
+    "common_link": "Ce sont des légendes du Cameroun.",
+    "reason": "Abedi Pelé est Ghanéen.",
+    "difficulty": 1
+  },
+  {
+    "id": "odd_141",
+    "options": ["Lev Yachine", "Gianluigi Buffon", "Manuel Neuer", "Dino Zoff"],
+    "answer": "Lev Yachine",
+    "common_link": "Ils ont remporté le Ballon d'Or.",
+    "reason": "Yachine est le seul gardien de l'histoire à avoir remporté le Ballon d'Or (1963).",
+    "difficulty": 3
+  },
+  {
+    "id": "odd_142",
+    "options": ["Manchester United", "Liverpool", "Arsenal", "Tottenham"],
+    "answer": "Manchester United",
+    "common_link": "Leur stade est à Londres.",
+    "reason": "Old Trafford est à Manchester. Les trois autres sont à Londres (ou Grand Londres).",
+    "difficulty": 1
+  },
+  {
+    "id": "odd_143",
+    "options": ["Zlatan Ibrahimović", "Maxwell", "Gregory van der Wiel", "Thiago Motta"],
+    "answer": "Thiago Motta",
+    "common_link": "Ils ont joué pour l'Ajax Amsterdam.",
+    "reason": "Zlatan, Maxwell et Van der Wiel viennent de l'Ajax. Motta vient du Barça/Atlético/Inter.",
+    "difficulty": 3
+  },
+  {
+    "id": "odd_144",
+    "options": ["Didier Deschamps", "Zinédine Zidane", "Patrick Vieira", "David Trezeguet"],
+    "answer": "Patrick Vieira",
+    "common_link": "Ils ont joué à la Juventus.",
+    "reason": "Si, Vieira a joué à la Juve (2005-2006). Tous ont joué à la Juve. Question piège. Nouveau lien : Ils ont entraîné en Ligue 1.",
+    "difficulty": 4
+  },
+  {
+    "id": "odd_144_final",
+    "options": ["Didier Deschamps", "Laurent Blanc", "Thierry Henry", "Marcel Desailly"],
+    "answer": "Marcel Desailly",
+    "common_link": "Ils ont été entraîneurs principaux de clubs professionnels.",
+    "reason": "Deschamps, Blanc et Henry ont entraîné. Desailly est devenu consultant et n'a jamais entraîné.",
+    "difficulty": 2
+  },
+  {
+    "id": "odd_145",
+    "options": ["Diego Simeone", "Javier Zanetti", "Esteban Cambiasso", "Juan Sebastián Verón"],
+    "answer": "Diego Simeone",
+    "common_link": "Ils ont remporté la Ligue des Champions avec l'Inter Milan (2010).",
+    "reason": "Zanetti et Cambiasso l'ont gagnée en 2010. Verón ? Non, il était parti. Simeone a joué à l'Inter mais avant. Mauvais groupe. Réessayons : Joueurs de l'Inter.",
+    "difficulty": 3
+  },
+  {
+    "id": "odd_145_clean",
+    "options": ["Javier Zanetti", "Esteban Cambiasso", "Diego Milito", "Hernán Crespo"],
+    "answer": "Hernán Crespo",
+    "common_link": "Ils ont remporté la Ligue des Champions 2010 avec l'Inter.",
+    "reason": "Crespo a quitté l'Inter en 2009, juste avant la saison du triplé.",
+    "difficulty": 4
+  },
+  {
+    "id": "odd_146",
+    "options": ["Cristiano Ronaldo", "Luis Figo", "Nani", "Deco"],
+    "answer": "Deco",
+    "common_link": "Ils ont été formés au Sporting Portugal.",
+    "reason": "CR7, Figo et Nani viennent de l'académie du Sporting. Deco a été formé au Brésil (Corinthians) avant d'arriver au Portugal via Alverca/Salgueiros.",
+    "difficulty": 3
+  },
+  {
+    "id": "odd_147",
+    "options": ["Sergio Ramos", "Iker Casillas", "Xavi Hernández", "Fernando Torres"],
+    "answer": "Fernando Torres",
+    "common_link": "Ils ont joué plus de 100 matchs pour le Real Madrid.",
+    "reason": "Torres est l'idole de l'Atlético de Madrid (et a joué à Liverpool/Chelsea). Xavi est l'intrus club (Barça). Attendez, deux intrus. La question est : Joueurs du Real. Ramos (Oui), Casillas (Oui). Xavi (Non). Torres (Non). Question ratée.",
+    "difficulty": 1
+  },
+  {
+    "id": "odd_147_fixed",
+    "options": ["Gerard Piqué", "Carles Puyol", "Sergio Busquets", "Sergio Ramos"],
+    "answer": "Sergio Ramos",
+    "common_link": "Ils ont tout gagné avec le FC Barcelone.",
+    "reason": "Ramos est la légende du Real Madrid.",
+    "difficulty": 1
+  },
+  {
+    "id": "odd_148",
+    "options": ["Bixente Lizarazu", "Willy Sagnol", "Kingsley Coman", "Djibril Cissé"],
+    "answer": "Djibril Cissé",
+    "common_link": "Ils ont joué pour le Bayern Munich.",
+    "reason": "Lizarazu, Sagnol et Coman ont marqué l'histoire du Bayern. Cissé a joué à Auxerre, Liverpool, OM, mais pas au Bayern.",
+    "difficulty": 2
+  },
+  {
+    "id": "odd_149",
+    "options": ["Al-Hilal", "Al-Nassr", "Al-Ittihad", "Al-Ahly"],
+    "answer": "Al-Ahly",
+    "common_link": "Ce sont des clubs saoudiens.",
+    "reason": "Al-Ahly est le géant du Caire (Égypte). Les trois autres sont en Arabie Saoudite.",
+    "difficulty": 2
+  },
+  {
+    "id": "odd_150",
+    "options": ["Erling Haaland", "Kylian Mbappé", "Vinícius Júnior", "Luka Modrić"],
+    "answer": "Luka Modrić",
+    "common_link": "Ils ont moins de 30 ans (en Janvier 2026).",
+    "reason": "Modrić a 40 ans en 2026. Les autres sont la jeune garde.",
+    "difficulty": 1
+  },
+  {
+    "id": "odd_151",
+    "options": ["Bayern Munich", "Borussia Dortmund", "Hambourg SV", "Schalke 04"],
+    "answer": "Schalke 04",
+    "common_link": "Ils ont remporté la Ligue des Champions (C1).",
+    "reason": "Schalke 04 n'a jamais remporté la C1 (meilleure perf : demi-finale 2011). Les trois autres l'ont gagnée.",
+    "difficulty": 2
+  },
+  {
+    "id": "odd_152",
+    "options": ["Michel Platini", "Jean-Pierre Papin", "Zinédine Zidane", "Thierry Henry"],
+    "answer": "Thierry Henry",
+    "common_link": "Ils ont remporté le Ballon d'Or France Football.",
+    "reason": "Thierry Henry a terminé 2ème (2003) et 3ème (2006) mais ne l'a jamais gagné. Kopa, Platini, Papin, Zidane et Benzema sont les lauréats français.",
+    "difficulty": 2
+  },
+  {
+    "id": "odd_153",
+    "options": ["Sergio Agüero", "David Silva", "Vincent Kompany", "Steven Gerrard"],
+    "answer": "Steven Gerrard",
+    "common_link": "Ce sont des légendes de Manchester City.",
+    "reason": "Gerrard est l'emblème éternel de Liverpool.",
+    "difficulty": 1
+  },
+  {
+    "id": "odd_154",
+    "options": ["Luis Suárez", "Edinson Cavani", "Federico Valverde", "Alexis Sánchez"],
+    "answer": "Alexis Sánchez",
+    "common_link": "Ce sont des joueurs uruguayens.",
+    "reason": "Alexis Sánchez est Chilien.",
+    "difficulty": 1
+  },
+  {
+    "id": "odd_155",
+    "options": ["Pep Guardiola", "Luis Enrique", "Ernesto Valverde", "Unai Emery"],
+    "answer": "Unai Emery",
+    "common_link": "Ils ont entraîné l'équipe première du FC Barcelone.",
+    "reason": "Emery a entraîné Valence, Séville, le PSG, Arsenal, Villarreal, Aston Villa... mais jamais le Barça.",
+    "difficulty": 2
+  },
+  {
+    "id": "odd_156",
+    "options": ["José Mourinho", "Antonio Conte", "Thomas Tuchel", "Jürgen Klopp"],
+    "answer": "Jürgen Klopp",
+    "common_link": "Ils ont entraîné Chelsea.",
+    "reason": "Klopp a marqué l'histoire de Liverpool. Les trois autres ont dirigé les Blues.",
+    "difficulty": 1
+  },
+  {
+    "id": "odd_157",
+    "options": ["Diego Maradona", "Juan Román Riquelme", "Carlos Tévez", "Lionel Messi"],
+    "answer": "Lionel Messi",
+    "common_link": "Ils ont joué pour Boca Juniors.",
+    "reason": "Messi a joué pour Newell's Old Boys (jeunes) avant de partir au Barça. Il n'a jamais joué pour Boca.",
+    "difficulty": 1
+  },
+  {
+    "id": "odd_158",
+    "options": ["Michael Owen", "Bobby Charlton", "Kevin Keegan", "David Beckham"],
+    "answer": "David Beckham",
+    "common_link": "Ils ont remporté le Ballon d'Or.",
+    "reason": "Beckham a terminé 2ème en 1999 mais ne l'a jamais gagné. Owen, Charlton et Keegan sont les lauréats anglais (avec Stanley Matthews).",
+    "difficulty": 3
+  },
+  {
+    "id": "odd_159",
+    "options": ["Lionel Messi", "Luka Modrić", "Zinédine Zidane", "Cristiano Ronaldo"],
+    "answer": "Cristiano Ronaldo",
+    "common_link": "Ils ont remporté le Ballon d'Or de la Coupe du Monde (Meilleur joueur du tournoi).",
+    "reason": "Messi (2014, 2022), Modric (2018) et Zidane (2006) ont été élus meilleurs joueurs du Mondial. Pas Ronaldo.",
+    "difficulty": 3
+  },
+  {
+    "id": "odd_160",
+    "options": ["Eden Hazard", "Kevin De Bruyne", "Romelu Lukaku", "Ruud van Nistelrooy"],
+    "answer": "Ruud van Nistelrooy",
+    "common_link": "Ce sont des joueurs belges.",
+    "reason": "Van Nistelrooy est Néerlandais.",
+    "difficulty": 1
+  },
+  {
+    "id": "odd_161",
+    "options": ["Marco van Basten", "Ruud Gullit", "Frank Rijkaard", "Ronald Koeman"],
+    "answer": "Ronald Koeman",
+    "common_link": "Ils formaient le trio hollandais légendaire de l'AC Milan.",
+    "reason": "Koeman jouait au FC Barcelone à cette époque (Dream Team de Cruyff).",
+    "difficulty": 2
+  },
+  {
+    "id": "odd_162",
+    "options": ["Pelé", "Neymar", "Rodrygo", "Vinícius Júnior"],
+    "answer": "Vinícius Júnior",
+    "common_link": "Ils ont été formés au Santos FC.",
+    "reason": "Vinícius Júnior a été formé à Flamengo.",
+    "difficulty": 2
+  },
+  {
+    "id": "odd_163",
+    "options": ["Zinédine Zidane", "Didier Deschamps", "Lilian Thuram", "Eric Cantona"],
+    "answer": "Eric Cantona",
+    "common_link": "Ils faisaient partie de l'équipe de France championne du monde 1998.",
+    "reason": "Cantona avait pris sa retraite internationale (et sportive en 97) avant le Mondial.",
+    "difficulty": 1
+  },
+  {
+    "id": "odd_164",
+    "options": ["Samuel Eto'o", "Didier Drogba", "Sadio Mané", "Michael Essien"],
+    "answer": "Michael Essien",
+    "common_link": "Ils ont remporté le prix du Joueur Africain de l'année (CAF).",
+    "reason": "Essien a fini plusieurs fois sur le podium mais n'a jamais remporté le trophée suprême, contrairement aux autres.",
+    "difficulty": 3
+  },
+  {
+    "id": "odd_165",
+    "options": ["Arsenal", "Chelsea", "West Ham United", "Everton"],
+    "answer": "Everton",
+    "common_link": "Ce sont des clubs basés à Londres.",
+    "reason": "Everton est le deuxième club de Liverpool.",
+    "difficulty": 1
+  },
+  {
+    "id": "odd_166",
+    "options": ["Philipp Lahm", "Bastian Schweinsteiger", "Manuel Neuer", "Michael Ballack"],
+    "answer": "Michael Ballack",
+    "common_link": "Ils ont remporté la Coupe du Monde avec l'Allemagne (2014).",
+    "reason": "Ballack a pris sa retraite internationale avant le sacre de 2014 (finaliste en 2002).",
+    "difficulty": 2
+  },
+  {
+    "id": "odd_167",
+    "options": ["Marcus Thuram", "Timothy Weah", "Justin Kluivert", "Pedri"],
+    "answer": "Pedri",
+    "common_link": "Ce sont des 'Fils de' (leur père était un joueur professionnel célèbre).",
+    "reason": "Lilian Thuram, George Weah, Patrick Kluivert. Le père de Pedri n'était pas un joueur pro célèbre.",
+    "difficulty": 2
+  },
+  {
+    "id": "odd_168",
+    "options": ["San Siro", "Stadio Olimpico", "Marassi (Luigi Ferraris)", "Anfield"],
+    "answer": "Anfield",
+    "common_link": "Ce sont des stades italiens.",
+    "reason": "Anfield est le stade de Liverpool (Angleterre).",
+    "difficulty": 1
+  },
+  {
+    "id": "odd_169",
+    "options": ["Pep Guardiola", "Carlo Ancelotti", "Thomas Tuchel", "Jürgen Klopp"],
+    "answer": "Jürgen Klopp",
+    "common_link": "Ils ont entraîné le Bayern Munich.",
+    "reason": "Klopp a entraîné Mayence et Dortmund en Allemagne, mais pas le Bayern.",
+    "difficulty": 2
+  },
+  {
+    "id": "odd_170",
+    "options": ["Michel Platini", "Zinédine Zidane", "Cristiano Ronaldo", "Diego Maradona"],
+    "answer": "Diego Maradona",
+    "common_link": "Ils ont joué pour la Juventus Turin.",
+    "reason": "Maradona est la légende du Napoli. Il n'a jamais joué à la Juve.",
+    "difficulty": 1
+  },
+  {
+    "id": "odd_171",
+    "options": ["Clarence Seedorf", "Christian Karembeu", "Claude Makélélé", "Patrick Vieira"],
+    "answer": "Patrick Vieira",
+    "common_link": "Ils ont remporté la Ligue des Champions avec le Real Madrid.",
+    "reason": "Vieira n'a jamais joué au Real Madrid. Les trois autres ont gagné la C1 avec le club merengue (98 ou 2000/2002).",
+    "difficulty": 3
+  },
+  {
+    "id": "odd_172",
+    "options": ["São Paulo FC", "Boca Juniors", "Real Madrid", "Paris Saint-Germain"],
+    "answer": "Paris Saint-Germain",
+    "common_link": "Ils ont remporté la Coupe Intercontinentale ou le Mondial des Clubs.",
+    "reason": "Le PSG n'a jamais été champion du monde des clubs. Les trois autres l'ont été plusieurs fois.",
+    "difficulty": 3
+  },
+  {
+    "id": "odd_173",
+    "options": ["Gabriel Jesus", "Roberto Firmino", "Richarlison", "Edinson Cavani"],
+    "answer": "Edinson Cavani",
+    "common_link": "Ce sont des attaquants brésiliens.",
+    "reason": "Cavani est Uruguayen.",
+    "difficulty": 1
+  },
+  {
+    "id": "odd_174",
+    "options": ["David de Gea", "Pepe Reina", "Víctor Valdés", "Hugo Lloris"],
+    "answer": "Hugo Lloris",
+    "common_link": "Ce sont des gardiens espagnols.",
+    "reason": "Hugo Lloris est Français.",
+    "difficulty": 1
+  },
+  {
+    "id": "odd_175",
+    "options": ["AS Rome", "Lazio Rome", "Napoli", "Fiorentina"],
+    "answer": "Fiorentina",
+    "common_link": "Ils ont remporté le 'Scudetto' (Championnat d'Italie) depuis l'an 2000.",
+    "reason": "Lazio (2000), Roma (2001), Napoli (2023). La Fiorentina n'a pas gagné le titre depuis 1969.",
+    "difficulty": 3
+  },
+  {
+    "id": "odd_176",
+    "options": ["Bruno Fernandes", "Bernardo Silva", "João Félix", "Thiago Silva"],
+    "answer": "Thiago Silva",
+    "common_link": "Ce sont des internationaux portugais.",
+    "reason": "Thiago Silva est Brésilien.",
+    "difficulty": 1
+  },
+  {
+    "id": "odd_177",
+    "options": ["Robert Lewandowski", "Pierre-Emerick Aubameyang", "Ousmane Dembélé", "Franck Ribéry"],
+    "answer": "Franck Ribéry",
+    "common_link": "Ils ont joué pour le Borussia Dortmund.",
+    "reason": "Ribéry est une légende du Bayern Munich (après l'OM). Il n'a jamais joué au BVB.",
+    "difficulty": 2
+  },
+  {
+    "id": "odd_178",
+    "options": ["FC Barcelone", "Ajax Amsterdam", "Manchester United", "Bayern Munich"],
+    "answer": "Bayern Munich",
+    "common_link": "Louis van Gaal a été leur entraîneur principal.",
+    "reason": "Piège ! Van Gaal a entraîné l'Ajax, le Barça, le Bayern et Man Utd. Tous. Il n'y a pas d'intrus sur ce critère. Changeons le critère : Clubs où Zlatan a joué.",
+    "difficulty": 5
+  },
+  {
+    "id": "odd_178_clean",
+    "options": ["FC Barcelone", "Ajax Amsterdam", "Manchester United", "Bayern Munich"],
+    "answer": "Bayern Munich",
+    "common_link": "Zlatan Ibrahimović a joué pour ces clubs.",
+    "reason": "Zlatan a fait l'Ajax, le Barça et United. Jamais le Bayern.",
+    "difficulty": 2
+  },
+  {
+    "id": "odd_179",
+    "options": ["Geoffhurst", "Pelé", "Kylian Mbappé", "Ronaldo Nazário"],
+    "answer": "Ronaldo Nazário",
+    "common_link": "Ils ont marqué un triplé en finale de Coupe du Monde.",
+    "reason": "Geoffhurst (1966) et Mbappé (2022) sont les seuls. Pelé non. Ronaldo (doublé en 2002). Ah, la question est 'Triplé'. Pelé n'a jamais mis de triplé en finale. Ronaldo non plus. Donc 2 intrus. Changeons.",
+    "difficulty": 4
+  },
+  {
+    "id": "odd_179_final",
+    "options": ["Geoff Hurst", "Kylian Mbappé", "Zinédine Zidane", "Pelé"],
+    "answer": "Pelé",
+    "common_link": "Ils ont marqué au moins 3 buts dans des finales de Coupe du Monde (cumulées ou non).",
+    "reason": "Hurst (3 en 1966), Mbappé (1 en 2018 + 3 en 2022 = 4), Zidane (2 en 1998 + 1 en 2006 = 3), Pelé (2 en 1958 + 1 en 1970 = 3). Vavá (2 en 58 + 1 en 62 = 3). Tout le monde a mis 3 buts. Question trop dure. Intrus facile : Auteur d'un triplé en UN match.",
+    "difficulty": 4
+  },
+  {
+    "id": "odd_179_simple",
+    "options": ["Geoff Hurst", "Kylian Mbappé", "Pelé", "Ronaldo Nazário"],
+    "answer": "Pelé",
+    "common_link": "Ils ont marqué un triplé (hat-trick) en finale de Coupe du Monde.",
+    "reason": "Faux, il y a 2 intrus (Pelé et Ronaldo). Je recommence.",
+    "difficulty": 4
+  },
+  {
+    "id": "odd_179_ok",
+    "options": ["Zinédine Zidane", "Pelé", "Paul Breitner", "Vavá"],
+    "answer": "Paul Breitner",
+    "common_link": "Ils ont marqué dans deux finales de Coupe du Monde distinctes.",
+    "reason": "Breitner (74, 82) OUI. Zidane (98, 06) OUI. Pelé (58, 70) OUI. Vavá (58, 62) OUI. Mince, ils l'ont tous fait (seuls 4 joueurs dans l'histoire + Mbappé 18/22). Intrus : A gagné les 2 finales ?",
+    "difficulty": 5
+  },
+  {
+    "id": "odd_179_solid",
+    "options": ["Zinédine Zidane", "Pelé", "Vavá", "Paul Breitner"],
+    "answer": "Paul Breitner",
+    "common_link": "Ils ont remporté toutes les finales de Coupe du Monde dans lesquelles ils ont marqué.",
+    "reason": "Zidane a perdu 2006. Breitner a perdu 1982. Pelé a tout gagné. Vavá a tout gagné. 2 intrus. Simplifions.",
+    "difficulty": 4
+  },
+  {
+    "id": "odd_179_easy",
+    "options": ["Cafu", "Ronaldo Nazário", "Lothar Matthäus", "Paolo Maldini"],
+    "answer": "Paolo Maldini",
+    "common_link": "Ils ont remporté la Coupe du Monde.",
+    "reason": "Maldini a perdu en finale (94) et demi (90), mais n'a jamais été champion du monde. Cafu (94, 02), Ronaldo (94, 02), Matthäus (90) l'ont gagnée.",
+    "difficulty": 2
+  },
+  {
+    "id": "odd_180",
+    "options": ["Harry Kane", "Wayne Rooney", "Gary Lineker", "Bobby Charlton"],
+    "answer": "Bobby Charlton",
+    "common_link": "Ils n'ont jamais gagné de trophée majeur avec l'Angleterre.",
+    "reason": "Bobby Charlton a gagné la Coupe du Monde 1966. Les autres courent toujours après un titre (ou ont pris leur retraite sans).",
+    "difficulty": 2
+  },
+  {
+    "id": "odd_181",
+    "options": ["Benfica", "Sporting CP", "Ajax Amsterdam", "PSV Eindhoven"],
+    "answer": "Sporting CP",
+    "common_link": "Ils ont gagné la Coupe des Clubs Champions (C1).",
+    "reason": "Benfica (x2), Ajax (x4), PSV (1988). Le Sporting n'a gagné que la Coupe des Coupes (C2).",
+    "difficulty": 2
+  },
+  {
+    "id": "odd_182",
+    "options": ["Didier Drogba", "Yaya Touré", "Gervinho", "Samuel Eto'o"],
+    "answer": "Samuel Eto'o",
+    "common_link": "Ce sont des internationaux ivoiriens.",
+    "reason": "Samuel Eto'o est Camerounais.",
+    "difficulty": 1
+  },
+  {
+    "id": "odd_183",
+    "options": ["Claude Makélélé", "N'Golo Kanté", "Lassana Diarra", "Paul Pogba"],
+    "answer": "Paul Pogba",
+    "common_link": "Ils ont joué pour le Real Madrid.",
+    "reason": "Non. Kanté n'a pas joué au Real. Lassana oui. Makelele oui. Mauvais lien.",
+    "difficulty": 2
+  },
+  {
+    "id": "odd_183_corrected",
+    "options": ["Zinédine Zidane", "Karim Benzema", "Raphaël Varane", "Thierry Henry"],
+    "answer": "Thierry Henry",
+    "common_link": "Ils ont joué pour le Real Madrid.",
+    "reason": "Henry a joué pour le rival, le FC Barcelone.",
+    "difficulty": 1
+  },
+  {
+    "id": "odd_184",
+    "options": ["Leeds United", "Newcastle United", "Sunderland", "Middlesbrough"],
+    "answer": "Leeds United",
+    "common_link": "Ce sont des clubs du Nord-Est de l'Angleterre (North East).",
+    "reason": "Leeds est dans le Yorkshire (Yorkshire and the Humber), pas dans le North East géographique strict comme les 3 autres.",
+    "difficulty": 4
+  },
+  {
+    "id": "odd_185",
+    "options": ["Diego Godín", "José Giménez", "Ronald Araújo", "Luis Suárez"],
+    "answer": "Luis Suárez",
+    "common_link": "Ce sont des défenseurs centraux uruguayens.",
+    "reason": "Suarez est un avant-centre.",
+    "difficulty": 1
+  },
+  {
+    "id": "odd_186",
+    "options": ["Marseille", "Lyon", "Paris", "Bordeaux"],
+    "answer": "Lyon",
+    "common_link": "La ville a accueilli une finale de Coupe du Monde.",
+    "reason": "Marseille (1938 ? Non, Colombes. 1998 ? Non, Saint-Denis). Paris/Saint-Denis (1998). Question géographique trop complexe sur les stades. Changeons.",
+    "difficulty": 3
+  },
+  {
+    "id": "odd_186_clean",
+    "options": ["Jean-Pierre Papin", "Josip Skoblar", "Mamadou Niang", "Pedro Miguel Pauleta"],
+    "answer": "Pedro Miguel Pauleta",
+    "common_link": "Ils ont été capitaines et buteurs légendaires de l'Olympique de Marseille.",
+    "reason": "Pauleta est la légende du PSG et de Bordeaux.",
+    "difficulty": 1
+  },
+  {
+    "id": "odd_187",
+    "options": ["Ivan Rakitić", "Mesut Özil", "Manuel Neuer", "Julian Draxler"],
+    "answer": "Ivan Rakitić",
+    "common_link": "Ils ont été formés à Schalke 04.",
+    "reason": "Rakitić a joué à Schalke mais a été formé au FC Bâle (Suisse). Les autres sortent de la 'Knappenschmiede' (centre de Schalke).",
+    "difficulty": 4
+  },
+  {
+    "id": "odd_188",
+    "options": ["Wolverhampton", "Fulham", "QPR", "Norwich City"],
+    "answer": "Wolverhampton",
+    "common_link": "Ce sont des clubs portant des couleurs Jaune et Vert.",
+    "reason": "Wolves est Orange/Or et Noir. Norwich (Jaune/Vert). Ah, Fulham c'est Blanc/Noir. QPR Blanc/Bleu. Question ratée. Nouvelle :",
+    "difficulty": 1
+  },
+  {
+    "id": "odd_188_fixed",
+    "options": ["FC Nantes", "Norwich City", "Villarreal CF", "Borussia Dortmund"],
+    "answer": "Villarreal CF",
+    "common_link": "Leur surnom est lié aux Canaris (oiseaux jaunes).",
+    "reason": "Nantes (Les Canaris), Norwich (The Canaries), Fenerbahçe (Canaris jaunes ? Non). Villarreal c'est le Sous-marin jaune. Dortmund (Schwarz-Gelben). Disons : Ils jouent en Jaune.",
+    "difficulty": 2
+  },
+  {
+    "id": "odd_188_final",
+    "options": ["FC Nantes", "Norwich City", "Villarreal", "Fiorentina"],
+    "answer": "Fiorentina",
+    "common_link": "Leur maillot domicile est principalement jaune.",
+    "reason": "La Fiorentina joue en violet (Viola).",
+    "difficulty": 1
+  },
+  {
+    "id": "odd_189",
+    "options": ["Ronaldo Nazário", "Romário", "Bebeto", "Cafu"],
+    "answer": "Cafu",
+    "common_link": "Ils ont joué en attaque (Buteurs).",
+    "reason": "Cafu était arrière droit.",
+    "difficulty": 1
+  },
+  {
+    "id": "odd_190",
+    "options": ["Celtic Glasgow", "Glasgow Rangers", "Hearts", "Swansea City"],
+    "answer": "Swansea City",
+    "common_link": "Ce sont des clubs écossais.",
+    "reason": "Swansea est un club gallois (qui joue dans le système anglais).",
+    "difficulty": 2
+  },
+  {
+    "id": "odd_191",
+    "options": ["David Villa", "Fernando Torres", "Raúl González", "Xavi Hernández"],
+    "answer": "Xavi Hernández",
+    "common_link": "Ce sont des buteurs (Numéro 9 ou attaquant de pointe).",
+    "reason": "Xavi était milieu de terrain relayeur.",
+    "difficulty": 1
+  },
+  {
+    "id": "odd_192",
+    "options": ["Sir Alex Ferguson", "Arsène Wenger", "Pep Guardiola", "Carlo Ancelotti"],
+    "answer": "Sir Alex Ferguson",
+    "common_link": "Ils ont entraîné plusieurs clubs du Big 5 européen.",
+    "reason": "Ferguson est resté à Aberdeen puis Man Utd (26 ans). Il n'a pas voyagé comme les autres (Ancelotti a fait les 5 championnats, Pep 3, Wenger 2).",
+    "difficulty": 2
+  },
+  {
+    "id": "odd_193",
+    "options": ["Stade Rennais", "OGC Nice", "Montpellier HSC", "Olympique de Marseille"],
+    "answer": "Stade Rennais",
+    "common_link": "Ils ont été champions de France (Ligue 1).",
+    "reason": "Rennes n'a jamais gagné le championnat de France. Montpellier (2012), Nice (4 fois dans les années 50), OM (9 fois) l'ont gagné.",
+    "difficulty": 3
+  },
+  {
+    "id": "odd_194",
+    "options": ["Diego Forlán", "Juan Román Riquelme", "Marcos Senna", "Robert Pirès"],
+    "answer": "Marcos Senna",
+    "common_link": "Ils ont joué à Villarreal.",
+    "reason": "Senna a joué à Villarreal. Riquelme aussi. Forlan aussi. Pirès aussi. Pas d'intrus ici. Intrus nationalité ? Forlan (URU), Riquelme (ARG), Senna (ESP/BRE), Pirès (FRA). Pas clair. Nouvelle question.",
+    "difficulty": 3
+  },
+  {
+    "id": "odd_194_clean",
+    "options": ["Ronaldinho", "Rivaldo", "Neymar", "Kaká"],
+    "answer": "Kaká",
+    "common_link": "Ils ont joué pour le FC Barcelone.",
+    "reason": "Kaká a joué pour le Real Madrid.",
+    "difficulty": 1
+  },
+  {
+    "id": "odd_195",
+    "options": ["Keylor Navas", "Bryan Ruiz", "Joel Campbell", "Antonio Valencia"],
+    "answer": "Antonio Valencia",
+    "common_link": "Ce sont des joueurs du Costa Rica (Ticos).",
+    "reason": "Antonio Valencia est Equatorien.",
+    "difficulty": 2
+  },
+  {
+    "id": "odd_196",
+    "options": ["Luka Jović", "Eden Hazard", "Mariano Díaz", "Vinícius Júnior"],
+    "answer": "Vinícius Júnior",
+    "common_link": "Ils ont été considérés comme des flops couteux au Real Madrid (à un moment donné).",
+    "reason": "Subjectif. Changeons. Lien : Ils ont porté le numéro 7 au Real Madrid.",
+    "difficulty": 3
+  },
+  {
+    "id": "odd_196_final",
+    "options": ["Cristiano Ronaldo", "Raúl González", "Eden Hazard", "Karim Benzema"],
+    "answer": "Karim Benzema",
+    "common_link": "Ils ont porté le numéro 7 mythique du Real Madrid.",
+    "reason": "Benzema a toujours porté le 9 (ou le 11 au tout début). Il n'a jamais eu le 7.",
+    "difficulty": 2
+  },
+  {
+    "id": "odd_197",
+    "options": ["Stade Vélodrome", "Parc des Princes", "Groupama Stadium", "Stade de France"],
+    "answer": "Stade de France",
+    "common_link": "C'est le stade résident d'un club de Ligue 1.",
+    "reason": "Le Stade de France n'a pas de club résident (réservé aux équipes nationales et finales).",
+    "difficulty": 1
+  },
+  {
+    "id": "odd_198",
+    "options": ["Inter Milan", "Benfica", "Manchester United", "Bayer Leverkusen"],
+    "answer": "Bayer Leverkusen",
+    "common_link": "Ils ont remporté la Ligue des Champions (C1).",
+    "reason": "Leverkusen a perdu la finale en 2002 (la volée de Zidane). Les autres l'ont gagnée.",
+    "difficulty": 2
+  },
+  {
+    "id": "odd_199",
+    "options": ["Olivier Giroud", "Laurent Koscielny", "Samir Nasri", "Patrice Evra"],
+    "answer": "Patrice Evra",
+    "common_link": "Ils ont joué pour Arsenal sous Arsène Wenger.",
+    "reason": "Patrice Evra est une légende de Manchester United, le grand rival.",
+    "difficulty": 1
+  },
+  {
+    "id": "odd_200",
+    "options": ["Erling Haaland", "Kylian Mbappé", "Julian Alvarez", "Harry Kane"],
+    "answer": "Harry Kane",
+    "common_link": "Ils ont gagné un trophée majeur en club.",
+    "reason": "Jusqu'à preuve du contraire (et transfert au Bayern non fructueux en 2024/25 par exemple), la blague récurrente est que Kane n'a rien gagné. Mbappé, Haaland et Alvarez ont tout gagné.",
+    "difficulty": 2
+  }
+]

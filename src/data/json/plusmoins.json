@@ -1,0 +1,1602 @@
+[
+  {
+    "id": "hl_1",
+    "label": "Buts en Équipe de France",
+    "reference": { "name": "Olivier Giroud", "value": 57 },
+    "target": { "name": "Thierry Henry", "value": 51 },
+    "correct_answer": "Moins",
+    "difficulty": 1
+  },
+  {
+    "id": "hl_2",
+    "label": "Ballons d'Or remportés",
+    "reference": { "name": "Cristiano Ronaldo", "value": 5 },
+    "target": { "name": "Lionel Messi", "value": 8 },
+    "correct_answer": "Plus",
+    "difficulty": 1
+  },
+  {
+    "id": "hl_3",
+    "label": "Capacité du Stade",
+    "reference": { "name": "Parc des Princes (PSG)", "value": 48583 },
+    "target": { "name": "Stade Vélodrome (OM)", "value": 67394 },
+    "correct_answer": "Plus",
+    "difficulty": 1
+  },
+  {
+    "id": "hl_4",
+    "label": "Ligues des Champions remportées (Club)",
+    "reference": { "name": "Real Madrid", "value": 15 },
+    "target": { "name": "AC Milan", "value": 7 },
+    "correct_answer": "Moins",
+    "difficulty": 1
+  },
+  {
+    "id": "hl_5",
+    "label": "Montant Transfert Record (M€)",
+    "reference": { "name": "Neymar (au PSG)", "value": 222 },
+    "target": { "name": "Kylian Mbappé (au PSG)", "value": 180 },
+    "correct_answer": "Moins",
+    "difficulty": 1
+  },
+  {
+    "id": "hl_6",
+    "label": "Buts en phase finale de Coupe du Monde",
+    "reference": { "name": "Kylian Mbappé", "value": 12 },
+    "target": { "name": "Miroslav Klose", "value": 16 },
+    "correct_answer": "Plus",
+    "difficulty": 2
+  },
+  {
+    "id": "hl_7",
+    "label": "Taille (cm)",
+    "reference": { "name": "Zlatan Ibrahimović", "value": 195 },
+    "target": { "name": "Peter Crouch", "value": 201 },
+    "correct_answer": "Plus",
+    "difficulty": 1
+  },
+  {
+    "id": "hl_8",
+    "label": "Sélections Nationales (Brésil)",
+    "reference": { "name": "Cafu", "value": 142 },
+    "target": { "name": "Roberto Carlos", "value": 125 },
+    "correct_answer": "Moins",
+    "difficulty": 2
+  },
+  {
+    "id": "hl_9",
+    "label": "Buts en carrière (Club + Sélection - Estimation)",
+    "reference": { "name": "Pelé (Stats officielles FIFA)", "value": 757 },
+    "target": { "name": "Cristiano Ronaldo", "value": 915 },
+    "correct_answer": "Plus",
+    "difficulty": 1
+  },
+  {
+    "id": "hl_10",
+    "label": "Année de fondation du club",
+    "reference": { "name": "Liverpool FC", "value": 1892 },
+    "target": { "name": "FC Barcelone", "value": 1899 },
+    "correct_answer": "Plus",
+    "difficulty": 3
+  },
+  {
+    "id": "hl_11",
+    "label": "Buts en une seule Coupe du Monde",
+    "reference": { "name": "Ronaldo R9 (2002)", "value": 8 },
+    "target": { "name": "Just Fontaine (1958)", "value": 13 },
+    "correct_answer": "Plus",
+    "difficulty": 2
+  },
+  {
+    "id": "hl_12",
+    "label": "Montant Transfert Record (M€)",
+    "reference": { "name": "Harry Maguire (à Man Utd)", "value": 87 },
+    "target": { "name": "Virgil van Dijk (à Liverpool)", "value": 84 },
+    "correct_answer": "Moins",
+    "difficulty": 3
+  },
+  {
+    "id": "hl_13",
+    "label": "Titres de Premier League (Joueur)",
+    "reference": { "name": "Thierry Henry", "value": 2 },
+    "target": { "name": "Ryan Giggs", "value": 13 },
+    "correct_answer": "Plus",
+    "difficulty": 1
+  },
+  {
+    "id": "hl_14",
+    "label": "Matchs joués en Ligue 1",
+    "reference": { "name": "Mickaël Landreau", "value": 618 },
+    "target": { "name": "Jean-Luc Ettori", "value": 602 },
+    "correct_answer": "Moins",
+    "difficulty": 3
+  },
+  {
+    "id": "hl_15",
+    "label": "Buts pour le Real Madrid",
+    "reference": { "name": "Raúl", "value": 323 },
+    "target": { "name": "Karim Benzema", "value": 354 },
+    "correct_answer": "Plus",
+    "difficulty": 2
+  },
+  {
+    "id": "hl_16",
+    "label": "Âge (en Janvier 2026)",
+    "reference": { "name": "Lamine Yamal", "value": 18 },
+    "target": { "name": "Warren Zaïre-Emery", "value": 19 },
+    "correct_answer": "Plus",
+    "difficulty": 3
+  },
+  {
+    "id": "hl_17",
+    "label": "Ligues des Champions (Joueur)",
+    "reference": { "name": "Clarence Seedorf", "value": 4 },
+    "target": { "name": "Paco Gento", "value": 6 },
+    "correct_answer": "Plus",
+    "difficulty": 2
+  },
+  {
+    "id": "hl_18",
+    "label": "Capacité du Stade",
+    "reference": { "name": "Camp Nou (Barcelone - Rénové)", "value": 105000 },
+    "target": { "name": "Wembley (Londres)", "value": 90000 },
+    "correct_answer": "Moins",
+    "difficulty": 2
+  },
+  {
+    "id": "hl_19",
+    "label": "Buts en sélection nationale",
+    "reference": { "name": "Harry Kane (Angleterre)", "value": 69 },
+    "target": { "name": "Romelu Lukaku (Belgique)", "value": 85 },
+    "correct_answer": "Plus",
+    "difficulty": 3
+  },
+  {
+    "id": "hl_20",
+    "label": "Prix du transfert (M€)",
+    "reference": { "name": "João Félix (à l'Atlético)", "value": 127 },
+    "target": { "name": "Antoine Griezmann (au Barça)", "value": 120 },
+    "correct_answer": "Moins",
+    "difficulty": 3
+  },
+  {
+    "id": "hl_21",
+    "label": "Titres de Serie A (Scudetto)",
+    "reference": { "name": "Juventus", "value": 36 },
+    "target": { "name": "Inter Milan", "value": 20 },
+    "correct_answer": "Moins",
+    "difficulty": 1
+  },
+  {
+    "id": "hl_22",
+    "label": "Buts inscrits par un Gardien",
+    "reference": { "name": "José Luis Chilavert", "value": 67 },
+    "target": { "name": "Rogério Ceni", "value": 131 },
+    "correct_answer": "Plus",
+    "difficulty": 2
+  },
+  {
+    "id": "hl_23",
+    "label": "Années au club (One Club Man)",
+    "reference": { "name": "Francesco Totti (AS Roma)", "value": 25 },
+    "target": { "name": "Paolo Maldini (AC Milan)", "value": 25 },
+    "correct_answer": "Moins",
+    "difficulty": 3
+  },
+  {
+    "id": "hl_24",
+    "label": "Finales de Coupe du Monde perdues (Pays)",
+    "reference": { "name": "Pays-Bas", "value": 3 },
+    "target": { "name": "Allemagne", "value": 4 },
+    "correct_answer": "Plus",
+    "difficulty": 3
+  },
+  {
+    "id": "hl_25",
+    "label": "Buts en Premier League",
+    "reference": { "name": "Wayne Rooney", "value": 208 },
+    "target": { "name": "Sergio Agüero", "value": 184 },
+    "correct_answer": "Moins",
+    "difficulty": 2
+  },
+  {
+    "id": "hl_26",
+    "label": "Victoires en tant qu'entraîneur (LDC)",
+    "reference": { "name": "Pep Guardiola", "value": 3 },
+    "target": { "name": "Carlo Ancelotti", "value": 5 },
+    "correct_answer": "Plus",
+    "difficulty": 2
+  },
+  {
+    "id": "hl_27",
+    "label": "Taille (cm)",
+    "reference": { "name": "Lorenzo Insigne", "value": 163 },
+    "target": { "name": "Lionel Messi", "value": 170 },
+    "correct_answer": "Plus",
+    "difficulty": 2
+  },
+  {
+    "id": "hl_28",
+    "label": "Matchs officiels pour le FC Barcelone",
+    "reference": { "name": "Xavi", "value": 767 },
+    "target": { "name": "Andrés Iniesta", "value": 674 },
+    "correct_answer": "Moins",
+    "difficulty": 2
+  },
+  {
+    "id": "hl_29",
+    "label": "Buts en Coupe du Monde (Joueur)",
+    "reference": { "name": "Thomas Müller", "value": 10 },
+    "target": { "name": "Gabriel Batistuta", "value": 10 },
+    "correct_answer": "Moins",
+    "difficulty": 3
+  },
+  {
+    "id": "hl_30",
+    "label": "Montant Transfert Record (M€)",
+    "reference": { "name": "Zinédine Zidane (2001)", "value": 77 },
+    "target": { "name": "Kevin De Bruyne (2015)", "value": 76 },
+    "correct_answer": "Moins",
+    "difficulty": 3
+  },
+  {
+    "id": "hl_31",
+    "label": "Titres de Champion de France (Ligue 1)",
+    "reference": { "name": "AS Saint-Étienne", "value": 10 },
+    "target": { "name": "Paris Saint-Germain", "value": 13 },
+    "correct_answer": "Plus",
+    "difficulty": 1
+  },
+  {
+    "id": "hl_32",
+    "label": "Âge lors du Ballon d'Or (Le plus jeune)",
+    "reference": { "name": "Michael Owen", "value": 22 },
+    "target": { "name": "Ronaldo R9", "value": 21 },
+    "correct_answer": "Moins",
+    "difficulty": 2
+  },
+  {
+    "id": "hl_33",
+    "label": "Capacité du Stade",
+    "reference": { "name": "Signal Iduna Park (Dortmund)", "value": 81365 },
+    "target": { "name": "Allianz Arena (Munich)", "value": 75024 },
+    "correct_answer": "Moins",
+    "difficulty": 2
+  },
+  {
+    "id": "hl_34",
+    "label": "Buts pour Arsenal",
+    "reference": { "name": "Ian Wright", "value": 185 },
+    "target": { "name": "Thierry Henry", "value": 228 },
+    "correct_answer": "Plus",
+    "difficulty": 1
+  },
+  {
+    "id": "hl_35",
+    "label": "Nombre de Coupes du Monde (Pays)",
+    "reference": { "name": "Uruguay", "value": 2 },
+    "target": { "name": "Argentine", "value": 3 },
+    "correct_answer": "Plus",
+    "difficulty": 1
+  },
+  {
+    "id": "hl_36",
+    "label": "Matchs joués en Premier League",
+    "reference": { "name": "Frank Lampard", "value": 609 },
+    "target": { "name": "Gareth Barry", "value": 653 },
+    "correct_answer": "Plus",
+    "difficulty": 2
+  },
+  {
+    "id": "hl_37",
+    "label": "Montant du transfert (M€)",
+    "reference": { "name": "Jack Grealish (à Man City)", "value": 117 },
+    "target": { "name": "Declan Rice (à Arsenal)", "value": 116 },
+    "correct_answer": "Moins",
+    "difficulty": 3
+  },
+  {
+    "id": "hl_38",
+    "label": "Buts en Ligue des Champions",
+    "reference": { "name": "Robert Lewandowski", "value": 105 },
+    "target": { "name": "Karim Benzema", "value": 90 },
+    "correct_answer": "Moins",
+    "difficulty": 2
+  },
+  {
+    "id": "hl_39",
+    "label": "Titres de Copa América",
+    "reference": { "name": "Argentine", "value": 16 },
+    "target": { "name": "Brésil", "value": 9 },
+    "correct_answer": "Moins",
+    "difficulty": 2
+  },
+  {
+    "id": "hl_40",
+    "label": "Année de fondation",
+    "reference": { "name": "Paris Saint-Germain", "value": 1970 },
+    "target": { "name": "Olympique Lyonnais", "value": 1950 },
+    "correct_answer": "Moins",
+    "difficulty": 1
+  },
+  {
+    "id": "hl_41",
+    "label": "Buts en sélection (Afrique)",
+    "reference": { "name": "Didier Drogba (Côte d'Ivoire)", "value": 65 },
+    "target": { "name": "Samuel Eto'o (Cameroun)", "value": 56 },
+    "correct_answer": "Moins",
+    "difficulty": 3
+  },
+  {
+    "id": "hl_42",
+    "label": "Dossard légendaire",
+    "reference": { "name": "Cruyff (Pays-Bas)", "value": 14 },
+    "target": { "name": "Beckham (Man Utd)", "value": 7 },
+    "correct_answer": "Moins",
+    "difficulty": 1
+  },
+  {
+    "id": "hl_43",
+    "label": "Prix transfert (M€)",
+    "reference": { "name": "Aurélien Tchouaméni (au Real)", "value": 80 },
+    "target": { "name": "Jude Bellingham (au Real)", "value": 103 },
+    "correct_answer": "Plus",
+    "difficulty": 2
+  },
+  {
+    "id": "hl_44",
+    "label": "Buts en carrière (Zlatan vs Suarez)",
+    "reference": { "name": "Zlatan Ibrahimović", "value": 573 },
+    "target": { "name": "Luis Suárez", "value": 585 },
+    "correct_answer": "Plus",
+    "difficulty": 3
+  },
+  {
+    "id": "hl_45",
+    "label": "Capacité du Stade",
+    "reference": { "name": "Estadio Monumental (River Plate)", "value": 84567 },
+    "target": { "name": "La Bombonera (Boca Juniors)", "value": 54000 },
+    "correct_answer": "Moins",
+    "difficulty": 2
+  },
+  {
+    "id": "hl_46",
+    "label": "Sélections nationales (Espagne)",
+    "reference": { "name": "Sergio Busquets", "value": 143 },
+    "target": { "name": "Sergio Ramos", "value": 180 },
+    "correct_answer": "Plus",
+    "difficulty": 2
+  },
+  {
+    "id": "hl_47",
+    "label": "Titres de Bundesliga (Joueur)",
+    "reference": { "name": "Franck Ribéry", "value": 9 },
+    "target": { "name": "Thomas Müller", "value": 12 },
+    "correct_answer": "Plus",
+    "difficulty": 2
+  },
+  {
+    "id": "hl_48",
+    "label": "Record de buts sur une saison de PL",
+    "reference": { "name": "Mohamed Salah", "value": 32 },
+    "target": { "name": "Erling Haaland", "value": 36 },
+    "correct_answer": "Plus",
+    "difficulty": 1
+  },
+  {
+    "id": "hl_49",
+    "label": "Âge (en Janvier 2026)",
+    "reference": { "name": "Endrick", "value": 19 },
+    "target": { "name": "Gavi", "value": 21 },
+    "correct_answer": "Plus",
+    "difficulty": 2
+  },
+  {
+    "id": "hl_50",
+    "label": "Cartons rouges en carrière",
+    "reference": { "name": "Sergio Ramos", "value": 29 },
+    "target": { "name": "Pepe", "value": 17 },
+    "correct_answer": "Moins",
+    "difficulty": 3
+  },
+  {
+    "id": "hl_51",
+    "label": "Buts en carrière pour un seul club",
+    "reference": { "name": "Cristiano Ronaldo (Real Madrid)", "value": 450 },
+    "target": { "name": "Lionel Messi (FC Barcelone)", "value": 672 },
+    "correct_answer": "Plus",
+    "difficulty": 1
+  },
+  {
+    "id": "hl_52",
+    "label": "Ligues des Champions remportées (Club)",
+    "reference": { "name": "Ajax Amsterdam", "value": 4 },
+    "target": { "name": "Juventus", "value": 2 },
+    "correct_answer": "Moins",
+    "difficulty": 2
+  },
+  {
+    "id": "hl_53",
+    "label": "Montant du transfert (M€)",
+    "reference": { "name": "Gonzalo Higuaín (à la Juve)", "value": 90 },
+    "target": { "name": "Cristiano Ronaldo (à la Juve)", "value": 117 },
+    "correct_answer": "Plus",
+    "difficulty": 2
+  },
+  {
+    "id": "hl_54",
+    "label": "Capacité du Stade",
+    "reference": { "name": "Stade de France", "value": 80698 },
+    "target": { "name": "Wembley Stadium", "value": 90000 },
+    "correct_answer": "Plus",
+    "difficulty": 2
+  },
+  {
+    "id": "hl_55",
+    "label": "Âge (en Janvier 2026)",
+    "reference": { "name": "Thiago Silva", "value": 41 },
+    "target": { "name": "Sergio Ramos", "value": 39 },
+    "correct_answer": "Moins",
+    "difficulty": 3
+  },
+  {
+    "id": "hl_56",
+    "label": "Buts en sélection (Angleterre)",
+    "reference": { "name": "Harry Kane", "value": 69 },
+    "target": { "name": "Wayne Rooney", "value": 53 },
+    "correct_answer": "Moins",
+    "difficulty": 1
+  },
+  {
+    "id": "hl_57",
+    "label": "Coupes du Monde remportées (Pays)",
+    "reference": { "name": "Espagne", "value": 1 },
+    "target": { "name": "France", "value": 2 },
+    "correct_answer": "Plus",
+    "difficulty": 1
+  },
+  {
+    "id": "hl_58",
+    "label": "Sélections nationales",
+    "reference": { "name": "Luka Modrić (Croatie)", "value": 182 },
+    "target": { "name": "Gianluigi Buffon (Italie)", "value": 176 },
+    "correct_answer": "Moins",
+    "difficulty": 3
+  },
+  {
+    "id": "hl_59",
+    "label": "Buts en sélection (Bosnie vs Suède)",
+    "reference": { "name": "Edin Džeko", "value": 67 },
+    "target": { "name": "Zlatan Ibrahimović", "value": 62 },
+    "correct_answer": "Moins",
+    "difficulty": 3
+  },
+  {
+    "id": "hl_60",
+    "label": "Taille (cm)",
+    "reference": { "name": "Mathieu Valbuena", "value": 167 },
+    "target": { "name": "Marco Verratti", "value": 165 },
+    "correct_answer": "Moins",
+    "difficulty": 3
+  },
+  {
+    "id": "hl_61",
+    "label": "Ligues des Champions remportées",
+    "reference": { "name": "FC Porto", "value": 2 },
+    "target": { "name": "Celtic Glasgow", "value": 1 },
+    "correct_answer": "Moins",
+    "difficulty": 2
+  },
+  {
+    "id": "hl_62",
+    "label": "Montant du transfert (M€)",
+    "reference": { "name": "Matthijs de Ligt (à la Juve)", "value": 85 },
+    "target": { "name": "Lucas Hernandez (au Bayern)", "value": 80 },
+    "correct_answer": "Moins",
+    "difficulty": 3
+  },
+  {
+    "id": "hl_63",
+    "label": "Année de fondation",
+    "reference": { "name": "Manchester United", "value": 1878 },
+    "target": { "name": "Manchester City", "value": 1880 },
+    "correct_answer": "Plus",
+    "difficulty": 3
+  },
+  {
+    "id": "hl_64",
+    "label": "Cartons rouges directs en carrière",
+    "reference": { "name": "Sergio Ramos", "value": 29 },
+    "target": { "name": "Roy Keane", "value": 7 },
+    "correct_answer": "Moins",
+    "difficulty": 1
+  },
+  {
+    "id": "hl_65",
+    "label": "Ballons d'Or remportés",
+    "reference": { "name": "Michel Platini", "value": 3 },
+    "target": { "name": "Franz Beckenbauer", "value": 2 },
+    "correct_answer": "Moins",
+    "difficulty": 2
+  },
+  {
+    "id": "hl_66",
+    "label": "Buts en sélection (Norvège)",
+    "reference": { "name": "Erling Haaland", "value": 36 },
+    "target": { "name": "Martin Ødegaard", "value": 4 },
+    "correct_answer": "Moins",
+    "difficulty": 1
+  },
+  {
+    "id": "hl_67",
+    "label": "Capacité du Stade",
+    "reference": { "name": "Anfield (Liverpool)", "value": 61276 },
+    "target": { "name": "Emirates Stadium (Arsenal)", "value": 60704 },
+    "correct_answer": "Moins",
+    "difficulty": 3
+  },
+  {
+    "id": "hl_68",
+    "label": "Buts en Premier League",
+    "reference": { "name": "Raheem Sterling", "value": 125 },
+    "target": { "name": "Didier Drogba", "value": 104 },
+    "correct_answer": "Moins",
+    "difficulty": 2
+  },
+  {
+    "id": "hl_69",
+    "label": "Année de fondation",
+    "reference": { "name": "Paris Saint-Germain", "value": 1970 },
+    "target": { "name": "Chelsea FC", "value": 1905 },
+    "correct_answer": "Moins",
+    "difficulty": 2
+  },
+  {
+    "id": "hl_70",
+    "label": "Buts en sélection (Pays de Galles)",
+    "reference": { "name": "Gareth Bale", "value": 41 },
+    "target": { "name": "Ian Rush", "value": 28 },
+    "correct_answer": "Moins",
+    "difficulty": 2
+  },
+  {
+    "id": "hl_71",
+    "label": "Montant du transfert (M€)",
+    "reference": { "name": "Nicolas Pépé (à Arsenal)", "value": 80 },
+    "target": { "name": "Ángel Di María (à Man Utd)", "value": 75 },
+    "correct_answer": "Moins",
+    "difficulty": 3
+  },
+  {
+    "id": "hl_72",
+    "label": "Buts totaux en Coupe du Monde (Carrière)",
+    "reference": { "name": "Just Fontaine", "value": 13 },
+    "target": { "name": "Pelé", "value": 12 },
+    "correct_answer": "Moins",
+    "difficulty": 3
+  },
+  {
+    "id": "hl_73",
+    "label": "Taille (cm)",
+    "reference": { "name": "Thibaut Courtois", "value": 200 },
+    "target": { "name": "Fraser Forster", "value": 201 },
+    "correct_answer": "Plus",
+    "difficulty": 3
+  },
+  {
+    "id": "hl_74",
+    "label": "Euros remportés (Pays)",
+    "reference": { "name": "France", "value": 2 },
+    "target": { "name": "Espagne", "value": 4 },
+    "correct_answer": "Plus",
+    "difficulty": 2
+  },
+  {
+    "id": "hl_75",
+    "label": "Buts en sélection (Mexique)",
+    "reference": { "name": "Chicharito Hernández", "value": 52 },
+    "target": { "name": "Jared Borgetti", "value": 46 },
+    "correct_answer": "Moins",
+    "difficulty": 2
+  },
+  {
+    "id": "hl_76",
+    "label": "Âge (en Janvier 2026)",
+    "reference": { "name": "Julian Nagelsmann (Coach)", "value": 38 },
+    "target": { "name": "Vincent Kompany (Coach)", "value": 39 },
+    "correct_answer": "Plus",
+    "difficulty": 3
+  },
+  {
+    "id": "hl_77",
+    "label": "Montant transfert gardien (M€)",
+    "reference": { "name": "Alisson (à Liverpool)", "value": 62 },
+    "target": { "name": "Kepa Arrizabalaga (à Chelsea)", "value": 80 },
+    "correct_answer": "Plus",
+    "difficulty": 1
+  },
+  {
+    "id": "hl_78",
+    "label": "Année de fondation",
+    "reference": { "name": "RB Leipzig", "value": 2009 },
+    "target": { "name": "Hoffenheim", "value": 1899 },
+    "correct_answer": "Moins",
+    "difficulty": 2
+  },
+  {
+    "id": "hl_79",
+    "label": "Buts pour Liverpool (Toutes comp.)",
+    "reference": { "name": "Mohamed Salah", "value": 223 },
+    "target": { "name": "Steven Gerrard", "value": 186 },
+    "correct_answer": "Moins",
+    "difficulty": 2
+  },
+  {
+    "id": "hl_80",
+    "label": "Titres de Coupe du Monde",
+    "reference": { "name": "Brésil", "value": 5 },
+    "target": { "name": "Italie", "value": 4 },
+    "correct_answer": "Moins",
+    "difficulty": 1
+  },
+  {
+    "id": "hl_81",
+    "label": "Taille (cm)",
+    "reference": { "name": "Philipp Lahm", "value": 170 },
+    "target": { "name": "N'Golo Kanté", "value": 168 },
+    "correct_answer": "Moins",
+    "difficulty": 3
+  },
+  {
+    "id": "hl_82",
+    "label": "Buts en Premier League",
+    "reference": { "name": "Sergio Agüero", "value": 184 },
+    "target": { "name": "Andy Cole", "value": 187 },
+    "correct_answer": "Plus",
+    "difficulty": 3
+  },
+  {
+    "id": "hl_83",
+    "label": "Sélections nationales (Italie)",
+    "reference": { "name": "Paolo Maldini", "value": 126 },
+    "target": { "name": "Fabio Cannavaro", "value": 136 },
+    "correct_answer": "Plus",
+    "difficulty": 2
+  },
+  {
+    "id": "hl_84",
+    "label": "Montant du transfert (M€)",
+    "reference": { "name": "James Rodríguez (au Real)", "value": 75 },
+    "target": { "name": "Zlatan Ibrahimović (au Barça)", "value": 69 },
+    "correct_answer": "Moins",
+    "difficulty": 3
+  },
+  {
+    "id": "hl_85",
+    "label": "Capacité du Stade",
+    "reference": { "name": "Mestalla (Valence)", "value": 49430 },
+    "target": { "name": "San Mamés (Bilbao)", "value": 53331 },
+    "correct_answer": "Plus",
+    "difficulty": 3
+  },
+  {
+    "id": "hl_86",
+    "label": "Buts en sélection (Espagne)",
+    "reference": { "name": "David Villa", "value": 59 },
+    "target": { "name": "Raúl", "value": 44 },
+    "correct_answer": "Moins",
+    "difficulty": 2
+  },
+  {
+    "id": "hl_87",
+    "label": "Année de fondation",
+    "reference": { "name": "Inter Milan", "value": 1908 },
+    "target": { "name": "AC Milan", "value": 1899 },
+    "correct_answer": "Moins",
+    "difficulty": 1
+  },
+  {
+    "id": "hl_88",
+    "label": "Ligues des Champions remportées (Club)",
+    "reference": { "name": "FC Barcelone", "value": 5 },
+    "target": { "name": "Bayern Munich", "value": 6 },
+    "correct_answer": "Plus",
+    "difficulty": 2
+  },
+  {
+    "id": "hl_89",
+    "label": "Buts pour l'AC Milan",
+    "reference": { "name": "Kaká", "value": 104 },
+    "target": { "name": "Andriy Shevchenko", "value": 175 },
+    "correct_answer": "Plus",
+    "difficulty": 2
+  },
+  {
+    "id": "hl_90",
+    "label": "Taille (cm)",
+    "reference": { "name": "Jan Koller", "value": 202 },
+    "target": { "name": "Peter Crouch", "value": 201 },
+    "correct_answer": "Moins",
+    "difficulty": 3
+  },
+  {
+    "id": "hl_91",
+    "label": "Montant du transfert (M€)",
+    "reference": { "name": "Victor Osimhen (au Napoli)", "value": 70 },
+    "target": { "name": "Dušan Vlahović (à la Juve)", "value": 81 },
+    "correct_answer": "Plus",
+    "difficulty": 3
+  },
+  {
+    "id": "hl_92",
+    "label": "Sélections nationales (France)",
+    "reference": { "name": "Marcel Desailly", "value": 116 },
+    "target": { "name": "Lilian Thuram", "value": 142 },
+    "correct_answer": "Plus",
+    "difficulty": 1
+  },
+  {
+    "id": "hl_93",
+    "label": "Buts en sélection (France)",
+    "reference": { "name": "Karim Benzema", "value": 37 },
+    "target": { "name": "David Trezeguet", "value": 34 },
+    "correct_answer": "Moins",
+    "difficulty": 2
+  },
+  {
+    "id": "hl_94",
+    "label": "Âge (en Janvier 2026)",
+    "reference": { "name": "Pedri", "value": 23 },
+    "target": { "name": "Jude Bellingham", "value": 22 },
+    "correct_answer": "Moins",
+    "difficulty": 3
+  },
+  {
+    "id": "hl_95",
+    "label": "Capacité du Stade",
+    "reference": { "name": "Etihad Stadium (City)", "value": 53400 },
+    "target": { "name": "Tottenham Hotspur Stadium", "value": 62850 },
+    "correct_answer": "Plus",
+    "difficulty": 2
+  },
+  {
+    "id": "hl_96",
+    "label": "Buts pour le FC Barcelone",
+    "reference": { "name": "Samuel Eto'o", "value": 130 },
+    "target": { "name": "Patrick Kluivert", "value": 122 },
+    "correct_answer": "Moins",
+    "difficulty": 3
+  },
+  {
+    "id": "hl_97",
+    "label": "Montant du transfert (M€)",
+    "reference": { "name": "Raphinha (au Barça)", "value": 58 },
+    "target": { "name": "Raheem Sterling (à City)", "value": 63 },
+    "correct_answer": "Plus",
+    "difficulty": 3
+  },
+  {
+    "id": "hl_98",
+    "label": "Titres de Premier League (Coach)",
+    "reference": { "name": "Alex Ferguson", "value": 13 },
+    "target": { "name": "Arsène Wenger", "value": 3 },
+    "correct_answer": "Moins",
+    "difficulty": 1
+  },
+  {
+    "id": "hl_99",
+    "label": "Taille (cm)",
+    "reference": { "name": "Jordan Pickford", "value": 185 },
+    "target": { "name": "David Raya", "value": 183 },
+    "correct_answer": "Moins",
+    "difficulty": 3
+  },
+  {
+    "id": "hl_100",
+    "label": "Buts pour Liverpool",
+    "reference": { "name": "Sadio Mané", "value": 120 },
+    "target": { "name": "Roberto Firmino", "value": 111 },
+    "correct_answer": "Moins",
+    "difficulty": 3
+  },
+  {
+    "id": "hl_101",
+    "label": "Buts en Équipe de France",
+    "reference": { "name": "Antoine Griezmann", "value": 44 },
+    "target": { "name": "Michel Platini", "value": 41 },
+    "correct_answer": "Moins",
+    "difficulty": 2
+  },
+  {
+    "id": "hl_102",
+    "label": "Montant du transfert (M€)",
+    "reference": { "name": "Enzo Fernández (à Chelsea)", "value": 121 },
+    "target": { "name": "Jude Bellingham (au Real)", "value": 103 },
+    "correct_answer": "Moins",
+    "difficulty": 2
+  },
+  {
+    "id": "hl_103",
+    "label": "Ligues des Champions (Joueur)",
+    "reference": { "name": "Toni Kroos", "value": 6 },
+    "target": { "name": "Casemiro", "value": 5 },
+    "correct_answer": "Moins",
+    "difficulty": 2
+  },
+  {
+    "id": "hl_104",
+    "label": "Capacité du Stade",
+    "reference": { "name": "Old Trafford (Man Utd)", "value": 74310 },
+    "target": { "name": "San Siro (Milan)", "value": 75817 },
+    "correct_answer": "Plus",
+    "difficulty": 3
+  },
+  {
+    "id": "hl_105",
+    "label": "Sélections nationales (Portugal)",
+    "reference": { "name": "Luís Figo", "value": 127 },
+    "target": { "name": "Pepe", "value": 141 },
+    "correct_answer": "Plus",
+    "difficulty": 2
+  },
+  {
+    "id": "hl_106",
+    "label": "Buts en Premier League",
+    "reference": { "name": "Thierry Henry", "value": 175 },
+    "target": { "name": "Frank Lampard", "value": 177 },
+    "correct_answer": "Plus",
+    "difficulty": 3
+  },
+  {
+    "id": "hl_107",
+    "label": "Âge (en Janvier 2026)",
+    "reference": { "name": "Neymar", "value": 33 },
+    "target": { "name": "Kevin De Bruyne", "value": 34 },
+    "correct_answer": "Plus",
+    "difficulty": 2
+  },
+  {
+    "id": "hl_108",
+    "label": "Titres de Liga (Espagne)",
+    "reference": { "name": "Lionel Messi", "value": 10 },
+    "target": { "name": "Andrés Iniesta", "value": 9 },
+    "correct_answer": "Moins",
+    "difficulty": 3
+  },
+  {
+    "id": "hl_109",
+    "label": "Taille (cm)",
+    "reference": { "name": "Virgil van Dijk", "value": 193 },
+    "target": { "name": "Erling Haaland", "value": 195 },
+    "correct_answer": "Plus",
+    "difficulty": 3
+  },
+  {
+    "id": "hl_110",
+    "label": "Année de fondation",
+    "reference": { "name": "Olympique de Marseille", "value": 1899 },
+    "target": { "name": "AS Monaco", "value": 1924 },
+    "correct_answer": "Plus",
+    "difficulty": 2
+  },
+  {
+    "id": "hl_111",
+    "label": "Buts pour le PSG",
+    "reference": { "name": "Edinson Cavani", "value": 200 },
+    "target": { "name": "Zlatan Ibrahimović", "value": 156 },
+    "correct_answer": "Moins",
+    "difficulty": 1
+  },
+  {
+    "id": "hl_112",
+    "label": "Montant du transfert (M€)",
+    "reference": { "name": "Moisés Caicedo (à Chelsea)", "value": 116 },
+    "target": { "name": "Paul Pogba (à Man Utd)", "value": 105 },
+    "correct_answer": "Moins",
+    "difficulty": 2
+  },
+  {
+    "id": "hl_113",
+    "label": "Sélections nationales (Angleterre)",
+    "reference": { "name": "David Beckham", "value": 115 },
+    "target": { "name": "Steven Gerrard", "value": 114 },
+    "correct_answer": "Moins",
+    "difficulty": 3
+  },
+  {
+    "id": "hl_114",
+    "label": "Buts en Serie A",
+    "reference": { "name": "Francesco Totti", "value": 250 },
+    "target": { "name": "Antonio Di Natale", "value": 209 },
+    "correct_answer": "Moins",
+    "difficulty": 2
+  },
+  {
+    "id": "hl_115",
+    "label": "Ligues des Champions remportées (Club)",
+    "reference": { "name": "Manchester United", "value": 3 },
+    "target": { "name": "Benfica", "value": 2 },
+    "correct_answer": "Moins",
+    "difficulty": 2
+  },
+  {
+    "id": "hl_116",
+    "label": "Ballons d'Or",
+    "reference": { "name": "Marco van Basten", "value": 3 },
+    "target": { "name": "Ronaldo R9", "value": 2 },
+    "correct_answer": "Moins",
+    "difficulty": 2
+  },
+  {
+    "id": "hl_117",
+    "label": "Capacité du Stade",
+    "reference": { "name": "Emirates Stadium", "value": 60704 },
+    "target": { "name": "London Stadium (West Ham)", "value": 62500 },
+    "correct_answer": "Plus",
+    "difficulty": 3
+  },
+  {
+    "id": "hl_118",
+    "label": "Buts en sélection (Brésil)",
+    "reference": { "name": "Romário", "value": 55 },
+    "target": { "name": "Zico", "value": 48 },
+    "correct_answer": "Moins",
+    "difficulty": 3
+  },
+  {
+    "id": "hl_119",
+    "label": "Âge (en Janvier 2026)",
+    "reference": { "name": "Xabi Alonso (Coach)", "value": 44 },
+    "target": { "name": "Mikel Arteta (Coach)", "value": 43 },
+    "correct_answer": "Moins",
+    "difficulty": 3
+  },
+  {
+    "id": "hl_120",
+    "label": "Montant transfert défenseur (M€)",
+    "reference": { "name": "Joško Gvardiol (à City)", "value": 90 },
+    "target": { "name": "Harry Maguire (à Man Utd)", "value": 87 },
+    "correct_answer": "Moins",
+    "difficulty": 3
+  },
+  {
+    "id": "hl_121",
+    "label": "Matchs joués en Ligue 1",
+    "reference": { "name": "Florent Balmont", "value": 513 },
+    "target": { "name": "Hilton", "value": 512 },
+    "correct_answer": "Moins",
+    "difficulty": 3
+  },
+  {
+    "id": "hl_122",
+    "label": "Titres de Coupe du Monde (Pays)",
+    "reference": { "name": "Angleterre", "value": 1 },
+    "target": { "name": "Uruguay", "value": 2 },
+    "correct_answer": "Plus",
+    "difficulty": 1
+  },
+  {
+    "id": "hl_123",
+    "label": "Buts pour Chelsea",
+    "reference": { "name": "Frank Lampard", "value": 211 },
+    "target": { "name": "Didier Drogba", "value": 164 },
+    "correct_answer": "Moins",
+    "difficulty": 2
+  },
+  {
+    "id": "hl_124",
+    "label": "Taille (cm)",
+    "reference": { "name": "Bernardo Silva", "value": 173 },
+    "target": { "name": "Antoine Griezmann", "value": 176 },
+    "correct_answer": "Plus",
+    "difficulty": 3
+  },
+  {
+    "id": "hl_125",
+    "label": "Saisons passées à Arsenal (Joueur)",
+    "reference": { "name": "Thierry Henry", "value": 8 },
+    "target": { "name": "Dennis Bergkamp", "value": 11 },
+    "correct_answer": "Plus",
+    "difficulty": 2
+  },
+  {
+    "id": "hl_126",
+    "label": "Montant du transfert (M€)",
+    "reference": { "name": "Romelu Lukaku (à Chelsea)", "value": 113 },
+    "target": { "name": "Jack Grealish (à City)", "value": 117 },
+    "correct_answer": "Plus",
+    "difficulty": 3
+  },
+  {
+    "id": "hl_127",
+    "label": "Buts en sélection (Allemagne)",
+    "reference": { "name": "Lukas Podolski", "value": 49 },
+    "target": { "name": "Miroslav Klose", "value": 71 },
+    "correct_answer": "Plus",
+    "difficulty": 1
+  },
+  {
+    "id": "hl_128",
+    "label": "Année de fondation",
+    "reference": { "name": "FC Nantes", "value": 1943 },
+    "target": { "name": "LOSC Lille", "value": 1944 },
+    "correct_answer": "Plus",
+    "difficulty": 3
+  },
+  {
+    "id": "hl_129",
+    "label": "Capacité du Stade",
+    "reference": { "name": "Johan Cruyff Arena (Ajax)", "value": 55865 },
+    "target": { "name": "Estádio da Luz (Benfica)", "value": 64642 },
+    "correct_answer": "Plus",
+    "difficulty": 2
+  },
+  {
+    "id": "hl_130",
+    "label": "Matchs de Coupe du Monde (Joueur)",
+    "reference": { "name": "Lionel Messi", "value": 26 },
+    "target": { "name": "Lothar Matthäus", "value": 25 },
+    "correct_answer": "Moins",
+    "difficulty": 2
+  },
+  {
+    "id": "hl_131",
+    "label": "Buts pour Manchester City",
+    "reference": { "name": "Sergio Agüero", "value": 260 },
+    "target": { "name": "Raheem Sterling", "value": 131 },
+    "correct_answer": "Moins",
+    "difficulty": 1
+  },
+  {
+    "id": "hl_132",
+    "label": "Prix transfert (M€)",
+    "reference": { "name": "Mykhaylo Mudryk (à Chelsea)", "value": 70 },
+    "target": { "name": "Alexander Isak (à Newcastle)", "value": 70 },
+    "correct_answer": "Moins",
+    "difficulty": 3
+  },
+  {
+    "id": "hl_133",
+    "label": "Ligues des Champions (Coach)",
+    "reference": { "name": "José Mourinho", "value": 2 },
+    "target": { "name": "Pep Guardiola", "value": 3 },
+    "correct_answer": "Plus",
+    "difficulty": 2
+  },
+  {
+    "id": "hl_134",
+    "label": "Taille (cm)",
+    "reference": { "name": "Kylian Mbappé", "value": 178 },
+    "target": { "name": "Karim Benzema", "value": 185 },
+    "correct_answer": "Plus",
+    "difficulty": 2
+  },
+  {
+    "id": "hl_135",
+    "label": "Buts en sélection (Belgique)",
+    "reference": { "name": "Eden Hazard", "value": 33 },
+    "target": { "name": "Kevin De Bruyne", "value": 28 },
+    "correct_answer": "Moins",
+    "difficulty": 3
+  },
+  {
+    "id": "hl_136",
+    "label": "Titres de Ligue 1 (Club)",
+    "reference": { "name": "Olympique de Marseille", "value": 9 },
+    "target": { "name": "FC Nantes", "value": 8 },
+    "correct_answer": "Moins",
+    "difficulty": 3
+  },
+  {
+    "id": "hl_137",
+    "label": "Âge (en Janvier 2026)",
+    "reference": { "name": "Eduardo Camavinga", "value": 23 },
+    "target": { "name": "Aurélien Tchouaméni", "value": 25 },
+    "correct_answer": "Plus",
+    "difficulty": 2
+  },
+  {
+    "id": "hl_138",
+    "label": "Montant du transfert (M€)",
+    "reference": { "name": "Zlatan Ibrahimović (au PSG)", "value": 20 },
+    "target": { "name": "Edinson Cavani (au PSG)", "value": 64 },
+    "correct_answer": "Plus",
+    "difficulty": 2
+  },
+  {
+    "id": "hl_139",
+    "label": "Buts en Bundesliga (Saison record)",
+    "reference": { "name": "Robert Lewandowski", "value": 41 },
+    "target": { "name": "Gerd Müller", "value": 40 },
+    "correct_answer": "Moins",
+    "difficulty": 2
+  },
+  {
+    "id": "hl_140",
+    "label": "Capacité du Stade",
+    "reference": { "name": "Villa Park (Aston Villa)", "value": 42682 },
+    "target": { "name": "St James' Park (Newcastle)", "value": 52305 },
+    "correct_answer": "Plus",
+    "difficulty": 2
+  },
+  {
+    "id": "hl_141",
+    "label": "Sélections nationales (Allemagne)",
+    "reference": { "name": "Manuel Neuer", "value": 124 },
+    "target": { "name": "Thomas Müller", "value": 131 },
+    "correct_answer": "Plus",
+    "difficulty": 3
+  },
+  {
+    "id": "hl_142",
+    "label": "Buts en finale de Ligue des Champions",
+    "reference": { "name": "Cristiano Ronaldo", "value": 4 },
+    "target": { "name": "Gareth Bale", "value": 3 },
+    "correct_answer": "Moins",
+    "difficulty": 2
+  },
+  {
+    "id": "hl_143",
+    "label": "Année de fondation",
+    "reference": { "name": "Bayer Leverkusen", "value": 1904 },
+    "target": { "name": "Borussia Dortmund", "value": 1909 },
+    "correct_answer": "Plus",
+    "difficulty": 3
+  },
+  {
+    "id": "hl_144",
+    "label": "Montant du transfert (M€)",
+    "reference": { "name": "Luis Suárez (au Barça)", "value": 81 },
+    "target": { "name": "Neymar (au Barça)", "value": 88 },
+    "correct_answer": "Plus",
+    "difficulty": 3
+  },
+  {
+    "id": "hl_145",
+    "label": "Buts pour Tottenham",
+    "reference": { "name": "Harry Kane", "value": 280 },
+    "target": { "name": "Son Heung-min", "value": 165 },
+    "correct_answer": "Moins",
+    "difficulty": 1
+  },
+  {
+    "id": "hl_146",
+    "label": "Titres de Premier League (Club)",
+    "reference": { "name": "Chelsea FC", "value": 5 },
+    "target": { "name": "Arsenal", "value": 3 },
+    "correct_answer": "Moins",
+    "difficulty": 2
+  },
+  {
+    "id": "hl_147",
+    "label": "Taille (cm)",
+    "reference": { "name": "Manuel Neuer", "value": 193 },
+    "target": { "name": "Gianluigi Donnarumma", "value": 196 },
+    "correct_answer": "Plus",
+    "difficulty": 3
+  },
+  {
+    "id": "hl_148",
+    "label": "Buts en sélection (Argentine)",
+    "reference": { "name": "Diego Maradona", "value": 34 },
+    "target": { "name": "Sergio Agüero", "value": 41 },
+    "correct_answer": "Plus",
+    "difficulty": 3
+  },
+  {
+    "id": "hl_149",
+    "label": "Âge (en Janvier 2026)",
+    "reference": { "name": "Marcus Rashford", "value": 28 },
+    "target": { "name": "Trent Alexander-Arnold", "value": 27 },
+    "correct_answer": "Moins",
+    "difficulty": 3
+  },
+  {
+    "id": "hl_150",
+    "label": "Montant du transfert (M€)",
+    "reference": { "name": "Kai Havertz (à Arsenal)", "value": 75 },
+    "target": { "name": "Dominik Szoboszlai (à Liverpool)", "value": 70 },
+    "correct_answer": "Moins",
+    "difficulty": 3
+  },
+  {
+    "id": "hl_151",
+    "label": "Buts pour le Bayern Munich",
+    "reference": { "name": "Robert Lewandowski", "value": 344 },
+    "target": { "name": "Thomas Müller", "value": 245 },
+    "correct_answer": "Moins",
+    "difficulty": 2
+  },
+  {
+    "id": "hl_152",
+    "label": "Capacité du Stade",
+    "reference": { "name": "Stade Pierre-Mauroy (Lille)", "value": 50186 },
+    "target": { "name": "Groupama Stadium (Lyon)", "value": 59186 },
+    "correct_answer": "Plus",
+    "difficulty": 2
+  },
+  {
+    "id": "hl_153",
+    "label": "Sélections nationales (Uruguay)",
+    "reference": { "name": "Luis Suárez", "value": 138 },
+    "target": { "name": "Edinson Cavani", "value": 136 },
+    "correct_answer": "Moins",
+    "difficulty": 3
+  },
+  {
+    "id": "hl_154",
+    "label": "Ligues des Champions (Club)",
+    "reference": { "name": "Nottingham Forest", "value": 2 },
+    "target": { "name": "Borussia Dortmund", "value": 1 },
+    "correct_answer": "Moins",
+    "difficulty": 2
+  },
+  {
+    "id": "hl_155",
+    "label": "Buts en sélection (Pologne)",
+    "reference": { "name": "Robert Lewandowski", "value": 84 },
+    "target": { "name": "Włodzimierz Lubański", "value": 48 },
+    "correct_answer": "Moins",
+    "difficulty": 2
+  },
+  {
+    "id": "hl_156",
+    "label": "Montant du transfert (M€)",
+    "reference": { "name": "Casemiro (à Man Utd)", "value": 70 },
+    "target": { "name": "Mason Mount (à Man Utd)", "value": 64 },
+    "correct_answer": "Moins",
+    "difficulty": 3
+  },
+  {
+    "id": "hl_157",
+    "label": "Année de fondation",
+    "reference": { "name": "Real Madrid", "value": 1902 },
+    "target": { "name": "Atlético de Madrid", "value": 1903 },
+    "correct_answer": "Plus",
+    "difficulty": 3
+  },
+  {
+    "id": "hl_158",
+    "label": "Taille (cm)",
+    "reference": { "name": "Ederson", "value": 188 },
+    "target": { "name": "Alisson Becker", "value": 193 },
+    "correct_answer": "Plus",
+    "difficulty": 2
+  },
+  {
+    "id": "hl_159",
+    "label": "Buts pour la Juventus",
+    "reference": { "name": "Alessandro Del Piero", "value": 290 },
+    "target": { "name": "Roberto Baggio", "value": 115 },
+    "correct_answer": "Moins",
+    "difficulty": 2
+  },
+  {
+    "id": "hl_160",
+    "label": "Âge (en Janvier 2026)",
+    "reference": { "name": "Rodri", "value": 29 },
+    "target": { "name": "Phil Foden", "value": 25 },
+    "correct_answer": "Moins",
+    "difficulty": 2
+  },
+  {
+    "id": "hl_161",
+    "label": "Montant du transfert (M€)",
+    "reference": { "name": "Achraf Hakimi (au PSG)", "value": 68 },
+    "target": { "name": "Manuel Ugarte (au PSG)", "value": 60 },
+    "correct_answer": "Moins",
+    "difficulty": 3
+  },
+  {
+    "id": "hl_162",
+    "label": "Buts en sélection (Pays-Bas)",
+    "reference": { "name": "Robin van Persie", "value": 50 },
+    "target": { "name": "Memphis Depay", "value": 46 },
+    "correct_answer": "Moins",
+    "difficulty": 2
+  },
+  {
+    "id": "hl_163",
+    "label": "Titres de Serie A (Club)",
+    "reference": { "name": "AS Roma", "value": 3 },
+    "target": { "name": "Lazio Rome", "value": 2 },
+    "correct_answer": "Moins",
+    "difficulty": 2
+  },
+  {
+    "id": "hl_164",
+    "label": "Capacité du Stade",
+    "reference": { "name": "Estadio Azteca (Mexico)", "value": 87523 },
+    "target": { "name": "Maracanã (Rio)", "value": 78838 },
+    "correct_answer": "Moins",
+    "difficulty": 2
+  },
+  {
+    "id": "hl_165",
+    "label": "Matchs pour Manchester United",
+    "reference": { "name": "Ryan Giggs", "value": 963 },
+    "target": { "name": "Paul Scholes", "value": 718 },
+    "correct_answer": "Moins",
+    "difficulty": 1
+  },
+  {
+    "id": "hl_166",
+    "label": "Prix transfert (M€)",
+    "reference": { "name": "Erling Haaland (à City)", "value": 60 },
+    "target": { "name": "Darwin Núñez (à Liverpool)", "value": 75 },
+    "correct_answer": "Plus",
+    "difficulty": 2
+  },
+  {
+    "id": "hl_167",
+    "label": "Buts en sélection (Suède)",
+    "reference": { "name": "Henrik Larsson", "value": 37 },
+    "target": { "name": "Zlatan Ibrahimović", "value": 62 },
+    "correct_answer": "Plus",
+    "difficulty": 1
+  },
+  {
+    "id": "hl_168",
+    "label": "Taille (cm)",
+    "reference": { "name": "Harry Maguire", "value": 194 },
+    "target": { "name": "Ibrahima Konaté", "value": 194 },
+    "correct_answer": "Plus",
+    "difficulty": 3
+  },
+  {
+    "id": "hl_169",
+    "label": "Année de fondation",
+    "reference": { "name": "Sevilla FC", "value": 1890 },
+    "target": { "name": "Real Betis", "value": 1907 },
+    "correct_answer": "Plus",
+    "difficulty": 3
+  },
+  {
+    "id": "hl_170",
+    "label": "Buts pour l'Inter Milan",
+    "reference": { "name": "Lautaro Martínez", "value": 129 },
+    "target": { "name": "Mauro Icardi", "value": 124 },
+    "correct_answer": "Moins",
+    "difficulty": 3
+  },
+  {
+    "id": "hl_171",
+    "label": "Montant du transfert (M€)",
+    "reference": { "name": "Ben White (à Arsenal)", "value": 58 },
+    "target": { "name": "Lisandro Martínez (à Man Utd)", "value": 57 },
+    "correct_answer": "Moins",
+    "difficulty": 3
+  },
+  {
+    "id": "hl_172",
+    "label": "Sélections nationales (Croatie)",
+    "reference": { "name": "Ivan Rakitić", "value": 106 },
+    "target": { "name": "Ivan Perišić", "value": 136 },
+    "correct_answer": "Plus",
+    "difficulty": 2
+  },
+  {
+    "id": "hl_173",
+    "label": "Buts en sélection (Colombie)",
+    "reference": { "name": "Radamel Falcao", "value": 36 },
+    "target": { "name": "James Rodríguez", "value": 27 },
+    "correct_answer": "Moins",
+    "difficulty": 2
+  },
+  {
+    "id": "hl_174",
+    "label": "Âge (en Janvier 2026)",
+    "reference": { "name": "Bukayo Saka", "value": 24 },
+    "target": { "name": "Gabriel Martinelli", "value": 24 },
+    "correct_answer": "Plus",
+    "difficulty": 3
+  },
+  {
+    "id": "hl_175",
+    "label": "Ligues des Champions remportées (Pays)",
+    "reference": { "name": "Clubs Anglais", "value": 15 },
+    "target": { "name": "Clubs Italiens", "value": 12 },
+    "correct_answer": "Moins",
+    "difficulty": 2
+  },
+  {
+    "id": "hl_176",
+    "label": "Capacité du Stade",
+    "reference": { "name": "Parc OL (Lyon)", "value": 59186 },
+    "target": { "name": "Stade Vélodrome (Marseille)", "value": 67394 },
+    "correct_answer": "Plus",
+    "difficulty": 1
+  },
+  {
+    "id": "hl_177",
+    "label": "Buts pour Arsenal",
+    "reference": { "name": "Robin van Persie", "value": 132 },
+    "target": { "name": "Olivier Giroud", "value": 105 },
+    "correct_answer": "Moins",
+    "difficulty": 2
+  },
+  {
+    "id": "hl_178",
+    "label": "Montant du transfert (M€)",
+    "reference": { "name": "Leroy Sané (au Bayern)", "value": 49 },
+    "target": { "name": "Sadio Mané (au Bayern)", "value": 32 },
+    "correct_answer": "Moins",
+    "difficulty": 2
+  },
+  {
+    "id": "hl_179",
+    "label": "Titres de Copa Libertadores",
+    "reference": { "name": "Boca Juniors", "value": 6 },
+    "target": { "name": "Independiente", "value": 7 },
+    "correct_answer": "Plus",
+    "difficulty": 3
+  },
+  {
+    "id": "hl_180",
+    "label": "Taille (cm)",
+    "reference": { "name": "Marquinhos", "value": 183 },
+    "target": { "name": "Thiago Silva", "value": 181 },
+    "correct_answer": "Moins",
+    "difficulty": 3
+  },
+  {
+    "id": "hl_181",
+    "label": "Buts en sélection (Sénégal)",
+    "reference": { "name": "Sadio Mané", "value": 43 },
+    "target": { "name": "Henri Camara", "value": 29 },
+    "correct_answer": "Moins",
+    "difficulty": 2
+  },
+  {
+    "id": "hl_182",
+    "label": "Année de fondation",
+    "reference": { "name": "Santos FC", "value": 1912 },
+    "target": { "name": "Flamengo", "value": 1895 },
+    "correct_answer": "Moins",
+    "difficulty": 3
+  },
+  {
+    "id": "hl_183",
+    "label": "Montant du transfert (M€)",
+    "reference": { "name": "Bruno Fernandes (à Man Utd)", "value": 65 },
+    "target": { "name": "Anthony Martial (à Man Utd)", "value": 60 },
+    "correct_answer": "Moins",
+    "difficulty": 3
+  },
+  {
+    "id": "hl_184",
+    "label": "Buts en Ligue 1",
+    "reference": { "name": "Pauleta", "value": 141 },
+    "target": { "name": "Jean-Pierre Papin", "value": 156 },
+    "correct_answer": "Plus",
+    "difficulty": 2
+  },
+  {
+    "id": "hl_185",
+    "label": "Sélections nationales (Espagne)",
+    "reference": { "name": "Xavi", "value": 133 },
+    "target": { "name": "Xabi Alonso", "value": 114 },
+    "correct_answer": "Moins",
+    "difficulty": 2
+  },
+  {
+    "id": "hl_186",
+    "label": "Âge (en Janvier 2026)",
+    "reference": { "name": "Kai Havertz", "value": 26 },
+    "target": { "name": "Jamal Musiala", "value": 22 },
+    "correct_answer": "Moins",
+    "difficulty": 2
+  },
+  {
+    "id": "hl_187",
+    "label": "Capacité du Stade",
+    "reference": { "name": "Ibrox Stadium (Rangers)", "value": 50817 },
+    "target": { "name": "Celtic Park", "value": 60411 },
+    "correct_answer": "Plus",
+    "difficulty": 2
+  },
+  {
+    "id": "hl_188",
+    "label": "Buts pour Manchester United",
+    "reference": { "name": "George Best", "value": 179 },
+    "target": { "name": "Cristiano Ronaldo", "value": 145 },
+    "correct_answer": "Moins",
+    "difficulty": 2
+  },
+  {
+    "id": "hl_189",
+    "label": "Montant du transfert (M€)",
+    "reference": { "name": "Richarlison (à Tottenham)", "value": 58 },
+    "target": { "name": "Gabriel Jesus (à Arsenal)", "value": 52 },
+    "correct_answer": "Moins",
+    "difficulty": 3
+  },
+  {
+    "id": "hl_190",
+    "label": "Titres de Ligue 1 (Joueur)",
+    "reference": { "name": "Marco Verratti", "value": 9 },
+    "target": { "name": "Marquinhos", "value": 9 },
+    "correct_answer": "Plus",
+    "difficulty": 3
+  },
+  {
+    "id": "hl_191",
+    "label": "Taille (cm)",
+    "reference": { "name": "Ousmane Dembélé", "value": 178 },
+    "target": { "name": "Kingsley Coman", "value": 179 },
+    "correct_answer": "Plus",
+    "difficulty": 3
+  },
+  {
+    "id": "hl_192",
+    "label": "Buts en sélection (Chili)",
+    "reference": { "name": "Alexis Sánchez", "value": 51 },
+    "target": { "name": "Eduardo Vargas", "value": 40 },
+    "correct_answer": "Moins",
+    "difficulty": 2
+  },
+  {
+    "id": "hl_193",
+    "label": "Année de fondation",
+    "reference": { "name": "Feyenoord", "value": 1908 },
+    "target": { "name": "PSV Eindhoven", "value": 1913 },
+    "correct_answer": "Plus",
+    "difficulty": 2
+  },
+  {
+    "id": "hl_194",
+    "label": "Montant du transfert (M€)",
+    "reference": { "name": "Ferland Mendy (au Real)", "value": 48 },
+    "target": { "name": "Eder Militão (au Real)", "value": 50 },
+    "correct_answer": "Plus",
+    "difficulty": 3
+  },
+  {
+    "id": "hl_195",
+    "label": "Buts pour l'Atlético de Madrid",
+    "reference": { "name": "Antoine Griezmann", "value": 181 },
+    "target": { "name": "Fernando Torres", "value": 129 },
+    "correct_answer": "Moins",
+    "difficulty": 2
+  },
+  {
+    "id": "hl_196",
+    "label": "Sélections nationales (Pays-Bas)",
+    "reference": { "name": "Wesley Sneijder", "value": 134 },
+    "target": { "name": "Edwin van der Sar", "value": 130 },
+    "correct_answer": "Moins",
+    "difficulty": 3
+  },
+  {
+    "id": "hl_197",
+    "label": "Âge (en Janvier 2026)",
+    "reference": { "name": "William Saliba", "value": 24 },
+    "target": { "name": "Ibrahima Konaté", "value": 26 },
+    "correct_answer": "Plus",
+    "difficulty": 3
+  },
+  {
+    "id": "hl_198",
+    "label": "Capacité du Stade",
+    "reference": { "name": "Stade Louis-II (Monaco)", "value": 18523 },
+    "target": { "name": "Stade de la Mosson (Montpellier)", "value": 32900 },
+    "correct_answer": "Plus",
+    "difficulty": 1
+  },
+  {
+    "id": "hl_199",
+    "label": "Buts en sélection (Cameroun)",
+    "reference": { "name": "Roger Milla", "value": 43 },
+    "target": { "name": "Vincent Aboubakar", "value": 37 },
+    "correct_answer": "Moins",
+    "difficulty": 2
+  },
+  {
+    "id": "hl_200",
+    "label": "Montant du transfert (M€)",
+    "reference": { "name": "Cody Gakpo (à Liverpool)", "value": 42 },
+    "target": { "name": "Diogo Jota (à Liverpool)", "value": 45 },
+    "correct_answer": "Plus",
+    "difficulty": 3
+  }
+]

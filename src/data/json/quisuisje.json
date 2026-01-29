@@ -1,0 +1,2402 @@
+[
+  {
+    "id": "who_1",
+    "target": "Kylian Mbappé",
+    "clues": [
+      "Né en 1998, j'ai été formé à l'AS Bondy avant d'exploser sur le Rocher monégasque.",
+      "Je suis devenu le deuxième joueur le plus cher de l'histoire lors de mon transfert en 2017.",
+      "Champion du Monde 2018, j'ai inscrit un triplé historique en finale du Mondial 2022.",
+      "J'ai formé la 'MNM' avec Neymar et Messi avant de quitter la France.",
+      "En janvier 2026, je suis la star numéro 9 du Real Madrid et capitaine des Bleus."
+    ],
+    "difficulty": 1
+  },
+  {
+    "id": "who_2",
+    "target": "Erling Haaland",
+    "clues": [
+      "Né à Leeds, je suis un international norvégien fils d'un ancien joueur de Premier League.",
+      "J'ai marqué 9 buts en un seul match lors de la Coupe du Monde U20 contre le Honduras.",
+      "J'ai réalisé le triplé Premier League / FA Cup / Ligue des Champions dès ma première saison en Angleterre.",
+      "Kevin De Bruyne est mon meilleur pourvoyeur de ballons.",
+      "Surnommé le 'Cyborg', je suis l'avant-centre terreur de Manchester City."
+    ],
+    "difficulty": 1
+  },
+  {
+    "id": "who_3",
+    "target": "Lionel Messi",
+    "clues": [
+      "J'ai quitté mon pays natal très jeune pour signer sur une serviette en papier à Barcelone.",
+      "J'ai remporté l'or olympique en 2008 et la Copa América en 2021 et 2024.",
+      "J'ai gagné 8 Ballons d'Or, un record absolu dans l'histoire du football.",
+      "J'ai formé avec Suarez et Neymar la célèbre 'MSN'.",
+      "Légende vivante argentine, je finis ma carrière sous le soleil de l'Inter Miami."
+    ],
+    "difficulty": 1
+  },
+  {
+    "id": "who_4",
+    "target": "Cristiano Ronaldo",
+    "clues": [
+      "Formé au Sporting Portugal, j'ai impressionné Alex Ferguson lors d'un match amical en 2003.",
+      "Je suis le meilleur buteur de l'histoire de la Ligue des Champions et du Real Madrid.",
+      "J'ai remporté l'Euro 2016 avec le Portugal en sortant blessé lors de la finale.",
+      "J'ai porté le numéro 7 à Manchester United, au Real et à la Juventus.",
+      "Célèbre pour mon 'SIUUU', je joue en Arabie Saoudite depuis 2023."
+    ],
+    "difficulty": 1
+  },
+  {
+    "id": "who_5",
+    "target": "Zinédine Zidane",
+    "clues": [
+      "J'ai débuté ma carrière professionnelle à l'AS Cannes avant de rejoindre Bordeaux.",
+      "J'ai remporté le Ballon d'Or en 1998, l'année de mon premier sacre mondial.",
+      "J'ai marqué l'un des plus beaux buts de l'histoire en finale de C1 2002 : une volée du gauche.",
+      "J'ai été l'entraîneur qui a mené le Real Madrid à 3 Ligues des Champions consécutives.",
+      "Ma carrière de joueur s'est terminée sur un coup de tête en finale du Mondial 2006."
+    ],
+    "difficulty": 1
+  },
+  {
+    "id": "who_6",
+    "target": "Vinicius Jr",
+    "clues": [
+      "Brésilien, j'ai été acheté très cher à Flamengo alors que je n'étais qu'un adolescent.",
+      "J'ai eu des débuts difficiles en Europe, manquant de finition, avant d'exploser statistiquement.",
+      "J'ai marqué l'unique but de la finale de la Ligue des Champions 2022 contre Liverpool.",
+      "J'ai hérité du numéro 7 du Real Madrid après le départ d'Eden Hazard.",
+      "Ailier gauche ultra-rapide, je suis le visage de la lutte contre le racisme en Espagne."
+    ],
+    "difficulty": 2
+  },
+  {
+    "id": "who_7",
+    "target": "Jude Bellingham",
+    "clues": [
+      "Birmingham City a retiré mon numéro 22 alors que je n'avais que 17 ans.",
+      "J'ai brillé en Bundesliga avec le Borussia Dortmund avant mon transfert record.",
+      "J'ai remporté le trophée Kopa du meilleur jeune joueur du monde.",
+      "J'ai marqué lors de mes débuts au Real Madrid, imitant ma célébration bras ouverts.",
+      "Milieu anglais complet, je suis une superstar du Real Madrid en 2026."
+    ],
+    "difficulty": 2
+  },
+  {
+    "id": "who_8",
+    "target": "Antoine Griezmann",
+    "clues": [
+      "Refusé par les centres de formation français, je me suis exilé très jeune à la Real Sociedad.",
+      "J'ai fini sur le podium du Ballon d'Or en 2016 et 2018.",
+      "Homme de base de Didier Deschamps, j'ai enchaîné un record de matchs consécutifs en sélection.",
+      "J'ai eu un passage compliqué au FC Barcelone avant de retourner à l'Atlético.",
+      "Meilleur passeur de l'histoire des Bleus, je suis une légende de l'Atlético de Madrid."
+    ],
+    "difficulty": 2
+  },
+  {
+    "id": "who_9",
+    "target": "Kevin De Bruyne",
+    "clues": [
+      "J'ai été vendu par Chelsea à Wolfsburg car José Mourinho ne me faisait pas jouer.",
+      "J'ai été élu meilleur joueur de Bundesliga en 2015 avant de revenir en Angleterre.",
+      "J'ai terminé 3ème du Ballon d'Or 2022.",
+      "Je suis le maître à jouer de Pep Guardiola depuis près d'une décennie.",
+      "Milieu belge roux, je suis considéré comme le meilleur passeur de la Premier League moderne."
+    ],
+    "difficulty": 2
+  },
+  {
+    "id": "who_10",
+    "target": "Harry Kane",
+    "clues": [
+      "J'ai été prêté à Leyton Orient, Millwall et Leicester avant de m'imposer dans mon club formateur.",
+      "J'ai quitté l'Angleterre en 2023 pour enfin gagner des trophées, rejoignant la Bundesliga.",
+      "Je suis le meilleur buteur de l'histoire de la sélection anglaise et de Tottenham.",
+      "J'ai formé un duo redoutable avec Heung-Min Son.",
+      "Buteur anglais prolifique, je porte les couleurs du Bayern Munich."
+    ],
+    "difficulty": 2
+  },
+  {
+    "id": "who_11",
+    "target": "Zlatan Ibrahimovic",
+    "clues": [
+      "J'ai débuté à Malmö FF avant de rejoindre l'Ajax Amsterdam.",
+      "J'ai remporté des titres de champion dans 4 pays différents (Pays-Bas, Italie, Espagne, France).",
+      "J'ai inscrit un retourné acrobatique de 30 mètres contre l'Angleterre.",
+      "J'ai dit : 'Je suis venu comme un roi, je repars comme une légende' en quittant le PSG.",
+      "Géant suédois retraité, je me considérais comme un Dieu du football."
+    ],
+    "difficulty": 1
+  },
+  {
+    "id": "who_12",
+    "target": "Luka Modric",
+    "clues": [
+      "J'ai grandi pendant la guerre d'indépendance de la Croatie.",
+      "J'ai été élu 'Pire recrue de l'année' par Marca lors de ma première saison au Real Madrid.",
+      "J'ai brisé l'hégémonie Messi-Ronaldo en remportant le Ballon d'Or 2018.",
+      "J'ai formé un trio légendaire au milieu avec Casemiro et Kroos.",
+      "Meneur de jeu croate soyeux, j'ai joué au plus haut niveau jusqu'à 40 ans."
+    ],
+    "difficulty": 2
+  },
+  {
+    "id": "who_13",
+    "target": "Neymar Jr",
+    "clues": [
+      "J'ai remporté la Copa Libertadores avec Santos en 2011.",
+      "Mon transfert en 2017 reste, en 2026, le plus cher de l'histoire du football (222M€).",
+      "J'ai marqué en finale de la Ligue des Champions 2015 à Berlin.",
+      "J'ai été le coéquipier de Messi au Barça et au PSG.",
+      "Star brésilienne aux dribbles chaloupés, ma carrière a été marquée par les blessures et l'Arabie Saoudite."
+    ],
+    "difficulty": 1
+  },
+  {
+    "id": "who_14",
+    "target": "Karim Benzema",
+    "clues": [
+      "Formé à Lyon, j'ai fait partie de la fameuse 'Génération 87' française.",
+      "J'ai été longtemps au service de Ronaldo avant de devenir le leader offensif de mon club.",
+      "J'ai remporté le Ballon d'Or 2022 à l'unanimité.",
+      "J'ai été exclu de l'équipe de France pendant plus de 5 ans suite à une affaire extra-sportive.",
+      "Légende du Real Madrid, j'ai fini ma carrière en Arabie Saoudite (Al-Ittihad)."
+    ],
+    "difficulty": 1
+  },
+  {
+    "id": "who_15",
+    "target": "Toni Kroos",
+    "clues": [
+      "Seul joueur né en ex-RDA à avoir remporté la Coupe du Monde.",
+      "J'ai gagné la Ligue des Champions avec deux clubs différents (Bayern et Real).",
+      "J'ai pris ma retraite internationale, puis je suis revenu pour l'Euro 2024 à domicile.",
+      "J'étais le métronome du milieu madrilène, connu pour ma précision de passe chirurgicale.",
+      "J'ai pris ma retraite définitive du football à l'été 2024 au sommet de mon art."
+    ],
+    "difficulty": 2
+  },
+  {
+    "id": "who_16",
+    "target": "Luis Suarez",
+    "clues": [
+      "J'ai été capitaine de l'Ajax Amsterdam avant de rejoindre Liverpool.",
+      "J'ai mordu Chiellini lors de la Coupe du Monde 2014.",
+      "J'ai remporté le Soulier d'Or européen à deux reprises (2014, 2016).",
+      "J'ai été le meilleur ami et coéquipier de Messi au Barça et à l'Inter Miami.",
+      "Attaquant uruguayen surnommé 'El Pistolero'."
+    ],
+    "difficulty": 2
+  },
+  {
+    "id": "who_17",
+    "target": "Sergio Ramos",
+    "clues": [
+      "Formé au FC Séville, j'ai été acheté très jeune par le Real Madrid pour jouer latéral droit.",
+      "Je détiens le record de cartons rouges dans l'histoire de la Liga.",
+      "J'ai marqué le but égalisateur à la 93ème minute de la finale de la C1 2014 (La Décima).",
+      "J'ai été le capitaine emblématique du Real Madrid et j'ai joué au PSG.",
+      "Défenseur espagnol légendaire, connu pour mon leadership et mes tatouages."
+    ],
+    "difficulty": 2
+  },
+  {
+    "id": "who_18",
+    "target": "Eden Hazard",
+    "clues": [
+      "J'ai été élu meilleur espoir puis meilleur joueur de Ligue 1 avec le LOSC.",
+      "J'ai été la star absolue de Chelsea pendant 7 ans, remportant deux Premier League.",
+      "J'ai été capitaine de la 'Génération Dorée' belge.",
+      "Mon transfert au Real Madrid a été un échec total à cause de blessures incessantes.",
+      "J'ai pris ma retraite en 2023, connu pour mon amour des burgers et mon talent pur."
+    ],
+    "difficulty": 2
+  },
+  {
+    "id": "who_19",
+    "target": "Gareth Bale",
+    "clues": [
+      "J'ai débuté comme latéral gauche à Southampton.",
+      "J'ai humilié Maicon lors d'un match de Ligue des Champions avec Tottenham.",
+      "J'ai marqué un retourné acrobatique légendaire en finale de C1 2018 contre Liverpool.",
+      "J'ai formé la 'BBC' avec Benzema et Cristiano.",
+      "Gallois, ma devise était : 'Wales. Golf. Madrid. In that order'."
+    ],
+    "difficulty": 2
+  },
+  {
+    "id": "who_20",
+    "target": "Thierry Henry",
+    "clues": [
+      "J'ai joué à la Juventus Turin, mais ce fut un échec avant mon transfert en Angleterre.",
+      "J'ai été membre des 'Invincibles' de 2004.",
+      "J'ai une statue à mon effigie devant l'Emirates Stadium.",
+      "J'ai gagné la Ligue des Champions 2009 avec le Barça de Guardiola.",
+      "Meilleur buteur de l'histoire d'Arsenal et consultant TV vedette."
+    ],
+    "difficulty": 2
+  },
+  {
+    "id": "who_21",
+    "target": "Ronaldinho",
+    "clues": [
+      "J'ai commencé ma carrière européenne au Paris Saint-Germain.",
+      "J'ai reçu une Standing Ovation du public du Santiago Bernabéu lors d'un Clasico.",
+      "J'ai remporté le Ballon d'Or 2005.",
+      "J'ai été le mentor de Lionel Messi à ses débuts au Barça.",
+      "Brésilien au sourire éternel, magicien du football."
+    ],
+    "difficulty": 1
+  },
+  {
+    "id": "who_22",
+    "target": "Ronaldo Nazario",
+    "clues": [
+      "J'ai joué pour le Barça ET le Real Madrid, pour l'Inter ET le Milan AC.",
+      "J'étais surnommé 'Il Fenomeno'.",
+      "J'ai marqué 8 buts lors de la Coupe du Monde 2002, dont deux en finale.",
+      "Mes genoux ont failli briser ma carrière à plusieurs reprises.",
+      "Légendaire numéro 9 brésilien à la coupe de cheveux triangle en 2002."
+    ],
+    "difficulty": 1
+  },
+  {
+    "id": "who_23",
+    "target": "Paolo Maldini",
+    "clues": [
+      "J'ai fait mes débuts en Serie A à 16 ans.",
+      "J'ai passé l'intégralité de ma carrière (25 saisons) dans un seul et même club.",
+      "J'ai remporté 5 Ligues des Champions (ou C1) sur trois décennies différentes.",
+      "J'ai formé avec Nesta une charnière centrale impénétrable.",
+      "Légende absolue et éternel capitaine de l'AC Milan."
+    ],
+    "difficulty": 2
+  },
+  {
+    "id": "who_24",
+    "target": "Andrés Iniesta",
+    "clues": [
+      "J'ai marqué un but dramatique à Stamford Bridge en 2009.",
+      "J'ai été applaudi sur tous les terrains d'Espagne malgré la rivalité des clubs.",
+      "J'ai marqué l'unique but de la finale de la Coupe du Monde 2010.",
+      "J'ai formé avec Xavi le meilleur milieu de terrain de l'histoire.",
+      "Légende du Barça, j'ai fini ma carrière au Japon et aux Émirats."
+    ],
+    "difficulty": 1
+  },
+  {
+    "id": "who_25",
+    "target": "N'Golo Kanté",
+    "clues": [
+      "J'ai joué en National à Boulogne et en Ligue 2 à Caen.",
+      "J'ai été champion d'Angleterre avec Leicester puis avec Chelsea l'année suivante.",
+      "J'ai été élu Homme du Match de la finale de la Ligue des Champions 2021.",
+      "On dit de moi que je cours assez pour couvrir 30% de la surface de la terre.",
+      "Petit milieu français, humble et souriant, parti jouer en Arabie Saoudite."
+    ],
+    "difficulty": 2
+  },
+  {
+    "id": "who_26",
+    "target": "Paul Pogba",
+    "clues": [
+      "J'ai quitté Manchester United libre pour la Juve, puis United m'a racheté plus de 100M€.",
+      "J'ai remporté le prix de Meilleur Jeune Joueur de la Coupe du Monde 2014.",
+      "J'ai marqué en finale de la Coupe du Monde 2018.",
+      "Ma carrière a été freinée par une suspension pour dopage réduite par le TAS.",
+      "Milieu français talentueux surnommé 'La Pioche'."
+    ],
+    "difficulty": 2
+  },
+  {
+    "id": "who_27",
+    "target": "Manuel Neuer",
+    "clues": [
+      "J'ai été formé à Schalke 04 où j'ai été ultra d'une tribune.",
+      "J'ai révolutionné mon poste en jouant comme un libéro.",
+      "J'ai terminé 3ème du Ballon d'Or 2014.",
+      "J'ai gagné deux triplés avec le Bayern Munich (2013, 2020).",
+      "Gardien allemand légendaire, considéré comme le 'GOAT' à son poste."
+    ],
+    "difficulty": 2
+  },
+  {
+    "id": "who_28",
+    "target": "Robert Lewandowski",
+    "clues": [
+      "J'ai failli signer à Blackburn Rovers mais un volcan islandais a bloqué mon avion.",
+      "J'ai marqué un quadruplé contre le Real Madrid en demi-finale de C1 avec Dortmund.",
+      "J'ai marqué 5 buts en 9 minutes contre Wolfsburg.",
+      "J'ai battu le record de buts de Gerd Müller sur une saison de Bundesliga.",
+      "Buteur polonais, machine à buts du Bayern puis du FC Barcelone."
+    ],
+    "difficulty": 2
+  },
+  {
+    "id": "who_29",
+    "target": "Mario Balotelli",
+    "clues": [
+      "J'ai mis le feu à ma propre maison avec des feux d'artifice.",
+      "J'ai délivré ma seule passe décisive en Premier League pour le but du titre d'Aguero.",
+      "J'ai célébré un doublé contre l'Allemagne en 2012 en retirant mon maillot, muscles contractés.",
+      "J'ai porté le maillot 'Why Always Me?'.",
+      "Attaquant italien fantasque, véritable globe-trotter (Inter, City, Milan, Nice, OM, Sion...)."
+    ],
+    "difficulty": 3
+  },
+  {
+    "id": "who_30",
+    "target": "Ricardo Quaresma",
+    "clues": [
+      "Formé au Sporting, j'étais considéré comme plus talentueux que Cristiano Ronaldo à nos débuts.",
+      "J'ai joué au Barça, à l'Inter, à Chelsea, mais j'ai surtout brillé au FC Porto et au Besiktas.",
+      "J'ai un tatouage de larme sous l'œil.",
+      "Je suis le maître absolu de la 'Trivela' (frappe de l'extérieur du pied).",
+      "Ailier portugais culte, surnommé 'O Cigano' (Le Gitan)."
+    ],
+    "difficulty": 3
+  },
+  {
+    "id": "who_31",
+    "target": "Hatem Ben Arfa",
+    "clues": [
+      "Je suis passé par l'INF Clairefontaine et j'ai été filmé dans le documentaire 'À la Clairefontaine'.",
+      "J'ai remporté la Ligue 1 avec Lyon et Marseille.",
+      "J'ai réalisé une saison exceptionnelle avec l'OGC Nice en 2015-2016.",
+      "J'ai eu une altercation célèbre avec Deschamps et une mise au placard au PSG.",
+      "Génie français incompris, capable de dribbler toute une équipe mais sans régularité."
+    ],
+    "difficulty": 3
+  },
+  {
+    "id": "who_32",
+    "target": "Jamie Vardy",
+    "clues": [
+      "Je travaillais en usine et jouais en amateur à 25 ans.",
+      "J'ai battu le record de Ruud van Nistelrooy en marquant 11 matchs de suite en Premier League.",
+      "J'ai été l'attaquant phare du titre miracle de Leicester City en 2016.",
+      "Je suis connu pour boire du Red Bull avant les matchs.",
+      "Légende de Leicester, passé de l'ombre à la lumière."
+    ],
+    "difficulty": 3
+  },
+  {
+    "id": "who_33",
+    "target": "Dimitri Payet",
+    "clues": [
+      "J'ai été vendeur de vêtements à Nantes pendant ma formation.",
+      "J'ai fini 17ème au Ballon d'Or 2016.",
+      "J'ai blessé Cristiano Ronaldo en finale de l'Euro 2016.",
+      "Je suis devenu une idole à West Ham grâce à mes coups francs.",
+      "Numéro 10 légendaire de l'Olympique de Marseille, maintenant au Brésil (Vasco)."
+    ],
+    "difficulty": 3
+  },
+  {
+    "id": "who_34",
+    "target": "Mohamed Salah",
+    "clues": [
+      "J'ai joué au FC Bâle et j'ai eu un passage difficile à Chelsea.",
+      "J'ai relancé ma carrière en Italie à la Fiorentina et à la Roma.",
+      "J'ai battu le record de buts sur une saison de Premier League (32 buts) dès mon arrivée à Liverpool.",
+      "J'ai formé un trio iconique avec Mané et Firmino.",
+      "Le 'Pharaon', légende égyptienne et meilleur buteur africain de l'histoire de la PL."
+    ],
+    "difficulty": 2
+  },
+  {
+    "id": "who_35",
+    "target": "Sadio Mané",
+    "clues": [
+      "J'ai marqué le triplé le plus rapide de l'histoire de la Premier League (2 minutes 56 secondes).",
+      "J'ai joué à Metz et à Salzbourg avant de rejoindre Southampton.",
+      "J'ai fini 2ème du Ballon d'Or 2022 derrière Benzema.",
+      "J'ai offert la première CAN de son histoire au Sénégal.",
+      "Ailier sénégalais, légende de Liverpool, parti ensuite au Bayern et en Arabie Saoudite."
+    ],
+    "difficulty": 2
+  },
+  {
+    "id": "who_36",
+    "target": "Olivier Giroud",
+    "clues": [
+      "J'ai joué à Istres et Tours avant de découvrir la Ligue 1.",
+      "J'ai été champion de France avec Montpellier en 2012.",
+      "J'ai remporté le prix Puskas pour mon but en 'coup du scorpion'.",
+      "J'ai gagné la Coupe du Monde 2018 sans cadrer un seul tir.",
+      "Meilleur buteur de l'histoire des Bleus, j'ai fini ma carrière au LAFC (USA)."
+    ],
+    "difficulty": 2
+  },
+  {
+    "id": "who_37",
+    "target": "Raphaël Varane",
+    "clues": [
+      "J'ai signé au Real Madrid à 18 ans sur recommandation de Zidane.",
+      "J'ai gagné 4 Ligues des Champions et une Coupe du Monde avant mes 26 ans.",
+      "J'ai formé une charnière centrale mythique avec Sergio Ramos.",
+      "J'ai pris ma retraite internationale surprise à 29 ans.",
+      "Défenseur français élégant, j'ai pris ma retraite à Côme en 2024 suite à une blessure."
+    ],
+    "difficulty": 2
+  },
+  {
+    "id": "who_38",
+    "target": "Riyad Mahrez",
+    "clues": [
+      "J'ai été recalé lors d'un essai en Écosse car il faisait trop froid.",
+      "J'ai été élu meilleur joueur de Premier League l'année du titre de Leicester.",
+      "J'ai remporté la CAN 2019 avec l'Algérie grâce à un coup franc à la dernière seconde contre le Nigeria.",
+      "J'ai été célèbre pour mes contrôles porte-manteau.",
+      "Ailier algérien gaucher, passé par City et maintenant en Arabie Saoudite."
+    ],
+    "difficulty": 2
+  },
+  {
+    "id": "who_39",
+    "target": "Sergio Agüero",
+    "clues": [
+      "Je suis le plus jeune joueur à avoir débuté en championnat argentin (15 ans).",
+      "J'ai été le gendre de Diego Maradona.",
+      "J'ai offert le titre à City en 2012 à la 93ème minute (93:20).",
+      "Je suis le meilleur buteur étranger de l'histoire de la Premier League.",
+      "J'ai dû arrêter ma carrière prématurément au Barça pour un problème cardiaque."
+    ],
+    "difficulty": 2
+  },
+  {
+    "id": "who_40",
+    "target": "Gianluigi Buffon",
+    "clues": [
+      "J'ai débuté à Parme en arrêtant les tirs de Weah et Baggio.",
+      "Je suis resté à la Juventus même lors de la relégation en Serie B.",
+      "Je suis le joueur le plus capé de l'histoire de la sélection italienne.",
+      "Je n'ai jamais gagné la Ligue des Champions malgré 3 finales jouées.",
+      "Gardien italien légendaire, j'ai joué jusqu'à 45 ans."
+    ],
+    "difficulty": 2
+  },
+  {
+    "id": "who_41",
+    "target": "Didier Drogba",
+    "clues": [
+      "J'ai éclos tardivement au Mans et à Guingamp.",
+      "J'ai emmené l'OM en finale de la Coupe UEFA 2004.",
+      "J'ai arrêté une guerre civile dans mon pays après une qualification au Mondial.",
+      "J'ai marqué le penalty décisif de la finale de la Ligue des Champions 2012 pour Chelsea.",
+      "Légende ivoirienne et Roi de Stamford Bridge."
+    ],
+    "difficulty": 2
+  },
+  {
+    "id": "who_42",
+    "target": "Samuel Eto'o",
+    "clues": [
+      "J'ai appartenu au Real Madrid mais c'est au Barça que je suis devenu une légende.",
+      "J'ai remporté deux triplés consécutifs avec deux clubs différents (Barça 2009, Inter 2010).",
+      "Je suis le meilleur buteur de l'histoire de la CAN.",
+      "J'ai joué en Russie à l'Anzhi Makhachkala pour un salaire record.",
+      "Attaquant camerounais légendaire, devenu président de sa fédération."
+    ],
+    "difficulty": 2
+  },
+  {
+    "id": "who_43",
+    "target": "Franck Ribéry",
+    "clues": [
+      "J'ai travaillé dans le bâtiment avec mon père avant de devenir pro.",
+      "J'ai été révélé au monde lors de la Coupe du Monde 2006.",
+      "J'ai formé le duo 'Robbery' avec Arjen Robben.",
+      "J'estime avoir été volé du Ballon d'Or 2013.",
+      "Kaiser Franck, légende française du Bayern Munich."
+    ],
+    "difficulty": 2
+  },
+  {
+    "id": "who_44",
+    "target": "Sergio Busquets",
+    "clues": [
+      "Fils d'un ancien gardien du Barça, j'ai été lancé par Guardiola.",
+      "Je n'ai pas de réseaux sociaux (ou très peu) et je joue en marchant.",
+      "Vicente Del Bosque a dit : 'Si je pouvais être un joueur, je voudrais être lui'.",
+      "J'ai été la sentinelle du Barça pendant 15 ans.",
+      "Milieu défensif espagnol, j'ai rejoint Messi à l'Inter Miami."
+    ],
+    "difficulty": 2
+  },
+  {
+    "id": "who_45",
+    "target": "Rodri",
+    "clues": [
+      "Je vivais dans une résidence universitaire alors que je jouais déjà en Liga.",
+      "J'ai été transféré de l'Atlético à City pour être le successeur de Fernandinho.",
+      "J'ai marqué le but de la victoire en finale de la Ligue des Champions 2023.",
+      "J'ai été élu meilleur joueur de l'Euro 2024.",
+      "Vainqueur du Ballon d'Or 2024, je suis le maître à jouer de l'Espagne et de City."
+    ],
+    "difficulty": 2
+  },
+  {
+    "id": "who_46",
+    "target": "Virgil van Dijk",
+    "clues": [
+      "J'ai failli mourir d'une appendicite au début de ma carrière aux Pays-Bas.",
+      "J'ai joué au Celtic Glasgow et à Southampton.",
+      "Aucun joueur ne m'a dribblé pendant une saison entière (2018-2019).",
+      "J'ai fini 2ème du Ballon d'Or 2019 derrière Messi.",
+      "Colosse néerlandais, patron de la défense de Liverpool."
+    ],
+    "difficulty": 2
+  },
+  {
+    "id": "who_47",
+    "target": "Andrea Pirlo",
+    "clues": [
+      "J'ai commencé comme numéro 10 avant de reculer devant la défense.",
+      "L'Inter m'a laissé partir au Milan AC, où j'ai tout gagné.",
+      "J'ai une Panenka célèbre contre l'Angleterre à l'Euro 2012.",
+      "J'ai joué mes dernières années européennes à la Juventus, vivant une seconde jeunesse.",
+      "L'Architecte italien, incarnation de la classe et du football champagne."
+    ],
+    "difficulty": 2
+  },
+  {
+    "id": "who_48",
+    "target": "Xavi Hernandez",
+    "clues": [
+      "J'ai failli signer au Milan AC quand j'étais jeune car Guardiola me barrait la route.",
+      "J'ai été l'homme du match de la finale de l'Euro 2008.",
+      "J'ai le surnom de 'Pelopo' (Machine à laver) pour ma protection de balle.",
+      "J'ai été l'entraîneur du Barça lors du titre de 2023.",
+      "Cerveau du Barça et de l'Espagne, roi du Tiki-Taka."
+    ],
+    "difficulty": 2
+  },
+  {
+    "id": "who_49",
+    "target": "Wayne Rooney",
+    "clues": [
+      "J'ai marqué contre Arsenal à 16 ans pour Everton ('Remember the name!').",
+      "J'ai marqué un triplé pour mes débuts en Ligue des Champions avec Manchester United.",
+      "Je suis le meilleur buteur de l'histoire de Manchester United.",
+      "J'ai formé un trio redoutable avec Tevez et Ronaldo.",
+      "Légende anglaise, attaquant pugnace surnommé Wazza."
+    ],
+    "difficulty": 2
+  },
+  {
+    "id": "who_50",
+    "target": "Son Heung-min",
+    "clues": [
+      "J'ai quitté mon pays très jeune pour rejoindre le centre de formation de Hambourg.",
+      "J'ai remporté les Jeux Asiatiques pour être exempté du service militaire obligatoire.",
+      "J'ai remporté le prix Puskas pour un but en solitaire de 80 mètres contre Burnley.",
+      "Je suis le premier asiatique à avoir remporté le Soulier d'Or de Premier League.",
+      "Capitaine de Tottenham et idole absolue en Corée du Sud."
+    ],
+    "difficulty": 2
+  },
+  {
+    "id": "who_51",
+    "target": "Marco Reus",
+    "clues": [
+      "J'ai été formé à Dortmund mais j'ai dû aller à Mönchengladbach pour exploser.",
+      "J'ai manqué la Coupe du Monde 2014 (gagnée par mon pays) à cause d'une blessure au dernier match de prépa.",
+      "J'ai figuré sur la jaquette du jeu FIFA 17.",
+      "J'ai refusé le Bayern Munich pour rester fidèle au Borussia Dortmund toute ma carrière au top.",
+      "Milieu offensif allemand élégant, maudit par les blessures."
+    ],
+    "difficulty": 2
+  },
+  {
+    "id": "who_52",
+    "target": "Thiago Silva",
+    "clues": [
+      "J'ai failli mourir de la tuberculose lors d'un prêt au Dynamo Moscou au début de ma carrière.",
+      "J'ai été le capitaine du Brésil lors du traumatisme du 1-7 (même si j'étais suspendu pour le match).",
+      "J'ai quitté le PSG libre pour gagner la Ligue des Champions avec Chelsea l'année suivante.",
+      "J'ai terminé ma carrière européenne en retournant à Fluminense.",
+      "Surnommé 'O Monstro', défenseur central légendaire pour ma lecture du jeu."
+    ],
+    "difficulty": 2
+  },
+  {
+    "id": "who_53",
+    "target": "Angel Di Maria",
+    "clues": [
+      "J'ai été l'homme du match de la finale de la Ligue des Champions 2014 avec le Real Madrid.",
+      "J'ai eu un passage désastreux à Manchester United avec le numéro 7.",
+      "J'ai marqué en finale des JO, de la Copa América et de la Coupe du Monde.",
+      "J'ai fait avec mes mains le signe du 'Cœur' à chaque but.",
+      "Ailier argentin gaucher, surnommé 'El Fideo'."
+    ],
+    "difficulty": 1
+  },
+  {
+    "id": "who_54",
+    "target": "Francesco Totti",
+    "clues": [
+      "Ma mère a refusé une offre du Milan AC pour que je reste dans ma ville.",
+      "J'ai marqué une Panenka contre les Pays-Bas à l'Euro 2000.",
+      "J'ai refusé les Galactiques du Real Madrid.",
+      "J'ai joué 25 saisons et plus de 780 matchs pour le même et unique club.",
+      "Le 8ème Roi de Rome."
+    ],
+    "difficulty": 1
+  },
+  {
+    "id": "who_55",
+    "target": "David Beckham",
+    "clues": [
+      "J'ai marqué un but du milieu de terrain contre Wimbledon en 1996.",
+      "J'ai été expulsé contre l'Argentine en 1998, devenant l'homme le plus détesté d'Angleterre.",
+      "J'ai formé les Galactiques avec Zidane, Figo et Ronaldo.",
+      "J'ai fini ma carrière au PSG.",
+      "Spécialiste des coups francs, icône de mode et propriétaire de l'Inter Miami."
+    ],
+    "difficulty": 1
+  },
+  {
+    "id": "who_56",
+    "target": "Kaka",
+    "clues": [
+      "J'ai failli être paralysé après un accident de piscine à 18 ans.",
+      "J'ai détruit la défense de Manchester United à Old Trafford en 2007.",
+      "Je suis le dernier joueur humain à avoir gagné le Ballon d'Or avant l'ère Messi/Ronaldo (2007).",
+      "J'ai porté le numéro 22 au Milan AC et le 8 au Real Madrid.",
+      "Brésilien élégant, je levais les doigts au ciel pour Jésus."
+    ],
+    "difficulty": 2
+  },
+  {
+    "id": "who_57",
+    "target": "Xabi Alonso",
+    "clues": [
+      "J'ai marqué le but du 3-3 en finale d'Istanbul 2005 en reprenant mon propre penalty.",
+      "J'ai gagné la Ligue des Champions avec Liverpool et le Real Madrid.",
+      "Pep Guardiola m'a recruté au Bayern Munich pour ma qualité de passe longue.",
+      "En tant qu'entraîneur, j'ai mené le Bayer Leverkusen à une saison invincible historique (2023-2024).",
+      "Milieu espagnol roux à la barbe rousse, maître de la transversale."
+    ],
+    "difficulty": 2
+  },
+  {
+    "id": "who_58",
+    "target": "Philipp Lahm",
+    "clues": [
+      "J'ai été prêté à Stuttgart où j'ai fait partie des 'Jeunes Sauvages'.",
+      "Pep Guardiola a dit de moi que j'étais le joueur le plus intelligent qu'il ait entraîné.",
+      "Je n'ai jamais reçu un seul carton rouge dans toute ma carrière.",
+      "J'ai soulevé la Coupe du Monde 2014 en tant que capitaine.",
+      "Latéral (ou milieu) allemand de petite taille, légende du Bayern."
+    ],
+    "difficulty": 2
+  },
+  {
+    "id": "who_59",
+    "target": "Romelu Lukaku",
+    "clues": [
+      "J'ai quitté Anderlecht pour Chelsea très jeune, fan de Drogba.",
+      "Je suis le meilleur buteur de l'histoire de la sélection belge.",
+      "Mes transferts cumulés ont longtemps été parmi les plus élevés de l'histoire (Everton, United, Inter, Chelsea).",
+      "J'ai raté des occasions énormes en finale de C1 2023 et lors du Mondial 2022.",
+      "Attaquant belge puissant, souvent critiqué pour ma première touche de balle."
+    ],
+    "difficulty": 2
+  },
+  {
+    "id": "who_60",
+    "target": "Lamine Yamal",
+    "clues": [
+      "J'ai fait mes débuts professionnels à 15 ans.",
+      "Je suis devenu le plus jeune buteur de l'histoire de l'Euro en 2024.",
+      "Lionel Messi m'a 'béni' (baigné) quand j'étais bébé pour une séance photo caritative.",
+      "J'ai formé un duo d'ailiers dévastateur avec Nico Williams en sélection.",
+      "Prodige du FC Barcelone, gaucher magique."
+    ],
+    "difficulty": 1
+  },
+  {
+    "id": "who_61",
+    "target": "Mesut Özil",
+    "clues": [
+      "J'ai été formé à Schalke 04 avant de briller au Werder Brême.",
+      "J'étais le meilleur passeur de Cristiano Ronaldo au Real Madrid.",
+      "J'ai quitté la sélection allemande avec fracas en 2018, citant le racisme.",
+      "J'ai une vision de jeu unique et des yeux globuleux caractéristiques.",
+      "Numéro 10 allemand d'origine turque, roi de la passe décisive."
+    ],
+    "difficulty": 2
+  },
+  {
+    "id": "who_62",
+    "target": "Florian Wirtz",
+    "clues": [
+      "J'ai été le plus jeune buteur de l'histoire de la Bundesliga (avant d'être battu par Moukoko).",
+      "Je suis revenu d'une rupture des ligaments croisés plus fort qu'avant.",
+      "J'ai été la pièce maîtresse du Bayer Leverkusen champion d'Allemagne invaincu en 2024.",
+      "J'ai été élu joueur de la saison en Bundesliga en 2023-24.",
+      "Prodige allemand, milieu offensif créatif."
+    ],
+    "difficulty": 2
+  },
+  {
+    "id": "who_63",
+    "target": "Jamal Musiala",
+    "clues": [
+      "J'ai joué pour les équipes de jeunes de l'Angleterre avant de choisir l'Allemagne.",
+      "J'ai quitté l'académie de Chelsea pour rejoindre le Bayern Munich.",
+      "J'ai marqué le but du titre à la 89ème minute lors de la dernière journée de Bundesliga 2023.",
+      "On me compare souvent à un serpent pour ma capacité à me faufiler entre les défenseurs.",
+      "Jeune star du Bayern, dribbleur exceptionnel surnommé 'Bambi'."
+    ],
+    "difficulty": 2
+  },
+  {
+    "id": "who_64",
+    "target": "Lautaro Martinez",
+    "clues": [
+      "J'ai débuté au Racing Club en Argentine.",
+      "J'ai marqué le tir au but décisif contre les Pays-Bas au Mondial 2022.",
+      "J'ai marqué l'unique but de la finale de la Copa América 2024.",
+      "Je forme le duo 'Tu-La' (ou j'ai formé un duo) avec Marcus Thuram.",
+      "Capitaine de l'Inter Milan, attaquant argentin surnommé 'El Toro'."
+    ],
+    "difficulty": 2
+  },
+  {
+    "id": "who_65",
+    "target": "Edinson Cavani",
+    "clues": [
+      "J'ai formé un trio redoutable avec Hamsik et Lavezzi à Naples.",
+      "J'ai longtemps été obligé de jouer sur l'aile pour laisser l'axe à Ibrahimovic.",
+      "Je suis le meilleur buteur de l'histoire du PSG avant d'être dépassé par Mbappé.",
+      "Je suis passionné par la nature, la pêche et l'ornithologie.",
+      "Attaquant uruguayen aux cheveux longs, surnommé 'El Matador'."
+    ],
+    "difficulty": 2
+  },
+  {
+    "id": "who_66",
+    "target": "Radamel Falcao",
+    "clues": [
+      "J'ai établi le record de buts sur une saison de Ligue Europa avec Porto (17 buts).",
+      "J'ai marqué un triplé en Supercoupe d'Europe contre Chelsea avec l'Atlético.",
+      "Une grave blessure au genou avec Monaco m'a privé de la Coupe du Monde 2014.",
+      "J'ai eu des passages ratés en prêt à United et Chelsea.",
+      "Buteur colombien légendaire, surnommé 'El Tigre'."
+    ],
+    "difficulty": 2
+  },
+  {
+    "id": "who_67",
+    "target": "Jan Oblak",
+    "clues": [
+      "Benfica m'a vendu très cher après seulement 6 mois en équipe première.",
+      "J'ai remporté le trophée Zamora (meilleur gardien de Liga) 5 fois.",
+      "J'ai réalisé une triple parade miraculeuse contre Leverkusen en C1.",
+      "Je suis resté fidèle à Diego Simeone pendant plus d'une décennie.",
+      "Gardien slovène de l'Atlético de Madrid."
+    ],
+    "difficulty": 3
+  },
+  {
+    "id": "who_68",
+    "target": "Trent Alexander-Arnold",
+    "clues": [
+      "J'ai joué une finale de Ligue des Champions à 19 ans contre le Real Madrid.",
+      "J'ai joué une feinte de corner rapide ('Corner taken quickly...') contre le Barça.",
+      "J'ai révolutionné le poste de latéral droit en agissant comme un meneur de jeu.",
+      "J'ai souvent été critiqué pour mes qualités défensives en équipe d'Angleterre.",
+      "Numéro 66 de Liverpool, scouser pur sang."
+    ],
+    "difficulty": 2
+  },
+  {
+    "id": "who_69",
+    "target": "Roberto Carlos",
+    "clues": [
+      "L'Inter Milan m'a vendu au Real Madrid car Hodgson voulait me faire jouer ailier.",
+      "J'ai marqué un but défiant les lois de la physique contre la France en 1997 (coup franc).",
+      "J'ai délivré la passe décisive pour le but de Zidane en finale de C1 2002.",
+      "J'avais un tour de cuisse de 60 cm.",
+      "Latéral gauche brésilien légendaire, connu pour ma frappe de mule."
+    ],
+    "difficulty": 1
+  },
+  {
+    "id": "who_70",
+    "target": "Cafu",
+    "clues": [
+      "J'ai joué 3 finales de Coupe du Monde consécutives (1994, 1998, 2002).",
+      "J'ai fait un 'sombrero' sur Pavel Nedved lors d'un derby de Rome.",
+      "J'ai gagné la Ligue des Champions avec le Milan AC en 2007.",
+      "Je mâchais toujours un chewing-gum en jouant.",
+      "Latéral droit brésilien légendaire, capitaine des champions du monde 2002."
+    ],
+    "difficulty": 2
+  },
+  {
+    "id": "who_71",
+    "target": "Rivaldo",
+    "clues": [
+      "J'ai marqué un retourné acrobatique à la dernière minute contre Valence pour qualifier le Barça en C1.",
+      "J'ai remporté le Ballon d'Or en 1999.",
+      "J'ai simulé une blessure au visage contre la Turquie en 2002 alors que la balle a touché mon genou.",
+      "J'ai joué avec mon fils dans le même match officiel au Brésil en fin de carrière.",
+      "Gaucher brésilien de génie, légende du Barça."
+    ],
+    "difficulty": 2
+  },
+  {
+    "id": "who_72",
+    "target": "Luis Figo",
+    "clues": [
+      "J'ai fait partie de la 'Génération d'Or' portugaise.",
+      "J'ai remporté le Ballon d'Or 2000.",
+      "Mon transfert a battu le record du monde et provoqué la haine des fans du Barça.",
+      "On m'a jeté une tête de cochon sur la pelouse du Camp Nou.",
+      "Légendaire numéro 10 (ou 7) portugais passé du Barça au Real Madrid."
+    ],
+    "difficulty": 1
+  },
+  {
+    "id": "who_73",
+    "target": "Raul Gonzalez",
+    "clues": [
+      "J'ai commencé ma formation à l'Atlético avant que leur président ne ferme l'académie.",
+      "J'étais le meilleur buteur de l'histoire de la C1 avant Ronaldo et Messi.",
+      "J'ai fait taire le Camp Nou en mettant mon doigt sur la bouche après un but.",
+      "J'ai fini ma carrière européenne en emmenant Schalke 04 en demi-finale de C1.",
+      "L'Ange de Madrid, numéro 7 éternel du Real."
+    ],
+    "difficulty": 2
+  },
+  {
+    "id": "who_74",
+    "target": "Alessandro Del Piero",
+    "clues": [
+      "J'ai marqué un but en finale de C1 1997 d'une talonnade.",
+      "J'ai inventé un type de but : frappe enroulée du coin gauche de la surface (la zone à mon nom).",
+      "Je suis resté à la Juventus en Serie B et j'ai fini meilleur buteur.",
+      "J'ai marqué le 2-0 contre l'Allemagne en 2006 à la 120ème minute.",
+      "Numéro 10 légendaire de la Juventus, 'Pinturicchio'."
+    ],
+    "difficulty": 2
+  },
+  {
+    "id": "who_75",
+    "target": "Pavel Nedved",
+    "clues": [
+      "J'ai emmené mon pays en finale de l'Euro 96.",
+      "J'ai pleuré après avoir reçu un carton jaune me privant de la finale de la C1 2003.",
+      "J'ai remporté le Ballon d'Or 2003 devant Thierry Henry.",
+      "J'étais connu pour ma crinière blonde et mon endurance infinie.",
+      "La 'Furia Ceca' (La Furie Tchèque), légende de la Lazio et de la Juve."
+    ],
+    "difficulty": 2
+  },
+  {
+    "id": "who_76",
+    "target": "Andriy Shevchenko",
+    "clues": [
+      "J'ai marqué un triplé au Camp Nou avec le Dynamo Kiev.",
+      "J'ai marqué le tir au but décisif de la finale de C1 2003 contre la Juve.",
+      "J'ai remporté le Ballon d'Or 2004.",
+      "Mon transfert à Chelsea a été un échec relatif par rapport à mes années italiennes.",
+      "Légende ukrainienne, buteur star du Milan AC."
+    ],
+    "difficulty": 2
+  },
+  {
+    "id": "who_77",
+    "target": "Dennis Bergkamp",
+    "clues": [
+      "J'ai été formé à l'Ajax et j'ai eu un passage difficile à l'Inter Milan.",
+      "J'avais une phobie de l'avion qui m'empêchait de jouer certains matchs à l'extérieur.",
+      "J'ai marqué un but d'anthologie contre l'Argentine en 1998 (contrôle porte-manteau).",
+      "J'ai marqué 'LE' but contre Newcastle avec une pirouette autour du défenseur.",
+      "Le 'Non-Flying Dutchman', légende d'Arsenal."
+    ],
+    "difficulty": 2
+  },
+  {
+    "id": "who_78",
+    "target": "Eric Cantona",
+    "clues": [
+      "J'ai jeté mon maillot sur l'arbitre lors d'un match avec Nîmes.",
+      "J'ai traversé la Manche pour gagner le titre avec Leeds avant de rejoindre Manchester.",
+      "J'ai agressé un supporter de Crystal Palace d'un coup de pied (Kung-fu kick).",
+      "J'ai dit : 'Quand les mouettes suivent le chalutier...'.",
+      "Le 'King' français de Manchester United, col relevé."
+    ],
+    "difficulty": 1
+  },
+  {
+    "id": "who_79",
+    "target": "Patrick Vieira",
+    "clues": [
+      "J'ai joué 2 matchs pour le Milan AC avant de rejoindre Arsenal.",
+      "J'étais le capitaine des Invincibles d'Arsenal.",
+      "J'ai eu une rivalité féroce et physique avec Roy Keane.",
+      "J'ai délivré la passe décisive pour le but de Petit en finale du Mondial 98.",
+      "Grand milieu box-to-box français, devenu entraîneur (Palace, Strasbourg...)."
+    ],
+    "difficulty": 2
+  },
+  {
+    "id": "who_80",
+    "target": "Cesc Fabregas",
+    "clues": [
+      "J'ai lancé une pizza sur Alex Ferguson après un match (le 'Pizzagate').",
+      "Je suis devenu le plus jeune capitaine de l'histoire d'Arsenal.",
+      "J'ai donné la passe décisive pour le but d'Iniesta en finale du Mondial 2010.",
+      "J'ai été entraîné par Mourinho à Chelsea où j'ai gagné la PL.",
+      "Milieu espagnol, j'ai fini ma carrière à Côme en Italie."
+    ],
+    "difficulty": 2
+  },
+  {
+    "id": "who_81",
+    "target": "Gerard Piqué",
+    "clues": [
+      "J'ai débuté ma carrière pro à Manchester United.",
+      "J'ai marqué le but du 6-2 au Bernabéu.",
+      "J'ai été sifflé par les fans espagnols pour mes positions sur la Catalogne.",
+      "J'ai créé la Kings League après ma retraite.",
+      "Défenseur légendaire du Barça, célèbre pour mon 'Se Queda'."
+    ],
+    "difficulty": 1
+  },
+  {
+    "id": "who_82",
+    "target": "Carles Puyol",
+    "clues": [
+      "J'ai marqué de la tête en demi-finale du Mondial 2010 contre l'Allemagne.",
+      "J'ai laissé Eric Abidal soulever la Ligue des Champions 2011 à ma place.",
+      "Je n'ai connu qu'un seul club dans ma carrière.",
+      "J'étais connu pour mes cheveux longs bouclés et mon engagement total.",
+      "Capitaine éternel du FC Barcelone."
+    ],
+    "difficulty": 2
+  },
+  {
+    "id": "who_83",
+    "target": "Dani Alves",
+    "clues": [
+      "J'ai formé un couloir droit dévastateur avec Messi.",
+      "J'ai mangé une banane jetée par un supporter raciste.",
+      "J'ai joué arrière droit, milieu et même gardien une fois (pour dépanner).",
+      "Je suis le joueur le plus titré de l'histoire du football (43 trophées).",
+      "Latéral brésilien légendaire du Barça, dont la fin de carrière a été ternie par la justice."
+    ],
+    "difficulty": 2
+  },
+  {
+    "id": "who_84",
+    "target": "Marcelo",
+    "clues": [
+      "J'ai rejoint le Real Madrid à 18 ans pour succéder à Roberto Carlos.",
+      "J'ai marqué en finale de la Ligue des Champions 2014.",
+      "J'ai gagné 5 Ligues des Champions et 6 Ligas.",
+      "Je suis revenu gagner la Libertadores avec mon club formateur Fluminense.",
+      "Latéral gauche brésilien à la coupe Afro et à la technique de numéro 10."
+    ],
+    "difficulty": 2
+  },
+  {
+    "id": "who_85",
+    "target": "Casemiro",
+    "clues": [
+      "J'ai été prêté au FC Porto avant de m'imposer au Real.",
+      "J'ai marqué d'une frappe lointaine en finale de C1 contre la Juventus.",
+      "J'étais le 'garde du corps' de Kroos et Modric.",
+      "J'ai quitté le Real pour Manchester United après avoir tout gagné 5 fois.",
+      "Milieu défensif brésilien, un véritable tank."
+    ],
+    "difficulty": 2
+  },
+  {
+    "id": "who_86",
+    "target": "Thibaut Courtois",
+    "clues": [
+      "J'ai gagné la Liga avec l'Atlético contre le Real, puis avec le Real.",
+      "J'ai forcé mon départ de Chelsea pour retourner à Madrid.",
+      "J'ai réalisé 9 arrêts en finale de la Ligue des Champions 2022 (Homme du match).",
+      "J'ai eu un conflit ouvert avec le sélectionneur belge Tedesco.",
+      "Le 'Mur' belge du Real Madrid, très grand par la taille et le talent."
+    ],
+    "difficulty": 2
+  },
+  {
+    "id": "who_87",
+    "target": "Alisson Becker",
+    "clues": [
+      "J'ai été la doublure de Szczesny à la Roma avant d'exploser.",
+      "J'ai éliminé le Barça deux années de suite avec des 'Remontadas' (Roma 3-0, Liverpool 4-0).",
+      "J'ai marqué un but de la tête sur corner contre West Bromwich.",
+      "J'ai remporté le premier trophée Yachine.",
+      "Gardien brésilien de Liverpool, barbu et très bon au pied."
+    ],
+    "difficulty": 2
+  },
+  {
+    "id": "who_88",
+    "target": "Bernardo Silva",
+    "clues": [
+      "Formé au Benfica, j'ai été vendu à Monaco presque sans jouer.",
+      "J'ai été champion de France 2017 avec l'AS Monaco de Mbappé.",
+      "Je conduisais une Smart alors que mes coéquipiers avaient des Ferrari.",
+      "Je suis le joueur le plus polyvalent de Guardiola (ailier, milieu, faux 9, latéral...).",
+      "Petit magicien portugais de Manchester City."
+    ],
+    "difficulty": 2
+  },
+  {
+    "id": "who_89",
+    "target": "Bruno Fernandes",
+    "clues": [
+      "J'ai joué en Italie (Udinese, Sampdoria) avant d'exploser au Portugal.",
+      "J'ai battu le record de buts pour un milieu de terrain sur une saison avec le Sporting.",
+      "J'ai transformé Manchester United dès mon arrivée au mercato d'hiver 2020.",
+      "Je suis connu pour beaucoup gesticuler et râler auprès des arbitres.",
+      "Capitaine portugais de Manchester United, maître des penalties (saut de cabri)."
+    ],
+    "difficulty": 2
+  },
+  {
+    "id": "who_90",
+    "target": "Marcus Rashford",
+    "clues": [
+      "J'ai marqué un doublé pour mes débuts en Europa League et en Premier League.",
+      "J'ai marqué le penalty décisif contre le PSG au Parc des Princes en 2019.",
+      "J'ai forcé le gouvernement britannique à changer sa politique sur les repas scolaires.",
+      "J'ai ma propre célébration (doigt sur la tempe).",
+      "Attaquant anglais de Manchester United, décoré par la Reine (MBE)."
+    ],
+    "difficulty": 2
+  },
+  {
+    "id": "who_91",
+    "target": "Bukayo Saka",
+    "clues": [
+      "J'ai commencé arrière gauche sous Unai Emery.",
+      "J'ai manqué le tir au but décisif en finale de l'Euro 2020 mais j'ai rebondi magnifiquement.",
+      "Je suis le 'Starboy' d'Arsenal.",
+      "J'ai joué plus de 80 matchs consécutifs en Premier League.",
+      "Ailier anglais gaucher, idole de l'Emirates Stadium."
+    ],
+    "difficulty": 2
+  },
+  {
+    "id": "who_92",
+    "target": "Pedri",
+    "clues": [
+      "Le Real Madrid m'a refusé après un essai sous la neige.",
+      "J'ai joué plus de 70 matchs lors de ma première saison pro (Euro + JO inclus).",
+      "J'ai remporté le trophée Kopa et le Golden Boy.",
+      "On me compare sans cesse à Andrés Iniesta.",
+      "Milieu de terrain des Canaries, chef d'orchestre du Barça."
+    ],
+    "difficulty": 2
+  },
+  {
+    "id": "who_93",
+    "target": "Gavi",
+    "clues": [
+      "Je joue souvent avec les lacets défaits.",
+      "Je suis devenu le plus jeune international espagnol de l'histoire (battu ensuite par Yamal).",
+      "Je suis connu pour mettre ma tête là où d'autres ne mettraient pas le pied.",
+      "J'ai subi une grave blessure au genou (croisés) fin 2023.",
+      "Pitbull andalou du milieu de terrain du Barça."
+    ],
+    "difficulty": 2
+  },
+  {
+    "id": "who_94",
+    "target": "Juninho Pernambucano",
+    "clues": [
+      "J'ai commencé ma carrière au Sport Recife puis à Vasco da Gama.",
+      "J'ai marqué 100 buts pour l'Olympique Lyonnais, dont 44 sur coup franc.",
+      "J'ai gagné 7 titres de champion de France consécutifs.",
+      "J'ai fait trembler Oliver Kahn avec un coup franc de 35 mètres.",
+      "Le plus grand tireur de coups francs de l'histoire du football."
+    ],
+    "difficulty": 1
+  },
+  {
+    "id": "who_95",
+    "target": "Jay-Jay Okocha",
+    "clues": [
+      "J'ai humilié Oliver Kahn en dribblant dans la surface pendant 10 secondes avec Francfort.",
+      "J'ai été le mentor de Ronaldinho au PSG.",
+      "On dit de moi : 'Si bon qu'ils l'ont nommé deux fois'.",
+      "J'ai brillé à Bolton Wanderers en Premier League.",
+      "Magicien nigérian, inventeur de gestes techniques fous."
+    ],
+    "difficulty": 2
+  },
+  {
+    "id": "who_96",
+    "target": "Miroslav Klose",
+    "clues": [
+      "Je suis né en Pologne mais j'ai choisi l'Allemagne.",
+      "J'ai marqué 5 buts de la tête lors du Mondial 2002.",
+      "Je suis le meilleur buteur de l'histoire de la Coupe du Monde (16 buts).",
+      "Je célébrais mes buts par un salto avant.",
+      "Renard des surfaces légendaire de la Mannschaft et de la Lazio."
+    ],
+    "difficulty": 2
+  },
+  {
+    "id": "who_97",
+    "target": "Didier Deschamps",
+    "clues": [
+      "J'étais surnommé 'Le porteur d'eau' par Eric Cantona.",
+      "J'ai été le plus jeune capitaine à soulever la Ligue des Champions (avec l'OM).",
+      "J'ai gagné la Coupe du Monde comme capitaine et comme sélectionneur.",
+      "J'ai entraîné la Juventus en Serie B.",
+      "Sélectionneur de l'Équipe de France depuis plus d'une décennie."
+    ],
+    "difficulty": 1
+  },
+  {
+    "id": "who_98",
+    "target": "George Weah",
+    "clues": [
+      "Arsène Wenger m'a fait venir en Europe à Monaco.",
+      "J'ai marqué un but 'Coast to Coast' (d'une surface à l'autre) avec le Milan AC contre Vérone.",
+      "Je suis le seul joueur africain à avoir remporté le Ballon d'Or (1995).",
+      "J'ai joué pour Chelsea et Manchester City en fin de carrière.",
+      "Légende du Libéria, devenu Président de la République de mon pays."
+    ],
+    "difficulty": 1
+  },
+  {
+    "id": "who_99",
+    "target": "Peter Crouch",
+    "clues": [
+      "J'ai fait partie des 'Invincibles' de Liverpool en Coupe (2006).",
+      "J'ai marqué un ciseau acrobatique improbable contre Galatasaray.",
+      "J'ai inventé la célébration du 'Robot'.",
+      "Quand on m'a demandé ce que je serais sans le foot, j'ai répondu : 'Puceau'.",
+      "Géant anglais de 2m01, attaquant culte de la Premier League."
+    ],
+    "difficulty": 2
+  },
+  {
+    "id": "who_100",
+    "target": "Bastian Schweinsteiger",
+    "clues": [
+      "J'ai commencé ailier avant que Van Gaal ne me replace dans l'axe.",
+      "J'ai fini la finale du Mondial 2014 le visage en sang, combattant héroïque.",
+      "J'ai été le 'Fußballgott' (Dieu du Football) du Bayern Munich.",
+      "J'ai eu un passage compliqué à Manchester United sous Mourinho.",
+      "Légende allemande, marié à la joueuse de tennis Ana Ivanovic."
+    ],
+    "difficulty": 2
+  },
+  {
+    "id": "who_101",
+    "target": "Pelé",
+    "clues": [
+      "J'ai remporté ma première Coupe du Monde à 17 ans en marquant un doublé en finale.",
+      "J'ai marqué plus de 1000 buts dans ma carrière (matchs amicaux inclus).",
+      "Je n'ai joué que pour deux clubs : Santos et le New York Cosmos.",
+      "Je suis le seul joueur de l'histoire à avoir remporté 3 Coupes du Monde.",
+      "Le Roi du Football, O Rei."
+    ],
+    "difficulty": 1
+  },
+  {
+    "id": "who_102",
+    "target": "Diego Maradona",
+    "clues": [
+      "J'ai joué à Barcelone mais c'est une bagarre générale qui a précipité mon départ.",
+      "J'ai fait passer le Napoli d'une équipe moyenne à championne d'Italie (Scudetto).",
+      "Dans le même match, j'ai marqué le but le plus vicieux ('La main de Dieu') et le plus beau du siècle.",
+      "Je m'échauffais en jonglant avec mes lacets défaits sur 'Life is Life'.",
+      "Dieu argentin du football, éternel numéro 10."
+    ],
+    "difficulty": 1
+  },
+  {
+    "id": "who_103",
+    "target": "Johan Cruyff",
+    "clues": [
+      "J'ai refusé de porter les 3 bandes Adidas sur mon maillot en sélection (j'en avais 2).",
+      "J'ai révolutionné le football comme joueur à l'Ajax puis comme entraîneur au Barça.",
+      "J'ai donné mon nom à un geste technique (le demi-tour) et à un style (Football Total).",
+      "J'ai porté le numéro 14 alors que les titulaires portaient le 1 à 11.",
+      "Légende néerlandaise, père spirituel de Guardiola."
+    ],
+    "difficulty": 1
+  },
+  {
+    "id": "who_104",
+    "target": "Michel Platini",
+    "clues": [
+      "J'ai débuté à Nancy où mon père travaillait au club.",
+      "J'ai remporté 3 Ballons d'Or consécutifs (1983, 1984, 1985).",
+      "J'ai marqué 9 buts en 5 matchs lors de l'Euro 84, un record inégalé.",
+      "J'ai célébré mon but (annulé) en finale intercontinentale en m'allongeant sur la pelouse, tête dans la main.",
+      "Légende française de la Juventus, surnommé 'Platoche'."
+    ],
+    "difficulty": 1
+  },
+  {
+    "id": "who_105",
+    "target": "Steven Gerrard",
+    "clues": [
+      "J'ai marqué une frappe lointaine mythique contre l'Olympiakos ('Oh ya beauty!').",
+      "J'ai sonné la révolte lors du 'Miracle d'Istanbul' en 2005.",
+      "Une glissade contre Chelsea m'a coûté mon seul titre potentiel de Premier League.",
+      "J'ai refusé Chelsea et le Real Madrid pour rester dans mon club de cœur.",
+      "Capitaine éternel de Liverpool numéro 8."
+    ],
+    "difficulty": 1
+  },
+  {
+    "id": "who_106",
+    "target": "Frank Lampard",
+    "clues": [
+      "West Ham m'a vendu en disant que je n'étais pas assez bon, mon oncle Harry Redknapp m'a défendu.",
+      "Je suis le meilleur buteur de l'histoire de Chelsea en étant milieu de terrain.",
+      "Mon but refusé contre l'Allemagne en 2010 a forcé l'introduction de la Goal Line Technology.",
+      "J'ai marqué contre Chelsea avec le maillot de Manchester City.",
+      "Surnommé 'Super Frankie', milieu anglais prolifique."
+    ],
+    "difficulty": 2
+  },
+  {
+    "id": "who_107",
+    "target": "Alan Shearer",
+    "clues": [
+      "J'ai remporté la Premier League avec Blackburn Rovers.",
+      "J'ai refusé Manchester United pour signer dans mon club de cœur, Newcastle.",
+      "Je suis le meilleur buteur absolu de l'histoire de la Premier League (260 buts).",
+      "Je célébrais tous mes buts en levant simplement le bras droit en l'air.",
+      "Légende des Magpies et buteur anglais redoutable."
+    ],
+    "difficulty": 2
+  },
+  {
+    "id": "who_108",
+    "target": "Rio Ferdinand",
+    "clues": [
+      "J'ai été transféré de Leeds à Manchester United pour un record britannique.",
+      "J'ai été suspendu 8 mois pour avoir oublié un test antidopage.",
+      "J'ai formé avec Nemanja Vidic l'une des meilleures charnières de l'histoire.",
+      "J'étais un défenseur 'relanceur', très à l'aise techniquement.",
+      "Défenseur anglais, devenu consultant TV célèbre pour ses 'Listen!'. "
+    ],
+    "difficulty": 2
+  },
+  {
+    "id": "who_109",
+    "target": "John Terry",
+    "clues": [
+      "J'ai glissé en tirant le penalty de la gagne en finale de Ligue des Champions à Moscou.",
+      "J'ai célébré la victoire en C1 2012 en tenue complète (maillot, short, chaussettes) sans avoir joué la finale.",
+      "J'ai été capitaine de Chelsea pendant les années Mourinho.",
+      "J'étais un défenseur prêt à mettre ma tête là où c'était dangereux.",
+      "Mr. Chelsea, capitaine, leader, légende."
+    ],
+    "difficulty": 2
+  },
+  {
+    "id": "who_110",
+    "target": "Ashley Cole",
+    "clues": [
+      "J'ai fait partie des Invincibles d'Arsenal avant de partir chez l'ennemi.",
+      "Les fans d'Arsenal m'ont surnommé 'Cashley' après mon transfert à Chelsea.",
+      "Cristiano Ronaldo a dit que j'étais le défenseur le plus coriace qu'il ait affronté.",
+      "J'ai plus de 100 sélections avec l'Angleterre.",
+      "Considéré comme le meilleur arrière gauche de l'histoire de la Premier League."
+    ],
+    "difficulty": 2
+  },
+  {
+    "id": "who_111",
+    "target": "Petr Cech",
+    "clues": [
+      "J'ai joué plus de 300 minutes sans encaisser de but avec le Sparta Prague.",
+      "Une fracture du crâne contre Reading m'a forcé à porter un casque toute ma carrière.",
+      "J'ai arrêté un penalty de Robben en prolongation de la finale de C1 2012.",
+      "Je suis aussi un excellent batteur (musique) et gardien de hockey sur glace.",
+      "Gardien tchèque légendaire de Chelsea et Arsenal."
+    ],
+    "difficulty": 2
+  },
+  {
+    "id": "who_112",
+    "target": "Iker Casillas",
+    "clues": [
+      "J'ai gagné la Ligue des Champions à 19 ans en remplaçant Cesar blessé.",
+      "J'ai arrêté deux penaltys contre l'Italie à l'Euro 2008.",
+      "Mon arrêt du bout du pied contre Robben en finale du Mondial 2010 est historique.",
+      "J'ai embrassé une journaliste (ma femme) en direct après le titre mondial.",
+      "San Iker, légende du Real Madrid et de l'Espagne."
+    ],
+    "difficulty": 1
+  },
+  {
+    "id": "who_113",
+    "target": "Victor Valdés",
+    "clues": [
+      "On a souvent critiqué mon jeu au pied risqué, mais c'était la demande de Guardiola.",
+      "J'ai remporté 3 Ligues des Champions avec Barcelone.",
+      "Ma carrière a décliné après une grave blessure au genou contre le Celta Vigo.",
+      "J'ai fini ma carrière au Standard de Liège et à Middlesbrough.",
+      "Gardien historique du grand Barça de la 'Pep Team'."
+    ],
+    "difficulty": 2
+  },
+  {
+    "id": "who_114",
+    "target": "Fernando Torres",
+    "clues": [
+      "J'ai été nommé capitaine de l'Atlético de Madrid à seulement 19 ans.",
+      "J'ai marqué le but de la victoire en finale de l'Euro 2008 contre l'Allemagne.",
+      "Mon passage de Liverpool à Chelsea (50M£) a brisé le cœur des Scousers.",
+      "J'ai marqué le but qui a éliminé le Barça au Camp Nou en 2012 ('Ooooooh Unbelievable!').",
+      "Attaquant espagnol surnommé 'El Niño'."
+    ],
+    "difficulty": 2
+  },
+  {
+    "id": "who_115",
+    "target": "David Villa",
+    "clues": [
+      "J'ai commencé ma carrière au Sporting Gijón.",
+      "J'ai formé un duo redoutable avec David Silva à Valence.",
+      "Je suis le meilleur buteur de l'histoire de la sélection espagnole.",
+      "J'ai marqué un but magnifique en finale de C1 2011 contre United.",
+      "Attaquant espagnol surnommé 'El Guaje'."
+    ],
+    "difficulty": 2
+  },
+  {
+    "id": "who_116",
+    "target": "Carlos Tévez",
+    "clues": [
+      "J'ai sauvé West Ham de la relégation lors de la dernière journée.",
+      "J'ai quitté Manchester United pour City, générant l'affiche 'Welcome to Manchester'.",
+      "J'ai une cicatrice très visible dans le cou due à une brûlure enfant.",
+      "J'ai refusé d'entrer en jeu contre le Bayern Munich, provoquant ma mise à l'écart.",
+      "L'Apache, guerrier argentin idole de Boca Juniors."
+    ],
+    "difficulty": 2
+  },
+  {
+    "id": "who_117",
+    "target": "Javier Zanetti",
+    "clues": [
+      "J'ai été la première recrue de l'ère Moratti à l'Inter Milan en 1995.",
+      "J'ai joué jusqu'à plus de 40 ans avec la même coupe de cheveux.",
+      "J'ai disputé plus de 850 matchs pour l'Inter Milan.",
+      "J'étais surnommé 'El Tractor' pour ma puissance et mon endurance.",
+      "Capitaine légendaire argentin de l'Inter."
+    ],
+    "difficulty": 2
+  },
+  {
+    "id": "who_118",
+    "target": "Gabriel Batistuta",
+    "clues": [
+      "J'ai joué pour River Plate ET Boca Juniors.",
+      "J'ai une statue à mon effigie à Florence, bien que je sois parti à la Roma pour être champion.",
+      "Je frappais le ballon si fort que je déchirais parfois les filets.",
+      "Je célébrais mes buts en mimant une mitraillette.",
+      "Batigol, buteur argentin légendaire des années 90."
+    ],
+    "difficulty": 2
+  },
+  {
+    "id": "who_119",
+    "target": "Roberto Baggio",
+    "clues": [
+      "J'ai provoqué des émeutes à Florence lors de mon transfert à la Juventus.",
+      "J'ai remporté le Ballon d'Or 1993.",
+      "Mon image reste associée à mon penalty raté en finale du Mondial 94 aux USA.",
+      "J'étais bouddhiste et je portais une queue de cheval.",
+      "Le 'Divin Codino', numéro 10 italien légendaire."
+    ],
+    "difficulty": 2
+  },
+  {
+    "id": "who_120",
+    "target": "Marco van Basten",
+    "clues": [
+      "J'ai marqué une volée impossible dans un angle fermé en finale de l'Euro 88.",
+      "J'ai remporté 3 Ballons d'Or.",
+      "Mes chevilles fragiles m'ont forcé à prendre ma retraite à 28 ans.",
+      "J'ai fait mes adieux à San Siro en veste en daim, faisant pleurer Capello.",
+      "Le Cygne d'Utrecht, buteur néerlandais élégant du Milan AC."
+    ],
+    "difficulty": 1
+  },
+  {
+    "id": "who_121",
+    "target": "Ruud Gullit",
+    "clues": [
+      "J'ai joué libéro, milieu et attaquant au cours de ma carrière.",
+      "J'ai dédié mon Ballon d'Or 1987 à Nelson Mandela.",
+      "J'ai été entraîneur-joueur à Chelsea.",
+      "J'étais célèbre pour mes dreadlocks et mon football total.",
+      "Légende néerlandaise du Milan AC."
+    ],
+    "difficulty": 2
+  },
+  {
+    "id": "who_122",
+    "target": "Arjen Robben",
+    "clues": [
+      "J'ai joué à Chelsea et au Real Madrid avant de trouver ma maison en Bavière.",
+      "J'ai raté un penalty décisif en finale de C1 2012 à domicile.",
+      "Je n'ai qu'un seul geste : repiquer de la droite vers le centre et enrouler du gauche.",
+      "J'ai marqué le but de la victoire en finale de C1 2013 à Wembley.",
+      "Ailier néerlandais chauve et rapide du Bayern Munich."
+    ],
+    "difficulty": 1
+  },
+  {
+    "id": "who_123",
+    "target": "Robin van Persie",
+    "clues": [
+      "J'ai été exclu contre le Barça pour avoir tiré après le coup de sifflet.",
+      "J'ai quitté Arsenal pour United pour 'écouter le petit garçon en moi'.",
+      "J'ai marqué un but de la tête en plongeant ('Flying Dutchman') contre l'Espagne en 2014.",
+      "J'ai offert le 20ème titre à Ferguson avec une reprise de volée magistrale.",
+      "Attaquant néerlandais au pied gauche de velours."
+    ],
+    "difficulty": 2
+  },
+  {
+    "id": "who_124",
+    "target": "Wesley Sneijder",
+    "clues": [
+      "J'ai été formé à l'Ajax et j'ai joué au Real Madrid.",
+      "En 2010, j'ai fait le triplé avec l'Inter et finale de Coupe du Monde.",
+      "Beaucoup considèrent comme un scandale que je n'aie pas eu le Ballon d'Or 2010.",
+      "J'ai fini ma carrière européenne à Nice.",
+      "Meneur de jeu néerlandais, petit par la taille mais grand par le talent."
+    ],
+    "difficulty": 2
+  },
+  {
+    "id": "who_125",
+    "target": "Clarence Seedorf",
+    "clues": [
+      "Je suis né au Suriname mais j'ai joué pour les Pays-Bas.",
+      "Je suis le seul joueur à avoir gagné la Ligue des Champions avec 3 clubs différents.",
+      "J'ai joué pour le Real Madrid, l'Ajax, l'Inter et le Milan AC.",
+      "J'étais célèbre pour mes cuisses énormes.",
+      "Le Professeur, milieu de terrain complet et légendaire."
+    ],
+    "difficulty": 1
+  },
+  {
+    "id": "who_126",
+    "target": "Yaya Touré",
+    "clues": [
+      "J'ai été recalé par Arsenal après un match d'essai.",
+      "J'ai joué défenseur central en finale de la Ligue des Champions 2009 avec le Barça.",
+      "J'ai été vexé que mon club oublie de me souhaiter mon anniversaire.",
+      "J'étais un milieu 'Box to Box' inarrêtable lors des premiers titres de City.",
+      "Colosse ivoirien, légende de Manchester City."
+    ],
+    "difficulty": 2
+  },
+  {
+    "id": "who_127",
+    "target": "Michael Essien",
+    "clues": [
+      "J'ai été révélé en France à Bastia puis à Lyon.",
+      "J'ai marqué un but d'une reprise de volée incroyable contre le Barça en 2009.",
+      "Mourinho m'appelait son 'fils blanc' (et moi 'Daddy').",
+      "J'ai joué une saison au Real Madrid en prêt.",
+      "Le 'Bison', milieu ghanéen infatigable de Chelsea."
+    ],
+    "difficulty": 2
+  },
+  {
+    "id": "who_128",
+    "target": "Pierre-Emerick Aubameyang",
+    "clues": [
+      "J'ai été formé au Milan AC mais je n'y ai jamais joué.",
+      "J'ai gagné la Coupe de la Ligue avec Saint-Étienne.",
+      "Je célébrais mes buts avec des masques de super-héros (Spiderman, Black Panther).",
+      "J'ai été déchu du capitanat d'Arsenal pour des problèmes de discipline.",
+      "Attaquant gabonais ultra-rapide, passé par Dortmund, Arsenal, Barça et l'OM."
+    ],
+    "difficulty": 2
+  },
+  {
+    "id": "who_129",
+    "target": "Achraf Hakimi",
+    "clues": [
+      "Je suis né à Madrid et formé au Real, mais je n'y ai pas percé.",
+      "J'ai explosé lors de mon prêt au Borussia Dortmund.",
+      "J'ai emmené le Maroc en demi-finale de la Coupe du Monde 2022 (historique).",
+      "Je suis le meilleur ami de Kylian Mbappé au PSG.",
+      "Latéral droit ultra-offensif marocain."
+    ],
+    "difficulty": 2
+  },
+  {
+    "id": "who_130",
+    "target": "Phil Foden",
+    "clues": [
+      "J'ai été élu meilleur joueur de la Coupe du Monde U17.",
+      "Pep Guardiola a dit que j'étais le joueur le plus talentueux qu'il ait vu à cet âge.",
+      "Je porte le numéro 47 en hommage à mon grand-père.",
+      "Les fans m'appellent le 'Stockport Iniesta'.",
+      "Pépite anglaise formée à Manchester City."
+    ],
+    "difficulty": 2
+  },
+  {
+    "id": "who_131",
+    "target": "Martin Ødegaard",
+    "clues": [
+      "J'ai signé au Real Madrid à 16 ans, créant un buzz mondial.",
+      "J'ai enchaîné les prêts (Heerenveen, Vitesse, Sociedad) avant de m'imposer.",
+      "J'ai été nommé capitaine d'Arsenal très jeune par Mikel Arteta.",
+      "Je suis le capitaine de la sélection norvégienne.",
+      "Meneur de jeu gaucher élégant."
+    ],
+    "difficulty": 2
+  },
+  {
+    "id": "who_132",
+    "target": "Declan Rice",
+    "clues": [
+      "J'ai été formé à Chelsea mais relâché à 14 ans.",
+      "J'ai représenté l'Irlande en amical avant de choisir l'Angleterre.",
+      "J'ai soulevé la Ligue Europa Conférence comme capitaine de West Ham.",
+      "Mon transfert à Arsenal a dépassé les 100 millions de livres.",
+      "Milieu défensif anglais, pilier des Three Lions."
+    ],
+    "difficulty": 2
+  },
+  {
+    "id": "who_133",
+    "target": "Cole Palmer",
+    "clues": [
+      "J'ai quitté Manchester City car je voulais plus de temps de jeu.",
+      "J'ai marqué 4 buts dans un seul match contre Everton.",
+      "J'ai marqué en finale de l'Euro 2024 après être entré en jeu.",
+      "Ma célébration consiste à me frotter les bras comme si j'avais froid ('Cold').",
+      "Révélation anglaise de Chelsea, gaucher soyeux."
+    ],
+    "difficulty": 2
+  },
+  {
+    "id": "who_134",
+    "target": "Alphonso Davies",
+    "clues": [
+      "Je suis né dans un camp de réfugiés au Ghana.",
+      "J'ai appris le football à Edmonton au Canada.",
+      "J'ai humilié Nelson Semedo lors du 8-2 du Bayern contre le Barça.",
+      "Je suis aussi connu pour mes streams sur Twitch.",
+      "Latéral gauche canadien ultra-rapide du Bayern Munich."
+    ],
+    "difficulty": 2
+  },
+  {
+    "id": "who_135",
+    "target": "Josko Gvardiol",
+    "clues": [
+      "J'ai porté un masque noir de protection pendant la Coupe du Monde 2022.",
+      "Lionel Messi m'a donné le tournis en demi-finale, mais cela n'a pas gâché mon tournoi.",
+      "Je suis devenu le défenseur le plus cher de l'histoire en signant à City.",
+      "Je me suis révélé être un buteur inattendu en fin de saison 2023-24.",
+      "Défenseur croate, solide comme un roc."
+    ],
+    "difficulty": 2
+  },
+  {
+    "id": "who_136",
+    "target": "Emiliano Martínez",
+    "clues": [
+      "J'ai enchaîné les prêts en divisions inférieures anglaises (Oxford, Rotherham...).",
+      "J'ai profité de la blessure de Leno pour briller à Arsenal et gagner la FA Cup.",
+      "J'ai réalisé l'arrêt du siècle face à Kolo Muani à la 123ème minute.",
+      "Je suis célèbre pour mes danses et provocations lors des tirs au but.",
+      "Surnommé 'Dibu', gardien champion du monde argentin."
+    ],
+    "difficulty": 2
+  },
+  {
+    "id": "who_137",
+    "target": "Hugo Lloris",
+    "clues": [
+      "J'ai débuté à l'OGC Nice.",
+      "J'ai été le capitaine de Tottenham pendant de longues années sans gagner de trophée.",
+      "Je détiens le record de sélections en Équipe de France.",
+      "J'ai soulevé la Coupe du Monde 2018 comme capitaine.",
+      "Gardien français, parti finir sa carrière au LAFC."
+    ],
+    "difficulty": 2
+  },
+  {
+    "id": "who_138",
+    "target": "David Silva",
+    "clues": [
+      "J'ai remporté l'Euro 2008, le Mondial 2010 et l'Euro 2012.",
+      "J'ai une statue devant l'Etihad Stadium.",
+      "J'ai dû raser mes cheveux pour une greffe, changeant radicalement de look.",
+      "J'ai fini ma carrière à la Real Sociedad.",
+      "Surnommé 'El Mago' (Le Magicien), légende espagnole de Manchester City."
+    ],
+    "difficulty": 2
+  },
+  {
+    "id": "who_139",
+    "target": "Vincent Kompany",
+    "clues": [
+      "J'ai commencé ma carrière à Anderlecht.",
+      "J'ai marqué un but incroyable de 30 mètres contre Leicester qui a offert le titre à City.",
+      "Ma tête est jugée 'énorme' par mes coéquipiers.",
+      "Je suis devenu l'entraîneur du Bayern Munich à la surprise générale en 2024.",
+      "Capitaine belge légendaire de Manchester City."
+    ],
+    "difficulty": 2
+  },
+  {
+    "id": "who_140",
+    "target": "Claude Makélélé",
+    "clues": [
+      "J'ai joué à Nantes et à l'OM avant l'Espagne.",
+      "Le président du Real a refusé de m'augmenter, disant que je ne faisais que des passes à 3 mètres.",
+      "Zidane a dit : 'Pourquoi mettre une autre couche de peinture or si vous perdez le moteur ?' quand je suis parti.",
+      "J'ai donné mon nom à un poste ('Le rôle de ...').",
+      "Milieu défensif français, métronome de Chelsea et des Bleus."
+    ],
+    "difficulty": 2
+  },
+  {
+    "id": "who_141",
+    "target": "Lilian Thuram",
+    "clues": [
+      "J'ai commencé ma carrière à l'AS Monaco sous Arsène Wenger.",
+      "J'ai marqué les deux seuls buts de ma carrière internationale en demi-finale de Coupe du Monde.",
+      "J'ai joué défenseur droit puis défenseur central à la Juventus.",
+      "Mes deux fils sont devenus internationaux français.",
+      "Recordman de sélections en équipe de France pendant longtemps, intellectuel et activiste."
+    ],
+    "difficulty": 2
+  },
+  {
+    "id": "who_142",
+    "target": "David Trezeguet",
+    "clues": [
+      "J'ai grandi en Argentine et j'ai commencé à Platense.",
+      "J'ai marqué le But en Or en finale de l'Euro 2000.",
+      "J'ai raté mon tir au but en finale de la Coupe du Monde 2006 (transversale).",
+      "Je suis le meilleur buteur étranger de l'histoire de la Juventus.",
+      "'Trezegol', renard des surfaces franco-argentin."
+    ],
+    "difficulty": 2
+  },
+  {
+    "id": "who_143",
+    "target": "Nicolas Anelka",
+    "clues": [
+      "J'ai été transféré d'Arsenal au Real Madrid à 20 ans.",
+      "J'ai gagné la Premier League avec Arsenal et Chelsea.",
+      "J'ai été exclu de l'équipe de France en 2010 pour avoir insulté le sélectionneur.",
+      "J'ai inventé la célébration du 'Papillon' (mains croisées).",
+      "L'enfant terrible du football français, surnommé 'Le Sulk' en Angleterre."
+    ],
+    "difficulty": 2
+  },
+  {
+    "id": "who_144",
+    "target": "Djibril Cissé",
+    "clues": [
+      "J'ai été meilleur buteur de Ligue 1 avec Auxerre.",
+      "J'ai subi deux terribles fractures de la jambe (une avec Liverpool, une avec la France).",
+      "J'ai marqué un tir au but en finale de C1 à Istanbul.",
+      "Je suis devenu DJ après ma carrière.",
+      "Attaquant français célèbre pour sa vitesse et ses coupes de cheveux extravagantes."
+    ],
+    "difficulty": 2
+  },
+  {
+    "id": "who_145",
+    "target": "Mathieu Valbuena",
+    "clues": [
+      "J'ai été recalé des centres de formation à cause de ma petite taille.",
+      "J'ai marqué un but légendaire à Anfield pour l'OM.",
+      "Mon numéro 28 a été retiré par l'OM (puis remis).",
+      "J'ai été victime d'une affaire de chantage à la sextape.",
+      "'Petit Vélo', légende de l'Olympique de Marseille."
+    ],
+    "difficulty": 3
+  },
+  {
+    "id": "who_146",
+    "target": "Dimitar Berbatov",
+    "clues": [
+      "J'ai joué au Bayer Leverkusen avant de rejoindre Tottenham.",
+      "J'ai marqué un quintuplé en un match avec Manchester United.",
+      "On me reprochait souvent ma nonchalance et de ne pas courir.",
+      "J'avais un contrôle de balle exceptionnel, 'soyeux'.",
+      "Attaquant bulgare, le génie paresseux."
+    ],
+    "difficulty": 2
+  },
+  {
+    "id": "who_147",
+    "target": "Emmanuel Adebayor",
+    "clues": [
+      "J'ai joué à Monaco en finale de Ligue des Champions 2004.",
+      "J'ai marqué pour City contre Arsenal et j'ai couru tout le terrain pour célébrer devant mes anciens fans.",
+      "J'ai joué brièvement au Real Madrid en prêt.",
+      "J'ai vécu un drame terrible lors de l'attaque du bus de ma sélection au Cabinda.",
+      "Attaquant togolais, grand par la taille et par la carrière."
+    ],
+    "difficulty": 2
+  },
+  {
+    "id": "who_148",
+    "target": "Pepe",
+    "clues": [
+      "J'ai été suspendu 10 matchs pour avoir frappé un joueur de Getafe au sol.",
+      "J'ai formé une charnière de fer avec Sergio Ramos.",
+      "J'ai été élu Homme du Match de la finale de l'Euro 2016.",
+      "J'ai joué au plus haut niveau (Euro 2024) à 41 ans.",
+      "Défenseur portugais rugueux, légende de Porto et du Real."
+    ],
+    "difficulty": 2
+  },
+  {
+    "id": "who_149",
+    "target": "Giorgio Chiellini",
+    "clues": [
+      "J'ai un diplôme universitaire (Master) en économie.",
+      "J'ai été mordu par Luis Suarez en Coupe du Monde.",
+      "J'ai tiré le maillot de Saka de manière spectaculaire en finale de l'Euro 2020.",
+      "J'ai célébré chaque tacle défensif comme un but.",
+      "Défenseur italien au nez cassé, légende de la Juve."
+    ],
+    "difficulty": 2
+  },
+  {
+    "id": "who_150",
+    "target": "Leonardo Bonucci",
+    "clues": [
+      "J'ai formé la 'BBC' défensive (Barzagli, Bonucci, Chiellini).",
+      "J'ai trahi la Juve pour aller au Milan AC une saison, puis je suis revenu.",
+      "J'ai marqué le but égalisateur en finale de l'Euro 2020 à Wembley.",
+      "J'étais le meilleur relanceur des défenseurs italiens.",
+      "Défenseur central italien, j'ai pris ma retraite en 2024 après un passage en Turquie."
+    ],
+    "difficulty": 2
+  },
+  {
+    "id": "who_151",
+    "target": "Oliver Kahn",
+    "clues": [
+      "J'ai mordu un joueur de Dortmund et tenté un coup de kung-fu sur un autre.",
+      "J'ai commis une erreur fatale en finale de la Coupe du Monde 2002 face à Ronaldo.",
+      "Je suis le seul gardien de l'histoire à avoir été élu Meilleur Joueur d'une Coupe du Monde (Golden Ball).",
+      "J'ai arrêté trois tirs au but en finale de la C1 2001.",
+      "Le 'Titan' allemand du Bayern Munich."
+    ],
+    "difficulty": 1
+  },
+  {
+    "id": "who_152",
+    "target": "Peter Schmeichel",
+    "clues": [
+      "J'ai marqué un but pour Aston Villa en Premier League.",
+      "J'ai gagné l'Euro 92 avec le Danemark alors que nous étions en vacances avant le tournoi.",
+      "J'ai fait une roue (cartwheel) pour célébrer la victoire en C1 1999.",
+      "Mon fils a gagné la Premier League au même poste que moi (Leicester).",
+      "Le 'Grand Danois', gardien légendaire de Manchester United."
+    ],
+    "difficulty": 2
+  },
+  {
+    "id": "who_153",
+    "target": "Edwin van der Sar",
+    "clues": [
+      "J'ai commencé ma carrière à l'Ajax avec qui j'ai gagné la C1 en 1995.",
+      "J'ai eu un passage difficile à la Juventus avant de rebondir à Fulham.",
+      "J'ai arrêté le tir au but décisif de Nicolas Anelka en finale de C1 2008.",
+      "Je détiens le record mondial d'invincibilité en championnat (1 311 minutes).",
+      "Gardien néerlandais longiligne, légende de Manchester United."
+    ],
+    "difficulty": 2
+  },
+  {
+    "id": "who_154",
+    "target": "Fabien Barthez",
+    "clues": [
+      "J'ai joué ailier gauche lors d'un match amical avec l'OM.",
+      "Laurent Blanc m'embrassait le crâne avant chaque match en 1998.",
+      "J'ai tenté d'intimider Di Canio en levant la main pour un hors-jeu inexistant tout en arrêtant de jouer.",
+      "J'ai craché sur un arbitre lors d'un match amical au Maroc.",
+      "Le 'Divin Chauve', gardien des champions du monde 98."
+    ],
+    "difficulty": 2
+  },
+  {
+    "id": "who_155",
+    "target": "Roger Milla",
+    "clues": [
+      "J'ai été rappelé en sélection nationale par le président de la République lui-même.",
+      "J'ai marqué 4 buts en Coupe du Monde à l'âge de 38 ans.",
+      "J'ai marqué contre la Russie en Coupe du Monde à 42 ans (record).",
+      "Je célébrais mes buts en dansant la makossa au poteau de corner.",
+      "Légende du Cameroun et des Lions Indomptables."
+    ],
+    "difficulty": 1
+  },
+  {
+    "id": "who_156",
+    "target": "Romário",
+    "clues": [
+      "J'ai promis de marquer 30 buts en une saison de Liga, je l'ai fait.",
+      "J'ai formé le duo 'Ro-Ro' avec Ronaldo (mais peu de temps).",
+      "J'ai été élu meilleur joueur de la Coupe du Monde 1994.",
+      "Je prétends avoir marqué plus de 1000 buts dans ma carrière.",
+      "Le 'Baixinho' (Le petit), buteur brésilien de génie (PSV, Barça)."
+    ],
+    "difficulty": 1
+  },
+  {
+    "id": "who_157",
+    "target": "Hristo Stoichkov",
+    "clues": [
+      "J'ai été suspendu à vie (réduit à un an) pour une bagarre en finale de Coupe de Bulgarie.",
+      "J'ai emmené la Bulgarie en demi-finale du Mondial 94.",
+      "J'ai formé un duo explosif avec Romario au Barça de Cruyff.",
+      "J'ai remporté le Ballon d'Or 1994.",
+      "Gaucher bulgare au caractère volcanique."
+    ],
+    "difficulty": 2
+  },
+  {
+    "id": "who_158",
+    "target": "Lothar Matthäus",
+    "clues": [
+      "J'ai joué 5 Coupes du Monde (record égalé plus tard par Messi/CR7).",
+      "Maradona a dit de moi : 'C'est le meilleur adversaire que j'ai jamais eu'.",
+      "J'ai perdu deux finales de C1 cruelles avec le Bayern (1987, 1999) dans les dernières minutes.",
+      "J'ai gagné le Ballon d'Or 1990 en tant que capitaine de l'Allemagne.",
+      "Milieu puis libéro allemand, recordman de matchs en Coupe du Monde (25)."
+    ],
+    "difficulty": 2
+  },
+  {
+    "id": "who_159",
+    "target": "Paul Scholes",
+    "clues": [
+      "J'étais asthmatique.",
+      "Xavi et Iniesta me citent comme leur référence absolue.",
+      "J'ai marqué une reprise de volée sur corner contre Bradford.",
+      "Je suis sorti de ma retraite pour revenir aider Manchester United six mois plus tard.",
+      "Le 'Ginger Prince', milieu anglais connu pour sa vision et ses tacles ratés."
+    ],
+    "difficulty": 2
+  },
+  {
+    "id": "who_160",
+    "target": "Ryan Giggs",
+    "clues": [
+      "J'ai joué pour l'équipe nationale scolaire d'Angleterre avant de choisir le Pays de Galles.",
+      "J'ai marqué un but solo incroyable en demi-finale de FA Cup 1999 contre Arsenal (poitrine velue).",
+      "J'ai marqué lors de 21 saisons consécutives de Premier League.",
+      "J'ai passé 24 saisons en équipe première à Manchester United.",
+      "Ailier gauche gallois, recordman d'apparitions pour les Red Devils."
+    ],
+    "difficulty": 2
+  },
+  {
+    "id": "who_161",
+    "target": "Roy Keane",
+    "clues": [
+      "J'ai mis fin à la carrière d'Alf-Inge Haaland sur un tacle vengeur.",
+      "J'ai quitté la sélection irlandaise juste avant le Mondial 2002 après une dispute (l'incident de Saipan).",
+      "J'ai livré ma meilleure performance contre la Juventus en 1999 alors que j'étais suspendu pour la finale.",
+      "Patrick Vieira était mon meilleur ennemi.",
+      "Capitaine irlandais terrifiant de Manchester United."
+    ],
+    "difficulty": 2
+  },
+  {
+    "id": "who_162",
+    "target": "Eric Abidal",
+    "clues": [
+      "J'ai été finaliste de la Coupe du Monde 2006 (titulaire).",
+      "J'ai survécu à une tumeur au foie et j'ai rejoué au plus haut niveau.",
+      "Carles Puyol m'a laissé soulever la Ligue des Champions 2011 en premier.",
+      "J'ai été directeur sportif du Barça pendant une période trouble.",
+      "Défenseur français polyvalent (OL, Barça)."
+    ],
+    "difficulty": 2
+  },
+  {
+    "id": "who_163",
+    "target": "Robert Pirès",
+    "clues": [
+      "J'ai délivré la passe décisive pour le But en Or de Trezeguet à l'Euro 2000.",
+      "J'ai raté un penalty en voulant faire une passe à Henry contre City.",
+      "J'ai été élu meilleur joueur de la saison 2001-2002 en Premier League.",
+      "Je fais partie des légendes d'Arsenal avec ma petite barbichette.",
+      "Ailier français élégant à la démarche de canard."
+    ],
+    "difficulty": 2
+  },
+  {
+    "id": "who_164",
+    "target": "Sol Campbell",
+    "clues": [
+      "J'ai marqué en finale de la Ligue des Champions 2006.",
+      "J'ai commis l'acte de trahison ultime en passant de Tottenham à Arsenal (gratuitement).",
+      "Je suis surnommé 'Judas' par les fans des Spurs.",
+      "J'étais le pilier défensif des Invincibles.",
+      "Défenseur central anglais, roc physique."
+    ],
+    "difficulty": 2
+  },
+  {
+    "id": "who_165",
+    "target": "Jean-Pierre Papin",
+    "clues": [
+      "J'ai marqué 30 buts par saison avec l'OM pendant 5 ans.",
+      "J'ai donné mon nom à un type de but acrobatique (les Papinades).",
+      "J'ai remporté le Ballon d'Or 1991 (seul joueur évoluant en France à l'avoir eu à 100%).",
+      "J'ai perdu la finale de C1 1991 contre l'Étoile Rouge puis gagné celle de 1994 contre le Barça.",
+      "JPP, buteur français légendaire."
+    ],
+    "difficulty": 2
+  },
+  {
+    "id": "who_166",
+    "target": "Deco",
+    "clues": [
+      "Je suis né au Brésil mais j'ai joué pour le Portugal.",
+      "J'ai été élu Homme du Match de la finale de C1 2004 avec Porto.",
+      "J'ai gagné la C1 avec deux clubs différents (Porto et Barça) en étant titulaire.",
+      "J'ai joué avec Messi et Ronaldinho au Barça, puis avec Chelsea.",
+      "Meneur de jeu 'Mágico', numéro 20 ou 10."
+    ],
+    "difficulty": 2
+  },
+  {
+    "id": "who_167",
+    "target": "Juan Roman Riquelme",
+    "clues": [
+      "J'ai transformé Villarreal en demi-finaliste de Ligue des Champions.",
+      "J'ai raté un penalty décisif contre Arsenal en 2006.",
+      "Zidane a joué son dernier match de club contre moi et nous avons échangé nos maillots.",
+      "Je suis le 'Dernier numéro 10' à l'ancienne, lent mais génial.",
+      "Idole absolue de Boca Juniors."
+    ],
+    "difficulty": 2
+  },
+  {
+    "id": "who_168",
+    "target": "Adriano",
+    "clues": [
+      "J'ai marqué un but à 140 km/h contre le Real Madrid.",
+      "Dans le jeu PES 6, j'avais une puissance de tir de 99.",
+      "La mort de mon père a précipité ma chute et ma dépression.",
+      "J'ai marqué un but égalisateur à la dernière seconde contre l'Argentine en Copa América 2004.",
+      "L'Empereur (L'Imperatore) brésilien de l'Inter Milan."
+    ],
+    "difficulty": 2
+  },
+  {
+    "id": "who_169",
+    "target": "Diego Forlan",
+    "clues": [
+      "J'ai joué à Manchester United mais j'ai eu du mal à marquer.",
+      "J'ai marqué les deux buts de la finale de l'Europa League 2010 avec l'Atlético.",
+      "J'ai été le seul à maîtriser le ballon Jabulani lors du Mondial 2010.",
+      "J'ai été élu meilleur joueur de la Coupe du Monde 2010.",
+      "Attaquant uruguayen blond, aussi à l'aise du gauche que du droit."
+    ],
+    "difficulty": 2
+  },
+  {
+    "id": "who_170",
+    "target": "Guti",
+    "clues": [
+      "J'ai passé presque toute ma carrière au Real Madrid, souvent sur le banc.",
+      "J'ai fait une talonnade décisive (God's heel) pour Benzema face à La Corogne alors que j'étais face au but.",
+      "Je n'ai jamais joué une grande compétition avec l'Espagne.",
+      "J'étais un génie inconstant, capable du pire comme du sublime.",
+      "Numéro 14 blond du Real Madrid."
+    ],
+    "difficulty": 2
+  },
+  {
+    "id": "who_171",
+    "target": "Marek Hamsik",
+    "clues": [
+      "J'ai battu le record de buts de Maradona à Naples (avant d'être battu par Mertens).",
+      "J'ai arboré une crête iroquoise pendant toute ma carrière.",
+      "J'ai refusé la Juve et le Milan pour rester fidèle au Napoli.",
+      "J'ai fini ma carrière en Suède et en Turquie.",
+      "Milieu slovaque légendaire."
+    ],
+    "difficulty": 2
+  },
+  {
+    "id": "who_172",
+    "target": "Maicon",
+    "clues": [
+      "J'ai marqué un but incroyable dans un angle impossible contre la Corée du Nord en 2010.",
+      "J'ai été détruit par Gareth Bale lors d'une double confrontation en C1.",
+      "J'étais le latéral droit titulaire du triplé de l'Inter Milan.",
+      "J'ai perdu une dent en marquant contre le Barça.",
+      "Latéral brésilien puissant, surnommé 'Le Colosse'."
+    ],
+    "difficulty": 2
+  },
+  {
+    "id": "who_173",
+    "target": "Javier Mascherano",
+    "clues": [
+      "J'ai été 'mangé' par Fernando Torres lors de mes débuts à Liverpool.",
+      "Je me suis 'déchiré l'anus' sur un tacle salvateur contre Robben en 2014.",
+      "J'ai joué milieu défensif toute ma carrière, sauf au Barça où j'étais défenseur central.",
+      "J'ai marqué mon premier et unique but pour le Barça sur penalty après 7 ans.",
+      "Le 'Jefecito' (Petit Chef) argentin."
+    ],
+    "difficulty": 2
+  },
+  {
+    "id": "who_174",
+    "target": "Alexis Sanchez",
+    "clues": [
+      "J'ai joué du piano lors de ma vidéo de présentation à Manchester United.",
+      "J'ai lobé Diego Lopez lors d'un Clasico avec le Barça.",
+      "J'ai offert deux Copa América au Chili en marquant le tir au but décisif (Panenka).",
+      "J'ai été une idole à Arsenal avant de devenir un flop à United.",
+      "Attaquant chilien hyperactif, 'El Niño Maravilla'."
+    ],
+    "difficulty": 2
+  },
+  {
+    "id": "who_175",
+    "target": "Arturo Vidal",
+    "clues": [
+      "J'ai porté une crête iroquoise et de nombreux tatouages.",
+      "J'ai gagné 8 championnats nationaux consécutifs avec 3 clubs différents (Juve, Bayern, Barça).",
+      "J'ai crashé ma Ferrari en état d'ivresse pendant la Copa América (que j'ai gagnée).",
+      "Je suis un guerrier chilien surnommé 'Le Roi Arthur'.",
+      "Milieu box-to-box agressif et buteur."
+    ],
+    "difficulty": 2
+  },
+  {
+    "id": "who_176",
+    "target": "James Rodriguez",
+    "clues": [
+      "J'ai marqué une volée sublime contre l'Uruguay au Mondial 2014.",
+      "J'ai été meilleur buteur de la Coupe du Monde 2014.",
+      "J'ai signé au Real Madrid pour devenir un Galactique.",
+      "J'ai rejoué une finale de Copa América en 2024 où j'ai été élu meilleur joueur.",
+      "Meneur de jeu colombien au pied gauche soyeux."
+    ],
+    "difficulty": 2
+  },
+  {
+    "id": "who_177",
+    "target": "Keylor Navas",
+    "clues": [
+      "J'ai emmené le Costa Rica en quarts de finale du Mondial 2014.",
+      "J'ai failli être échangé contre De Gea mais un fax est arrivé trop tard.",
+      "J'ai remporté 3 Ligues des Champions consécutives comme titulaire.",
+      "Le Real Madrid m'a remplacé par Courtois malgré mes performances.",
+      "Le 'Panther' costaricien, gardien aux réflexes félins."
+    ],
+    "difficulty": 2
+  },
+  {
+    "id": "who_178",
+    "target": "Mike Maignan",
+    "clues": [
+      "J'ai été formé au PSG mais j'ai gagné le titre avec Lille en 2021.",
+      "J'ai succédé à Hugo Lloris dans les buts de l'Équipe de France.",
+      "J'ai délivré une passe décisive sur une reprise de volée pour le Milan AC.",
+      "Je suis un expert des arrêts sur penalty.",
+      "Magic Mike, gardien français impérial."
+    ],
+    "difficulty": 2
+  },
+  {
+    "id": "who_179",
+    "target": "William Saliba",
+    "clues": [
+      "J'ai été prêté à Saint-Étienne, Nice et Marseille avant de m'imposer à Londres.",
+      "Les fans d'Arsenal chantent mon nom sur l'air de 'Tequila'.",
+      "J'ai formé la meilleure charnière de Premier League avec Gabriel.",
+      "Je suis devenu titulaire indiscutable en Équipe de France à l'Euro 2024.",
+      "Défenseur central français, calme et imprenable."
+    ],
+    "difficulty": 2
+  },
+  {
+    "id": "who_180",
+    "target": "Theo Hernandez",
+    "clues": [
+      "Mon frère a gagné la Coupe du Monde avant moi.",
+      "J'ai été formé à l'Atlético mais j'ai joué au Real Madrid.",
+      "J'ai marqué un but après une course de 90 mètres avec le Milan AC.",
+      "Je suis un latéral gauche qui attaque plus qu'il ne défend.",
+      "TGV français du couloir gauche."
+    ],
+    "difficulty": 2
+  },
+  {
+    "id": "who_181",
+    "target": "Ousmane Dembélé",
+    "clues": [
+      "J'ai saccagé la maison de Jürgen Klopp quand j'ai quitté Dortmund.",
+      "J'ai coûté plus de 100M€ au Barça pour remplacer Neymar.",
+      "Je ne sais pas si je suis gaucher ou droitier (interview célèbre).",
+      "J'ai marqué contre le Barça avec le PSG en célébrant, ce qui a énervé les fans.",
+      "Ailier français rapide, dribbleur fou mais finition aléatoire."
+    ],
+    "difficulty": 2
+  },
+  {
+    "id": "who_182",
+    "target": "Rodrygo",
+    "clues": [
+      "J'ai marqué deux buts en une minute contre Manchester City en demi-finale de C1.",
+      "Je suis souvent appelé 'Mr Champions League' pour mes buts décisifs.",
+      "J'ai été formé à Santos comme Pelé et Neymar.",
+      "Je joue au Real Madrid avec mes compatriotes Vini et Endrick.",
+      "Attaquant brésilien polyvalent et décisif."
+    ],
+    "difficulty": 2
+  },
+  {
+    "id": "who_183",
+    "target": "Federico Valverde",
+    "clues": [
+      "J'ai taclé Alvaro Morata par derrière alors qu'il partait seul au but en finale de Supercoupe.",
+      "Simeone m'a félicité pour ce tacle rouge direct.",
+      "Je suis capable de jouer ailier, milieu défensif ou latéral.",
+      "J'ai hérité du numéro 8 de Toni Kroos.",
+      "L'Uruguayen du Real Madrid, surnommé 'El Pajarito' (L'oisillon) puis 'El Halcon' (Le faucon)."
+    ],
+    "difficulty": 2
+  },
+  {
+    "id": "who_184",
+    "target": "Endrick",
+    "clues": [
+      "J'ai marqué à Wembley pour mes débuts avec le Brésil à 17 ans.",
+      "J'ai cité Bobby Charlton comme l'une de mes idoles, ce qui est devenu un meme.",
+      "J'ai rejoint le Real Madrid à ma majorité en 2024.",
+      "J'ai des cuisses énormes pour mon âge.",
+      "Prodige brésilien, la nouvelle perle de la Seleção."
+    ],
+    "difficulty": 2
+  },
+  {
+    "id": "who_185",
+    "target": "Darwin Nunez",
+    "clues": [
+      "J'ai été acheté très cher par Liverpool à Benfica.",
+      "Je suis l'agent du chaos : je rate des buts faciles mais je marque des buts impossibles.",
+      "J'ai mis un coup de tête à Joachim Andersen lors de mes débuts à Anfield.",
+      "Zlatan Ibrahimovic a dit de moi que j'étais le futur.",
+      "Attaquant uruguayen puissant et rapide, queue de cheval."
+    ],
+    "difficulty": 2
+  },
+  {
+    "id": "who_186",
+    "target": "Enzo Fernandez",
+    "clues": [
+      "J'ai été élu meilleur jeune joueur de la Coupe du Monde 2022.",
+      "Benfica m'a acheté 10M€ et revendu 120M€ six mois plus tard.",
+      "J'ai provoqué une polémique avec un chant raciste après la Copa América 2024.",
+      "Je suis la pièce maîtresse du milieu de Chelsea.",
+      "Milieu argentin champion du monde."
+    ],
+    "difficulty": 2
+  },
+  {
+    "id": "who_187",
+    "target": "Khvicha Kvaratskhelia",
+    "clues": [
+      "Personne ne connaissait mon nom avant mon arrivée à Naples en 2022.",
+      "J'ai été élu meilleur joueur de Serie A dès ma première saison.",
+      "Mon nom est imprononçable, alors on m'appelle 'Kvaradona'.",
+      "J'ai emmené mon petit pays à son premier Euro en 2024.",
+      "Ailier géorgien, dribbleur génial chaussettes baissées."
+    ],
+    "difficulty": 2
+  },
+  {
+    "id": "who_188",
+    "target": "Victor Osimhen",
+    "clues": [
+      "J'ai vendu de l'eau dans les rues de Lagos pour survivre.",
+      "Je joue avec un masque de protection noir caractéristique.",
+      "J'ai offert le Scudetto au Napoli après 33 ans d'attente.",
+      "J'ai été transféré de Lille à Naples pour une somme record.",
+      "Attaquant nigérian athlétique et redoutable."
+    ],
+    "difficulty": 2
+  },
+  {
+    "id": "who_189",
+    "target": "Granit Xhaka",
+    "clues": [
+      "J'ai jeté mon brassard de capitaine et insulté mes propres supporters à l'Emirates.",
+      "J'ai fait une rédemption incroyable à Arsenal avant de partir.",
+      "J'ai été le leader du Bayer Leverkusen invincible de Xabi Alonso.",
+      "Mon frère a joué pour l'Albanie alors que je joue pour la Suisse.",
+      "Milieu suisse au caractère bien trempé et à la frappe lourde."
+    ],
+    "difficulty": 2
+  },
+  {
+    "id": "who_190",
+    "target": "Thomas Müller",
+    "clues": [
+      "Maradona a cru que j'étais un ramasseur de balles lors de ma première conférence de presse.",
+      "Je ne suis ni rapide, ni dribbleur, ni costaud, mais je suis toujours bien placé.",
+      "J'ai inventé mon propre rôle : le 'Raumdeuter' (interprète de l'espace).",
+      "J'ai marqué 10 buts en deux Coupes du Monde (2010, 2014).",
+      "Légende bavaroise du Bayern Munich, le blagueur de l'équipe."
+    ],
+    "difficulty": 1
+  },
+  {
+    "id": "who_191",
+    "target": "Marco Verratti",
+    "clues": [
+      "Je n'ai jamais joué un seul match de Serie A.",
+      "J'étais surnommé 'Le Petit Hibou'.",
+      "J'ai passé 11 ans au PSG mais je suis connu pour mon hygiène de vie douteuse (fumeur).",
+      "J'ai été champion d'Europe avec l'Italie en 2021.",
+      "Petit milieu italien, génie de la conservation de balle."
+    ],
+    "difficulty": 2
+  },
+  {
+    "id": "who_192",
+    "target": "Marquinhos",
+    "clues": [
+      "La Roma m'a vendu au PSG alors que je n'avais que 19 ans.",
+      "J'ai formé une charnière brésilienne avec Thiago Silva.",
+      "J'ai dévié le ballon dans mon but contre la Croatie au Mondial 2022.",
+      "Je suis le joueur le plus capé de l'histoire du PSG.",
+      "Défenseur brésilien, capitaine exemplaire et sauteur incroyable."
+    ],
+    "difficulty": 2
+  },
+  {
+    "id": "who_193",
+    "target": "Paulo Dybala",
+    "clues": [
+      "J'ai joué à Palerme avant de rejoindre la Juventus.",
+      "On m'a souvent comparé à Messi, ce qui a rendu notre cohabitation difficile en sélection.",
+      "Je célèbre mes buts avec le 'Dybala Mask'.",
+      "J'ai dégagé le ballon sur la ligne à la dernière seconde de la finale du Mondial 2022.",
+      "La 'Joya' (Le Joyau), gaucher argentin de la Roma."
+    ],
+    "difficulty": 2
+  },
+  {
+    "id": "who_194",
+    "target": "Ciro Immobile",
+    "clues": [
+      "J'ai échoué à Dortmund et à Séville.",
+      "J'ai égalé le record de buts sur une saison de Serie A (36 buts).",
+      "J'ai remporté le Soulier d'Or européen en 2020.",
+      "Je suis le meilleur buteur de l'histoire de la Lazio.",
+      "Buteur italien prolifique en Serie A."
+    ],
+    "difficulty": 3
+  },
+  {
+    "id": "who_195",
+    "target": "Jose Luis Chilavert",
+    "clues": [
+      "J'ai craché sur Roberto Carlos lors d'un match de qualification.",
+      "J'ai marqué plus de 60 buts dans ma carrière (coups francs et penaltys).",
+      "J'ai marqué un triplé (hat-trick) en tant que gardien de but.",
+      "J'ai failli marquer un coup franc du milieu de terrain contre la France en 1998.",
+      "Gardien paraguayen légendaire et colérique, 'Le Bulldog'."
+    ],
+    "difficulty": 2
+  },
+  {
+    "id": "who_196",
+    "target": "Dida",
+    "clues": [
+      "J'ai été touché par un fumigène lors d'un derby contre l'Inter.",
+      "J'ai simulé une blessure grave après qu'un supporter du Celtic m'ait effleuré.",
+      "J'ai arrêté 3 tirs au but en finale de C1 2003 contre la Juve.",
+      "J'ai gagné la Coupe du Monde 2002 (sur le banc) et deux Ligues des Champions.",
+      "Gardien brésilien du grand Milan AC."
+    ],
+    "difficulty": 2
+  },
+  {
+    "id": "who_197",
+    "target": "Esteban Cambiasso",
+    "clues": [
+      "J'ai marqué l'un des plus beaux buts collectifs de l'histoire de la Coupe du Monde (2006 vs Serbie).",
+      "Le Real Madrid m'a laissé partir libre à l'Inter.",
+      "J'ai été le cerveau du milieu de l'Inter lors du triplé 2010.",
+      "J'ai sauvé Leicester de la relégation avant leur titre (et je suis parti juste avant).",
+      "Milieu argentin chauve, surnommé 'Cuchu'."
+    ],
+    "difficulty": 2
+  },
+  {
+    "id": "who_198",
+    "target": "Ole Gunnar Solskjaer",
+    "clues": [
+      "J'ai marqué 4 buts en 12 minutes après être entré en jeu contre Nottingham Forest.",
+      "J'ai commis une faute tactique célèbre sur Robert Lee pour sauver un but.",
+      "J'ai marqué le but de la victoire à la 93ème minute de la finale de C1 1999.",
+      "J'ai été l'entraîneur de Manchester United après Mourinho.",
+      "Le 'Baby-faced Assassin' (Tueur à visage de bébé) norvégien."
+    ],
+    "difficulty": 2
+  },
+  {
+    "id": "who_199",
+    "target": "Diego Simeone",
+    "clues": [
+      "J'ai provoqué l'expulsion de David Beckham en 1998.",
+      "J'ai réalisé le doublé Coupe-Championnat avec l'Atlético comme joueur en 1996.",
+      "J'ai joué avec Ronaldo (R9) à l'Inter Milan.",
+      "Je suis l'entraîneur le mieux payé du monde à l'Atlético.",
+      "'El Cholo', milieu argentin rugueux devenu coach légendaire."
+    ],
+    "difficulty": 2
+  },
+  {
+    "id": "who_200",
+    "target": "Fernando Redondo",
+    "clues": [
+      "J'ai refusé de jouer pour l'Argentine car le sélectionneur voulait que je coupe mes cheveux.",
+      "J'ai réalisé une 'talonnade' (The Redondo Trick) incroyable à Old Trafford en 2000.",
+      "J'ai été le meilleur joueur de la Ligue des Champions 2000.",
+      "Mon transfert au Milan AC a été ruiné par une blessure immédiate au genou.",
+      "L'élégance faite milieu défensif, légende du Real Madrid."
+    ],
+    "difficulty": 2
+  }
+]

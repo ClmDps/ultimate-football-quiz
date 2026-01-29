@@ -1,0 +1,1602 @@
+[
+  {
+    "id": 1,
+    "type": "Lineup",
+    "context": "Le Trio 'BBC' du Real Madrid : Benzema, Cristiano Ronaldo et ... ?",
+    "options": ["Gareth Bale", "Isco", "Angel Di Maria", "James Rodriguez"],
+    "answer": "Gareth Bale",
+    "difficulty": 1
+  },
+  {
+    "id": 2,
+    "type": "Lineup",
+    "context": "Le Trio 'MSN' du FC Barcelone : Messi, Suárez et ... ?",
+    "options": ["Pedro", "Neymar", "Alexis Sánchez", "David Villa"],
+    "answer": "Neymar",
+    "difficulty": 1
+  },
+  {
+    "id": 3,
+    "type": "Group",
+    "context": "Groupe de la France (CDM 2018) : France, Danemark, Pérou et ... ?",
+    "options": ["Australie", "Tunisie", "Canada", "Maroc"],
+    "answer": "Australie",
+    "difficulty": 1
+  },
+  {
+    "id": 4,
+    "type": "Match Iconique",
+    "context": "Finale CDM 2022 : Argentine vs ... ?",
+    "options": ["France", "Croatie", "Brésil", "Angleterre"],
+    "answer": "France",
+    "difficulty": 1
+  },
+  {
+    "id": 5,
+    "type": "Lineup",
+    "context": "Attaque de Liverpool (2018-2020) : Salah, Mané et ... ?",
+    "options": ["Diogo Jota", "Roberto Firmino", "Luis Diaz", "Divock Origi"],
+    "answer": "Roberto Firmino",
+    "difficulty": 1
+  },
+  {
+    "id": 6,
+    "type": "Lineup",
+    "context": "Milieu légendaire du Barça (2009-2015) : Xavi, Iniesta et ... ?",
+    "options": ["Yaya Touré", "Sergio Busquets", "Seydou Keita", "Ivan Rakitic"],
+    "answer": "Sergio Busquets",
+    "difficulty": 1
+  },
+  {
+    "id": 7,
+    "type": "Match Iconique",
+    "context": "Finale CDM 1998 : France vs ... ?",
+    "options": ["Brésil", "Italie", "Allemagne", "Pays-Bas"],
+    "answer": "Brésil",
+    "difficulty": 1
+  },
+  {
+    "id": 8,
+    "type": "Lineup",
+    "context": "Milieu 'Casemiro - Kroos' au Real Madrid complété par ... ?",
+    "options": ["Fede Valverde", "Luka Modrić", "Isco", "Xabi Alonso"],
+    "answer": "Luka Modrić",
+    "difficulty": 1
+  },
+  {
+    "id": 9,
+    "type": "Lineup",
+    "context": "Attaque du PSG 2017-2018 (MCN) : Mbappé, Neymar et ... ?",
+    "options": ["Zlatan Ibrahimovic", "Edinson Cavani", "Mauro Icardi", "Angel Di Maria"],
+    "answer": "Edinson Cavani",
+    "difficulty": 1
+  },
+  {
+    "id": 10,
+    "type": "Match Iconique",
+    "context": "Finale Ligue des Champions 2023 : Manchester City vs ... ?",
+    "options": ["AC Milan", "Inter Milan", "Real Madrid", "Napoli"],
+    "answer": "Inter Milan",
+    "difficulty": 1
+  },
+  {
+    "id": 11,
+    "type": "Podium",
+    "context": "Podium Ballon d'Or 2015 : Messi (1er), Ronaldo (2ème) et ... ?",
+    "options": ["Neymar", "Suárez", "Lewandowski", "Griezmann"],
+    "answer": "Neymar",
+    "difficulty": 2
+  },
+  {
+    "id": 12,
+    "type": "Lineup",
+    "context": "Les 'Invincibles' d'Arsenal (Attaque) : Henry, Bergkamp et ... ?",
+    "options": ["Robert Pirès", "Freddie Ljungberg", "Sylvain Wiltord", "Nwankwo Kanu"],
+    "answer": "Robert Pirès",
+    "difficulty": 2
+  },
+  {
+    "id": 13,
+    "type": "Group",
+    "context": "Groupe F (Euro 2020) 'Groupe de la Mort' : France, Allemagne, Portugal et ... ?",
+    "options": ["Hongrie", "Pologne", "Suisse", "Autriche"],
+    "answer": "Hongrie",
+    "difficulty": 2
+  },
+  {
+    "id": 14,
+    "type": "Lineup",
+    "context": "Trio d'attaque Man Utd 2008 : C.Ronaldo, Rooney et ... ?",
+    "options": ["Dimitar Berbatov", "Carlos Tévez", "Ryan Giggs", "Louis Saha"],
+    "answer": "Carlos Tévez",
+    "difficulty": 2
+  },
+  {
+    "id": 15,
+    "type": "Lineup",
+    "context": "Leicester City 2016 (Le Trio clé) : Vardy, Mahrez et ... ?",
+    "options": ["Danny Drinkwater", "N'Golo Kanté", "Kasper Schmeichel", "Wes Morgan"],
+    "answer": "N'Golo Kanté",
+    "difficulty": 2
+  },
+  {
+    "id": 16,
+    "type": "Match Iconique",
+    "context": "Finale CDM 2006 : Italie vs ... ?",
+    "options": ["France", "Allemagne", "Portugal", "Brésil"],
+    "answer": "France",
+    "difficulty": 2
+  },
+  {
+    "id": 17,
+    "type": "Lineup",
+    "context": "Bayern Munich 2013 ('Robbery') : Robben, Ribéry et ... ?",
+    "options": ["Thomas Müller", "Mario Gómez", "Mario Mandžukić", "Toni Kroos"],
+    "answer": "Mario Mandžukić",
+    "difficulty": 3
+  },
+  {
+    "id": 18,
+    "type": "Lineup",
+    "context": "Espagne 2010 (Milieu) : Xavi, Iniesta, Busquets et ... ?",
+    "options": ["Xabi Alonso", "David Silva", "Cesc Fàbregas", "Santi Cazorla"],
+    "answer": "Xabi Alonso",
+    "difficulty": 3
+  },
+  {
+    "id": 19,
+    "type": "Lineup",
+    "context": "Défense Juventus 'BBC' : Barzagli, Chiellini et ... ?",
+    "options": ["Mehdi Benatia", "Leonardo Bonucci", "Matthijs de Ligt", "Dani Alves"],
+    "answer": "Leonardo Bonucci",
+    "difficulty": 3
+  },
+  {
+    "id": 20,
+    "type": "Match Iconique",
+    "context": "Finale Ligue des Champions 2005 (Miracle d'Istanbul) : Liverpool vs ... ?",
+    "options": ["Juventus", "AC Milan", "Bayern Munich", "Chelsea"],
+    "answer": "AC Milan",
+    "difficulty": 3
+  },
+  {
+    "id": 21,
+    "type": "Lineup",
+    "context": "Attaque Brésil 2002 (Les 3 R) : Ronaldo, Ronaldinho et ... ?",
+    "options": ["Romario", "Rivaldo", "Robinho", "Roberto Carlos"],
+    "answer": "Rivaldo",
+    "difficulty": 3
+  },
+  {
+    "id": 22,
+    "type": "Lineup",
+    "context": "Milieu Croatie 2018 : Modrić, Rakitić et ... ?",
+    "options": ["Mateo Kovačić", "Marcelo Brozović", "Ivan Perišić", "Mario Pašalić"],
+    "answer": "Marcelo Brozović",
+    "difficulty": 3
+  },
+  {
+    "id": 23,
+    "type": "Podium",
+    "context": "Podium Ballon d'Or 2007 : Kaka (1er), C.Ronaldo (2ème) et ... ?",
+    "options": ["Andriy Shevchenko", "Lionel Messi", "Fernando Torres", "Didier Drogba"],
+    "answer": "Lionel Messi",
+    "difficulty": 3
+  },
+  {
+    "id": 24,
+    "type": "Lineup",
+    "context": "Les Galactiques (Real Madrid 2003) : Zidane, Ronaldo, Figo et ... ?",
+    "options": ["David Beckham", "Michael Owen", "Ronaldinho", "Claude Makélélé"],
+    "answer": "David Beckham",
+    "difficulty": 3
+  },
+  {
+    "id": 25,
+    "type": "Group",
+    "context": "Groupe B (CDM 2014) : Pays-Bas, Chili, Australie et ... ?",
+    "options": ["Brésil", "Espagne", "Italie", "Angleterre"],
+    "answer": "Espagne",
+    "difficulty": 3
+  },
+  {
+    "id": 26,
+    "type": "Lineup",
+    "context": "Dortmund 2013 (Attaque) : Lewandowski, Reus et ... ?",
+    "options": ["Mario Götze", "Pierre-Emerick Aubameyang", "Shinji Kagawa", "Ivan Perišić"],
+    "answer": "Mario Götze",
+    "difficulty": 4
+  },
+  {
+    "id": 27,
+    "type": "Lineup",
+    "context": "AC Milan 2007 (Sapin de Noël) : Kaka, Seedorf et l'attaquant ... ?",
+    "options": ["Andriy Shevchenko", "Filippo Inzaghi", "Hernan Crespo", "Ronaldo R9"],
+    "answer": "Filippo Inzaghi",
+    "difficulty": 4
+  },
+  {
+    "id": 28,
+    "type": "Lineup",
+    "context": "Uruguay 2010 (Attaque) : Forlán, Suárez et ... ?",
+    "options": ["Cristhian Stuani", "Edinson Cavani", "Álvaro Recoba", "Sebastián Abreu"],
+    "answer": "Edinson Cavani",
+    "difficulty": 4
+  },
+  {
+    "id": 29,
+    "type": "Match Iconique",
+    "context": "Finale Euro 2004 : Portugal vs ... ?",
+    "options": ["Grèce", "République Tchèque", "Pays-Bas", "Angleterre"],
+    "answer": "Grèce",
+    "difficulty": 4
+  },
+  {
+    "id": 30,
+    "type": "Lineup",
+    "context": "Défense de fer France 1998 : Thuram, Desailly, Lizarazu et ... ?",
+    "options": ["Frank Leboeuf", "Laurent Blanc", "Willy Sagnol", "Basile Boli"],
+    "answer": "Laurent Blanc",
+    "difficulty": 4
+  },
+  {
+    "id": 31,
+    "type": "Lineup",
+    "context": "Inter Milan 2010 (Attaque) : Milito, Eto'o et ... ?",
+    "options": ["Wesley Sneijder", "Goran Pandev", "Mario Balotelli", "Zlatan Ibrahimovic"],
+    "answer": "Goran Pandev",
+    "difficulty": 5
+  },
+  {
+    "id": 32,
+    "type": "Podium",
+    "context": "Podium Ballon d'Or 2006 : Cannavaro (1er), Buffon (2ème) et ... ?",
+    "options": ["Zinédine Zidane", "Thierry Henry", "Ronaldinho", "Samuel Eto'o"],
+    "answer": "Thierry Henry",
+    "difficulty": 5
+  },
+  {
+    "id": 33,
+    "type": "Lineup",
+    "context": "Man Utd 1999 (Milieu) : Beckham, Keane, Giggs et ... ?",
+    "options": ["Paul Scholes", "Nicky Butt", "Teddy Sheringham", "Ole Gunnar Solskjær"],
+    "answer": "Paul Scholes",
+    "difficulty": 5
+  },
+  {
+    "id": 34,
+    "type": "Match Iconique",
+    "context": "Finale Ligue des Champions 2006 : FC Barcelone vs ... ?",
+    "options": ["Manchester United", "Arsenal", "AC Milan", "Juventus"],
+    "answer": "Arsenal",
+    "difficulty": 5
+  },
+  {
+    "id": 35,
+    "type": "Group",
+    "context": "Groupe A (CDM 2010) : Afrique du Sud, Mexique, Uruguay et ... ?",
+    "options": ["France", "Argentine", "Nigéria", "Portugal"],
+    "answer": "France",
+    "difficulty": 5
+  },
+  {
+    "id": 36,
+    "type": "Lineup",
+    "context": "Belgique 2018 (Attaque) : Hazard, Lukaku et ... ?",
+    "options": ["Dries Mertens", "Yannick Carrasco", "Kevin Mirallas", "Michy Batshuayi"],
+    "answer": "Dries Mertens",
+    "difficulty": 5
+  },
+  {
+    "id": 37,
+    "type": "Lineup",
+    "context": "Napoli 2023 (Trio clé) : Osimhen, Kvaratskhelia et le défenseur ... ?",
+    "options": ["Kalidou Koulibaly", "Kim Min-jae", "Giovanni Di Lorenzo", "Amir Rrahmani"],
+    "answer": "Kim Min-jae",
+    "difficulty": 5
+  },
+  {
+    "id": 38,
+    "type": "Lineup",
+    "context": "Porto 2004 (Vainqueur C1) : Deco, Carvalho et ... ?",
+    "options": ["Paulo Ferreira", "Pepe", "Quaresma", "João Moutinho"],
+    "answer": "Paulo Ferreira",
+    "difficulty": 6
+  },
+  {
+    "id": 39,
+    "type": "Lineup",
+    "context": "Atlético Madrid 2014 (Attaque) : Diego Costa et ... ?",
+    "options": ["Radamel Falcao", "David Villa", "Antoine Griezmann", "Fernando Torres"],
+    "answer": "David Villa",
+    "difficulty": 6
+  },
+  {
+    "id": 40,
+    "type": "Lineup",
+    "context": "Tottenham 2019 (Finalistes C1) : Kane, Son, Eriksen et ... ?",
+    "options": ["Dele Alli", "Lucas Moura", "Gareth Bale", "Erik Lamela"],
+    "answer": "Dele Alli",
+    "difficulty": 6
+  },
+  {
+    "id": 41,
+    "type": "Podium",
+    "context": "Podium Ballon d'Or 2003 : Nedved (1er), Henry (2ème) et ... ?",
+    "options": ["Paolo Maldini", "Ronaldo", "Zidane", "Andriy Shevchenko"],
+    "answer": "Paolo Maldini",
+    "difficulty": 6
+  },
+  {
+    "id": 42,
+    "type": "Lineup",
+    "context": "Sénégal 2002 (Héros) : El-Hadji Diouf, Papa Bouba Diop et ... ?",
+    "options": ["Khalilou Fadiga", "Sadio Mané", "Idrissa Gueye", "Mamadou Niang"],
+    "answer": "Khalilou Fadiga",
+    "difficulty": 6
+  },
+  {
+    "id": 43,
+    "type": "Lineup",
+    "context": "Leeds United 2001 (Attaque) : Viduka, Kewell et ... ?",
+    "options": ["Alan Smith", "Robbie Fowler", "Jimmy Floyd Hasselbaink", "Rio Ferdinand"],
+    "answer": "Alan Smith",
+    "difficulty": 7
+  },
+  {
+    "id": 44,
+    "type": "Lineup",
+    "context": "Valence CF 2000/2001 (Milieu) : Mendieta, Kily González et ... ?",
+    "options": ["Rubén Baraja", "Pablo Aimar", "David Albelda", "David Silva"],
+    "answer": "Rubén Baraja",
+    "difficulty": 7
+  },
+  {
+    "id": 45,
+    "type": "Group",
+    "context": "Groupe G (CDM 2006) : France, Suisse, Corée du Sud et ... ?",
+    "options": ["Togo", "Angola", "Côte d'Ivoire", "Ghana"],
+    "answer": "Togo",
+    "difficulty": 7
+  },
+  {
+    "id": 46,
+    "type": "Lineup",
+    "context": "Monaco 2004 (Attaque) : Morientes, Giuly et ... ?",
+    "options": ["Dado Pršo", "Shabani Nonda", "Emmanuel Adebayor", "David Trezeguet"],
+    "answer": "Dado Pršo",
+    "difficulty": 7
+  },
+  {
+    "id": 47,
+    "type": "Podium",
+    "context": "Podium Ballon d'Or 2010 (100% La Masia) : Messi, Iniesta et ... ?",
+    "options": ["Xavi", "Puyol", "Busquets", "Villa"],
+    "answer": "Xavi",
+    "difficulty": 7
+  },
+  {
+    "id": 48,
+    "type": "Lineup",
+    "context": "Brésil 2006 (Carré Magique) : Ronaldo, Ronaldinho, Kaka et ... ?",
+    "options": ["Adriano", "Robinho", "Rivaldo", "Juninho"],
+    "answer": "Adriano",
+    "difficulty": 7
+  },
+  {
+    "id": 49,
+    "type": "Lineup",
+    "context": "Lazio 2000 (Champions) : Veron, Nedved, Nesta et en attaque ... ?",
+    "options": ["Hernan Crespo", "Marcelo Salas", "Christian Vieri", "Claudio López"],
+    "answer": "Marcelo Salas",
+    "difficulty": 8
+  },
+  {
+    "id": 50,
+    "type": "Lineup",
+    "context": "Bayer Leverkusen 2002 (Finaliste) : Ballack, Schneider, Ramelow et ... ?",
+    "options": ["Oliver Neuville", "Dimitar Berbatov", "Zé Roberto", "Ulf Kirsten"],
+    "answer": "Oliver Neuville",
+    "difficulty": 8
+  },
+  {
+    "id": 51,
+    "type": "Group",
+    "context": "Groupe F (CDM 2002) 'Groupe de la Mort' : Argentine, Angleterre, Nigéria et ... ?",
+    "options": ["Suède", "Danemark", "Irlande", "Cameroun"],
+    "answer": "Suède",
+    "difficulty": 8
+  },
+  {
+    "id": 52,
+    "type": "Lineup",
+    "context": "Villarreal 2006 (Demi-finaliste) : Riquelme, Forlán et ... ?",
+    "options": ["Marcos Senna", "Robert Pirès", "Santi Cazorla", "Nilmar"],
+    "answer": "Marcos Senna",
+    "difficulty": 8
+  },
+  {
+    "id": 53,
+    "type": "Lineup",
+    "context": "Wolfsburg 2009 (Trio Magique) : Džeko, Grafite et ... ?",
+    "options": ["Zvjezdan Misimović", "Kevin De Bruyne", "Ivan Perišić", "Julian Draxler"],
+    "answer": "Zvjezdan Misimović",
+    "difficulty": 8
+  },
+  {
+    "id": 54,
+    "type": "Lineup",
+    "context": "Ajax 2019 (Pépites) : De Ligt, De Jong et ... ?",
+    "options": ["Donny van de Beek", "Justin Kluivert", "Davy Klaassen", "Kasper Dolberg"],
+    "answer": "Donny van de Beek",
+    "difficulty": 8
+  },
+  {
+    "id": 55,
+    "type": "Lineup",
+    "context": "Parme années 90 (Défense) : Buffon, Cannavaro et ... ?",
+    "options": ["Lilian Thuram", "Nestor Sensini", "Paolo Maldini", "Alessandro Nesta"],
+    "answer": "Lilian Thuram",
+    "difficulty": 9
+  },
+  {
+    "id": 56,
+    "type": "Lineup",
+    "context": "Bulgarie 1994 (Héros) : Stoichkov, Letchkov et ... ?",
+    "options": ["Emil Kostadinov", "Dimitar Berbatov", "Hristo Bonev", "Stiliyan Petrov"],
+    "answer": "Emil Kostadinov",
+    "difficulty": 9
+  },
+  {
+    "id": 57,
+    "type": "Lineup",
+    "context": "Roumanie 1994 (Génération d'Or) : Hagi, Petrescu et ... ?",
+    "options": ["Ilie Dumitrescu", "Adrian Mutu", "Cristian Chivu", "Viorel Moldovan"],
+    "answer": "Ilie Dumitrescu",
+    "difficulty": 9
+  },
+  {
+    "id": 58,
+    "type": "Lineup",
+    "context": "Auxerre 1996 (Doublé) : Blanc, Guivarc'h et ... ?",
+    "options": ["Lilian Laslandes", "Djibril Cissé", "Philippe Mexès", "Basile Boli"],
+    "answer": "Lilian Laslandes",
+    "difficulty": 9
+  },
+  {
+    "id": 59,
+    "type": "Match Iconique",
+    "context": "Finale Ligue des Champions 1994 : AC Milan vs ... ?",
+    "options": ["FC Barcelone", "Marseille", "Ajax", "Sampdoria"],
+    "answer": "FC Barcelone",
+    "difficulty": 9
+  },
+  {
+    "id": 60,
+    "type": "Lineup",
+    "context": "Sampdoria 1991 (Duo d'attaque) : Gianluca Vialli et ... ?",
+    "options": ["Roberto Mancini", "Ruud Gullit", "Attilio Lombardo", "Enrico Chiesa"],
+    "answer": "Roberto Mancini",
+    "difficulty": 10
+  },
+  {
+    "id": 61,
+    "type": "Podium",
+    "context": "Podium Ballon d'Or 2001 : Owen (1er), Raul (2ème) et ... ?",
+    "options": ["Oliver Kahn", "David Beckham", "Francesco Totti", "Luis Figo"],
+    "answer": "Oliver Kahn",
+    "difficulty": 10
+  },
+  {
+    "id": 62,
+    "type": "Lineup",
+    "context": "Brésil 1982 (Milieu magique) : Zico, Sócrates, Falcão et ... ?",
+    "options": ["Toninho Cerezo", "Dunga", "Rivellino", "Júnior"],
+    "answer": "Toninho Cerezo",
+    "difficulty": 10
+  },
+  {
+    "id": 63,
+    "type": "Lineup",
+    "context": "France 1984 (Carré Magique) : Platini, Giresse, Tigana et ... ?",
+    "options": ["Luis Fernandez", "Dominique Rocheteau", "Jean-Pierre Papin", "Didier Six"],
+    "answer": "Luis Fernandez",
+    "difficulty": 10
+  },
+  {
+    "id": 64,
+    "type": "Group",
+    "context": "Groupe 1 (Euro 1992) : Suède, Danemark, France et ... ?",
+    "options": ["Angleterre", "Italie", "Allemagne", "Pays-Bas"],
+    "answer": "Angleterre",
+    "difficulty": 10
+  },
+  {
+    "id": 65,
+    "type": "Match Iconique",
+    "context": "Finale Ligue des Champions 1991 : Étoile Rouge de Belgrade vs ... ?",
+    "options": ["Marseille", "Bayern Munich", "AC Milan", "Spartak Moscou"],
+    "answer": "Marseille",
+    "difficulty": 10
+  },
+  {
+    "id": 66,
+    "type": "Lineup",
+    "context": "Hongrie 1954 (Onze d'Or) : Puskás, Kocsis et le meneur ... ?",
+    "options": ["Nándor Hidegkuti", "Zoltán Czibor", "László Kubala", "Ferenc Bene"],
+    "answer": "Nándor Hidegkuti",
+    "difficulty": 11
+  },
+  {
+    "id": 67,
+    "type": "Lineup",
+    "context": "Nottingham Forest 1979/80 (Coach Clough) : Shilton, Francis et l'ailier ... ?",
+    "options": ["John Robertson", "Martin O'Neill", "Viv Anderson", "Stan Collymore"],
+    "answer": "John Robertson",
+    "difficulty": 11
+  },
+  {
+    "id": 68,
+    "type": "Lineup",
+    "context": "Napoli 1987 (Ma-Gi-Ca) : Maradona, Giordano et ... ?",
+    "options": ["Careca", "Alemão", "Ciro Ferrara", "Carnevale"],
+    "answer": "Careca",
+    "difficulty": 11
+  },
+  {
+    "id": 69,
+    "type": "Lineup",
+    "context": "Steaua Bucarest 1986 (Vainqueur C1) : Duckadam, Bölöni et ... ?",
+    "options": ["Marius Lăcătuș", "Gheorghe Hagi", "Dan Petrescu", "Dorin Goian"],
+    "answer": "Marius Lăcătuș",
+    "difficulty": 11
+  },
+  {
+    "id": 70,
+    "type": "Podium",
+    "context": "Podium Ballon d'Or 1995 (Premier non-européen) : Weah (1er), Klinsmann (2ème) et ... ?",
+    "options": ["Jari Litmanen", "Alessandro Del Piero", "Patrick Kluivert", "Matthias Sammer"],
+    "answer": "Jari Litmanen",
+    "difficulty": 11
+  },
+  {
+    "id": 71,
+    "type": "Lineup",
+    "context": "Manchester United 1968 (Holy Trinity) : Charlton, Best et ... ?",
+    "options": ["Denis Law", "Nobby Stiles", "Brian Kidd", "Ryan Giggs"],
+    "answer": "Denis Law",
+    "difficulty": 12
+  },
+  {
+    "id": 72,
+    "type": "Lineup",
+    "context": "Danemark 1992 (Absence célèbre) : Schmeichel et Brian Laudrup étaient là, mais il manquait ... ?",
+    "options": ["Michael Laudrup", "Allan Simonsen", "Preben Elkjær", "Jan Mølby"],
+    "answer": "Michael Laudrup",
+    "difficulty": 12
+  },
+  {
+    "id": 73,
+    "type": "Lineup",
+    "context": "Nigéria JO 1996 (Dream Team) : Kanu, Okocha et ... ?",
+    "options": ["Daniel Amokachi", "Victor Ikpeba", "Taribo West", "Obafemi Martins"],
+    "answer": "Daniel Amokachi",
+    "difficulty": 12
+  },
+  {
+    "id": 74,
+    "type": "Lineup",
+    "context": "Pays-Bas 1988 (Trio Milan) : Van Basten, Gullit et ... ?",
+    "options": ["Frank Rijkaard", "Ronald Koeman", "Ruud Krol", "Clarence Seedorf"],
+    "answer": "Frank Rijkaard",
+    "difficulty": 12
+  },
+  {
+    "id": 75,
+    "type": "Lineup",
+    "context": "Marseille 1993 (Défense) : Boli, Desailly, Barthez et ... ?",
+    "options": ["Jocelyn Angloma", "Éric Di Meco", "Basile Boli", "Franck Sauzée"],
+    "answer": "Jocelyn Angloma",
+    "difficulty": 12
+  },
+  {
+    "id": 76,
+    "type": "Lineup",
+    "context": "AS Monaco 2017 (Champions) : Mbappé, Falcao, Bernardo Silva et ... ?",
+    "options": ["Thomas Lemar", "James Rodríguez", "Yannick Carrasco", "Anthony Martial"],
+    "answer": "Thomas Lemar",
+    "difficulty": 6
+  },
+  {
+    "id": 77,
+    "type": "Lineup",
+    "context": "Lille OSC 2011 (Le Triplé offensif) : Hazard, Sow et ... ?",
+    "options": ["Gervinho", "Nicolas Pépé", "Dimitri Payet", "Rio Mavuba"],
+    "answer": "Gervinho",
+    "difficulty": 6
+  },
+  {
+    "id": 78,
+    "type": "Lineup",
+    "context": "Ajax 1995 (Vainqueur C1) : Kluivert, Litmanen, Seedorf et ... ?",
+    "options": ["Edgar Davids", "Dennis Bergkamp", "Wesley Sneijder", "Marco van Basten"],
+    "answer": "Edgar Davids",
+    "difficulty": 7
+  },
+  {
+    "id": 79,
+    "type": "Match Iconique",
+    "context": "Finale Ligue des Champions 1999 : Manchester United vs ... ?",
+    "options": ["Bayern Munich", "Juventus", "FC Barcelone", "Real Madrid"],
+    "answer": "Bayern Munich",
+    "difficulty": 5
+  },
+  {
+    "id": 80,
+    "type": "Podium",
+    "context": "Podium Ballon d'Or 1998 : Zidane (1er), Šuker (2ème) et ... ?",
+    "options": ["Ronaldo R9", "Michael Owen", "Rivaldo", "Dennis Bergkamp"],
+    "answer": "Ronaldo R9",
+    "difficulty": 6
+  },
+  {
+    "id": 81,
+    "type": "Group",
+    "context": "Groupe D (CDM 2014) 'Groupe de la Mort' : Costa Rica, Uruguay, Italie et ... ?",
+    "options": ["Angleterre", "Espagne", "Portugal", "France"],
+    "answer": "Angleterre",
+    "difficulty": 6
+  },
+  {
+    "id": 82,
+    "type": "Lineup",
+    "context": "Chelsea 2005 (Colonne Vertébrale) : Terry, Lampard, Drogba et ... ?",
+    "options": ["Petr Čech", "Claude Makélélé", "Michael Essien", "Arjen Robben"],
+    "answer": "Petr Čech",
+    "difficulty": 5
+  },
+  {
+    "id": 83,
+    "type": "Lineup",
+    "context": "Montpellier 2012 (Titre historique) : Giroud, Yanga-Mbiwa et le meneur ... ?",
+    "options": ["Younès Belhanda", "Rémy Cabella", "Benjamin Stambouli", "Anthony Mounier"],
+    "answer": "Younès Belhanda",
+    "difficulty": 7
+  },
+  {
+    "id": 84,
+    "type": "Lineup",
+    "context": "Lyon 2006 (Milieu de fer) : Juninho, M.Diarra, Malouda et ... ?",
+    "options": ["Tiago", "Michael Essien", "Jérémy Toulalan", "Yoann Gourcuff"],
+    "answer": "Tiago",
+    "difficulty": 7
+  },
+  {
+    "id": 85,
+    "type": "Match Iconique",
+    "context": "Finale Euro 2000 : France vs ... ?",
+    "options": ["Italie", "Pays-Bas", "Portugal", "Espagne"],
+    "answer": "Italie",
+    "difficulty": 5
+  },
+  {
+    "id": 86,
+    "type": "Lineup",
+    "context": "Paraguay 1998 (Défense légendaire) : Chilavert, Gamarra et ... ?",
+    "options": ["Celso Ayala", "Roque Santa Cruz", "Francisco Arce", "José Cardozo"],
+    "answer": "Celso Ayala",
+    "difficulty": 9
+  },
+  {
+    "id": 87,
+    "type": "Lineup",
+    "context": "Bordeaux 2009 (Le titre de Blanc) : Gourcuff, Chamakh et le capitaine ... ?",
+    "options": ["Alou Diarra", "Rio Mavuba", "Marouane Chamakh", "Marc Planus"],
+    "answer": "Alou Diarra",
+    "difficulty": 7
+  },
+  {
+    "id": 88,
+    "type": "Lineup",
+    "context": "Turquie 2002 (Demi-finaliste) : Hakan Şükür, Rüştü et ... ?",
+    "options": ["Hasan Şaş", "Arda Turan", "Hamit Altıntop", "Burak Yılmaz"],
+    "answer": "Hasan Şaş",
+    "difficulty": 8
+  },
+  {
+    "id": 89,
+    "type": "Podium",
+    "context": "Podium Ballon d'Or 2004 : Shevchenko (1er), Deco (2ème) et ... ?",
+    "options": ["Ronaldinho", "Thierry Henry", "Adriano", "Frank Lampard"],
+    "answer": "Ronaldinho",
+    "difficulty": 8
+  },
+  {
+    "id": 90,
+    "type": "Lineup",
+    "context": "Deportivo La Corogne 2000 (Super Depor) : Makaay, Djalminha et ... ?",
+    "options": ["Juan Carlos Valerón", "Diego Tristán", "Mauro Silva", "Naybet"],
+    "answer": "Mauro Silva",
+    "difficulty": 9
+  },
+  {
+    "id": 91,
+    "type": "Group",
+    "context": "Groupe A (Euro 2004) : Portugal, Grèce, Espagne et ... ?",
+    "options": ["Russie", "Suède", "Turquie", "France"],
+    "answer": "Russie",
+    "difficulty": 8
+  },
+  {
+    "id": 92,
+    "type": "Lineup",
+    "context": "Real Sociedad 2003 (Vice-champion) : Kovacevic, Karpin et ... ?",
+    "options": ["Nihat Kahveci", "Xabi Alonso", "Antoine Griezmann", "Mikel Arteta"],
+    "answer": "Nihat Kahveci",
+    "difficulty": 8
+  },
+  {
+    "id": 93,
+    "type": "Lineup",
+    "context": "Stuttgart 2007 (Champions) : Mario Gómez, Cacau et ... ?",
+    "options": ["Thomas Hitzlsperger", "Sami Khedira", "Timo Werner", "Philipp Lahm"],
+    "answer": "Thomas Hitzlsperger",
+    "difficulty": 9
+  },
+  {
+    "id": 94,
+    "type": "Match Iconique",
+    "context": "Finale Ligue des Champions 1997 : Borussia Dortmund vs ... ?",
+    "options": ["Juventus", "Manchester United", "Ajax", "Real Madrid"],
+    "answer": "Juventus",
+    "difficulty": 7
+  },
+  {
+    "id": 95,
+    "type": "Lineup",
+    "context": "Manchester City 2012 (Le titre 'Agüeroooo') : Agüero, Džeko, Silva et ... ?",
+    "options": ["Yaya Touré", "Kevin De Bruyne", "Raheem Sterling", "Carlos Tévez"],
+    "answer": "Yaya Touré",
+    "difficulty": 6
+  },
+  {
+    "id": 96,
+    "type": "Lineup",
+    "context": "Barcelone 2006 (Vainqueurs C1) : Ronaldinho, Eto'o, Deco et ... ?",
+    "options": ["Ludovic Giuly", "Lionel Messi", "Thierry Henry", "Patrick Kluivert"],
+    "answer": "Ludovic Giuly",
+    "difficulty": 7
+  },
+  {
+    "id": 97,
+    "type": "Group",
+    "context": "Groupe C (Euro 2008) 'Groupe de la Mort' : Pays-Bas, Italie, France et ... ?",
+    "options": ["Roumanie", "Pologne", "République Tchèque", "Croatie"],
+    "answer": "Roumanie",
+    "difficulty": 7
+  },
+  {
+    "id": 98,
+    "type": "Lineup",
+    "context": "Arsenal 1998 (Le Doublé) : Bergkamp, Wright, Petit et ... ?",
+    "options": ["Patrick Vieira", "Thierry Henry", "Robert Pirès", "Freddie Ljungberg"],
+    "answer": "Patrick Vieira",
+    "difficulty": 7
+  },
+  {
+    "id": 99,
+    "type": "Lineup",
+    "context": "Grèce 2004 (Héros) : Charisteas, Dellas et le capitaine ... ?",
+    "options": ["Theodoros Zagorakis", "Giorgos Karagounis", "Nikopolidis", "Basinas"],
+    "answer": "Theodoros Zagorakis",
+    "difficulty": 8
+  },
+  {
+    "id": 100,
+    "type": "Podium",
+    "context": "Podium Ballon d'Or 2018 : Modrić (1er), Ronaldo (2ème) et ... ?",
+    "options": ["Antoine Griezmann", "Kylian Mbappé", "Lionel Messi", "Mohamed Salah"],
+    "answer": "Antoine Griezmann",
+    "difficulty": 6
+  },
+  {
+    "id": 101,
+    "type": "Lineup",
+    "context": "Séville FC 2014-2016 (Rois de l'Europa) : Banega, Gameiro et ... ?",
+    "options": ["Carlos Bacca", "Wissam Ben Yedder", "Ivan Rakitić", "Sergio Ramos"],
+    "answer": "Carlos Bacca",
+    "difficulty": 8
+  },
+  {
+    "id": 102,
+    "type": "Match Iconique",
+    "context": "Finale CDM 1994 : Brésil vs ... ?",
+    "options": ["Italie", "Pays-Bas", "Suède", "Argentine"],
+    "answer": "Italie",
+    "difficulty": 5
+  },
+  {
+    "id": 103,
+    "type": "Lineup",
+    "context": "Napoli 2017 (Sarri-ball) : Insigne, Mertens et ... ?",
+    "options": ["José Callejón", "Gonzalo Higuaín", "Arkadiusz Milik", "Fabian Ruiz"],
+    "answer": "José Callejón",
+    "difficulty": 8
+  },
+  {
+    "id": 104,
+    "type": "Lineup",
+    "context": "PSG 1996 (Vainqueur C2) : Rai, Loko, Djorkaeff et ... ?",
+    "options": ["Bruno N'Gotty", "George Weah", "David Ginola", "Ronaldinho"],
+    "answer": "Bruno N'Gotty",
+    "difficulty": 9
+  },
+  {
+    "id": 105,
+    "type": "Lineup",
+    "context": "Allemagne 2014 (Milieu Finale) : Schweinsteiger, Kroos, Müller et ... ?",
+    "options": ["Mesut Özil", "Mario Götze", "Marco Reus", "Ilkay Gündogan"],
+    "answer": "Mesut Özil",
+    "difficulty": 7
+  },
+  {
+    "id": 106,
+    "type": "Group",
+    "context": "Groupe H (CDM 2018) : Colombie, Japon, Sénégal et ... ?",
+    "options": ["Pologne", "Suède", "Russie", "Serbie"],
+    "answer": "Pologne",
+    "difficulty": 8
+  },
+  {
+    "id": 107,
+    "type": "Lineup",
+    "context": "Leeds United 2001 (Défense) : Rio Ferdinand, Ian Harte et ... ?",
+    "options": ["Jonathan Woodgate", "Lucas Radebe", "Gary Kelly", "Dominic Matteo"],
+    "answer": "Jonathan Woodgate",
+    "difficulty": 9
+  },
+  {
+    "id": 108,
+    "type": "Podium",
+    "context": "Podium Ballon d'Or 2013 : Ronaldo (1er), Messi (2ème) et ... ?",
+    "options": ["Franck Ribéry", "Manuel Neuer", "Andrés Iniesta", "Neymar"],
+    "answer": "Franck Ribéry",
+    "difficulty": 6
+  },
+  {
+    "id": 109,
+    "type": "Lineup",
+    "context": "Cameroun 2000-2002 (Attaque) : Eto'o et ... ?",
+    "options": ["Patrick Mboma", "Rigobert Song", "Geremi", "Marc-Vivien Foé"],
+    "answer": "Patrick Mboma",
+    "difficulty": 8
+  },
+  {
+    "id": 110,
+    "type": "Match Iconique",
+    "context": "Finale Ligue des Champions 2004 : FC Porto vs ... ?",
+    "options": ["AS Monaco", "Chelsea", "Deportivo La Corogne", "Lyon"],
+    "answer": "AS Monaco",
+    "difficulty": 5
+  },
+  {
+    "id": 111,
+    "type": "Lineup",
+    "context": "Real Madrid 2012 (La Liga des 100 pts) : Ronaldo, Benzema, Higuain et ... ?",
+    "options": ["Mesut Özil", "Gareth Bale", "James Rodríguez", "Kaka"],
+    "answer": "Mesut Özil",
+    "difficulty": 7
+  },
+  {
+    "id": 112,
+    "type": "Lineup",
+    "context": "Inter Milan 2010 (Défense de fer) : Lucio, Maicon, Chivu et ... ?",
+    "options": ["Walter Samuel", "Javier Zanetti", "Marco Materazzi", "Ivan Córdoba"],
+    "answer": "Walter Samuel",
+    "difficulty": 8
+  },
+  {
+    "id": 113,
+    "type": "Lineup",
+    "context": "Égypte 2006-2010 (Génération dorée) : Aboutrika, Zidan et ... ?",
+    "options": ["Ahmed Hassan", "Mohamed Salah", "Mido", "El-Hadary"],
+    "answer": "Ahmed Hassan",
+    "difficulty": 9
+  },
+  {
+    "id": 114,
+    "type": "Lineup",
+    "context": "Werder Brême 2004 (Le Doublé) : Micoud, Klasnic et ... ?",
+    "options": ["Ailton", "Torsten Frings", "Miroslav Klose", "Diego"],
+    "answer": "Ailton",
+    "difficulty": 9
+  },
+  {
+    "id": 115,
+    "type": "Group",
+    "context": "Groupe F (CDM 2010) : Italie, Paraguay, Slovaquie et ... ?",
+    "options": ["Nouvelle-Zélande", "Honduras", "Chili", "Corée du Nord"],
+    "answer": "Nouvelle-Zélande",
+    "difficulty": 10
+  },
+  {
+    "id": 116,
+    "type": "Lineup",
+    "context": "OM 2010 (Champions) : Niang, Lucho Gonzalez et le défenseur ... ?",
+    "options": ["Souleymane Diawara", "Gabriel Heinze", "Taye Taiwo", "Stéphane Mbia"],
+    "answer": "Souleymane Diawara",
+    "difficulty": 8
+  },
+  {
+    "id": 117,
+    "type": "Lineup",
+    "context": "Dortmund 2002 (Champions) : Rosicky, Koller et ... ?",
+    "options": ["Márcio Amoroso", "Lars Ricken", "Dedê", "Ewerthon"],
+    "answer": "Márcio Amoroso",
+    "difficulty": 10
+  },
+  {
+    "id": 118,
+    "type": "Podium",
+    "context": "Podium Ballon d'Or 1999 : Rivaldo (1er), Beckham (2ème) et ... ?",
+    "options": ["Andriy Shevchenko", "Zinédine Zidane", "Gabriel Batistuta", "Raul"],
+    "answer": "Andriy Shevchenko",
+    "difficulty": 9
+  },
+  {
+    "id": 119,
+    "type": "Lineup",
+    "context": "Chelsea 2012 (Héros de Munich) : Drogba, Lampard, Cech et ... ?",
+    "options": ["Juan Mata", "John Terry", "Eden Hazard", "Nicolas Anelka"],
+    "answer": "Juan Mata",
+    "difficulty": 8
+  },
+  {
+    "id": 120,
+    "type": "Match Iconique",
+    "context": "Finale C1 2001 : Bayern Munich vs ... ?",
+    "options": ["Valence CF", "Real Madrid", "Manchester United", "Leeds United"],
+    "answer": "Valence CF",
+    "difficulty": 7
+  },
+  {
+    "id": 121,
+    "type": "Lineup",
+    "context": "Suède 1994 (3ème place) : Brolin, Dahlin et le gardien ... ?",
+    "options": ["Thomas Ravelli", "Henrik Larsson", "Kennet Andersson", "Patrik Andersson"],
+    "answer": "Thomas Ravelli",
+    "difficulty": 9
+  },
+  {
+    "id": 122,
+    "type": "Lineup",
+    "context": "Croatie 1998 (3ème place) : Šuker, Boban et ... ?",
+    "options": ["Robert Prosinečki", "Alen Bokšić", "Dario Šimić", "Slaven Bilić"],
+    "answer": "Robert Prosinečki",
+    "difficulty": 8
+  },
+  {
+    "id": 123,
+    "type": "Lineup",
+    "context": "Ghana 2010 (Quarts de finale) : Gyan, Boateng et ... ?",
+    "options": ["Sulley Muntari", "André Ayew", "Michael Essien", "Stephen Appiah"],
+    "answer": "Sulley Muntari",
+    "difficulty": 8
+  },
+  {
+    "id": 124,
+    "type": "Lineup",
+    "context": "Roma 2001 (Scudetto) : Totti, Batistuta et ... ?",
+    "options": ["Vincenzo Montella", "Cafu", "Walter Samuel", "Hidetoshi Nakata"],
+    "answer": "Vincenzo Montella",
+    "difficulty": 8
+  },
+  {
+    "id": 125,
+    "type": "Group",
+    "context": "Groupe A (CDM 2002) : France, Sénégal, Danemark et ... ?",
+    "options": ["Uruguay", "Chine", "Arabie Saoudite", "Pologne"],
+    "answer": "Uruguay",
+    "difficulty": 7
+  },
+  {
+    "id": 126,
+    "type": "Lineup",
+    "context": "Schalke 04 (2011 Demi-finaliste C1) : Neuer, Raúl et ... ?",
+    "options": ["Jefferson Farfán", "Julian Draxler", "Klaas-Jan Huntelaar", "Benedikt Höwedes"],
+    "answer": "Jefferson Farfán",
+    "difficulty": 9
+  },
+  {
+    "id": 127,
+    "type": "Lineup",
+    "context": "Athletic Bilbao 2012 (Bielsa Team) : Llorente, Muniain et ... ?",
+    "options": ["Ander Herrera", "Javi Martínez", "Aritz Aduriz", "Iñaki Williams"],
+    "answer": "Ander Herrera",
+    "difficulty": 9
+  },
+  {
+    "id": 128,
+    "type": "Podium",
+    "context": "Podium Ballon d'Or 1987 : Gullit (1er), Futre (2ème) et ... ?",
+    "options": ["Emilio Butragueño", "Gary Lineker", "Marco van Basten", "Michel Platini"],
+    "answer": "Emilio Butragueño",
+    "difficulty": 12
+  },
+  {
+    "id": 129,
+    "type": "Match Iconique",
+    "context": "Finale C1 2000 : Real Madrid vs ... ?",
+    "options": ["Valence CF", "Manchester United", "Bayern Munich", "FC Barcelone"],
+    "answer": "Valence CF",
+    "difficulty": 7
+  },
+  {
+    "id": 130,
+    "type": "Lineup",
+    "context": "Argentine 2006 (But de Cambiasso) : Riquelme, Crespo, Saviola et ... ?",
+    "options": ["Maxi Rodríguez", "Lionel Messi", "Carlos Tévez", "Juan Pablo Sorín"],
+    "answer": "Maxi Rodríguez",
+    "difficulty": 9
+  },
+  {
+    "id": 131,
+    "type": "Lineup",
+    "context": "Japon 2002 (Mondial à domicile) : Nakata, Inamoto et ... ?",
+    "options": ["Shinji Ono", "Keisuke Honda", "Shunsuke Nakamura", "Takumi Minamino"],
+    "answer": "Shinji Ono",
+    "difficulty": 10
+  },
+  {
+    "id": 132,
+    "type": "Lineup",
+    "context": "Benfica 2010 (L'attaque de feu) : Cardozo, Saviola et ... ?",
+    "options": ["Ángel Di María", "Pablo Aimar", "Ramires", "David Luiz"],
+    "answer": "Ángel Di María",
+    "difficulty": 8
+  },
+  {
+    "id": 133,
+    "type": "Lineup",
+    "context": "Lyon 2017 (Demi-finaliste C3) : Lacazette, Tolisso, Fekir et ... ?",
+    "options": ["Mathieu Valbuena", "Memphis Depay", "Maxime Gonalons", "Mouctar Diakhaby"],
+    "answer": "Mathieu Valbuena",
+    "difficulty": 8
+  },
+  {
+    "id": 134,
+    "type": "Group",
+    "context": "Groupe B (Euro 2012) 'Groupe de la Mort' : Allemagne, Portugal, Pays-Bas et ... ?",
+    "options": ["Danemark", "Suède", "Russie", "République Tchèque"],
+    "answer": "Danemark",
+    "difficulty": 9
+  },
+  {
+    "id": 135,
+    "type": "Lineup",
+    "context": "Leicester 2016 (Défense) : Schmeichel, Morgan, Huth et ... ?",
+    "options": ["Danny Simpson", "Ben Chilwell", "Ricardo Pereira", "Harry Maguire"],
+    "answer": "Danny Simpson",
+    "difficulty": 10
+  },
+  {
+    "id": 136,
+    "type": "Lineup",
+    "context": "Zambie 2012 (Vainqueur CAN) : Christopher Katongo et le gardien héroïque ... ?",
+    "options": ["Kennedy Mweene", "Emmanuel Mayuka", "Rainford Kalaba", "Sunzu"],
+    "answer": "Kennedy Mweene",
+    "difficulty": 11
+  },
+  {
+    "id": 137,
+    "type": "Podium",
+    "context": "Podium Ballon d'Or 1996 : Sammer (1er), Ronaldo (2ème) et ... ?",
+    "options": ["Alan Shearer", "Alessandro Del Piero", "George Weah", "Eric Cantona"],
+    "answer": "Alan Shearer",
+    "difficulty": 11
+  },
+  {
+    "id": 138,
+    "type": "Match Iconique",
+    "context": "Finale Ligue des Champions 1993 : OM vs ... ?",
+    "options": ["AC Milan", "Juventus", "FC Barcelone", "Rangers"],
+    "answer": "AC Milan",
+    "difficulty": 5
+  },
+  {
+    "id": 139,
+    "type": "Lineup",
+    "context": "Bayer Leverkusen 2002 (Le 'Neverkusen') : Ballack, Ze Roberto et ... ?",
+    "options": ["Yıldıray Baştürk", "Dimitar Berbatov", "Lucio", "Bernd Schneider"],
+    "answer": "Yıldıray Baştürk",
+    "difficulty": 11
+  },
+  {
+    "id": 140,
+    "type": "Lineup",
+    "context": "Nantes 1995 (Jeu à la Nantaise) : Loko, Pedros et ... ?",
+    "options": ["Nicolas Ouédec", "Japhet N'Doram", "Claude Makélélé", "Christian Karembeu"],
+    "answer": "Nicolas Ouédec",
+    "difficulty": 10
+  },
+  {
+    "id": 141,
+    "type": "Lineup",
+    "context": "Brésil 1994 (Duo d'attaque) : Romário et ... ?",
+    "options": ["Bebeto", "Ronaldo", "Müller", "Careca"],
+    "answer": "Bebeto",
+    "difficulty": 6
+  },
+  {
+    "id": 142,
+    "type": "Group",
+    "context": "Groupe G (CDM 2010) : Brésil, Portugal, Côte d'Ivoire et ... ?",
+    "options": ["Corée du Nord", "Nouvelle-Zélande", "Slovénie", "Algérie"],
+    "answer": "Corée du Nord",
+    "difficulty": 8
+  },
+  {
+    "id": 143,
+    "type": "Lineup",
+    "context": "Villarreal 2021 (Vainqueur C3) : Gerard Moreno, Parejo et ... ?",
+    "options": ["Pau Torres", "Raul Albiol", "Yeremy Pino", "Samuel Chukwueze"],
+    "answer": "Pau Torres",
+    "difficulty": 9
+  },
+  {
+    "id": 144,
+    "type": "Lineup",
+    "context": "Angleterre 1990 (Demi-finaliste) : Lineker, Gascoigne et ... ?",
+    "options": ["David Platt", "Alan Shearer", "Paul Ince", "Ian Wright"],
+    "answer": "David Platt",
+    "difficulty": 10
+  },
+  {
+    "id": 145,
+    "type": "Lineup",
+    "context": "PSG 2012 (Début QSI) : Pastore, Menez, Nenê et ... ?",
+    "options": ["Kevin Gameiro", "Zlatan Ibrahimovic", "Ezequiel Lavezzi", "Blaise Matuidi"],
+    "answer": "Kevin Gameiro",
+    "difficulty": 9
+  },
+  {
+    "id": 146,
+    "type": "Match Iconique",
+    "context": "Finale C1 1987 : FC Porto vs ... ?",
+    "options": ["Bayern Munich", "Juventus", "Liverpool", "Benfica"],
+    "answer": "Bayern Munich",
+    "difficulty": 11
+  },
+  {
+    "id": 147,
+    "type": "Lineup",
+    "context": "Sampdoria 1991 (Scudetto) : Vialli, Mancini et le gardien ... ?",
+    "options": ["Gianluca Pagliuca", "Walter Zenga", "Angelo Peruzzi", "Francesco Toldo"],
+    "answer": "Gianluca Pagliuca",
+    "difficulty": 10
+  },
+  {
+    "id": 148,
+    "type": "Podium",
+    "context": "Podium Ballon d'Or 1992 : Van Basten (1er), Stoichkov (2ème) et ... ?",
+    "options": ["Dennis Bergkamp", "Thomas Häßler", "Jean-Pierre Papin", "Peter Schmeichel"],
+    "answer": "Dennis Bergkamp",
+    "difficulty": 12
+  },
+  {
+    "id": 149,
+    "type": "Lineup",
+    "context": "Uruguay 2011 (Vainqueur Copa) : Suárez, Forlán et le gardien ... ?",
+    "options": ["Fernando Muslera", "Diego Godín", "Martin Caceres", "Sebastian Coates"],
+    "answer": "Fernando Muslera",
+    "difficulty": 8
+  },
+  {
+    "id": 150,
+    "type": "Lineup",
+    "context": "Kaiserslautern 1998 (Promu Champion) : Olaf Marschall et le jeune ... ?",
+    "options": ["Michael Ballack", "Miroslav Klose", "Torsten Frings", "Mario Basler"],
+    "answer": "Michael Ballack",
+    "difficulty": 13
+  },
+  {
+    "id": 151,
+    "type": "Lineup",
+    "context": "Newcastle United 'The Entertainers' (1995-96) : Shearer, Ginola, Ferdinand et ... ?",
+    "options": ["Faustino Asprilla", "Peter Beardsley", "Gary Speed", "Nolberto Solano"],
+    "answer": "Peter Beardsley",
+    "difficulty": 9
+  },
+  {
+    "id": 152,
+    "type": "Lineup",
+    "context": "Maroc 2022 (Le trio du milieu) : Amrabat, Ounahi et ... ?",
+    "options": ["Selim Amallah", "Hakim Ziyech", "Ilias Chair", "Amine Harit"],
+    "answer": "Selim Amallah",
+    "difficulty": 7
+  },
+  {
+    "id": 153,
+    "type": "Podium",
+    "context": "Podium Ballon d'Or 2005 : Ronaldinho (1er), Lampard (2ème) et ... ?",
+    "options": ["Steven Gerrard", "Thierry Henry", "Andriy Shevchenko", "Samuel Eto'o"],
+    "answer": "Steven Gerrard",
+    "difficulty": 8
+  },
+  {
+    "id": 154,
+    "type": "Lineup",
+    "context": "Borussia Dortmund 1997 (Vainqueur C1) : Sammer, Kohler, Chapuisat et ... ?",
+    "options": ["Karl-Heinz Riedle", "Andreas Möller", "Lars Ricken", "Jürgen Kohler"],
+    "answer": "Karl-Heinz Riedle",
+    "difficulty": 10
+  },
+  {
+    "id": 155,
+    "type": "Group",
+    "context": "Groupe C (CDM 2006) 'Groupe de la Mort' : Argentine, Pays-Bas, Côte d'Ivoire et ... ?",
+    "options": ["Serbie-et-Monténégro", "Suède", "Paraguay", "Angola"],
+    "answer": "Serbie-et-Monténégro",
+    "difficulty": 10
+  },
+  {
+    "id": 156,
+    "type": "Lineup",
+    "context": "Inter Milan 2010 (Le meneur de jeu) : Sneijder était soutenu par Cambiasso et ... ?",
+    "options": ["Thiago Motta", "Dejan Stanković", "Sulley Muntari", "Patrick Vieira"],
+    "answer": "Thiago Motta",
+    "difficulty": 8
+  },
+  {
+    "id": 157,
+    "type": "Lineup",
+    "context": "Liverpool 2001 (Le triplé des Coupes) : Owen, Fowler et ... ?",
+    "options": ["Emile Heskey", "Jari Litmanen", "Danny Murphy", "Vladimir Smicer"],
+    "answer": "Emile Heskey",
+    "difficulty": 8
+  },
+  {
+    "id": 158,
+    "type": "Match Iconique",
+    "context": "Finale Euro 2008 : Espagne vs ... ?",
+    "options": ["Allemagne", "Russie", "Italie", "Pays-Bas"],
+    "answer": "Allemagne",
+    "difficulty": 6
+  },
+  {
+    "id": 159,
+    "type": "Lineup",
+    "context": "Brésil 1970 (L'Attaque des 5 numéros 10) : Pelé, Jairzinho, Rivelino, Tostão et ... ?",
+    "options": ["Gérson", "Carlos Alberto", "Clodoaldo", "Vavá"],
+    "answer": "Gérson",
+    "difficulty": 10
+  },
+  {
+    "id": 160,
+    "type": "Lineup",
+    "context": "Real Madrid 2017 (Finale C1 à Cardiff) : Le milieu en losange était Casemiro, Kroos, Modric et ... ?",
+    "options": ["Isco", "Gareth Bale", "Marco Asensio", "Mateo Kovačić"],
+    "answer": "Isco",
+    "difficulty": 9
+  },
+  {
+    "id": 161,
+    "type": "Group",
+    "context": "Groupe F (Euro 2016) : Portugal, Islande, Autriche et ... ?",
+    "options": ["Hongrie", "Suisse", "Pologne", "Irlande"],
+    "answer": "Hongrie",
+    "difficulty": 8
+  },
+  {
+    "id": 162,
+    "type": "Lineup",
+    "context": "Bordeaux 1996 (Finale UEFA) : Zidane, Dugarry et ... ?",
+    "options": ["Bixente Lizarazu", "Christophe Dugarry", "Richard Witschge", "François Grenet"],
+    "answer": "Bixente Lizarazu",
+    "difficulty": 7
+  },
+  {
+    "id": 163,
+    "type": "Podium",
+    "context": "Podium Ballon d'Or 2002 : Ronaldo (1er), Roberto Carlos (2ème) et ... ?",
+    "options": ["Oliver Kahn", "Zinédine Zidane", "Raul", "Michael Ballack"],
+    "answer": "Oliver Kahn",
+    "difficulty": 9
+  },
+  {
+    "id": 164,
+    "type": "Lineup",
+    "context": "Leicester 2016 (L'ombre de Vardy) : Le deuxième attaquant travailleur était ... ?",
+    "options": ["Shinji Okazaki", "Leonardo Ulloa", "Andrej Kramarić", "Ahmed Musa"],
+    "answer": "Shinji Okazaki",
+    "difficulty": 9
+  },
+  {
+    "id": 165,
+    "type": "Lineup",
+    "context": "Atletico Madrid 2014 (La défense de fer) : Godín, Miranda, Filipe Luís et ... ?",
+    "options": ["Juanfran", "Diego Godín", "José Giménez", "Lucas Hernández"],
+    "answer": "Juanfran",
+    "difficulty": 8
+  },
+  {
+    "id": 166,
+    "type": "Match Iconique",
+    "context": "Finale Ligue des Champions 1995 : Ajax vs ... ?",
+    "options": ["AC Milan", "Juventus", "Bayern Munich", "PSG"],
+    "answer": "AC Milan",
+    "difficulty": 7
+  },
+  {
+    "id": 167,
+    "type": "Lineup",
+    "context": "Costa Rica 2014 (L'exploit) : Navas, Ruiz, Campbell et le milieu ... ?",
+    "options": ["Celso Borges", "Yeltsin Tejeda", "Óscar Duarte", "Keylor Navas"],
+    "answer": "Celso Borges",
+    "difficulty": 10
+  },
+  {
+    "id": 168,
+    "type": "Lineup",
+    "context": "Juventus 1996 (Attaque C1) : Vialli, Del Piero et ... ?",
+    "options": ["Fabrizio Ravanelli", "Roberto Baggio", "Christian Vieri", "Filippo Inzaghi"],
+    "answer": "Fabrizio Ravanelli",
+    "difficulty": 9
+  },
+  {
+    "id": 169,
+    "type": "Lineup",
+    "context": "Espagne 2008 (Milieu) : Xavi, Iniesta, Silva et ... ?",
+    "options": ["Marcos Senna", "Xabi Alonso", "Cesc Fàbregas", "Sergio Busquets"],
+    "answer": "Marcos Senna",
+    "difficulty": 8
+  },
+  {
+    "id": 170,
+    "type": "Group",
+    "context": "Groupe B (CDM 1998) : Italie, Chili, Cameroun et ... ?",
+    "options": ["Autriche", "Écosse", "Norvège", "Maroc"],
+    "answer": "Autriche",
+    "difficulty": 11
+  },
+  {
+    "id": 171,
+    "type": "Lineup",
+    "context": "FC Porto 1987 (Talonade de Madjer) : Madjer, Futre et ... ?",
+    "options": ["Juary", "Fernando Gomes", "António André", "João Pinto"],
+    "answer": "Juary",
+    "difficulty": 12
+  },
+  {
+    "id": 172,
+    "type": "Podium",
+    "context": "Podium Ballon d'Or 2000 : Figo (1er), Zidane (2ème) et ... ?",
+    "options": ["Andriy Shevchenko", "Thierry Henry", "Rivaldo", "Alessandro Nesta"],
+    "answer": "Andriy Shevchenko",
+    "difficulty": 10
+  },
+  {
+    "id": 173,
+    "type": "Lineup",
+    "context": "Valencia 2004 (Meilleur Buteur) : Vicente, Baraja et l'attaquant ... ?",
+    "options": ["Mista", "Ricardo Oliveira", "David Villa", "Juan Sánchez"],
+    "answer": "Mista",
+    "difficulty": 11
+  },
+  {
+    "id": 174,
+    "type": "Lineup",
+    "context": "Arsenal 2006 (Défense Finale C1) : Eboué, Touré, Campbell et ... ?",
+    "options": ["Ashley Cole", "Gaël Clichy", "Lauren", "Philippe Senderos"],
+    "answer": "Ashley Cole",
+    "difficulty": 9
+  },
+  {
+    "id": 175,
+    "type": "Match Iconique",
+    "context": "Finale CDM 1982 : Italie vs ... ?",
+    "options": ["RFA (Allemagne de l'Ouest)", "Brésil", "France", "Pologne"],
+    "answer": "RFA (Allemagne de l'Ouest)",
+    "difficulty": 6
+  },
+  {
+    "id": 176,
+    "type": "Lineup",
+    "context": "Sénégal 2022 (Vainqueurs CAN) : Mané, Koulibaly, E.Mendy et ... ?",
+    "options": ["Idrissa Gueye", "Ismaïla Sarr", "Boulaye Dia", "Cheikhou Kouyaté"],
+    "answer": "Idrissa Gueye",
+    "difficulty": 7
+  },
+  {
+    "id": 177,
+    "type": "Lineup",
+    "context": "PSV Eindhoven 2005 (Demi-finaliste C1) : Van Bommel, Cocu, Park Ji-Sung et ... ?",
+    "options": ["Jefferson Farfán", "Alex", "Jan Vennegoor of Hesselink", "Ibrahim Afellay"],
+    "answer": "Jefferson Farfán",
+    "difficulty": 11
+  },
+  {
+    "id": 178,
+    "type": "Lineup",
+    "context": "Nigeria 1994 (Super Eagles) : Yekini, Amokachi et l'ailier ... ?",
+    "options": ["Emmanuel Amunike", "Finidi George", "Sunday Oliseh", "Victor Ikpeba"],
+    "answer": "Emmanuel Amunike",
+    "difficulty": 10
+  },
+  {
+    "id": 179,
+    "type": "Podium",
+    "context": "Podium Ballon d'Or 1991 : Papin (1er) et un podium partagé avec Matthäus, Savićević et ... ?",
+    "options": ["Darko Pančev", "Gary Lineker", "Robert Prosinečki", "Gianluca Vialli"],
+    "answer": "Darko Pančev",
+    "difficulty": 13
+  },
+  {
+    "id": 180,
+    "type": "Group",
+    "context": "Groupe D (CDM 2010) : Allemagne, Ghana, Australie et ... ?",
+    "options": ["Serbie", "Danemark", "États-Unis", "Slovénie"],
+    "answer": "Serbie",
+    "difficulty": 9
+  },
+  {
+    "id": 181,
+    "type": "Lineup",
+    "context": "Chelsea 2017 (Trio d'attaque Conte) : Costa, Hazard et ... ?",
+    "options": ["Pedro", "Willian", "Cesc Fàbregas", "Oscar"],
+    "answer": "Pedro",
+    "difficulty": 8
+  },
+  {
+    "id": 182,
+    "type": "Lineup",
+    "context": "Barcelone 1992 (Dream Team) : Stoichkov, Laudrup, Guardiola et le buteur de la finale ... ?",
+    "options": ["Ronald Koeman", "José Mari Bakero", "Julio Salinas", "Txiki Begiristain"],
+    "answer": "Ronald Koeman",
+    "difficulty": 7
+  },
+  {
+    "id": 183,
+    "type": "Lineup",
+    "context": "Lyon 2020 (Final 8) : Depay, Caqueret, Guimarães et ... ?",
+    "options": ["Houssem Aouar", "Moussa Dembélé", "Karl Toko-Ekambi", "Léo Dubois"],
+    "answer": "Houssem Aouar",
+    "difficulty": 8
+  },
+  {
+    "id": 184,
+    "type": "Match Iconique",
+    "context": "Finale C1 1998 : Real Madrid vs ... ?",
+    "options": ["Juventus", "Borussia Dortmund", "Manchester United", "Monaco"],
+    "answer": "Juventus",
+    "difficulty": 6
+  },
+  {
+    "id": 185,
+    "type": "Lineup",
+    "context": "Aston Villa 1982 (Buteur Finale C1) : Le héros était ... ?",
+    "options": ["Peter Withe", "Gary Shaw", "Tony Morley", "Gordon Cowans"],
+    "answer": "Peter Withe",
+    "difficulty": 12
+  },
+  {
+    "id": 186,
+    "type": "Lineup",
+    "context": "Fulham 2010 (Finaliste Europa) : Schwarzer, Dempsey et ... ?",
+    "options": ["Bobby Zamora", "Brede Hangeland", "Danny Murphy", "Zoltán Gera"],
+    "answer": "Bobby Zamora",
+    "difficulty": 11
+  },
+  {
+    "id": 187,
+    "type": "Lineup",
+    "context": "Man Utd 2008 (Finale C1 - Latéral Droit) : Ferdinand et Vidic dans l'axe, Evra à gauche et ... ?",
+    "options": ["Wes Brown", "Gary Neville", "John O'Shea", "Rafael"],
+    "answer": "Wes Brown",
+    "difficulty": 12
+  },
+  {
+    "id": 188,
+    "type": "Group",
+    "context": "Groupe A (Euro 2012) : Russie, République Tchèque, Pologne et ... ?",
+    "options": ["Grèce", "Ukraine", "Croatie", "Suède"],
+    "answer": "Grèce",
+    "difficulty": 9
+  },
+  {
+    "id": 189,
+    "type": "Lineup",
+    "context": "Uruguay 1950 (Maracanazo) : Schiaffino et le buteur décisif ... ?",
+    "options": ["Alcides Ghiggia", "Obdulio Varela", "Roque Máspoli", "Oscar Míguez"],
+    "answer": "Alcides Ghiggia",
+    "difficulty": 11
+  },
+  {
+    "id": 190,
+    "type": "Podium",
+    "context": "Podium Ballon d'Or 1990 : Matthäus (1er), Schillaci (2ème) et ... ?",
+    "options": ["Andreas Brehme", "Paul Gascoigne", "Franco Baresi", "Jürgen Klinsmann"],
+    "answer": "Andreas Brehme",
+    "difficulty": 11
+  },
+  {
+    "id": 191,
+    "type": "Lineup",
+    "context": "Monaco 2004 (Milieu de terrain) : Giuly, Rothen et le régulateur ... ?",
+    "options": ["Lucas Bernardi", "Akis Zikos", "Edouard Cissé", "Jaroslav Plašil"],
+    "answer": "Lucas Bernardi",
+    "difficulty": 10
+  },
+  {
+    "id": 192,
+    "type": "Lineup",
+    "context": "Parme 1999 (Finale UEFA) : Buffon, Thuram, Cannavaro et au milieu ... ?",
+    "options": ["Juan Sebastián Verón", "Dino Baggio", "Alain Boghossian", "Stefano Fiore"],
+    "answer": "Juan Sebastián Verón",
+    "difficulty": 9
+  },
+  {
+    "id": 193,
+    "type": "Lineup",
+    "context": "Lazio 2000 (Le 'Pitbull' du milieu) : Simeone était associé à ... ?",
+    "options": ["Matías Almeyda", "Dejan Stanković", "Sérgio Conceição", "Roberto Mancini"],
+    "answer": "Matías Almeyda",
+    "difficulty": 11
+  },
+  {
+    "id": 194,
+    "type": "Match Iconique",
+    "context": "Finale Ligue des Champions 1985 (Drame du Heysel) : Juventus vs ... ?",
+    "options": ["Liverpool", "Everton", "Bayern Munich", "Bordeaux"],
+    "answer": "Liverpool",
+    "difficulty": 7
+  },
+  {
+    "id": 195,
+    "type": "Lineup",
+    "context": "Séville FC 2006 (Premier titre C3) : Kanouté, Luis Fabiano et l'ailier rapide ... ?",
+    "options": ["Jesús Navas", "Adriano", "Dani Alves", "Antonio Puerta"],
+    "answer": "Jesús Navas",
+    "difficulty": 9
+  },
+  {
+    "id": 196,
+    "type": "Group",
+    "context": "Groupe C (Euro 2004) : Suède, Danemark, Italie et ... ?",
+    "options": ["Bulgarie", "Lettonie", "Suisse", "Croatie"],
+    "answer": "Bulgarie",
+    "difficulty": 10
+  },
+  {
+    "id": 197,
+    "type": "Lineup",
+    "context": "Portugal 1966 (Héros) : Eusébio, Coluna et ... ?",
+    "options": ["José Torres", "Simões", "José Augusto", "Hilário"],
+    "answer": "José Torres",
+    "difficulty": 12
+  },
+  {
+    "id": 198,
+    "type": "Lineup",
+    "context": "Ivory Coast 2015 (Vainqueur CAN) : Y.Touré, Gervinho, Bony et ... ?",
+    "options": ["Max-Alain Gradel", "Serge Aurier", "Kolo Touré", "Seydou Doumbia"],
+    "answer": "Max-Alain Gradel",
+    "difficulty": 9
+  },
+  {
+    "id": 199,
+    "type": "Podium",
+    "context": "Podium Ballon d'Or 1986 : Belanov (1er), Lineker (2ème) et ... ?",
+    "options": ["Emilio Butragueño", "Preben Elkjær", "Marco van Basten", "Michel Platini"],
+    "answer": "Emilio Butragueño",
+    "difficulty": 12
+  },
+  {
+    "id": 200,
+    "type": "Lineup",
+    "context": "Milan AC 2003 (Finale C1) : Maldini, Nesta, Costacurta et le latéral ... ?",
+    "options": ["Kakha Kaladze", "Dario Šimić", "Cafu", "Serginho"],
+    "answer": "Kakha Kaladze",
+    "difficulty": 11
+  }
+]

@@ -1,0 +1,1202 @@
+[
+  {
+    "question": "Quel joueur a remporté le Ballon d'Or 2025 ?",
+    "options": ["Erling Haaland", "Kylian Mbappé", "Ousmane Dembélé", "Lamine Yamal"],
+    "answer": "Ousmane Dembélé",
+    "difficulty": 3
+  },
+  {
+    "question": "Qui a remporté l'Euro 2024 en Allemagne ?",
+    "options": ["L'Angleterre", "La France", "L'Espagne", "L'Allemagne"],
+    "answer": "L'Espagne",
+    "difficulty": 3
+  },
+  {
+    "question": "Quelle nation a remporté la Coupe du Monde 2022 ?",
+    "options": ["Brésil", "France", "Argentine", "Croatie"],
+    "answer": "Argentine",
+    "difficulty": 1
+  },
+  {
+    "question": "Combien de buts Just Fontaine a-t-il marqués lors de la CDM 1958 ?",
+    "options": ["11", "12", "13", "14"],
+    "answer": "13",
+    "difficulty": 8
+  },
+  {
+    "question": "Quel club est surnommé 'La Vieille Dame' ?",
+    "options": ["Hertha Berlin", "Juventus Turin", "AS Monaco", "River Plate"],
+    "answer": "Juventus Turin",
+    "difficulty": 2
+  },
+  {
+    "question": "Quel est le seul gardien de but à avoir remporté le Ballon d'Or ?",
+    "options": ["Gianluigi Buffon", "Lev Yachine", "Manuel Neuer", "Oliver Kahn"],
+    "answer": "Lev Yachine",
+    "difficulty": 7
+  },
+  {
+    "question": "Dans quel stade joue le Liverpool FC ?",
+    "options": ["Old Trafford", "Stamford Bridge", "Anfield", "Goodison Park"],
+    "answer": "Anfield",
+    "difficulty": 1
+  },
+  {
+    "question": "Qui était l'entraîneur de Chelsea lors de leur première victoire en Ligue des Champions en 2012 ?",
+    "options": ["José Mourinho", "Carlo Ancelotti", "Roberto Di Matteo", "Thomas Tuchel"],
+    "answer": "Roberto Di Matteo",
+    "difficulty": 9
+  },
+  {
+    "question": "Quel joueur détient le record du nombre de buts marqués en une année civile (91 buts) ?",
+    "options": ["Cristiano Ronaldo", "Lionel Messi", "Pelé", "Gerd Müller"],
+    "answer": "Lionel Messi",
+    "difficulty": 5
+  },
+  {
+    "question": "Quelle équipe a réalisé la saison des 'Invincibles' en Premier League en 2003-2004 ?",
+    "options": ["Manchester United", "Chelsea", "Arsenal", "Manchester City"],
+    "answer": "Arsenal",
+    "difficulty": 5
+  },
+  {
+    "question": "Quel joueur a mordu Giorgio Chiellini lors de la Coupe du Monde 2014 ?",
+    "options": ["Luis Suárez", "Pepe", "Diego Costa", "Mario Balotelli"],
+    "answer": "Luis Suárez",
+    "difficulty": 3
+  },
+  {
+    "question": "Qui est le meilleur buteur de l'histoire de la sélection iranienne ?",
+    "options": ["Sardar Azmoun", "Mehdi Taremi", "Ali Daei", "Karim Bagheri"],
+    "answer": "Ali Daei",
+    "difficulty": 8
+  },
+  {
+    "question": "Quel club a remporté la Ligue des Champions 2024 ?",
+    "options": ["Real Madrid", "Borussia Dortmund", "Manchester City", "Bayern Munich"],
+    "answer": "Real Madrid",
+    "difficulty": 2
+  },
+  {
+    "question": "En quelle année le Brésil a-t-il subi le 'Maracanazo' face à l'Uruguay ?",
+    "options": ["1950", "1954", "1958", "1962"],
+    "answer": "1950",
+    "difficulty": 10
+  },
+  {
+    "question": "Quel est le seul joueur à avoir gagné la Ligue des Champions avec trois clubs différents ?",
+    "options": ["Cristiano Ronaldo", "Samuel Eto'o", "Clarence Seedorf", "Zlatan Ibrahimović"],
+    "answer": "Clarence Seedorf",
+    "difficulty": 9
+  },
+  {
+    "question": "Quelle est la nationalité d'Erling Haaland ?",
+    "options": ["Suédoise", "Danoise", "Norvégienne", "Finlandaise"],
+    "answer": "Norvégienne",
+    "difficulty": 1
+  },
+  {
+    "question": "Quel joueur a marqué le but de la victoire pour l'Allemagne en finale du Mondial 2014 ?",
+    "options": ["Thomas Müller", "Miroslav Klose", "Mario Götze", "Bastian Schweinsteiger"],
+    "answer": "Mario Götze",
+    "difficulty": 6
+  },
+  {
+    "question": "Quel entraîneur a mené la Zambie à la victoire lors de la CAN 2012 ?",
+    "options": ["Hervé Renard", "Claude Le Roy", "Vahid Halilhodžić", "Stephen Keshi"],
+    "answer": "Hervé Renard",
+    "difficulty": 12
+  },
+  {
+    "question": "Combien de buts Miroslav Klose a-t-il marqués en phase finale de Coupe du Monde (Record) ?",
+    "options": ["14", "15", "16", "17"],
+    "answer": "16",
+    "difficulty": 8
+  },
+  {
+    "question": "Quel est le premier joueur africain à avoir remporté le Ballon d'Or ?",
+    "options": ["Samuel Eto'o", "Didier Drogba", "George Weah", "Roger Milla"],
+    "answer": "George Weah",
+    "difficulty": 6
+  },
+  {
+    "question": "Contre quelle équipe Zinédine Zidane a-t-il marqué sa célèbre volée en finale de C1 2002 ?",
+    "options": ["Juventus", "Valence", "Bayern Munich", "Bayer Leverkusen"],
+    "answer": "Bayer Leverkusen",
+    "difficulty": 7
+  },
+  {
+    "question": "Quelle équipe a remporté l'Euro 2004 à la surprise générale ?",
+    "options": ["Portugal", "Grèce", "République Tchèque", "Danemark"],
+    "answer": "Grèce",
+    "difficulty": 5
+  },
+  {
+    "question": "Qui a terminé meilleur buteur de la Coupe du Monde 2022 ?",
+    "options": ["Lionel Messi", "Kylian Mbappé", "Olivier Giroud", "Julián Álvarez"],
+    "answer": "Kylian Mbappé",
+    "difficulty": 2
+  },
+  {
+    "question": "Quel club anglais a remporté la Ligue des Champions (C1) plus de fois qu'il n'a remporté son propre championnat ?",
+    "options": ["Aston Villa", "Chelsea", "Nottingham Forest", "Liverpool"],
+    "answer": "Nottingham Forest",
+    "difficulty": 11
+  },
+  {
+    "question": "Quel joueur a inscrit le but le plus rapide de l'histoire de la Premier League (7,69 secondes) ?",
+    "options": ["Shane Long", "Ledley King", "Alan Shearer", "Theo Walcott"],
+    "answer": "Shane Long",
+    "difficulty": 13
+  },
+  {
+    "question": "En quelle année la règle interdisant au gardien de prendre le ballon à la main sur une passe volontaire (passe en retrait) a-t-elle été introduite ?",
+    "options": ["1990", "1992", "1994", "1996"],
+    "answer": "1992",
+    "difficulty": 14
+  },
+  {
+    "question": "Quel gardien brésilien a marqué 131 buts dans sa carrière ?",
+    "options": ["Dida", "Taffarel", "Rogério Ceni", "Marcos"],
+    "answer": "Rogério Ceni",
+    "difficulty": 10
+  },
+  {
+    "question": "Quel joueur a été élu Golden Boy en 2024 ?",
+    "options": ["Lamine Yamal", "Endrick", "Arda Güler", "Warren Zaïre-Emery"],
+    "answer": "Lamine Yamal",
+    "difficulty": 4
+  },
+  {
+    "question": "Quelle nation a organisé la première Coupe du Monde en 1930 ?",
+    "options": ["Brésil", "Italie", "Uruguay", "Argentine"],
+    "answer": "Uruguay",
+    "difficulty": 6
+  },
+  {
+    "question": "Qui est le meilleur buteur de l'histoire de Manchester City ?",
+    "options": ["Sergio Agüero", "Raheem Sterling", "Eric Brook", "Erling Haaland"],
+    "answer": "Sergio Agüero",
+    "difficulty": 5
+  },
+  {
+    "question": "Quel joueur a porté le numéro 1+8 à l'Inter Milan ?",
+    "options": ["Ronaldo", "Ivan Zamorano", "Adriano", "Christian Vieri"],
+    "answer": "Ivan Zamorano",
+    "difficulty": 11
+  },
+  {
+    "question": "Combien de temps a duré le mandat de Brian Clough à Leeds United ?",
+    "options": ["44 jours", "3 mois", "1 saison", "2 ans"],
+    "answer": "44 jours",
+    "difficulty": 12
+  },
+  {
+    "question": "Quel joueur français a été transféré de Leeds à Manchester United en 1992 ?",
+    "options": ["Thierry Henry", "David Ginola", "Eric Cantona", "Fabien Barthez"],
+    "answer": "Eric Cantona",
+    "difficulty": 7
+  },
+  {
+    "question": "Qui a marqué le premier but de l'histoire de la Coupe du Monde en 1930 ?",
+    "options": ["Guillermo Stábile", "Lucien Laurent", "Pedro Cea", "Bert Patenaude"],
+    "answer": "Lucien Laurent",
+    "difficulty": 15
+  },
+  {
+    "question": "Quel club sud-américain a battu le Real Madrid lors de la Coupe Intercontinentale 2000 ?",
+    "options": ["Corinthians", "Boca Juniors", "São Paulo", "River Plate"],
+    "answer": "Boca Juniors",
+    "difficulty": 9
+  },
+  {
+    "question": "Quel était le métier de Socrates, la légende brésilienne, en dehors du football ?",
+    "options": ["Avocat", "Architecte", "Médecin", "Professeur"],
+    "answer": "Médecin",
+    "difficulty": 8
+  },
+  {
+    "question": "Quelle équipe nationale est surnommée 'Les Bafana Bafana' ?",
+    "options": ["Nigéria", "Cameroun", "Afrique du Sud", "Ghana"],
+    "answer": "Afrique du Sud",
+    "difficulty": 5
+  },
+  {
+    "question": "Qui a gagné le Ballon d'Or 2004 ?",
+    "options": ["Thierry Henry", "Ronaldinho", "Andriy Shevchenko", "Deco"],
+    "answer": "Andriy Shevchenko",
+    "difficulty": 10
+  },
+  {
+    "question": "Quel joueur détient le record du triplé le plus rapide de l'histoire de la Ligue des Champions (8 minutes) ?",
+    "options": ["Robert Lewandowski", "Bafétimbi Gomis", "Mohamed Salah", "Cristiano Ronaldo"],
+    "answer": "Mohamed Salah",
+    "difficulty": 13
+  },
+  {
+    "question": "Dans quelle ville se trouve le stade 'La Bombonera' ?",
+    "options": ["Rio de Janeiro", "Montevideo", "Buenos Aires", "Santiago"],
+    "answer": "Buenos Aires",
+    "difficulty": 4
+  },
+  {
+    "question": "Quel club a réalisé le triplé (Championnat, Coupe, LDC) en 2023 ?",
+    "options": ["Bayern Munich", "Manchester City", "Inter Milan", "Real Madrid"],
+    "answer": "Manchester City",
+    "difficulty": 3
+  },
+  {
+    "question": "Quel joueur a raté le tir au but décisif pour l'Italie en finale du Mondial 1994 ?",
+    "options": ["Franco Baresi", "Paolo Maldini", "Roberto Baggio", "Daniele Massaro"],
+    "answer": "Roberto Baggio",
+    "difficulty": 5
+  },
+  {
+    "question": "Contre quelle équipe Archie Gemmill a-t-il marqué son but légendaire lors du Mondial 1978 ?",
+    "options": ["Brésil", "Argentine", "Pays-Bas", "Allemagne"],
+    "answer": "Pays-Bas",
+    "difficulty": 14
+  },
+  {
+    "question": "Quel club est reconnu par la FIFA comme le plus ancien du monde ?",
+    "options": ["Notts County", "Sheffield FC", "Crystal Palace", "Stoke City"],
+    "answer": "Sheffield FC",
+    "difficulty": 11
+  },
+  {
+    "question": "Qui est le meilleur buteur de l'histoire de l'Euro (Championnat d'Europe) ?",
+    "options": ["Michel Platini", "Alan Shearer", "Cristiano Ronaldo", "Antoine Griezmann"],
+    "answer": "Cristiano Ronaldo",
+    "difficulty": 4
+  },
+  {
+    "question": "Quel joueur argentin a entraîné l'Atlético Madrid pendant plus de 10 ans ?",
+    "options": ["Marcelo Bielsa", "Diego Simeone", "Mauricio Pochettino", "Jorge Sampaoli"],
+    "answer": "Diego Simeone",
+    "difficulty": 2
+  },
+  {
+    "question": "En quelle année l'Ajax Amsterdam a-t-il remporté sa dernière Ligue des Champions ?",
+    "options": ["1994", "1995", "1996", "1997"],
+    "answer": "1995",
+    "difficulty": 9
+  },
+  {
+    "question": "Quel pays a été exclu de l'Euro 1992, permettant au Danemark d'être repêché et de gagner ?",
+    "options": ["L'URSS", "La Yougoslavie", "L'Allemagne de l'Est", "La Hongrie"],
+    "answer": "La Yougoslavie",
+    "difficulty": 12
+  },
+  {
+    "question": "Qui a terminé meilleur buteur de la Premier League lors de la saison 2022-2023 avec un record de 36 buts ?",
+    "options": ["Harry Kane", "Mohamed Salah", "Erling Haaland", "Ivan Toney"],
+    "answer": "Erling Haaland",
+    "difficulty": 2
+  },
+  {
+    "question": "Quel gardien a réalisé le 'Scorpion' lors d'un match amical à Wembley en 1995 ?",
+    "options": ["José Luis Chilavert", "Jorge Campos", "René Higuita", "Claudio Taffarel"],
+    "answer": "René Higuita",
+    "difficulty": 7
+  },
+  {
+    "question": "Quel club a réalisé une saison historique sans défaite en Bundesliga lors de la saison 2023-2024 ?",
+    "options": ["Bayern Munich", "Bayer Leverkusen", "Borussia Dortmund", "RB Leipzig"],
+    "answer": "Bayer Leverkusen",
+    "difficulty": 3
+  },
+  {
+    "question": "Quel joueur est surnommé 'O Fenômeno' ?",
+    "options": ["Cristiano Ronaldo", "Ronaldinho", "Ronaldo Nazário", "Romário"],
+    "answer": "Ronaldo Nazário",
+    "difficulty": 2
+  },
+  {
+    "question": "Quel club écossais est surnommé 'The Lisbon Lions' pour sa victoire en C1 en 1967 ?",
+    "options": ["Rangers", "Celtic", "Aberdeen", "Hearts"],
+    "answer": "Celtic",
+    "difficulty": 10
+  },
+  {
+    "question": "Quel est le montant record du transfert de Neymar du FC Barcelone au PSG en 2017 ?",
+    "options": ["180 millions €", "200 millions €", "222 millions €", "250 millions €"],
+    "answer": "222 millions €",
+    "difficulty": 2
+  },
+  {
+    "question": "Quelle nation a perdu trois finales de Coupe du Monde (1974, 1978, 2010) sans jamais la gagner ?",
+    "options": ["Pays-Bas", "Belgique", "Portugal", "Tchécoslovaquie"],
+    "answer": "Pays-Bas",
+    "difficulty": 5
+  },
+  {
+    "question": "Qui a inventé le concept du 'Football Total' ?",
+    "options": ["Johan Cruyff", "Rinus Michels", "Louis van Gaal", "Arrigo Sacchi"],
+    "answer": "Rinus Michels",
+    "difficulty": 9
+  },
+  {
+    "question": "Quel joueur a inscrit un quintuplé en seulement 9 minutes contre Wolfsburg en 2015 ?",
+    "options": ["Robert Lewandowski", "Pierre-Emerick Aubameyang", "Harry Kane", "Arjen Robben"],
+    "answer": "Robert Lewandowski",
+    "difficulty": 4
+  },
+  {
+    "question": "Quel est le club le plus titré de l'histoire de la Copa Libertadores ?",
+    "options": ["Boca Juniors", "River Plate", "Independiente", "Peñarol"],
+    "answer": "Independiente",
+    "difficulty": 12
+  },
+  {
+    "question": "Quel entraîneur a dirigé les 'Invincibles' d'Arsenal ?",
+    "options": ["George Graham", "Unai Emery", "Arsène Wenger", "Mikel Arteta"],
+    "answer": "Arsène Wenger",
+    "difficulty": 3
+  },
+  {
+    "question": "Quelle équipe africaine a été la première à atteindre les quarts de finale d'une Coupe du Monde (1990) ?",
+    "options": ["Sénégal", "Ghana", "Maroc", "Cameroun"],
+    "answer": "Cameroun",
+    "difficulty": 7
+  },
+  {
+    "question": "Quel joueur a remporté le Ballon d'Or 2007, juste avant le début du règne Messi-Ronaldo ?",
+    "options": ["Kaká", "Fabio Cannavaro", "Fernando Torres", "Xavi"],
+    "answer": "Kaká",
+    "difficulty": 6
+  },
+  {
+    "question": "Quel stade est surnommé 'Le Théâtre des Rêves' ?",
+    "options": ["Camp Nou", "Old Trafford", "Wembley", "San Siro"],
+    "answer": "Old Trafford",
+    "difficulty": 1
+  },
+  {
+    "question": "Quel joueur détient le record du carton rouge le plus rapide de l'histoire de la Coupe du Monde (56 secondes) ?",
+    "options": ["Zinédine Zidane", "José Batista", "David Beckham", "Rigobert Song"],
+    "answer": "José Batista",
+    "difficulty": 14
+  },
+  {
+    "question": "Dans quel club japonais Arsène Wenger a-t-il entraîné avant de rejoindre Arsenal ?",
+    "options": ["Kashima Antlers", "Nagoya Grampus Eight", "Yokohama F. Marinos", "Urawa Red Diamonds"],
+    "answer": "Nagoya Grampus Eight",
+    "difficulty": 11
+  },
+  {
+    "question": "Quel joueur a marqué le but de la 'Main de Dieu' en 1986 ?",
+    "options": ["Diego Maradona", "Pelé", "Mario Kempes", "Gabriel Batistuta"],
+    "answer": "Diego Maradona",
+    "difficulty": 1
+  },
+  {
+    "question": "Quelle est la particularité de la politique de recrutement de l'Athletic Bilbao ?",
+    "options": ["Uniquement des joueurs espagnols", "Uniquement des joueurs basques", "Uniquement des joueurs formés au club", "Aucun joueur étranger hors UE"],
+    "answer": "Uniquement des joueurs basques",
+    "difficulty": 6
+  },
+  {
+    "question": "Quel club anglais a remporté la Premier League en 2016 avec une cote de 5000 contre 1 ?",
+    "options": ["Tottenham", "Leicester City", "West Ham", "Everton"],
+    "answer": "Leicester City",
+    "difficulty": 2
+  },
+  {
+    "question": "Qui était le capitaine de l'équipe de France lors de la victoire en Coupe du Monde 1998 ?",
+    "options": ["Zinédine Zidane", "Laurent Blanc", "Didier Deschamps", "Marcel Desailly"],
+    "answer": "Didier Deschamps",
+    "difficulty": 4
+  },
+  {
+    "question": "Quel joueur a marqué un but d'anthologie contre l'Argentine en quart de finale du Mondial 1998 (Contrôle orienté aérien) ?",
+    "options": ["Patrick Kluivert", "Dennis Bergkamp", "Edgar Davids", "Marc Overmars"],
+    "answer": "Dennis Bergkamp",
+    "difficulty": 8
+  },
+  {
+    "question": "Combien de Ligues des Champions l'AC Milan a-t-il remportées ?",
+    "options": ["5", "6", "7", "8"],
+    "answer": "7",
+    "difficulty": 7
+  },
+  {
+    "question": "Quel est le dernier joueur anglais à avoir remporté le Ballon d'Or (en 2001) ?",
+    "options": ["David Beckham", "Michael Owen", "Frank Lampard", "Wayne Rooney"],
+    "answer": "Michael Owen",
+    "difficulty": 9
+  },
+  {
+    "question": "Quel animal a retrouvé le trophée Jules Rimet volé avant la Coupe du Monde 1966 ?",
+    "options": ["Un chat nommé Whiskers", "Un chien nommé Pickles", "Un cheval nommé Champion", "Un perroquet nommé Captain"],
+    "answer": "Un chien nommé Pickles",
+    "difficulty": 15
+  },
+  {
+    "question": "Quel joueur colombien détient le record mondial de cartons rouges reçus en carrière (plus de 40) ?",
+    "options": ["Gerardo Bedoya", "Carlos Valderrama", "Faustino Asprilla", "Mario Yepes"],
+    "answer": "Gerardo Bedoya",
+    "difficulty": 14
+  },
+  {
+    "question": "Quel club a perdu deux finales de Ligue des Champions consécutives en 2000 et 2001 ?",
+    "options": ["Atlético Madrid", "Juventus", "Valence CF", "Bayern Munich"],
+    "answer": "Valence CF",
+    "difficulty": 10
+  },
+  {
+    "question": "Quelle sélection joue traditionnellement en orange ?",
+    "options": ["Côte d'Ivoire", "Pays-Bas", "Chili", "Irlande"],
+    "answer": "Pays-Bas",
+    "difficulty": 1
+  },
+  {
+    "question": "Qui a tiré le premier penalty 'Panenka' de l'histoire lors de la finale de l'Euro 1976 ?",
+    "options": ["Antonín Panenka", "Josef Masopust", "Zbigniew Boniek", "Hristo Stoichkov"],
+    "answer": "Antonín Panenka",
+    "difficulty": 5
+  },
+  {
+    "question": "Dans quel club sud-coréen a débuté Park Ji-Sung ?",
+    "options": ["FC Seoul", "Jeonbuk Motors", "Kyoto Sanga", "Suwon Bluewings"],
+    "answer": "Kyoto Sanga",
+    "difficulty": 13
+  },
+  {
+    "question": "Quel est le nom du derby entre le Celtic et les Rangers ?",
+    "options": ["The Merseyside Derby", "The Old Firm", "The North London Derby", "El Clásico"],
+    "answer": "The Old Firm",
+    "difficulty": 5
+  },
+  {
+    "question": "Quel joueur a été le plus jeune buteur de l'histoire de l'Euro lors de l'édition 2024 ?",
+    "options": ["Jamal Musiala", "Arda Güler", "Lamine Yamal", "Jude Bellingham"],
+    "answer": "Lamine Yamal",
+    "difficulty": 3
+  },
+  {
+    "question": "Quelle équipe nationale a refusé de jouer un match de barrage contre le Chili en 1973 pour des raisons politiques ?",
+    "options": ["URSS", "RDA", "Pologne", "Yougoslavie"],
+    "answer": "URSS",
+    "difficulty": 13
+  },
+  {
+    "question": "Quel entraîneur a remporté la Ligue des Champions avec Porto et l'Inter Milan ?",
+    "options": ["José Mourinho", "André Villas-Boas", "Rafa Benítez", "Louis van Gaal"],
+    "answer": "José Mourinho",
+    "difficulty": 4
+  },
+  {
+    "question": "Quel est le seul club français à avoir remporté la Ligue des Champions (C1) ?",
+    "options": ["PSG", "AS Saint-Étienne", "Olympique de Marseille", "Stade de Reims"],
+    "answer": "Olympique de Marseille",
+    "difficulty": 2
+  },
+  {
+    "question": "Quel joueur argentin portait le surnom 'El Batigol' ?",
+    "options": ["Hernán Crespo", "Gabriel Batistuta", "Claudio Caniggia", "Sergio Agüero"],
+    "answer": "Gabriel Batistuta",
+    "difficulty": 7
+  },
+  {
+    "question": "Qui a composé l'hymne officiel de la Ligue des Champions ?",
+    "options": ["Hans Zimmer", "Tony Britten", "Ennio Morricone", "Mozart"],
+    "answer": "Tony Britten",
+    "difficulty": 15
+  },
+  {
+    "question": "Quel club allemand a pour devise 'Echte Liebe' (Le véritable amour) ?",
+    "options": ["Bayern Munich", "Schalke 04", "Borussia Dortmund", "Werder Brême"],
+    "answer": "Borussia Dortmund",
+    "difficulty": 8
+  },
+  {
+    "question": "Quel est le score du match historique entre la Hongrie et le Salvador lors du Mondial 1982 ?",
+    "options": ["8-0", "9-0", "10-1", "7-1"],
+    "answer": "10-1",
+    "difficulty": 12
+  },
+  {
+    "question": "Quel joueur portugais a quitté le FC Barcelone pour le Real Madrid en 2000, provoquant la colère des fans ?",
+    "options": ["Rui Costa", "Luís Figo", "Deco", "Nani"],
+    "answer": "Luís Figo",
+    "difficulty": 4
+  },
+  {
+    "question": "Quelle équipe féminine a remporté 4 Coupes du Monde (record absolu en 2025) ?",
+    "options": ["Allemagne", "États-Unis (USA)", "Japon", "Norvège"],
+    "answer": "États-Unis (USA)",
+    "difficulty": 3
+  },
+  {
+    "question": "Quel était le surnom d'Eusébio ?",
+    "options": ["La Perle Noire", "La Panthère Noire", "Le Roi", "L'Aigle de Benfica"],
+    "answer": "La Panthère Noire",
+    "difficulty": 8
+  },
+  {
+    "question": "Quelle innovation technologique a été introduite lors de la Coupe du Monde 2018 ?",
+    "options": ["La Goal Line Technology", "L'arbitrage vidéo (VAR)", "Le ballon connecté", "Le hors-jeu semi-automatique"],
+    "answer": "L'arbitrage vidéo (VAR)",
+    "difficulty": 4
+  },
+  {
+    "question": "Quel joueur a inscrit le but de la victoire pour l'Espagne en finale du Mondial 2010 ?",
+    "options": ["David Villa", "Fernando Torres", "Andrés Iniesta", "Xavi Hernandez"],
+    "answer": "Andrés Iniesta",
+    "difficulty": 3
+  },
+  {
+    "question": "Quel club anglais joue ses matchs à domicile à St James' Park ?",
+    "options": ["Sunderland", "Newcastle United", "Middlesbrough", "Aston Villa"],
+    "answer": "Newcastle United",
+    "difficulty": 6
+  },
+  {
+    "question": "Qui a remporté la première édition de la Premier League (nouvelle formule) en 1993 ?",
+    "options": ["Blackburn Rovers", "Arsenal", "Manchester United", "Liverpool"],
+    "answer": "Manchester United",
+    "difficulty": 9
+  },
+  {
+    "question": "Quel joueur allemand était surnommé 'Der Kaiser' ?",
+    "options": ["Gerd Müller", "Lothar Matthäus", "Franz Beckenbauer", "Oliver Kahn"],
+    "answer": "Franz Beckenbauer",
+    "difficulty": 5
+  },
+  {
+    "question": "Dans quel pays s'est déroulée la Coupe du Monde 2002 ?",
+    "options": ["Japon uniquement", "Corée du Sud uniquement", "Chine", "Corée du Sud et Japon"],
+    "answer": "Corée du Sud et Japon",
+    "difficulty": 2
+  },
+  {
+    "question": "Quel gardien a marqué un but depuis sa propre surface contre Southampton en 2013 ?",
+    "options": ["Tim Howard", "Asmir Begović", "Alisson Becker", "Brad Friedel"],
+    "answer": "Asmir Begović",
+    "difficulty": 11
+  },
+  {
+    "question": "Quelle équipe est surnommée 'La Celeste' ?",
+    "options": ["Argentine", "Uruguay", "Italie", "Manchester City"],
+    "answer": "Uruguay",
+    "difficulty": 6
+  },
+  {
+    "question": "Quel joueur a remporté la Coupe du Monde en tant que joueur (1958, 1962) puis entraîneur (1970) ?",
+    "options": ["Mário Zagallo", "Pelé", "Carlos Alberto Parreira", "Luiz Felipe Scolari"],
+    "answer": "Mário Zagallo",
+    "difficulty": 10
+  },
+  {
+    "question": "Combien de temps dure la mi-temps d'un match de football standard ?",
+    "options": ["10 minutes", "15 minutes", "30 minutes", "45 minutes"],
+    "answer": "45 minutes",
+    "difficulty": 1
+  },
+  {
+    "question": "Quel club a été relégué administrativement en Serie B en 2006 suite à l'affaire du Calciopoli ?",
+    "options": ["AC Milan", "Lazio Rome", "Juventus Turin", "Fiorentina"],
+    "answer": "Juventus Turin",
+    "difficulty": 7
+  },
+  {
+    "question": "Quel est le seul joueur à avoir remporté la Coupe du Monde à trois reprises (1958, 1962, 1970) ?",
+    "options": ["Pelé", "Maradona", "Cafu", "Beckenbauer"],
+    "answer": "Pelé",
+    "difficulty": 1
+  },
+  {
+    "question": "Quelle équipe nationale a remporté l'Euro 2020 (joué en 2021) aux tirs au but ?",
+    "options": ["Angleterre", "Italie", "Belgique", "Espagne"],
+    "answer": "Italie",
+    "difficulty": 2
+  },
+  {
+    "question": "Quel joueur détient le record du but le plus rapide de l'histoire de la Ligue des Champions (10,12 secondes) ?",
+    "options": ["Roy Makaay", "Karim Benzema", "Jonas", "Alessandro Del Piero"],
+    "answer": "Roy Makaay",
+    "difficulty": 12
+  },
+  {
+    "question": "Dans quel stade mythique s'est jouée la finale de la Coupe du Monde 1998 ?",
+    "options": ["Parc des Princes", "Stade de France", "Stade Vélodrome", "Stade de Gerland"],
+    "answer": "Stade de France",
+    "difficulty": 1
+  },
+  {
+    "question": "Qui a remporté le tout premier Ballon d'Or de l'histoire en 1956 ?",
+    "options": ["Alfredo Di Stéfano", "Raymond Kopa", "Stanley Matthews", "Ferenc Puskás"],
+    "answer": "Stanley Matthews",
+    "difficulty": 10
+  },
+  {
+    "question": "Quel club anglais est surnommé 'The Hammers' ?",
+    "options": ["West Ham United", "Aston Villa", "Sheffield United", "Burnley"],
+    "answer": "West Ham United",
+    "difficulty": 4
+  },
+  {
+    "question": "Quelle équipe a perdu la finale de la Ligue des Champions 2019 contre Liverpool ?",
+    "options": ["Ajax Amsterdam", "Tottenham Hotspur", "FC Barcelone", "Manchester City"],
+    "answer": "Tottenham Hotspur",
+    "difficulty": 3
+  },
+  {
+    "question": "Quel gardien de but portait toujours une casquette et était surnommé 'L'Araignée Noire' ?",
+    "options": ["Lev Yachine", "Dino Zoff", "Gordon Banks", "Sepp Maier"],
+    "answer": "Lev Yachine",
+    "difficulty": 6
+  },
+  {
+    "question": "Quel est le plus petit pays (en population) à s'être qualifié pour une phase finale de Coupe du Monde ?",
+    "options": ["Islande", "Trinité-et-Tobago", "Qatar", "Pays de Galles"],
+    "answer": "Islande",
+    "difficulty": 7
+  },
+  {
+    "question": "Qui a succédé à Jürgen Klopp au poste d'entraîneur de Liverpool en 2024 ?",
+    "options": ["Xabi Alonso", "Arne Slot", "Ruben Amorim", "Roberto De Zerbi"],
+    "answer": "Arne Slot",
+    "difficulty": 3
+  },
+  {
+    "question": "Quel joueur français a inscrit le premier 'But en Or' de l'histoire de la Coupe du Monde en 1998 ?",
+    "options": ["Zinédine Zidane", "Thierry Henry", "Lilian Thuram", "Laurent Blanc"],
+    "answer": "Laurent Blanc",
+    "difficulty": 9
+  },
+  {
+    "question": "Quel club a remporté la Copa Libertadores 2023 ?",
+    "options": ["Flamengo", "Fluminense", "Palmeiras", "Boca Juniors"],
+    "answer": "Fluminense",
+    "difficulty": 5
+  },
+  {
+    "question": "Qui est le meilleur buteur de l'histoire de la sélection espagnole ?",
+    "options": ["Raúl", "Fernando Torres", "David Villa", "Álvaro Morata"],
+    "answer": "David Villa",
+    "difficulty": 5
+  },
+  {
+    "question": "Quel joueur a été transféré de Monaco au Real Madrid pour 80 millions d'euros en 2014 ?",
+    "options": ["James Rodríguez", "Radamel Falcao", "Bernardo Silva", "Kylian Mbappé"],
+    "answer": "James Rodríguez",
+    "difficulty": 4
+  },
+  {
+    "question": "Quelle est la distance exacte entre le point de penalty et la ligne de but ?",
+    "options": ["9 mètres", "10 mètres", "11 mètres", "12 mètres"],
+    "answer": "11 mètres",
+    "difficulty": 2
+  },
+  {
+    "question": "Quel entraîneur italien a remporté la Premier League avec Chelsea en 2017 ?",
+    "options": ["Antonio Conte", "Maurizio Sarri", "Carlo Ancelotti", "Claudio Ranieri"],
+    "answer": "Antonio Conte",
+    "difficulty": 6
+  },
+  {
+    "question": "Qui a marqué le 'But du Siècle' après un slalom de 60 mètres contre l'Angleterre en 1986 ?",
+    "options": ["Diego Maradona", "Jorge Valdano", "Burruchaga", "Pelé"],
+    "answer": "Diego Maradona",
+    "difficulty": 1
+  },
+  {
+    "question": "Quel club italien a vu toute son équipe disparaître dans le crash aérien de Superga en 1949 ?",
+    "options": ["Juventus", "Torino", "Inter Milan", "AS Rome"],
+    "answer": "Torino",
+    "difficulty": 11
+  },
+  {
+    "question": "Quel joueur néerlandais était surnommé 'Le Hollandais non-volant' à cause de sa phobie de l'avion ?",
+    "options": ["Marco van Basten", "Ruud Gullit", "Dennis Bergkamp", "Frank Rijkaard"],
+    "answer": "Dennis Bergkamp",
+    "difficulty": 8
+  },
+  {
+    "question": "Quelle nation africaine est surnommée 'Les Pharaons' ?",
+    "options": ["Maroc", "Tunisie", "Algérie", "Égypte"],
+    "answer": "Égypte",
+    "difficulty": 2
+  },
+  {
+    "question": "Quel joueur détient le record du nombre de matchs joués en Premier League ?",
+    "options": ["Ryan Giggs", "Gareth Barry", "Frank Lampard", "James Milner"],
+    "answer": "Gareth Barry",
+    "difficulty": 13
+  },
+  {
+    "question": "Quel club a formé Cristiano Ronaldo avant son départ pour Manchester United ?",
+    "options": ["FC Porto", "Benfica Lisbonne", "Sporting CP", "Boavista"],
+    "answer": "Sporting CP",
+    "difficulty": 3
+  },
+  {
+    "question": "En quelle année le football féminin a-t-il fait son apparition aux Jeux Olympiques ?",
+    "options": ["1984", "1992", "1996", "2000"],
+    "answer": "1996",
+    "difficulty": 14
+  },
+  {
+    "question": "Quel joueur a remporté la Coupe du Monde 2018 sans cadrer un seul tir de tout le tournoi ?",
+    "options": ["N'Golo Kanté", "Blaise Matuidi", "Olivier Giroud", "Paul Pogba"],
+    "answer": "Olivier Giroud",
+    "difficulty": 7
+  },
+  {
+    "question": "Comment s'appelle le trophée remis au vainqueur de la Bundesliga allemande ?",
+    "options": ["Le Saladier d'Argent (Meisterschale)", "La Coupe aux Grandes Oreilles", "Le Bouclier", "L'Hexagoal"],
+    "answer": "Le Saladier d'Argent (Meisterschale)",
+    "difficulty": 9
+  },
+  {
+    "question": "Quel joueur roumain était surnommé 'Le Maradona des Carpates' ?",
+    "options": ["Cristian Chivu", "Gheorghe Hagi", "Adrian Mutu", "Gheorghe Popescu"],
+    "answer": "Gheorghe Hagi",
+    "difficulty": 8
+  },
+  {
+    "question": "Quel entraîneur a mené la Grèce à la victoire lors de l'Euro 2004 ?",
+    "options": ["Otto Rehhagel", "Guus Hiddink", "Dick Advocaat", "Bora Milutinović"],
+    "answer": "Otto Rehhagel",
+    "difficulty": 10
+  },
+  {
+    "question": "Quel joueur a marqué un quadruplé contre le Real Madrid en demi-finale de C1 2013 ?",
+    "options": ["Robert Lewandowski", "Mario Mandžukić", "Thomas Müller", "Marco Reus"],
+    "answer": "Robert Lewandowski",
+    "difficulty": 5
+  },
+  {
+    "question": "Quel club a remporté la toute première Ligue des Champions (C1) en 1956 ?",
+    "options": ["Stade de Reims", "Real Madrid", "AC Milan", "Benfica"],
+    "answer": "Real Madrid",
+    "difficulty": 6
+  },
+  {
+    "question": "Quelle équipe nationale porte un maillot à damiers rouges et blancs ?",
+    "options": ["Slovaquie", "Croatie", "Pologne", "Serbie"],
+    "answer": "Croatie",
+    "difficulty": 1
+  },
+  {
+    "question": "Quel gardien roumain a arrêté 4 tirs au but en finale de C1 1986 contre Barcelone ?",
+    "options": ["Helmuth Duckadam", "Bogdan Stelea", "Ciprian Tătărușanu", "Silviu Lung"],
+    "answer": "Helmuth Duckadam",
+    "difficulty": 15
+  },
+  {
+    "question": "Quel est le nom du stade du SSC Napoli ?",
+    "options": ["San Paolo", "Diego Armando Maradona", "Luigi Ferraris", "Stadio Olimpico"],
+    "answer": "Diego Armando Maradona",
+    "difficulty": 2
+  },
+  {
+    "question": "Quel joueur anglais a été le transfert le plus cher de l'histoire entre deux clubs anglais en 2021 (117M€) ?",
+    "options": ["Harry Kane", "Declan Rice", "Jack Grealish", "Jadon Sancho"],
+    "answer": "Jack Grealish",
+    "difficulty": 6
+  },
+  {
+    "question": "Qui a entraîné le Manchester United juste avant Sir Alex Ferguson ?",
+    "options": ["Ron Atkinson", "Matt Busby", "Tommy Docherty", "Dave Sexton"],
+    "answer": "Ron Atkinson",
+    "difficulty": 13
+  },
+  {
+    "question": "Quel joueur a fini meilleur buteur de la Coupe du Monde 2014 avec 6 buts ?",
+    "options": ["Lionel Messi", "Thomas Müller", "James Rodríguez", "Neymar"],
+    "answer": "James Rodríguez",
+    "difficulty": 5
+  },
+  {
+    "question": "Dans quel club Jamie Vardy jouait-il avant de signer à Leicester City ?",
+    "options": ["Sheffield Wednesday", "Fleetwood Town", "Halifax Town", "Stocksbridge Park Steels"],
+    "answer": "Fleetwood Town",
+    "difficulty": 11
+  },
+  {
+    "question": "Quelle est la seule équipe sud-américaine à ne jamais avoir participé à une Coupe du Monde ?",
+    "options": ["Bolivie", "Venezuela", "Pérou", "Paraguay"],
+    "answer": "Venezuela",
+    "difficulty": 9
+  },
+  {
+    "question": "Quel numéro portait Johan Cruyff, rendu mythique ?",
+    "options": ["10", "14", "9", "7"],
+    "answer": "14",
+    "difficulty": 2
+  },
+  {
+    "question": "Quel club portugais a révélé José Mourinho en tant qu'entraîneur principal (avant Porto) ?",
+    "options": ["União de Leiria", "Benfica", "Sporting Braga", "Vitória Setúbal"],
+    "answer": "União de Leiria",
+    "difficulty": 14
+  },
+  {
+    "question": "Qui a marqué le but vainqueur pour le Portugal en finale de l'Euro 2016 ?",
+    "options": ["Cristiano Ronaldo", "Nani", "Eder", "Quaresma"],
+    "answer": "Eder",
+    "difficulty": 4
+  },
+  {
+    "question": "Quel joueur africain a remporté la Ligue des Champions avec l'Ajax, le Real Madrid et l'Inter Milan ?",
+    "options": ["Samuel Eto'o", "George Weah", "Geremi", "Clarence Seedorf (Non africain)"],
+    "answer": "Samuel Eto'o",
+    "difficulty": 10
+  },
+  {
+    "question": "Quel stade a la plus grande capacité au monde (Corée du Nord) ?",
+    "options": ["Camp Nou", "Stade Rungrado du 1er-Mai", "Wembley", "Maracanã"],
+    "answer": "Stade Rungrado du 1er-Mai",
+    "difficulty": 12
+  },
+  {
+    "question": "Quelle équipe de Ligue 1 a remporté le championnat de France 2021 à la surprise générale ?",
+    "options": ["Lyon", "Monaco", "Lille (LOSC)", "Marseille"],
+    "answer": "Lille (LOSC)",
+    "difficulty": 4
+  },
+  {
+    "question": "Quel joueur italien a remporté le Ballon d'Or 1993 ?",
+    "options": ["Paolo Maldini", "Roberto Baggio", "Franco Baresi", "Alessandro Del Piero"],
+    "answer": "Roberto Baggio",
+    "difficulty": 7
+  },
+  {
+    "question": "Quel entraîneur a popularisé le 'Gegenpressing' ?",
+    "options": ["Pep Guardiola", "Jürgen Klopp", "Thomas Tuchel", "Ralf Rangnick"],
+    "answer": "Ralf Rangnick",
+    "difficulty": 8
+  },
+  {
+    "question": "Quel pays organisera la Coupe du Monde 2030 (principalement) avec l'Espagne et le Portugal ?",
+    "options": ["Maroc", "France", "Italie", "Arabie Saoudite"],
+    "answer": "Maroc",
+    "difficulty": 3
+  },
+  {
+    "question": "Quel joueur a inscrit le 1000e but de l'histoire de la Coupe du Monde en 1978 ?",
+    "options": ["Rob Rensenbrink", "Mario Kempes", "Teófilo Cubillas", "Gerd Müller"],
+    "answer": "Rob Rensenbrink",
+    "difficulty": 15
+  },
+  {
+    "question": "Quel est le surnom du club de Villarreal ?",
+    "options": ["Les Chauves-souris", "Le Sous-marin jaune", "Les Lions", "Les Perruches"],
+    "answer": "Le Sous-marin jaune",
+    "difficulty": 5
+  },
+  {
+    "question": "Qui a été élu meilleur joueur de l'Euro 2024 ?",
+    "options": ["Rodri", "Lamine Yamal", "Jude Bellingham", "Harry Kane"],
+    "answer": "Rodri",
+    "difficulty": 3
+  },
+  {
+    "question": "Quel joueur a porté le maillot du Real Madrid, du FC Barcelone et de l'Inter Milan ?",
+    "options": ["Luis Figo", "Ronaldo Nazário", "Zlatan Ibrahimović", "Samuel Eto'o"],
+    "answer": "Ronaldo Nazário",
+    "difficulty": 6
+  },
+  {
+    "question": "Quel club a remporté la Ligue Europa 2024 en brisant l'invincibilité du Bayer Leverkusen ?",
+    "options": ["AS Rome", "Atalanta Bergame", "Marseille", "Séville FC"],
+    "answer": "Atalanta Bergame",
+    "difficulty": 3
+  },
+  {
+    "question": "Quel joueur a mis fin au règne de Messi et Ronaldo en remportant le Ballon d'Or 2018 ?",
+    "options": ["Antoine Griezmann", "Luka Modrić", "Raphaël Varane", "Mohamed Salah"],
+    "answer": "Luka Modrić",
+    "difficulty": 2
+  },
+  {
+    "question": "Quel est le surnom de l'équipe nationale de Belgique ?",
+    "options": ["Les Diables Rouges", "Les Lions de l'Atlas", "L'Oranje", "La Nati"],
+    "answer": "Les Diables Rouges",
+    "difficulty": 1
+  },
+  {
+    "question": "Quel entraîneur détient le record de longévité sur un banc en France (44 ans à l'AJ Auxerre) ?",
+    "options": ["Gérard Houllier", "Guy Roux", "Aimé Jacquet", "Jean-Claude Suaudeau"],
+    "answer": "Guy Roux",
+    "difficulty": 5
+  },
+  {
+    "question": "Quel joueur turc a marqué le but le plus rapide de l'histoire de la Coupe du Monde (11 secondes en 2002) ?",
+    "options": ["Hakan Şükür", "Arda Turan", "Hasan Şaş", "Ilhan Mansiz"],
+    "answer": "Hakan Şükür",
+    "difficulty": 11
+  },
+  {
+    "question": "Quel club a été champion d'Allemagne en 1998, l'année même de sa remontée de deuxième division ?",
+    "options": ["VfB Stuttgart", "FC Kaiserslautern", "Werder Brême", "Hambourg SV"],
+    "answer": "FC Kaiserslautern",
+    "difficulty": 13
+  },
+  {
+    "question": "Quel est le vrai nom de Pelé ?",
+    "options": ["Edson Arantes do Nascimento", "Manuel Francisco dos Santos", "Ronaldo de Assis Moreira", "Arthur Antunes Coimbra"],
+    "answer": "Edson Arantes do Nascimento",
+    "difficulty": 4
+  },
+  {
+    "question": "Quel joueur a inscrit un but d'un retourné acrobatique de 30 mètres contre l'Angleterre en 2012 ?",
+    "options": ["Zlatan Ibrahimović", "Cristiano Ronaldo", "Wayne Rooney", "Gareth Bale"],
+    "answer": "Zlatan Ibrahimović",
+    "difficulty": 3
+  },
+  {
+    "question": "Qui était l'arbitre de la finale de la Coupe du Monde 2002 (Brésil-Allemagne) ?",
+    "options": ["Pierluigi Collina", "Howard Webb", "Markus Merk", "Kim Milton Nielsen"],
+    "answer": "Pierluigi Collina",
+    "difficulty": 9
+  },
+  {
+    "question": "Quel club anglais a été racheté par le Sheikh Mansour en 2008 ?",
+    "options": ["Newcastle United", "Manchester City", "Chelsea", "Fulham"],
+    "answer": "Manchester City",
+    "difficulty": 2
+  },
+  {
+    "question": "Quelle sélection a remporté la Copa América 2015 et 2016 aux tirs au but face à l'Argentine ?",
+    "options": ["Colombie", "Chili", "Uruguay", "Brésil"],
+    "answer": "Chili",
+    "difficulty": 6
+  },
+  {
+    "question": "De quelle nationalité était George Best ?",
+    "options": ["Anglaise", "Écossaise", "Nord-Irlandaise", "Galloise"],
+    "answer": "Nord-Irlandaise",
+    "difficulty": 7
+  },
+  {
+    "question": "Quel joueur a provoqué un scandale en 2009 avec une main décisive lors des barrages contre l'Irlande ?",
+    "options": ["Nicolas Anelka", "Thierry Henry", "William Gallas", "Frank Ribéry"],
+    "answer": "Thierry Henry",
+    "difficulty": 5
+  },
+  {
+    "question": "Combien d'équipes participent à la phase finale de la Coupe du Monde à partir de 2026 ?",
+    "options": ["32", "40", "48", "64"],
+    "answer": "48",
+    "difficulty": 3
+  },
+  {
+    "question": "Quel club a remporté la Coupe des Coupes (C2) en 1996 ?",
+    "options": ["Paris Saint-Germain", "Rapid Vienne", "Barcelone", "Parme"],
+    "answer": "Paris Saint-Germain",
+    "difficulty": 8
+  },
+  {
+    "question": "Qui a succédé à Sir Alex Ferguson sur le banc de Manchester United en 2013 ?",
+    "options": ["Louis van Gaal", "David Moyes", "Ryan Giggs", "José Mourinho"],
+    "answer": "David Moyes",
+    "difficulty": 6
+  },
+  {
+    "question": "Quel joueur a terminé meilleur buteur de la Coupe du Monde 1990 en Italie ?",
+    "options": ["Salvatore Schillaci", "Diego Maradona", "Jürgen Klinsmann", "Roger Milla"],
+    "answer": "Salvatore Schillaci",
+    "difficulty": 12
+  },
+  {
+    "question": "Quel club espagnol a remporté la Liga en 2000 à la surprise générale ?",
+    "options": ["Deportivo La Corogne", "Valence CF", "Real Sociedad", "FC Séville"],
+    "answer": "Deportivo La Corogne",
+    "difficulty": 10
+  },
+  {
+    "question": "Quel est le nom de la mascotte de la Coupe du Monde 1998 ?",
+    "options": ["Ciao", "Footix", "Zakumi", "Goleo"],
+    "answer": "Footix",
+    "difficulty": 1
+  },
+  {
+    "question": "Quel joueur a raté son tir au but face à l'Italie en finale du Mondial 2006 ?",
+    "options": ["Louis Saha", "Willy Sagnol", "David Trezeguet", "Florent Malouda"],
+    "answer": "David Trezeguet",
+    "difficulty": 4
+  },
+  {
+    "question": "Quelle équipe est surnommée 'Les Super Eagles' ?",
+    "options": ["Ghana", "Nigéria", "Mali", "Cameroun"],
+    "answer": "Nigéria",
+    "difficulty": 5
+  },
+  {
+    "question": "À quelle distance exacte se trouve le mur lors d'un coup franc (9,15 mètres équivaut à...) ?",
+    "options": ["8 yards", "9 yards", "10 yards", "11 yards"],
+    "answer": "10 yards",
+    "difficulty": 14
+  },
+  {
+    "question": "Quel club a subi une tragédie aérienne en 2016 alors qu'il allait jouer la finale de la Copa Sudamericana ?",
+    "options": ["Chapecoense", "Atlético Nacional", "Grêmio", "Cruzeiro"],
+    "answer": "Chapecoense",
+    "difficulty": 6
+  },
+  {
+    "question": "Quel joueur détient le record de buts en une seule saison de Premier League (36 buts) ?",
+    "options": ["Andy Cole", "Alan Shearer", "Erling Haaland", "Mohamed Salah"],
+    "answer": "Erling Haaland",
+    "difficulty": 3
+  },
+  {
+    "question": "Qui est le meilleur buteur de l'histoire du Paris Saint-Germain ?",
+    "options": ["Zlatan Ibrahimović", "Edinson Cavani", "Kylian Mbappé", "Pauleta"],
+    "answer": "Kylian Mbappé",
+    "difficulty": 2
+  },
+  {
+    "question": "Quel club italien a été fondé par des dissidents de l'AC Milan en 1908 ?",
+    "options": ["Juventus", "AS Rome", "Inter Milan", "Naples"],
+    "answer": "Inter Milan",
+    "difficulty": 8
+  },
+  {
+    "question": "Qui a marqué un coup franc mythique avec une trajectoire improbable contre la France en 1997 ?",
+    "options": ["Rivaldo", "Roberto Carlos", "Ronaldinho", "Juninho"],
+    "answer": "Roberto Carlos",
+    "difficulty": 5
+  },
+  {
+    "question": "Quel est le dernier entraîneur anglais à avoir remporté le championnat d'Angleterre (en 1992) ?",
+    "options": ["Howard Wilkinson", "Bobby Robson", "Harry Redknapp", "Kevin Keegan"],
+    "answer": "Howard Wilkinson",
+    "difficulty": 15
+  },
+  {
+    "question": "Quel joueur a reçu un carton rouge en finale de la Coupe du Monde 2006 ?",
+    "options": ["Marco Materazzi", "Gennaro Gattuso", "Zinédine Zidane", "Lilian Thuram"],
+    "answer": "Zinédine Zidane",
+    "difficulty": 1
+  },
+  {
+    "question": "Dans quel stade l'équipe nationale du Brésil n'a-t-elle jamais perdu un match officiel ?",
+    "options": ["Maracanã", "Morumbi", "Mineirão", "Il n'existe pas de tel stade"],
+    "answer": "Il n'existe pas de tel stade",
+    "difficulty": 13
+  },
+  {
+    "question": "Quel joueur brésilien a été élu meilleur joueur du Mondial 1994 ?",
+    "options": ["Romário", "Bebeto", "Dunga", "Cafu"],
+    "answer": "Romário",
+    "difficulty": 7
+  },
+  {
+    "question": "Quelle équipe a remporté la Coupe des Confédérations le plus de fois (4) ?",
+    "options": ["France", "Argentine", "Brésil", "Allemagne"],
+    "answer": "Brésil",
+    "difficulty": 9
+  },
+  {
+    "question": "Qui a entraîné le Real Madrid lors de la 'Decima' (10ème Ligue des Champions) en 2014 ?",
+    "options": ["Zinédine Zidane", "Carlo Ancelotti", "José Mourinho", "Rafa Benítez"],
+    "answer": "Carlo Ancelotti",
+    "difficulty": 6
+  },
+  {
+    "question": "Quel club écossais a été relégué en 4ème division en 2012 pour faillite ?",
+    "options": ["Celtic Glasgow", "Glasgow Rangers", "Hearts", "Hibernian"],
+    "answer": "Glasgow Rangers",
+    "difficulty": 8
+  },
+  {
+    "question": "Quel joueur a inscrit un but de la main contre l'Espanyol Barcelone, surnommé 'La main de Messi' ?",
+    "options": ["Lionel Messi", "Sergio Agüero", "Gonzalo Higuaín", "Luis Suárez"],
+    "answer": "Lionel Messi",
+    "difficulty": 10
+  },
+  {
+    "question": "Quel est le nom du trophée récompensant le meilleur but de l'année ?",
+    "options": ["Prix Puskás", "Prix Yashin", "Prix Kopa", "Prix The Best"],
+    "answer": "Prix Puskás",
+    "difficulty": 2
+  },
+  {
+    "question": "Quel gardien allemand a révolutionné le poste en jouant comme un 'libéro' ?",
+    "options": ["Oliver Kahn", "Manuel Neuer", "Jens Lehmann", "Marc-André ter Stegen"],
+    "answer": "Manuel Neuer",
+    "difficulty": 4
+  },
+  {
+    "question": "Quelle équipe nationale a pour emblème trois lions ?",
+    "options": ["Pays-Bas", "Angleterre", "Écosse", "Belgique"],
+    "answer": "Angleterre",
+    "difficulty": 1
+  },
+  {
+    "question": "Quel joueur a été surnommé 'L'Ange Vert' ?",
+    "options": ["Michel Platini", "Dominique Rocheteau", "Alain Giresse", "Johnny Rep"],
+    "answer": "Dominique Rocheteau",
+    "difficulty": 11
+  },
+  {
+    "question": "Qui a marqué le seul but de la finale de l'Euro 2008 (Espagne - Allemagne) ?",
+    "options": ["David Villa", "Xavi", "Fernando Torres", "Andrés Iniesta"],
+    "answer": "Fernando Torres",
+    "difficulty": 7
+  },
+  {
+    "question": "Quel club argentin a pour stade 'El Monumental' ?",
+    "options": ["Boca Juniors", "River Plate", "Racing Club", "San Lorenzo"],
+    "answer": "River Plate",
+    "difficulty": 5
+  },
+  {
+    "question": "Quel joueur a été exclu pour avoir mordu un adversaire sous le maillot de l'Ajax (avant l'incident de 2014) ?",
+    "options": ["Zlatan Ibrahimović", "Luis Suárez", "Klaas-Jan Huntelaar", "Rafael van der Vaart"],
+    "answer": "Luis Suárez",
+    "difficulty": 9
+  },
+  {
+    "question": "En quelle année l'équipe de France a-t-elle remporté son premier titre majeur (Euro) ?",
+    "options": ["1958", "1982", "1984", "1998"],
+    "answer": "1984",
+    "difficulty": 4
+  },
+  {
+    "question": "Quel entraîneur a inventé le 'Catenaccio' (verrou) avec l'Inter Milan dans les années 60 ?",
+    "options": ["Helenio Herrera", "Nereo Rocco", "Arrigo Sacchi", "Marcello Lippi"],
+    "answer": "Helenio Herrera",
+    "difficulty": 12
+  },
+  {
+    "question": "Quel joueur a marqué un but en finale de C1 avec le Borussia Dortmund en 1997 (lob lointain) ?",
+    "options": ["Karl-Heinz Riedle", "Lars Ricken", "Matthias Sammer", "Andreas Möller"],
+    "answer": "Lars Ricken",
+    "difficulty": 14
+  },
+  {
+    "question": "Quelle est la particularité du stade de Braga au Portugal ?",
+    "options": ["Il est construit à flanc de falaise", "Il est flottant", "Il a un toit rétractable en verre", "Il est souterrain"],
+    "answer": "Il est construit à flanc de falaise",
+    "difficulty": 10
+  },
+  {
+    "question": "Quel joueur détient le record de sélections en équipe de France masculine (au 1er Janvier 2026) ?",
+    "options": ["Hugo Lloris", "Lilian Thuram", "Olivier Giroud", "Antoine Griezmann"],
+    "answer": "Hugo Lloris",
+    "difficulty": 6
+  },
+  {
+    "question": "Quel club a réalisé l'exploit d'éliminer le Real Madrid en Ligue des Champions 2019 (1-4 au Bernabeu) ?",
+    "options": ["Manchester City", "Ajax Amsterdam", "Juventus", "Chelsea"],
+    "answer": "Ajax Amsterdam",
+    "difficulty": 5
+  },
+  {
+    "question": "Quel pays a remporté la première Coupe d'Asie des Nations en 1956 ?",
+    "options": ["Japon", "Iran", "Corée du Sud", "Arabie Saoudite"],
+    "answer": "Corée du Sud",
+    "difficulty": 15
+  },
+  {
+    "question": "Qui a été le premier joueur à coûter plus de 100 millions d'euros ?",
+    "options": ["Cristiano Ronaldo", "Gareth Bale", "Paul Pogba", "Neymar"],
+    "answer": "Gareth Bale",
+    "difficulty": 8
+  }
+]

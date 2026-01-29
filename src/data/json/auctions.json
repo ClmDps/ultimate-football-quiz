@@ -1,0 +1,1054 @@
+[
+  {
+    "id": "auction_1",
+    "theme": "Citez les joueurs de l'Équipe de France sélectionnés pour la Coupe du Monde 2022",
+    "description": "Il y a 26 joueurs à trouver (y compris Benzema blessé mais sur la liste officielle).",
+    "total_count": 26,
+    "answers": [
+      "Hugo Lloris", "Steve Mandanda", "Alphonse Areola",
+      "Benjamin Pavard", "Jules Koundé", "Raphaël Varane", "William Saliba", "Dayot Upamecano", "Ibrahima Konaté", "Axel Disasi", "Théo Hernandez", "Lucas Hernandez",
+      "Eduardo Camavinga", "Aurélien Tchouaméni", "Adrien Rabiot", "Youssouf Fofana", "Mattéo Guendouzi", "Jordan Veretout",
+      "Antoine Griezmann", "Kingsley Coman", "Ousmane Dembélé", "Kylian Mbappé", "Olivier Giroud", "Marcus Thuram", "Randal Kolo Muani", "Karim Benzema"
+    ]
+  },
+  {
+    "id": "auction_2",
+    "theme": "Citez tous les clubs ayant remporté la Ligue des Champions (C1) au moins une fois",
+    "description": "De 1956 à 2025. Il y a 23 clubs historiques.",
+    "total_count": 23,
+    "answers": [
+      "Real Madrid", "AC Milan", "Liverpool", "Bayern Munich", "FC Barcelone", "Ajax Amsterdam",
+      "Inter Milan", "Manchester United", "Juventus", "Benfica", "Chelsea", "Nottingham Forest",
+      "FC Porto", "Celtic Glasgow", "Hambourg SV", "Steaua Bucarest", "Olympique de Marseille",
+      "Borussia Dortmund", "Manchester City", "Feyenoord Rotterdam", "Aston Villa", "PSV Eindhoven", "Etoile Rouge de Belgrade"
+    ]
+  },
+  {
+    "id": "auction_3",
+    "theme": "Citez les lauréats du Ballon d'Or depuis 1990",
+    "description": "Tous les vainqueurs uniques depuis Lothar Matthäus jusqu'à aujourd'hui.",
+    "total_count": 19,
+    "answers": [
+      "Lothar Matthäus", "Jean-Pierre Papin", "Marco van Basten", "Roberto Baggio", "Hristo Stoichkov",
+      "George Weah", "Matthias Sammer", "Ronaldo", "Zinedine Zidane", "Rivaldo",
+      "Luis Figo", "Michael Owen", "Pavel Nedved", "Andriy Shevchenko", "Ronaldinho",
+      "Fabio Cannavaro", "Kaka", "Cristiano Ronaldo", "Lionel Messi", "Luka Modric", "Karim Benzema", "Rodri"
+    ]
+  },
+  {
+    "id": "auction_4",
+    "theme": "Citez les clubs anglais ayant remporté la Premier League depuis sa création en 1992",
+    "description": "Seulement 7 clubs ont réussi cet exploit.",
+    "total_count": 7,
+    "answers": [
+      "Manchester United", "Blackburn Rovers", "Arsenal", "Chelsea", "Manchester City", "Leicester City", "Liverpool"
+    ]
+  },
+  {
+    "id": "auction_5",
+    "theme": "Citez les joueurs de l'équipe du Brésil champions du monde 2002 (Les 23)",
+    "description": "La Seleção de Scolari.",
+    "total_count": 23,
+    "answers": [
+      "Marcos", "Cafu", "Lucio", "Roque Junior", "Edmilson", "Roberto Carlos",
+      "Ricardinho", "Gilberto Silva", "Ronaldo", "Rivaldo", "Ronaldinho",
+      "Dida", "Belletti", "Anderson Polga", "Kleberson", "Junior",
+      "Denilson", "Vampeta", "Juninho Paulista", "Edilson", "Luizao", "Rogério Ceni", "Kaka"
+    ]
+  },
+  {
+    "id": "auction_6",
+    "theme": "Citez les entraîneurs du Real Madrid au 21ème siècle (depuis le 01/01/2000)",
+    "description": "Les entraîneurs intérimaires confirmés comptent. (De Del Bosque à Ancelotti).",
+    "total_count": 17,
+    "answers": [
+      "Vicente del Bosque", "Carlos Queiroz", "José Antonio Camacho", "Mariano Garcia Remon",
+      "Vanderlei Luxemburgo", "Juan Ramon Lopez Caro", "Fabio Capello", "Bernd Schuster",
+      "Juande Ramos", "Manuel Pellegrini", "José Mourinho", "Carlo Ancelotti",
+      "Rafael Benitez", "Zinedine Zidane", "Julen Lopetegui", "Santiago Solari"
+    ]
+  },
+  {
+    "id": "auction_7",
+    "theme": "Citez les nations africaines ayant participé à au moins une Coupe du Monde",
+    "description": "13 nations ont déjà atteint la phase finale.",
+    "total_count": 13,
+    "answers": [
+      "Égypte", "Maroc", "République Démocratique du Congo", "Tunisie", "Algérie",
+      "Cameroun", "Nigeria", "Afrique du Sud", "Sénégal", "Ghana",
+      "Côte d'Ivoire", "Togo", "Angola"
+    ]
+  },
+  {
+    "id": "auction_8",
+    "theme": "Citez les vainqueurs du trophée Golden Boy depuis sa création en 2003",
+    "description": "Le trophée du meilleur jeune joueur d'Europe (Tuttosport).",
+    "total_count": 22,
+    "answers": [
+      "Rafael van der Vaart", "Wayne Rooney", "Lionel Messi", "Cesc Fabregas", "Sergio Aguero",
+      "Anderson", "Alexandre Pato", "Mario Balotelli", "Mario Götze", "Isco",
+      "Paul Pogba", "Raheem Sterling", "Anthony Martial", "Renato Sanches", "Kylian Mbappé",
+      "Matthijs de Ligt", "Joao Felix", "Erling Haaland", "Pedri", "Gavi", "Jude Bellingham", "Lamine Yamal"
+    ]
+  },
+  {
+    "id": "auction_9",
+    "theme": "Citez les joueurs français ayant 100 sélections ou plus en Équipe de France",
+    "description": "Le cercle très fermé des centenaires (Situation Janvier 2026).",
+    "total_count": 10,
+    "answers": [
+      "Hugo Lloris", "Lilian Thuram", "Olivier Giroud", "Antoine Griezmann", "Thierry Henry",
+      "Marcel Desailly", "Zinedine Zidane", "Patrick Vieira", "Didier Deschamps", "Kylian Mbappé"
+    ]
+  },
+  {
+    "id": "auction_10",
+    "theme": "Citez les pays vainqueurs de l'Euro (Championnat d'Europe des Nations)",
+    "description": "Depuis 1960. 10 vainqueurs différents.",
+    "total_count": 10,
+    "answers": [
+      "URSS", "Espagne", "Italie", "Allemagne", "Tchécoslovaquie",
+      "France", "Pays-Bas", "Danemark", "Grèce", "Portugal"
+    ]
+  },
+  {
+    "id": "auction_11",
+    "theme": "Citez les joueurs ayant marqué 100 buts ou plus en Premier League",
+    "description": "Le '100 Club' de la PL.",
+    "total_count": 34,
+    "answers": [
+      "Alan Shearer", "Harry Kane", "Wayne Rooney", "Andy Cole", "Sergio Aguero",
+      "Frank Lampard", "Thierry Henry", "Mohamed Salah", "Robbie Fowler", "Jermain Defoe",
+      "Michael Owen", "Les Ferdinand", "Teddy Sheringham", "Jamie Vardy", "Robin van Persie",
+      "Dwight Yorke", "Romelu Lukaku", "Steven Gerrard", "Raheem Sterling", "Son Heung-min",
+      "Nicolas Anelka", "Jimmy Floyd Hasselbaink", "Robbie Keane", "Sadio Mané", "Emile Heskey",
+      "Dion Dublin", "Peter Crouch", "Cristiano Ronaldo", "Matt Le Tissier", "Darren Bent",
+      "Didier Drogba", "Paul Scholes", "Ryan Giggs", "Callum Wilson"
+    ]
+  },
+  {
+    "id": "auction_12",
+    "theme": "Citez les 23 Français champions du monde 1998",
+    "description": "La liste d'Aimé Jacquet.",
+    "total_count": 22,
+    "answers": [
+      "Fabien Barthez", "Bernard Lama", "Lionel Charbonnier",
+      "Laurent Blanc", "Marcel Desailly", "Frank Leboeuf", "Lilian Thuram", "Bixente Lizarazu", "Vincent Candela",
+      "Didier Deschamps", "Emmanuel Petit", "Christian Karembeu", "Patrick Vieira", "Zinedine Zidane", "Alain Boghossian",
+      "Youri Djorkaeff", "Robert Pirès", "Bernard Diomède",
+      "Stéphane Guivarc'h", "Christophe Dugarry", "Thierry Henry", "David Trezeguet"
+    ]
+  },
+  {
+    "id": "auction_13",
+    "theme": "Citez les entraîneurs ayant gagné la Ligue des Champions (ère moderne, depuis 1993)",
+    "description": "Uniquement les entraîneurs principaux lors de la finale.",
+    "total_count": 19,
+    "answers": [
+      "Raymond Goethals", "Fabio Capello", "Louis van Gaal", "Marcello Lippi", "Ottmar Hitzfeld",
+      "Vicente del Bosque", "Carlo Ancelotti", "José Mourinho", "Rafael Benitez", "Frank Rijkaard",
+      "Alex Ferguson", "Pep Guardiola", "Jupp Heynckes", "Roberto Di Matteo", "Luis Enrique",
+      "Zinedine Zidane", "Jürgen Klopp", "Hansi Flick", "Thomas Tuchel"
+    ]
+  },
+  {
+    "id": "auction_14",
+    "theme": "Citez les clubs espagnols ayant atteint au moins une finale européenne (C1, C2, C3)",
+    "description": "Gagnée ou perdue. C1 (LDC), C2 (Coupe des Coupes), C3 (UEFA/Europa League).",
+    "total_count": 11,
+    "answers": [
+      "Real Madrid", "FC Barcelone", "Atlético de Madrid", "Valence CF", "Séville FC",
+      "Villarreal", "Athletic Bilbao", "Espanyol Barcelone", "Real Saragosse", "Real Majorque", "Deportivo Alavés"
+    ]
+  },
+  {
+    "id": "auction_15",
+    "theme": "Citez les joueurs ayant porté le numéro 7 à Manchester United en Premier League (avant 2026)",
+    "description": "Ceux qui ont eu le numéro attribué officiellement sur une saison.",
+    "total_count": 10,
+    "answers": [
+      "Eric Cantona", "David Beckham", "Cristiano Ronaldo", "Michael Owen", "Antonio Valencia",
+      "Angel Di Maria", "Memphis Depay", "Alexis Sanchez", "Edinson Cavani", "Mason Mount"
+    ]
+  },
+  {
+    "id": "auction_16",
+    "theme": "Citez les meilleurs buteurs (Soulier d'Or) de chaque Coupe du Monde depuis 1982",
+    "description": "Le meilleur buteur unique ou les co-meilleurs buteurs du tournoi.",
+    "total_count": 11,
+    "answers": [
+      "Paolo Rossi", "Gary Lineker", "Salvatore Schillaci", "Hristo Stoichkov", "Oleg Salenko",
+      "Davor Suker", "Ronaldo", "Miroslav Klose", "Thomas Müller", "James Rodriguez",
+      "Harry Kane", "Kylian Mbappé"
+    ]
+  },
+  {
+    "id": "auction_17",
+    "theme": "Citez les joueurs ayant gagné 5 Ligues des Champions ou plus",
+    "description": "Liste dominée par les légendes du Real Madrid et du Milan.",
+    "total_count": 12,
+    "answers": [
+      "Francisco Gento", "Paolo Maldini", "Alessandro Costacurta", "Cristiano Ronaldo",
+      "Karim Benzema", "Dani Carvajal", "Luka Modric", "Nacho Fernandez", "Toni Kroos",
+      "Marcelo", "Gareth Bale", "Isco"
+    ]
+  },
+  {
+    "id": "auction_18",
+    "theme": "Citez les entraîneurs passés par le PSG sous l'ère QSI (depuis 2011)",
+    "description": "Depuis le rachat par le Qatar.",
+    "total_count": 8,
+    "answers": [
+      "Antoine Kombouaré", "Carlo Ancelotti", "Laurent Blanc", "Unai Emery",
+      "Thomas Tuchel", "Mauricio Pochettino", "Christophe Galtier", "Luis Enrique"
+    ]
+  },
+  {
+    "id": "auction_19",
+    "theme": "Citez les pays hôtes de la Coupe du Monde de 1990 à 2026",
+    "description": "Les pays ayant accueilli le tournoi (y compris les co-organisateurs 2002 et 2026).",
+    "total_count": 12,
+    "answers": [
+      "Italie", "États-Unis", "France", "Corée du Sud", "Japon",
+      "Allemagne", "Afrique du Sud", "Brésil", "Russie", "Qatar",
+      "Canada", "Mexique"
+    ]
+  },
+  {
+    "id": "auction_20",
+    "theme": "Citez les gardiens de but ayant fini sur le podium du Ballon d'Or (Top 3) dans l'histoire",
+    "description": "Seulement 4 gardiens ont réussi cet exploit, dont un seul vainqueur.",
+    "total_count": 4,
+    "answers": [
+      "Lev Yachine", "Dino Zoff", "Oliver Kahn", "Gianluigi Buffon"
+    ]
+  },
+  {
+    "id": "auction_21",
+    "theme": "Citez tous les capitaines ayant soulevé la Coupe du Monde",
+    "description": "Un seul capitaine par édition, de 1930 à 2022. Il y a 22 noms légendaires à trouver.",
+    "total_count": 22,
+    "answers": [
+      "José Nasazzi", "Gianpiero Combi", "Giuseppe Meazza", "Obdulio Varela", "Fritz Walter",
+      "Hilderaldo Bellini", "Mauro Ramos", "Bobby Moore", "Carlos Alberto", "Franz Beckenbauer",
+      "Daniel Passarella", "Dino Zoff", "Diego Maradona", "Lothar Matthäus", "Dunga",
+      "Didier Deschamps", "Cafu", "Fabio Cannavaro", "Iker Casillas", "Philipp Lahm",
+      "Hugo Lloris", "Lionel Messi"
+    ]
+  },
+  {
+    "id": "auction_22",
+    "theme": "Citez les joueurs ayant marqué en finale de Ligue des Champions depuis l'an 2000",
+    "description": "De la finale 2000 (Real-Valence) à la finale 2024. Ne comptez pas les tirs au but. (Liste des buteurs uniques).",
+    "total_count": 52,
+    "answers": [
+      "Fernando Morientes", "Steve McManaman", "Raul", "Gaizka Mendieta", "Stefan Effenberg",
+      "Zinedine Zidane", "Lucio", "Carlos Alberto", "Deco", "Dmitri Alenichev",
+      "Paolo Maldini", "Hernan Crespo", "Steven Gerrard", "Vladimir Smicer", "Xabi Alonso",
+      "Sol Campbell", "Samuel Eto'o", "Juliano Belletti", "Filippo Inzaghi", "Dirk Kuyt",
+      "Cristiano Ronaldo", "Frank Lampard", "Lionel Messi", "Diego Milito", "Pedro",
+      "David Villa", "Wayne Rooney", "Mario Mandzukic", "Ilkay Gündogan", "Arjen Robben",
+      "Thomas Müller", "Didier Drogba", "Diego Godin", "Sergio Ramos", "Gareth Bale",
+      "Marcelo", "Ivan Rakitic", "Luis Suarez", "Neymar", "Alvaro Morata",
+      "Yannick Carrasco", "Casemiro", "Marco Asensio", "Sadio Mané", "Karim Benzema",
+      "Mohamed Salah", "Divock Origi", "Kingsley Coman", "Kai Havertz", "Vinicius Junior",
+      "Rodri", "Dani Carvajal"
+    ]
+  },
+  {
+    "id": "auction_23",
+    "theme": "Citez les 10 villes hôtes de l'Euro 2016 en France",
+    "description": "Les villes qui ont accueilli les matchs (ou la ville du stade).",
+    "total_count": 10,
+    "answers": [
+      "Saint-Denis", "Marseille", "Lyon", "Lille", "Paris",
+      "Bordeaux", "Saint-Étienne", "Nice", "Lens", "Toulouse"
+    ]
+  },
+  {
+    "id": "auction_24",
+    "theme": "Citez tous les clubs de la carrière de Zlatan Ibrahimović",
+    "description": "Inclut les clubs de jeunes (le piège) et ses retours. Ordre chronologique non requis.",
+    "total_count": 11,
+    "answers": [
+      "Malmö BI", "FBK Balkan", "Malmö FF", "Ajax Amsterdam", "Juventus",
+      "Inter Milan", "FC Barcelone", "AC Milan", "Paris Saint-Germain",
+      "Manchester United", "LA Galaxy"
+    ]
+  },
+  {
+    "id": "auction_25",
+    "theme": "Citez les meilleurs buteurs de l'histoire de la Serie A (+180 buts)",
+    "description": "Les légendes du Calcio ayant dépassé la barre des 180 buts en championnat italien.",
+    "total_count": 13,
+    "answers": [
+      "Silvio Piola", "Francesco Totti", "Gunnar Nordahl", "Giuseppe Meazza", "José Altafini",
+      "Antonio Di Natale", "Roberto Baggio", "Ciro Immobile", "Kurt Hamrin",
+      "Giuseppe Signori", "Alessandro Del Piero", "Alberto Gilardino", "Gabriel Batistuta"
+    ]
+  },
+  {
+    "id": "auction_26",
+    "theme": "Citez les pays vainqueurs de la Copa América",
+    "description": "Depuis la première édition en 1916. Il y a 8 nations différentes.",
+    "total_count": 8,
+    "answers": [
+      "Argentine", "Uruguay", "Brésil", "Paraguay", "Chili", "Pérou", "Colombie", "Bolivie"
+    ]
+  },
+  {
+    "id": "auction_27",
+    "theme": "Citez les clubs ayant perdu en finale de la Ligue des Champions (depuis 1993)",
+    "description": "Les finalistes malheureux de l'ère moderne.",
+    "total_count": 20,
+    "answers": [
+      "AC Milan", "Juventus", "Bayern Munich", "Valencia CF", "Bayer Leverkusen", 
+      "AS Monaco", "Arsenal", "Liverpool", "Chelsea", "Manchester United", 
+      "Inter Milan", "Borussia Dortmund", "Atlético de Madrid", "Tottenham Hotspur", 
+      "Paris Saint-Germain", "Manchester City", "Real Madrid", "Ajax Amsterdam", "Sampdoria", "FC Barcelone"
+    ]
+  },
+  {
+    "id": "auction_28",
+    "theme": "Citez les joueurs ayant remporté le Ballon d'Or sans jamais gagner la Coupe du Monde",
+    "description": "De 1956 à 2025. La liste est longue et prestigieuse.",
+    "total_count": 30,
+    "answers": [
+      "Alfredo Di Stéfano", "Raymond Kopa", "Luis Suarez", "Omar Sivori", "Josef Masopust", 
+      "Lev Yachine", "Denis Law", "Eusebio", "Florian Albert", "George Best", 
+      "Gianni Rivera", "Johan Cruyff", "Oleg Blokhine", "Allan Simonsen", "Kevin Keegan", 
+      "Karl-Heinz Rummenigge", "Michel Platini", "Igor Belanov", "Ruud Gullit", "Marco van Basten", 
+      "Jean-Pierre Papin", "Hristo Stoichkov", "George Weah", "Matthias Sammer", "Rivaldo", 
+      "Luis Figo", "Michael Owen", "Pavel Nedved", "Andriy Shevchenko", "Ronaldinho", 
+      "Cristiano Ronaldo", "Luka Modric", "Karim Benzema", "Rodri"
+    ]
+  },
+  {
+    "id": "auction_29",
+    "theme": "Citez les entraîneurs de l'Olympique de Marseille au 21ème siècle",
+    "description": "Les coachs principaux (intérimaires de courte durée exclus) depuis 2000.",
+    "total_count": 25,
+    "answers": [
+      "Abel Braga", "Javier Clemente", "Tomislav Ivic", "Alain Perrin", "José Anigo", 
+      "Philippe Troussier", "Jean Fernandez", "Albert Emon", "Eric Gerets", "Didier Deschamps", 
+      "Elie Baup", "Marcelo Bielsa", "Michel", "Franck Passi", "Rudi Garcia", 
+      "André Villas-Boas", "Nasser Larguet", "Jorge Sampaoli", "Igor Tudor", "Marcelino", 
+      "Gennaro Gattuso", "Jean-Louis Gasset", "Roberto De Zerbi", "Jean-Philippe Durand", "Míchel"
+    ]
+  },
+  {
+    "id": "auction_30",
+    "theme": "Citez les joueurs du 'Carré Magique' de l'Équipe de France (Euro 84 / CDM 86)",
+    "description": "Les 4 milieux de terrain légendaires.",
+    "total_count": 4,
+    "answers": [
+      "Michel Platini", "Alain Giresse", "Jean Tigana", "Luis Fernandez"
+    ]
+  },
+  {
+    "id": "auction_31",
+    "theme": "Citez les clubs italiens ayant remporté le Scudetto (Serie A)",
+    "description": "Depuis 1898, 16 clubs ont été champions d'Italie.",
+    "total_count": 16,
+    "answers": [
+      "Juventus", "Inter Milan", "AC Milan", "Genoa", "Torino", "Bologne", 
+      "Pro Vercelli", "AS Rome", "Naples", "Fiorentina", "Lazio Rome", 
+      "Cagliari", "Hellas Vérone", "Sampdoria", "Casale", "Novese"
+    ]
+  },
+  {
+    "id": "auction_32",
+    "theme": "Citez les joueurs ayant marqué pour la France en finale de Coupe du Monde",
+    "description": "Finales 1998, 2006, 2018, 2022.",
+    "total_count": 6,
+    "answers": [
+      "Zinedine Zidane", "Emmanuel Petit", "Antoine Griezmann", "Paul Pogba", "Kylian Mbappé", "Karim Benzema"
+    ]
+  },
+  {
+    "id": "auction_33",
+    "theme": "Citez les gardiens titulaires des vainqueurs de la Coupe du Monde depuis 1982",
+    "description": "Le gardien qui a joué la finale.",
+    "total_count": 11,
+    "answers": [
+      "Dino Zoff", "Nery Pumpido", "Bodo Illgner", "Claudio Taffarel", "Fabien Barthez", 
+      "Marcos", "Gianluigi Buffon", "Iker Casillas", "Manuel Neuer", "Hugo Lloris", "Emiliano Martinez"
+    ]
+  },
+  {
+    "id": "auction_34",
+    "theme": "Citez les clubs de la carrière de Nicolas Anelka",
+    "description": "Le globe-trotter français (12 clubs).",
+    "total_count": 12,
+    "answers": [
+      "Paris Saint-Germain", "Arsenal", "Real Madrid", "Liverpool", "Manchester City", 
+      "Fenerbahçe", "Bolton Wanderers", "Chelsea", "Shanghai Shenhua", "Juventus", 
+      "West Bromwich Albion", "Mumbai City"
+    ]
+  },
+  {
+    "id": "auction_35",
+    "theme": "Citez les joueurs ayant remporté la Ligue des Champions avec 3 clubs différents (ou plus)",
+    "description": "Seulement 2 joueurs dans l'histoire (Clarence Seedorf et... ?).",
+    "total_count": 2,
+    "answers": [
+      "Clarence Seedorf", "Samuel Eto'o"
+    ]
+  },
+  {
+    "id": "auction_36",
+    "theme": "Citez les entraîneurs vainqueurs de la Premier League (depuis 1992)",
+    "description": "Un club très fermé de techniciens.",
+    "total_count": 11,
+    "answers": [
+      "Alex Ferguson", "Kenny Dalglish", "Arsène Wenger", "José Mourinho", "Carlo Ancelotti", 
+      "Roberto Mancini", "Manuel Pellegrini", "Claudio Ranieri", "Antonio Conte", "Pep Guardiola", "Jürgen Klopp"
+    ]
+  },
+  {
+    "id": "auction_37",
+    "theme": "Citez les villes hôtes de la Coupe du Monde 2018 en Russie",
+    "description": "11 villes au total.",
+    "total_count": 11,
+    "answers": [
+      "Moscou", "Saint-Pétersbourg", "Sotchi", "Kazan", "Samara", 
+      "Nijni Novgorod", "Rostov-sur-le-Don", "Volgograd", "Ekaterinbourg", "Kaliningrad", "Saransk"
+    ]
+  },
+  {
+    "id": "auction_38",
+    "theme": "Citez les joueurs allemands ayant remporté le Ballon d'Or",
+    "description": "5 joueurs pour 7 trophées.",
+    "total_count": 5,
+    "answers": [
+      "Gerd Müller", "Franz Beckenbauer", "Karl-Heinz Rummenigge", "Lothar Matthäus", "Matthias Sammer"
+    ]
+  },
+  {
+    "id": "auction_39",
+    "theme": "Citez les clubs ayant remporté la Ligue Europa (ou Coupe UEFA) au moins 3 fois",
+    "description": "Les rois de la C3.",
+    "total_count": 5,
+    "answers": [
+      "Séville FC", "Inter Milan", "Juventus", "Liverpool", "Atlético de Madrid"
+    ]
+  },
+  {
+    "id": "auction_40",
+    "theme": "Citez les joueurs du XI titulaire de l'Espagne en finale du Mondial 2010",
+    "description": "Face aux Pays-Bas.",
+    "total_count": 11,
+    "answers": [
+      "Iker Casillas", "Sergio Ramos", "Gerard Piqué", "Carles Puyol", "Joan Capdevila", 
+      "Sergio Busquets", "Xabi Alonso", "Xavi", "Andrés Iniesta", "Pedro", "David Villa"
+    ]
+  },
+  {
+    "id": "auction_41",
+    "theme": "Citez les pays africains ayant remporté la CAN (Coupe d'Afrique des Nations)",
+    "description": "15 vainqueurs différents dans l'histoire.",
+    "total_count": 15,
+    "answers": [
+      "Égypte", "Cameroun", "Ghana", "Nigeria", "Côte d'Ivoire", 
+      "Algérie", "RD Congo", "Zambie", "Tunisie", "Soudan", 
+      "Éthiopie", "Maroc", "Afrique du Sud", "Congo", "Sénégal"
+    ]
+  },
+  {
+    "id": "auction_42",
+    "theme": "Citez les clubs où a joué Cristiano Ronaldo (Seniors)",
+    "description": "De ses débuts au Portugal jusqu'à aujourd'hui.",
+    "total_count": 5,
+    "answers": [
+      "Sporting CP", "Manchester United", "Real Madrid", "Juventus", "Al-Nassr"
+    ]
+  },
+  {
+    "id": "auction_43",
+    "theme": "Citez les entraîneurs du FC Barcelone depuis Pep Guardiola (inclus)",
+    "description": "De 2008 à aujourd'hui (Intérimaires confirmés inclus).",
+    "total_count": 10,
+    "answers": [
+      "Pep Guardiola", "Tito Vilanova", "Gerardo Martino", "Luis Enrique", "Ernesto Valverde", 
+      "Quique Setien", "Ronald Koeman", "Sergi Barjuan", "Xavi Hernandez", "Hansi Flick"
+    ]
+  },
+  {
+    "id": "auction_44",
+    "theme": "Citez les joueurs français ayant remporté le prix Golden Boy",
+    "description": "Le meilleur espoir européen.",
+    "total_count": 3,
+    "answers": [
+      "Paul Pogba", "Anthony Martial", "Kylian Mbappé"
+    ]
+  },
+  {
+    "id": "auction_45",
+    "theme": "Citez les nations ayant gagné l'Euro Féminin",
+    "description": "Depuis 1984. Domination allemande mais pas que.",
+    "total_count": 5,
+    "answers": [
+      "Suède", "Norvège", "Allemagne", "Pays-Bas", "Angleterre"
+    ]
+  },
+  {
+    "id": "auction_46",
+    "theme": "Citez les clubs français ayant atteint une finale de Coupe d'Europe (C1, C2, C3)",
+    "description": "Gagnée ou perdue. (Intertoto exclue).",
+    "total_count": 6,
+    "answers": [
+      "Stade de Reims", "AS Saint-Étienne", "SC Bastia", "Olympique de Marseille", 
+      "Paris Saint-Germain", "AS Monaco", "Bordeaux"
+    ]
+  },
+  {
+    "id": "auction_47",
+    "theme": "Citez les numéros 10 de l'équipe du Brésil en Coupe du Monde depuis 1990",
+    "description": "Le porteur du maillot sacré.",
+    "total_count": 6,
+    "answers": [
+      "Silas", "Rai", "Leonardo", "Rivaldo", "Ronaldinho", "Kaka", "Neymar"
+    ]
+  },
+  {
+    "id": "auction_48",
+    "theme": "Citez les joueurs ayant marqué 5 buts ou plus lors d'une seule édition de Coupe du Monde (depuis 1998)",
+    "description": "Les buteurs en série des tournois modernes.",
+    "total_count": 10,
+    "answers": [
+      "Davor Suker", "Gabriel Batistuta", "Christian Vieri", "Ronaldo", "Rivaldo", "Miroslav Klose", 
+      "Thomas Müller", "Wesley Sneijder", "David Villa", "Diego Forlan", "James Rodriguez", 
+      "Harry Kane", "Kylian Mbappé", "Lionel Messi", "Julian Alvarez"
+    ]
+  },
+  {
+    "id": "auction_49",
+    "theme": "Citez les stades de Premier League à Londres (Saison 2024-2025)",
+    "description": "Les stades des clubs londoniens en première division.",
+    "total_count": 7,
+    "answers": [
+      "Emirates Stadium", "Tottenham Hotspur Stadium", "Stamford Bridge", "London Stadium", 
+      "Gtech Community Stadium", "Craven Cottage", "Selhurst Park"
+    ]
+  },
+  {
+    "id": "auction_50",
+    "theme": "Citez les joueurs ayant gagné l'Euro et la Ligue des Champions la même année",
+    "description": "Doublé majeur la même saison.",
+    "total_count": 14,
+    "answers": [
+      "Luis Suarez", "Hans van Breukelen", "Ronald Koeman", "Barry van Aerle", "Gerald Vanenburg", 
+      "Nicolas Anelka", "Christian Karembeu", "Fernando Torres", "Juan Mata", "Cristiano Ronaldo", 
+      "Pepe", "Jorginho", "Emerson Palmieri", "Dani Carvajal", "Nacho Fernandez", "Joselu"
+    ]
+  },
+  {
+    "id": "auction_51",
+    "theme": "Citez les clubs champions de France (Ligue 1) au 21ème siècle",
+    "description": "Depuis la saison 2000-2001.",
+    "total_count": 8,
+    "answers": [
+      "FC Nantes", "Olympique Lyonnais", "Bordeaux", "Olympique de Marseille", 
+      "Lille OSC", "Montpellier HSC", "Paris Saint-Germain", "AS Monaco"
+    ]
+  },
+  {
+    "id": "auction_52",
+    "theme": "Citez les joueurs ayant coûté plus de 100 Millions d'Euros (Transfert)",
+    "description": "Montant fixe hors bonus, selon les estimations fiables.",
+    "total_count": 15,
+    "answers": [
+      "Neymar", "Kylian Mbappé", "Philippe Coutinho", "Ousmane Dembélé", "Joao Felix", 
+      "Enzo Fernandez", "Antoine Griezmann", "Jack Grealish", "Cristiano Ronaldo", "Declan Rice", 
+      "Moises Caicedo", "Eden Hazard", "Romelu Lukaku", "Paul Pogba", "Jude Bellingham", "Harry Kane"
+    ]
+  },
+  {
+    "id": "auction_53",
+    "theme": "Citez les clubs ayant gagné la FA Cup au 21ème siècle",
+    "description": "Depuis l'an 2000. Il y a 9 clubs différents.",
+    "total_count": 9,
+    "answers": [
+      "Chelsea", "Arsenal", "Liverpool", "Manchester United", "Portsmouth", 
+      "Manchester City", "Wigan Athletic", "Leicester City", "Sunderland"
+    ]
+  },
+  {
+    "id": "auction_54",
+    "theme": "Citez les sélectionneurs de l'équipe de France (depuis 1980)",
+    "description": "Les patrons des Bleus.",
+    "total_count": 8,
+    "answers": [
+      "Michel Hidalgo", "Henri Michel", "Michel Platini", "Gérard Houllier", 
+      "Aimé Jacquet", "Roger Lemerre", "Jacques Santini", "Raymond Domenech", 
+      "Laurent Blanc", "Didier Deschamps"
+    ]
+  },
+  {
+    "id": "auction_55",
+    "theme": "Citez les joueurs du XI titulaire de Liverpool en finale de C1 2005 (Miracle d'Istanbul)",
+    "description": "L'équipe qui a remonté le 3-0.",
+    "total_count": 11,
+    "answers": [
+      "Jerzy Dudek", "Steve Finnan", "Jamie Carragher", "Sami Hyypiä", "Djimi Traoré", 
+      "Xabi Alonso", "Luis Garcia", "Steven Gerrard", "John Arne Riise", "Harry Kewell", "Milan Baros"
+    ]
+  },
+  {
+    "id": "auction_56",
+    "theme": "Citez les clubs de Bundesliga n'ayant jamais été relégués depuis leur montée (ou création de la ligue)",
+    "description": "Il n'y a plus que le Bayern ? Faux.",
+    "total_count": 3,
+    "answers": [
+      "Bayern Munich", "Bayer Leverkusen", "Wolfsburg", "Hoffenheim", "RB Leipzig", "Augsburg", "Heidenheim"
+    ]
+  },
+  {
+    "id": "auction_57",
+    "theme": "Citez les joueurs anglais ayant remporté le Ballon d'Or",
+    "description": "Seulement 4 joueurs dans l'histoire.",
+    "total_count": 4,
+    "answers": [
+      "Stanley Matthews", "Bobby Charlton", "Kevin Keegan", "Michael Owen"
+    ]
+  },
+  {
+    "id": "auction_58",
+    "theme": "Citez les clubs de Zinedine Zidane (Joueur)",
+    "description": "4 clubs dans sa carrière professionnelle.",
+    "total_count": 4,
+    "answers": [
+      "AS Cannes", "Bordeaux", "Juventus", "Real Madrid"
+    ]
+  },
+  {
+    "id": "auction_59",
+    "theme": "Citez les joueurs ayant remporté la Coupe du Monde en tant que joueur ET entraîneur",
+    "description": "Le cercle le plus fermé du football (3 personnes).",
+    "total_count": 3,
+    "answers": [
+      "Mario Zagallo", "Franz Beckenbauer", "Didier Deschamps"
+    ]
+  },
+  {
+    "id": "auction_60",
+    "theme": "Citez les pays organisateurs de l'Euro (Championnat d'Europe)",
+    "description": "Depuis 1960. (Pays co-organisateurs comptent individuellement).",
+    "total_count": 15,
+    "answers": [
+      "France", "Espagne", "Italie", "Belgique", "Yougoslavie", 
+      "Allemagne", "Suède", "Angleterre", "Pays-Bas", "Portugal", 
+      "Autriche", "Suisse", "Pologne", "Ukraine", "Turquie"
+    ]
+  },
+  {
+    "id": "auction_61",
+    "theme": "Citez les clubs ayant remporté la Coupe Intercontinentale ou Coupe du Monde des Clubs",
+    "description": "Les champions du monde clubs (Sud-Américains et Européens). (Liste partielle des plus fréquents).",
+    "total_count": 29,
+    "answers": [
+      "Real Madrid", "AC Milan", "Boca Juniors", "Penarol", "Nacional", 
+      "Sao Paulo", "Inter Milan", "Bayern Munich", "Santos", "Independiente", 
+      "Ajax Amsterdam", "Juventus", "FC Porto", "Manchester United", "FC Barcelone", 
+      "Corinthians", "Internacional", "Liverpool", "Chelsea", "Flamengo", 
+      "Gremio", "River Plate", "Estudiantes", "Olimpia", "Velez Sarsfield", 
+      "Borussia Dortmund", "Feyenoord", "Atletico Madrid", "Manchester City"
+    ]
+  },
+  {
+    "id": "auction_62",
+    "theme": "Citez les joueurs ayant porté le numéro 9 en Équipe de France en phase finale de compétition majeure depuis 1998",
+    "description": "Le numéro de l'avant-centre.",
+    "total_count": 6,
+    "answers": [
+      "Stéphane Guivarc'h", "Nicolas Anelka", "Djibril Cissé", "Louis Saha", "Karim Benzema", "Olivier Giroud"
+    ]
+  },
+  {
+    "id": "auction_63",
+    "theme": "Citez les clubs où a joué Thierry Henry",
+    "description": "5 clubs professionnels.",
+    "total_count": 5,
+    "answers": [
+      "AS Monaco", "Juventus", "Arsenal", "FC Barcelone", "New York Red Bulls"
+    ]
+  },
+  {
+    "id": "auction_64",
+    "theme": "Citez les joueurs du XI titulaire de l'Argentine en finale du Mondial 2022",
+    "description": "L'équipe sacrée au Qatar.",
+    "total_count": 11,
+    "answers": [
+      "Emiliano Martinez", "Nahuel Molina", "Cristian Romero", "Nicolas Otamendi", "Nicolas Tagliafico", 
+      "Rodrigo De Paul", "Enzo Fernandez", "Alexis Mac Allister", "Angel Di Maria", "Lionel Messi", "Julian Alvarez"
+    ]
+  },
+  {
+    "id": "auction_65",
+    "theme": "Citez les gardiens de but ayant marqué au moins un but dans leur carrière pro (Top liste)",
+    "description": "Les gardiens buteurs célèbres.",
+    "total_count": 10,
+    "answers": [
+      "Rogério Ceni", "José Luis Chilavert", "René Higuita", "Jorge Campos", "Hans-Jörg Butt", 
+      "Peter Schmeichel", "Dimitar Ivankov", "Vincent Enyeama", "Alisson Becker", "Asmir Begovic"
+    ]
+  },
+  {
+    "id": "auction_66",
+    "theme": "Citez les clubs anglais n'ayant jamais été relégués de la Premier League (depuis 1992)",
+    "description": "Le 'Big Six' historique.",
+    "total_count": 6,
+    "answers": [
+      "Arsenal", "Chelsea", "Everton", "Liverpool", "Manchester United", "Tottenham Hotspur"
+    ]
+  },
+  {
+    "id": "auction_67",
+    "theme": "Citez les joueurs ayant remporté la Ligue des Champions avec le Real Madrid ET un autre club",
+    "description": "Ils ont gagné la 'Decima' ou après, mais aussi ailleurs.",
+    "total_count": 15,
+    "answers": [
+      "Cristiano Ronaldo", "Clarence Seedorf", "Toni Kroos", "Xabi Alonso", "Mateo Kovacic", 
+      "Keylor Navas", "Angel Di Maria", "Sami Khedira", "Nicolas Anelka", "Christian Karembeu", 
+      "Claude Makélélé", "Fernando Redondo", "David Alaba", "Antonio Rüdiger", "Thibaut Courtois"
+    ]
+  },
+  {
+    "id": "auction_68",
+    "theme": "Citez les vainqueurs du Trophée Yachine (Meilleur Gardien)",
+    "description": "Depuis sa création en 2019.",
+    "total_count": 6,
+    "answers": [
+      "Alisson Becker", "Gianluigi Donnarumma", "Thibaut Courtois", "Emiliano Martinez"
+    ]
+  },
+  {
+    "id": "auction_69",
+    "theme": "Citez les joueurs belges ayant plus de 100 sélections (Diables Rouges)",
+    "description": "La génération dorée.",
+    "total_count": 7,
+    "answers": [
+      "Jan Vertonghen", "Axel Witsel", "Toby Alderweireld", "Eden Hazard", "Dries Mertens", 
+      "Romelu Lukaku", "Thibaut Courtois", "Kevin De Bruyne"
+    ]
+  },
+  {
+    "id": "auction_70",
+    "theme": "Citez les entraîneurs ayant dirigé le Bayern Munich au 21ème siècle",
+    "description": "Une valse des entraîneurs.",
+    "total_count": 14,
+    "answers": [
+      "Ottmar Hitzfeld", "Felix Magath", "Jürgen Klinsmann", "Jupp Heynckes", "Louis van Gaal", 
+      "Pep Guardiola", "Carlo Ancelotti", "Niko Kovac", "Hansi Flick", "Julian Nagelsmann", 
+      "Thomas Tuchel", "Vincent Kompany"
+    ]
+  },
+  {
+    "id": "auction_71",
+    "theme": "Citez les clubs portugais ayant remporté le championnat national",
+    "description": "Seulement 5 clubs dans l'histoire.",
+    "total_count": 5,
+    "answers": [
+      "Benfica", "FC Porto", "Sporting CP", "Belenenses", "Boavista"
+    ]
+  },
+  {
+    "id": "auction_72",
+    "theme": "Citez les joueurs du XI de l'Italie championne du monde 2006",
+    "description": "L'équipe de Lippi.",
+    "total_count": 11,
+    "answers": [
+      "Gianluigi Buffon", "Gianluca Zambrotta", "Fabio Cannavaro", "Marco Materazzi", "Fabio Grosso", 
+      "Mauro Camoranesi", "Gennaro Gattuso", "Andrea Pirlo", "Simone Perrotta", "Francesco Totti", "Luca Toni"
+    ]
+  },
+  {
+    "id": "auction_73",
+    "theme": "Citez les clubs ayant gagné la Ligue 1 (France) une seule fois dans leur histoire",
+    "description": "Les champions uniques.",
+    "total_count": 7,
+    "answers": [
+      "Montpellier HSC", "AJ Auxerre", "RC Lens", "RC Strasbourg", "Roubaix-Tourcoing", "FC Sète", "RCF Paris"
+    ]
+  },
+  {
+    "id": "auction_74",
+    "theme": "Citez les joueurs ayant terminé meilleur buteur d'une Coupe du Monde (Soulier d'Or) avec 6 buts ou plus",
+    "description": "La barre mythique des 6 buts.",
+    "total_count": 14,
+    "answers": [
+      "Guillermo Stabile", "Just Fontaine", "Sandor Kocsis", "Eusebio", "Gerd Müller", 
+      "Grzegorz Lato", "Mario Kempes", "Paolo Rossi", "Gary Lineker", "Salvatore Schillaci", 
+      "Hristo Stoichkov", "Oleg Salenko", "Davor Suker", "Ronaldo", "Harry Kane", "Kylian Mbappé", "James Rodriguez"
+    ]
+  },
+  {
+    "id": "auction_75",
+    "theme": "Citez les présidents du Real Madrid (Ère Florentino Perez)",
+    "description": "Les deux seuls présidents du 21e siècle (hors intérim).",
+    "total_count": 2,
+    "answers": [
+      "Florentino Perez", "Ramon Calderon"
+    ]
+  },
+  {
+    "id": "auction_76",
+    "theme": "Citez les entraîneurs de Chelsea sous l'ère 'BlueCo' et Abramovitch (2003-2026)",
+    "description": "Une liste très mouvementée. Intérimaires ayant dirigé au moins 1 match inclus.",
+    "total_count": 21,
+    "answers": [
+      "Claudio Ranieri", "José Mourinho", "Avram Grant", "Luiz Felipe Scolari", "Ray Wilkins",
+      "Guus Hiddink", "Carlo Ancelotti", "André Villas-Boas", "Roberto Di Matteo", "Rafael Benitez",
+      "Steve Holland", "Antonio Conte", "Maurizio Sarri", "Frank Lampard", "Thomas Tuchel",
+      "Graham Potter", "Bruno Saltor", "Mauricio Pochettino", "Enzo Maresca"
+    ]
+  },
+  {
+    "id": "auction_77",
+    "theme": "Citez les joueurs de l'Ajax Amsterdam vainqueurs de la C1 1995",
+    "description": "Le XI titulaire et les remplaçants de la finale contre le Milan AC.",
+    "total_count": 13,
+    "answers": [
+      "Edwin van der Sar", "Michael Reiziger", "Danny Blind", "Frank de Boer", "Frank Rijkaard",
+      "Clarence Seedorf", "Edgar Davids", "Jari Litmanen", "Finidi George", "Marc Overmars",
+      "Ronald de Boer", "Patrick Kluivert", "Nwankwo Kanu"
+    ]
+  },
+  {
+    "id": "auction_78",
+    "theme": "Citez les joueurs français vainqueurs de l'Euro 2000",
+    "description": "Le sacre de Roger Lemerre. (Les 22 joueurs).",
+    "total_count": 22,
+    "answers": [
+      "Fabien Barthez", "Bernard Lama", "Ulrich Ramé",
+      "Lilian Thuram", "Laurent Blanc", "Marcel Desailly", "Bixente Lizarazu", "Frank Leboeuf", "Vincent Candela",
+      "Didier Deschamps", "Patrick Vieira", "Emmanuel Petit", "Zinedine Zidane", "Youri Djorkaeff", "Robert Pirès", "Johan Micoud", "Christian Karembeu",
+      "Thierry Henry", "Nicolas Anelka", "Christophe Dugarry", "David Trezeguet", "Sylvain Wiltord"
+    ]
+  },
+  {
+    "id": "auction_79",
+    "theme": "Citez les clubs brésiliens vainqueurs de la Copa Libertadores",
+    "description": "La domination brésilienne en Amérique du Sud.",
+    "total_count": 11,
+    "answers": [
+      "Santos", "Cruzeiro", "Flamengo", "Grêmio", "São Paulo",
+      "Vasco da Gama", "Palmeiras", "Internacional", "Corinthians", "Atlético Mineiro", "Fluminense"
+    ]
+  },
+  {
+    "id": "auction_80",
+    "theme": "Citez les Soulier d'Or Européens depuis l'an 2000",
+    "description": "Le meilleur buteur de tous les championnats d'Europe confondus sur une saison.",
+    "total_count": 13,
+    "answers": [
+      "Kevin Phillips", "Henrik Larsson", "Mario Jardel", "Roy Makaay", "Thierry Henry",
+      "Diego Forlan", "Luca Toni", "Francesco Totti", "Cristiano Ronaldo", "Lionel Messi",
+      "Luis Suarez", "Ciro Immobile", "Robert Lewandowski", "Erling Haaland", "Harry Kane"
+    ]
+  },
+  {
+    "id": "auction_81",
+    "theme": "Citez les 'Invincibles' d'Arsenal (Joueurs à +10 matchs saison 2003-2004)",
+    "description": "Ceux qui ont réellement participé à la saison sans défaite.",
+    "total_count": 16,
+    "answers": [
+      "Jens Lehmann", "Lauren", "Sol Campbell", "Kolo Touré", "Ashley Cole",
+      "Patrick Vieira", "Gilberto Silva", "Freddie Ljungberg", "Robert Pirès", "Dennis Bergkamp",
+      "Thierry Henry", "Edu", "Ray Parlour", "Sylvain Wiltord", "José Antonio Reyes", "Pascal Cygan"
+    ]
+  },
+  {
+    "id": "auction_82",
+    "theme": "Citez les 10 meilleurs buteurs de l'histoire du PSG",
+    "description": "Toutes compétitions confondues (Arrêt Janvier 2026).",
+    "total_count": 10,
+    "answers": [
+      "Kylian Mbappé", "Edinson Cavani", "Zlatan Ibrahimovic", "Neymar", "Pauleta",
+      "Dominique Rocheteau", "Mustapha Dahleb", "François M'Pelé", "Angel Di Maria", "Safet Susic"
+    ]
+  },
+  {
+    "id": "auction_83",
+    "theme": "Citez les sélectionneurs de l'équipe d'Italie (Nazionale) depuis 1990",
+    "description": "De Vicini à Spalletti.",
+    "total_count": 10,
+    "answers": [
+      "Azeglio Vicini", "Arrigo Sacchi", "Cesare Maldini", "Dino Zoff", "Giovanni Trapattoni",
+      "Marcello Lippi", "Roberto Donadoni", "Cesare Prandelli", "Antonio Conte", "Gian Piero Ventura",
+      "Roberto Mancini", "Luciano Spalletti"
+    ]
+  },
+  {
+    "id": "auction_84",
+    "theme": "Citez les joueurs belges ayant gagné la Premier League",
+    "description": "Les Diables Rouges champions d'Angleterre.",
+    "total_count": 10,
+    "answers": [
+      "Vincent Kompany", "Eden Hazard", "Thibaut Courtois", "Kevin De Bruyne", "Ritchie De Laet",
+      "Michy Batshuayi", "Divock Origi", "Simon Mignolet", "Jérémy Doku", "Leandro Trossard"
+    ]
+  },
+  {
+    "id": "auction_85",
+    "theme": "Citez le XI titulaire du Maroc en demi-finale du Mondial 2022 (vs France)",
+    "description": "L'équipe héroïque de Walid Regragui ce soir-là (défense à 5 au coup d'envoi).",
+    "total_count": 11,
+    "answers": [
+      "Yassine Bounou", "Achraf Hakimi", "Jawad El Yamiq", "Romain Saïss", "Nayef Aguerd", "Noussair Mazraoui",
+      "Sofyan Amrabat", "Azzedine Ounahi", "Hakim Ziyech", "Sofiane Boufal", "Youssef En-Nesyri"
+    ]
+  },
+  {
+    "id": "auction_86",
+    "theme": "Citez les joueurs ayant terminé 2ème du Ballon d'Or depuis 2000",
+    "description": "Les 'Poulidor' du football mondial.",
+    "total_count": 15,
+    "answers": [
+      "Zinedine Zidane", "Raul", "Roberto Carlos", "Thierry Henry", "Deco",
+      "Frank Lampard", "Fabio Cannavaro", "Cristiano Ronaldo", "Lionel Messi", "Andres Iniesta",
+      "Xavi", "Manuel Neuer", "Neymar", "Virgil van Dijk", "Robert Lewandowski", "Sadio Mané", "Erling Haaland", "Vinicius Junior"
+    ]
+  },
+  {
+    "id": "auction_87",
+    "theme": "Citez les joueurs majeurs de l'ère 'Lyon - 7 Titres' (2002-2008)",
+    "description": "Joueurs ayant remporté au moins 3 titres de champions avec l'OL.",
+    "total_count": 15,
+    "answers": [
+      "Grégory Coupet", "Anthony Réveillère", "Cris", "Caçapa", "Patrick Müller",
+      "Eric Abidal", "Juninho", "Mahamadou Diarra", "Michael Essien", "Florent Malouda",
+      "Sidney Govou", "Karim Benzema", "Sylvain Wiltord", "Tiago", "Jérémy Toulalan", "Claudio Caçapa"
+    ]
+  },
+  {
+    "id": "auction_88",
+    "theme": "Citez les gardiens de but les plus chers de l'histoire (> 30M€)",
+    "description": "Transferts secs, hors bonus.",
+    "total_count": 10,
+    "answers": [
+      "Kepa Arrizabalaga", "Alisson Becker", "Gianluigi Buffon", "Ederson", "André Onana",
+      "Thibaut Courtois", "Jasper Cillessen", "Jordan Pickford", "Aaron Ramsdale", "Giorgi Mamardashvili"
+    ]
+  },
+  {
+    "id": "auction_89",
+    "theme": "Citez le trio d'attaque 'MSN' du FC Barcelone et le trio 'BBC' du Real Madrid",
+    "description": "Les 6 joueurs qui ont dominé l'Europe entre 2014 et 2018.",
+    "total_count": 6,
+    "answers": [
+      "Lionel Messi", "Luis Suarez", "Neymar",
+      "Gareth Bale", "Karim Benzema", "Cristiano Ronaldo"
+    ]
+  },
+  {
+    "id": "auction_90",
+    "theme": "Citez les clubs italiens finalistes de la Ligue des Champions (C1)",
+    "description": "Seulement 6 clubs ont atteint la finale dans l'histoire.",
+    "total_count": 6,
+    "answers": [
+      "AC Milan", "Inter Milan", "Juventus", "Fiorentina", "AS Rome", "Sampdoria"
+    ]
+  },
+  {
+    "id": "auction_91",
+    "theme": "Citez les joueurs titulaires des Pays-Bas en finale du Mondial 2010",
+    "description": "L'équipe rugueuse de Bert van Marwijk.",
+    "total_count": 11,
+    "answers": [
+      "Maarten Stekelenburg", "Gregory van der Wiel", "John Heitinga", "Joris Mathijsen", "Giovanni van Bronckhorst",
+      "Mark van Bommel", "Nigel de Jong", "Wesley Sneijder", "Arjen Robben", "Dirk Kuyt", "Robin van Persie"
+    ]
+  },
+  {
+    "id": "auction_92",
+    "theme": "Citez les 10 meilleurs buteurs de l'histoire de la Ligue des Champions",
+    "description": "Le classement 'All Time' de la C1.",
+    "total_count": 10,
+    "answers": [
+      "Cristiano Ronaldo", "Lionel Messi", "Robert Lewandowski", "Karim Benzema", "Raul",
+      "Ruud van Nistelrooy", "Thomas Müller", "Thierry Henry", "Kylian Mbappé", "Andriy Shevchenko"
+    ]
+  },
+  {
+    "id": "auction_93",
+    "theme": "Citez tous les clubs entraînés par José Mourinho",
+    "description": "Ordre chronologique non requis. (9 ou 10 clubs selon si on compte ses débuts).",
+    "total_count": 10,
+    "answers": [
+      "Benfica", "União de Leiria", "FC Porto", "Chelsea", "Inter Milan",
+      "Real Madrid", "Manchester United", "Tottenham Hotspur", "AS Rome", "Fenerbahçe"
+    ]
+  },
+  {
+    "id": "auction_94",
+    "theme": "Citez les joueurs Africains élus 'Joueur Africain de l'année' (Ballon d'Or Africain) plus d'une fois",
+    "description": "Les légendes du continent ayant doublé, triplé ou quadruplé la mise.",
+    "total_count": 8,
+    "answers": [
+      "Samuel Eto'o", "Yaya Touré", "George Weah", "Abedi Pelé",
+      "Didier Drogba", "Roger Milla", "Nwankwo Kanu", "El-Hadji Diouf", "Mohamed Salah", "Sadio Mané"
+    ]
+  },
+  {
+    "id": "auction_95",
+    "theme": "Citez les joueurs espagnols ayant remporté la Premier League",
+    "description": "Les ibériques rois d'Angleterre.",
+    "total_count": 15,
+    "answers": [
+      "Cesc Fabregas", "Diego Costa", "David Silva", "Cesar Azpilicueta", "Pedro",
+      "Juan Mata", "Fernando Torres", "David de Gea", "Xabi Alonso", "Aymeric Laporte",
+      "Rodri", "Thiago Alcantara", "Marcos Alonso", "Jesus Navas", "Alvaro Morata", "Nacho Monreal"
+    ]
+  },
+  {
+    "id": "auction_96",
+    "theme": "Citez les clubs professionnels de David Beckham",
+    "description": "Inclut son prêt en tout début de carrière.",
+    "total_count": 6,
+    "answers": [
+      "Manchester United", "Preston North End", "Real Madrid", "LA Galaxy", "AC Milan", "Paris Saint-Germain"
+    ]
+  },
+  {
+    "id": "auction_97",
+    "theme": "Citez les joueurs Danois vainqueurs de l'Euro 1992",
+    "description": "Les héros sortis de nulle part (les plus connus).",
+    "total_count": 8,
+    "answers": [
+      "Peter Schmeichel", "Brian Laudrup", "Flemming Povlsen", "John Jensen",
+      "Kim Vilfort", "Lars Olsen", "Henrik Larsen", "Torben Piechnik"
+    ]
+  },
+  {
+    "id": "auction_98",
+    "theme": "Citez les villes hôtes de l'Euro 2024 en Allemagne",
+    "description": "Les 10 villes du tournoi.",
+    "total_count": 10,
+    "answers": [
+      "Berlin", "Munich", "Dortmund", "Stuttgart", "Hambourg",
+      "Düsseldorf", "Cologne", "Francfort", "Leipzig", "Gelsenkirchen"
+    ]
+  },
+  {
+    "id": "auction_99",
+    "theme": "Citez des fratries (frères) ayant tous deux joué en sélection nationale (A)",
+    "description": "Deux frères internationaux. (Liste non exhaustive, les plus célèbres).",
+    "total_count": 15,
+    "answers": [
+      "Eden et Thorgan Hazard", "Kolo et Yaya Touré", "Gary et Phil Neville", "Frank et Ronald de Boer",
+      "Michael et Brian Laudrup", "Lucas et Théo Hernandez", "Jérôme et Kevin-Prince Boateng", "André et Jordan Ayew",
+      "Inaki et Nico Williams", "Rafinha et Thiago Alcantara", "Rio et Anton Ferdinand", "Filippo et Simone Inzaghi",
+      "Granit et Taulant Xhaka", "Jonathan et Giovani dos Santos", "Marcus et Khephren Thuram"
+    ]
+  },
+  {
+    "id": "auction_100",
+    "theme": "Citez les capitaines de l'Équipe de France ayant soulevé un trophée majeur",
+    "description": "Capitaine lors de la finale gagnée (Euro, Coupe du Monde, Ligue des Nations).",
+    "total_count": 5,
+    "answers": [
+      "Michel Platini", "Didier Deschamps", "Marcel Desailly", "Hugo Lloris", "Kylian Mbappé"
+    ]
+  }
+]

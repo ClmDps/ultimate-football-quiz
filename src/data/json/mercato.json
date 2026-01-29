@@ -1,0 +1,1402 @@
+[
+  {
+    "id": "m1",
+    "clubs": ["Sporting CP", "Manchester United", "Real Madrid", "Juventus", "Manchester United", "Al-Nassr"],
+    "answer": "Cristiano Ronaldo",
+    "options": ["Cristiano Ronaldo", "Luis Nani", "Bruno Fernandes", "Bernardo Silva"],
+    "difficulty": 1
+  },
+  {
+    "id": "m2",
+    "clubs": ["AS Monaco", "Paris SG", "Real Madrid"],
+    "answer": "Kylian Mbappé",
+    "options": ["Kylian Mbappé", "Karim Benzema", "Ousmane Dembélé", "Thierry Henry"],
+    "difficulty": 1
+  },
+  {
+    "id": "m3",
+    "clubs": ["Metz", "Salzbourg", "Southampton", "Liverpool", "Bayern Munich", "Al-Nassr"],
+    "answer": "Sadio Mané",
+    "options": ["Sadio Mané", "Mohamed Salah", "Riyad Mahrez", "Didier Drogba"],
+    "difficulty": 2
+  },
+  {
+    "id": "m4",
+    "clubs": ["Malmö FF", "Ajax", "Juventus", "Inter Milan", "FC Barcelone", "AC Milan", "Paris SG", "Manchester United", "LA Galaxy", "AC Milan"],
+    "answer": "Zlatan Ibrahimović",
+    "options": ["Zlatan Ibrahimović", "Henrik Larsson", "Edinson Cavani", "Mario Mandžukić"],
+    "difficulty": 2
+  },
+  {
+    "id": "m5",
+    "clubs": ["Santos FC", "FC Barcelone", "Paris SG", "Al-Hilal"],
+    "answer": "Neymar Jr",
+    "options": ["Neymar Jr", "Vinicius Jr", "Ronaldinho", "Robinho"],
+    "difficulty": 1
+  },
+  {
+    "id": "m6",
+    "clubs": ["Birmingham City", "Borussia Dortmund", "Real Madrid"],
+    "answer": "Jude Bellingham",
+    "options": ["Jude Bellingham", "Jadon Sancho", "Erling Haaland", "Harry Kane"],
+    "difficulty": 1
+  },
+  {
+    "id": "m7",
+    "clubs": ["River Plate", "Manchester City", "Atlético Madrid"],
+    "answer": "Julián Álvarez",
+    "options": ["Julián Álvarez", "Sergio Agüero", "Lautaro Martínez", "Enzo Fernández"],
+    "difficulty": 2
+  },
+  {
+    "id": "m8",
+    "clubs": ["Lech Poznań", "Borussia Dortmund", "Bayern Munich", "FC Barcelone"],
+    "answer": "Robert Lewandowski",
+    "options": ["Robert Lewandowski", "Pierre-Emerick Aubameyang", "Thomas Müller", "Ivan Perišić"],
+    "difficulty": 1
+  },
+  {
+    "id": "m9",
+    "clubs": ["Anderlecht", "Chelsea", "West Bromwich", "Everton", "Manchester United", "Inter Milan", "Chelsea", "Inter Milan", "AS Roma", "Napoli"],
+    "answer": "Romelu Lukaku",
+    "options": ["Romelu Lukaku", "Didier Drogba", "Kevin De Bruyne", "Eden Hazard"],
+    "difficulty": 2
+  },
+  {
+    "id": "m10",
+    "clubs": ["Rosario Central", "Benfica", "Real Madrid", "Manchester United", "Paris SG", "Juventus", "Benfica"],
+    "answer": "Ángel Di María",
+    "options": ["Ángel Di María", "Gonzalo Higuaín", "Paulo Dybala", "Mesut Özil"],
+    "difficulty": 2
+  },
+  {
+    "id": "m11",
+    "clubs": ["Schalke 04", "Bayern Munich"],
+    "answer": "Manuel Neuer",
+    "options": ["Manuel Neuer", "Marc-André ter Stegen", "Oliver Kahn", "Toni Kroos"],
+    "difficulty": 1
+  },
+  {
+    "id": "m12",
+    "clubs": ["Lumezzane", "Inter Milan", "Manchester City", "AC Milan", "Liverpool", "AC Milan", "OGC Nice", "Marseille", "Brescia", "Monza", "Adana Demirspor", "FC Sion", "Adana Demirspor", "Genoa"],
+    "answer": "Mario Balotelli",
+    "options": ["Mario Balotelli", "Antonio Cassano", "Ciro Immobile", "Stephan El Shaarawy"],
+    "difficulty": 3
+  },
+  {
+    "id": "m13",
+    "clubs": ["Dinamo Zagreb", "Tottenham", "Real Madrid"],
+    "answer": "Luka Modrić",
+    "options": ["Luka Modrić", "Ivan Rakitić", "Mateo Kovačić", "Gareth Bale"],
+    "difficulty": 1
+  },
+  {
+    "id": "m14",
+    "clubs": ["Real Sociedad", "Eibar", "Real Sociedad", "Liverpool", "Real Madrid", "Bayern Munich"],
+    "answer": "Xabi Alonso",
+    "options": ["Xabi Alonso", "Xavi", "Cesc Fàbregas", "Thiago Alcântara"],
+    "difficulty": 2
+  },
+  {
+    "id": "m15",
+    "clubs": ["Nacional", "FC Groningen", "Ajax", "Liverpool", "FC Barcelone", "Atlético Madrid", "Nacional", "Grêmio", "Inter Miami"],
+    "answer": "Luis Suárez",
+    "options": ["Luis Suárez", "Edinson Cavani", "Diego Forlán", "Darwin Núñez"],
+    "difficulty": 2
+  },
+  {
+    "id": "m16",
+    "clubs": ["Grenoble", "Tours FC", "Montpellier", "Arsenal", "Chelsea", "AC Milan", "LAFC"],
+    "answer": "Olivier Giroud",
+    "options": ["Olivier Giroud", "Antoine Griezmann", "Nicolas Anelka", "Alexandre Lacazette"],
+    "difficulty": 2
+  },
+  {
+    "id": "m17",
+    "clubs": ["Paris SG", "Arsenal", "Real Madrid", "Paris SG", "Liverpool", "Manchester City", "Fenerbahçe", "Bolton", "Chelsea", "Shanghai Shenhua", "Juventus", "West Bromwich", "Mumbai City"],
+    "answer": "Nicolas Anelka",
+    "options": ["Nicolas Anelka", "Djibril Cissé", "Thierry Henry", "David Trezeguet"],
+    "difficulty": 3
+  },
+  {
+    "id": "m18",
+    "clubs": ["Bayern Munich", "Bayer Leverkusen", "Bayern Munich", "Real Madrid"],
+    "answer": "Toni Kroos",
+    "options": ["Toni Kroos", "Bastian Schweinsteiger", "Luka Modrić", "Mesut Özil"],
+    "difficulty": 1
+  },
+  {
+    "id": "m19",
+    "clubs": ["VfL Bochum", "FC Nuremberg", "Borussia Dortmund", "Manchester City", "FC Barcelone", "Manchester City"],
+    "answer": "İlkay Gündoğan",
+    "options": ["İlkay Gündoğan", "Marco Reus", "Leroy Sané", "Mesut Özil"],
+    "difficulty": 2
+  },
+  {
+    "id": "m20",
+    "clubs": ["Cobreloa", "Udinese", "Colo-Colo", "River Plate", "Udinese", "FC Barcelone", "Arsenal", "Manchester United", "Inter Milan", "Marseille", "Inter Milan", "Udinese"],
+    "answer": "Alexis Sánchez",
+    "options": ["Alexis Sánchez", "Arturo Vidal", "Radamel Falcao", "Edinson Cavani"],
+    "difficulty": 3
+  },
+  {
+    "id": "m21",
+    "clubs": ["Gremio", "Paris SG", "FC Barcelone", "AC Milan", "Flamengo", "Atlético Mineiro", "Querétaro", "Fluminense"],
+    "answer": "Ronaldinho",
+    "options": ["Ronaldinho", "Rivaldo", "Kaká", "Robinho"],
+    "difficulty": 2
+  },
+  {
+    "id": "m22",
+    "clubs": ["Lille", "Chelsea", "Real Madrid"],
+    "answer": "Eden Hazard",
+    "options": ["Eden Hazard", "Thibaut Courtois", "Kevin De Bruyne", "Karim Benzema"],
+    "difficulty": 1
+  },
+  {
+    "id": "m23",
+    "clubs": ["AS Roma", "FC Bâle", "Bologne", "Arsenal"],
+    "answer": "Riccardo Calafiori",
+    "options": ["Riccardo Calafiori", "Alessandro Bastoni", "Leonardo Bonucci", "Granit Xhaka"],
+    "difficulty": 2
+  },
+  {
+    "id": "m24",
+    "clubs": ["Danubio", "Palermo", "Napoli", "Paris SG", "Manchester United", "Valence CF", "Boca Juniors"],
+    "answer": "Edinson Cavani",
+    "options": ["Edinson Cavani", "Luis Suárez", "Ezequiel Lavezzi", "Javier Pastore"],
+    "difficulty": 2
+  },
+  {
+    "id": "m25",
+    "clubs": ["Southampton", "Tottenham", "Real Madrid", "Tottenham", "LAFC"],
+    "answer": "Gareth Bale",
+    "options": ["Gareth Bale", "Aaron Ramsey", "Harry Kane", "David Beckham"],
+    "difficulty": 1
+  },
+  {
+    "id": "m26",
+    "clubs": ["AS Cannes", "Bordeaux", "Juventus", "Real Madrid"],
+    "answer": "Zinédine Zidane",
+    "options": ["Zinédine Zidane", "Michel Platini", "Didier Deschamps", "Patrick Vieira"],
+    "difficulty": 1
+  },
+  {
+    "id": "m27",
+    "clubs": ["West Ham", "Chelsea", "Manchester City", "New York City FC"],
+    "answer": "Frank Lampard",
+    "options": ["Frank Lampard", "Steven Gerrard", "John Terry", "Wayne Rooney"],
+    "difficulty": 2
+  },
+  {
+    "id": "m28",
+    "clubs": ["Boulogne", "Alès", "Brest", "Metz", "Galatasaray", "Marseille", "Bayern Munich", "Fiorentina", "Salernitana"],
+    "answer": "Franck Ribéry",
+    "options": ["Franck Ribéry", "Arjen Robben", "Samir Nasri", "Hatem Ben Arfa"],
+    "difficulty": 3
+  },
+  {
+    "id": "m29",
+    "clubs": ["FC Groningen", "PSV Eindhoven", "Chelsea", "Real Madrid", "Bayern Munich", "FC Groningen"],
+    "answer": "Arjen Robben",
+    "options": ["Arjen Robben", "Robin van Persie", "Wesley Sneijder", "Franck Ribéry"],
+    "difficulty": 2
+  },
+  {
+    "id": "m30",
+    "clubs": ["Nantes", "Saint-Étienne", "Lille", "Marseille", "West Ham", "Marseille", "Vasco da Gama"],
+    "answer": "Dimitri Payet",
+    "options": ["Dimitri Payet", "Florian Thauvin", "Mathieu Valbuena", "André-Pierre Gignac"],
+    "difficulty": 2
+  },
+  {
+    "id": "m31",
+    "clubs": ["Pescara", "Paris SG", "Al-Arabi"],
+    "answer": "Marco Verratti",
+    "options": ["Marco Verratti", "Thiago Motta", "Javier Pastore", "Lorenzo Insigne"],
+    "difficulty": 2
+  },
+  {
+    "id": "m32",
+    "clubs": ["Watford", "Borussia Dortmund", "Manchester United", "Borussia Dortmund", "Chelsea"],
+    "answer": "Jadon Sancho",
+    "options": ["Jadon Sancho", "Jude Bellingham", "Marcus Rashford", "Kai Havertz"],
+    "difficulty": 2
+  },
+  {
+    "id": "m33",
+    "clubs": ["River Plate", "FC Porto", "Atlético Madrid", "AS Monaco", "Manchester United", "Chelsea", "AS Monaco", "Galatasaray", "Rayo Vallecano", "Millonarios"],
+    "answer": "Radamel Falcao",
+    "options": ["Radamel Falcao", "James Rodríguez", "Diego Costa", "Jackson Martínez"],
+    "difficulty": 3
+  },
+  {
+    "id": "m34",
+    "clubs": ["Palmeiras", "Real Madrid"],
+    "answer": "Endrick",
+    "options": ["Endrick", "Vinicius Jr", "Rodrygo", "Neymar Jr"],
+    "difficulty": 1
+  },
+  {
+    "id": "m35",
+    "clubs": ["Real Sociedad", "Atlético Madrid", "FC Barcelone", "Atlético Madrid", "LAFC"],
+    "answer": "Antoine Griezmann",
+    "options": ["Antoine Griezmann", "Ousmane Dembélé", "Paul Pogba", "Hugo Lloris"],
+    "difficulty": 1
+  },
+  {
+    "id": "m36",
+    "clubs": ["Benfica", "Valencia", "Manchester City", "FC Barcelone", "Juventus", "Monza"],
+    "answer": "João Cancelo",
+    "options": ["João Cancelo", "João Félix", "Bernardo Silva", "Rúben Dias"],
+    "difficulty": 3
+  },
+  {
+    "id": "m37",
+    "clubs": ["Cruzeiro", "PSV Eindhoven", "FC Barcelone", "Inter Milan", "Real Madrid", "AC Milan", "Corinthians"],
+    "answer": "Ronaldo Nazário",
+    "options": ["Ronaldo Nazário", "Ronaldinho", "Rivaldo", "Romário"],
+    "difficulty": 2
+  },
+  {
+    "id": "m38",
+    "clubs": ["Wolfsburg", "Charleroi", "Lille", "Napoli", "Galatasaray"],
+    "answer": "Victor Osimhen",
+    "options": ["Victor Osimhen", "Ademola Lookman", "Pierre-Emerick Aubameyang", "Samuel Eto'o"],
+    "difficulty": 2
+  },
+  {
+    "id": "m39",
+    "clubs": ["Independiente", "Manchester United", "Villarreal", "Atlético Madrid", "Inter Milan", "Internacional", "Cerezo Osaka", "Peñarol", "Mumbai City", "Kitchee"],
+    "answer": "Diego Forlán",
+    "options": ["Diego Forlán", "Sergio Agüero", "Juan Román Riquelme", "Edinson Cavani"],
+    "difficulty": 3
+  },
+  {
+    "id": "m40",
+    "clubs": ["Genk", "Chelsea", "Werder Brême", "Wolfsburg", "Manchester City"],
+    "answer": "Kevin De Bruyne",
+    "options": ["Kevin De Bruyne", "Thibaut Courtois", "Romelu Lukaku", "Ilkay Gündogan"],
+    "difficulty": 2
+  },
+  {
+    "id": "m41",
+    "clubs": ["Inter Milan", "Vasco da Gama", "Inter Milan", "Espanyol", "Liverpool", "FC Barcelone", "Bayern Munich", "FC Barcelone", "Aston Villa", "Al-Duhail", "Vasco da Gama"],
+    "answer": "Philippe Coutinho",
+    "options": ["Philippe Coutinho", "Roberto Firmino", "Neymar Jr", "Lucas Paquetá"],
+    "difficulty": 3
+  },
+  {
+    "id": "m42",
+    "clubs": ["River Plate", "Real Madrid", "Napoli", "Juventus", "AC Milan", "Chelsea", "Juventus", "Inter Miami"],
+    "answer": "Gonzalo Higuaín",
+    "options": ["Gonzalo Higuaín", "Karim Benzema", "Álvaro Morata", "Paulo Dybala"],
+    "difficulty": 2
+  },
+  {
+    "id": "m43",
+    "clubs": ["Caen", "Leicester", "Chelsea", "Al-Ittihad"],
+    "answer": "N'Golo Kanté",
+    "options": ["N'Golo Kanté", "Riyad Mahrez", "Paul Pogba", "Claude Makélélé"],
+    "difficulty": 1
+  },
+  {
+    "id": "m44",
+    "clubs": ["Benfica", "Chelsea", "Benfica", "Paris SG", "Liverpool", "Paris SG", "Valence", "Wolverhampton", "Braga"],
+    "answer": "Gonçalo Guedes",
+    "options": ["Gonçalo Guedes", "João Félix", "Renato Sanches", "Bernardo Silva"],
+    "difficulty": 3
+  },
+  {
+    "id": "m45",
+    "clubs": ["Fluminense", "Watford", "Everton", "Tottenham", "Al-Duhail", "Gremio"],
+    "answer": "Richarlison",
+    "options": ["Richarlison", "Lucas Moura", "Gabriel Jesus", "Paulinho"],
+    "difficulty": 3
+  },
+  {
+    "id": "m46",
+    "clubs": ["Brescia", "Inter Milan", "Reggina", "Brescia", "AC Milan", "Juventus", "New York City FC"],
+    "answer": "Andrea Pirlo",
+    "options": ["Andrea Pirlo", "Alessandro Del Piero", "Francesco Totti", "Gennaro Gattuso"],
+    "difficulty": 2
+  },
+  {
+    "id": "m47",
+    "clubs": ["Dinamo Zagreb", "RB Leipzig", "FC Barcelone"],
+    "answer": "Dani Olmo",
+    "options": ["Dani Olmo", "Joško Gvardiol", "Christopher Nkunku", "Xavi Simons"],
+    "difficulty": 2
+  },
+  {
+    "id": "m48",
+    "clubs": ["Ajax", "Sampdoria", "Real Madrid", "Inter Milan", "AC Milan", "Botafogo"],
+    "answer": "Clarence Seedorf",
+    "options": ["Clarence Seedorf", "Edgar Davids", "Patrick Kluivert", "Ruud Gullit"],
+    "difficulty": 2
+  },
+  {
+    "id": "m49",
+    "clubs": ["Atlético Madrid", "Manchester United", "Fiorentina"],
+    "answer": "David de Gea",
+    "options": ["David de Gea", "Thibaut Courtois", "Kepa Arrizabalaga", "Jan Oblak"],
+    "difficulty": 2
+  },
+  {
+    "id": "m50",
+    "clubs": ["Real Madrid", "Real Mallorca", "FC Barcelone", "Inter Milan", "Anzhi Makhachkala", "Chelsea", "Everton", "Sampdoria", "Antalyaspor", "Konyaspor", "Qatar SC"],
+    "answer": "Samuel Eto'o",
+    "options": ["Samuel Eto'o", "Didier Drogba", "George Weah", "Emmanuel Adebayor"],
+    "difficulty": 3
+  },
+  {
+    "id": "m51",
+    "clubs": ["Tottenham", "Norwich", "Leicester", "Tottenham", "Bayern Munich"],
+    "answer": "Harry Kane",
+    "options": ["Harry Kane", "Teddy Sheringham", "Jamie Vardy", "Michael Owen"],
+    "difficulty": 1
+  },
+  {
+    "id": "m52",
+    "clubs": ["Bryne FK", "Molde FK", "RB Salzbourg", "Borussia Dortmund", "Manchester City"],
+    "answer": "Erling Haaland",
+    "options": ["Erling Haaland", "Martin Ødegaard", "Alexander Isak", "Rasmus Højlund"],
+    "difficulty": 1
+  },
+  {
+    "id": "m53",
+    "clubs": ["Lyon", "Real Madrid", "Al-Ittihad"],
+    "answer": "Karim Benzema",
+    "options": ["Karim Benzema", "Nabil Fekir", "Zinédine Zidane", "Alexandre Lacazette"],
+    "difficulty": 1
+  },
+  {
+    "id": "m54",
+    "clubs": ["Al Mokawloon", "FC Bâle", "Chelsea", "Fiorentina", "AS Roma", "Liverpool"],
+    "answer": "Mohamed Salah",
+    "options": ["Mohamed Salah", "Mido", "Hakim Ziyech", "Edin Džeko"],
+    "difficulty": 2
+  },
+  {
+    "id": "m55",
+    "clubs": ["Juventude", "FC Porto", "Dynamo Moscou", "Fluminense", "AC Milan", "Paris SG", "Chelsea", "Fluminense"],
+    "answer": "Thiago Silva",
+    "options": ["Thiago Silva", "Marquinhos", "David Luiz", "Dante"],
+    "difficulty": 2
+  },
+  {
+    "id": "m56",
+    "clubs": ["Séville FC", "Real Madrid", "Paris SG", "Séville FC"],
+    "answer": "Sergio Ramos",
+    "options": ["Sergio Ramos", "Dani Alves", "Ivan Rakitić", "Jesús Navas"],
+    "difficulty": 1
+  },
+  {
+    "id": "m57",
+    "clubs": ["FC Barcelone", "Vissel Kobe", "Emirates Club"],
+    "answer": "Andrés Iniesta",
+    "options": ["Andrés Iniesta", "Xavi", "Sergio Busquets", "David Silva"],
+    "difficulty": 1
+  },
+  {
+    "id": "m58",
+    "clubs": ["Independiente", "Atlético Madrid", "Manchester City", "FC Barcelone"],
+    "answer": "Sergio Agüero",
+    "options": ["Sergio Agüero", "Carlos Tévez", "Diego Forlán", "Gonzalo Higuaín"],
+    "difficulty": 1
+  },
+  {
+    "id": "m59",
+    "clubs": ["ASEC Mimosas", "Beveren", "Metalurg Donetsk", "Olympiacos", "AS Monaco", "FC Barcelone", "Manchester City", "Olympiacos", "Qingdao Huanghai"],
+    "answer": "Yaya Touré",
+    "options": ["Yaya Touré", "Kolo Touré", "Seydou Keita", "Gervinho"],
+    "difficulty": 3
+  },
+  {
+    "id": "m60",
+    "clubs": ["Le Mans", "Guingamp", "Marseille", "Chelsea", "Shanghai Shenhua", "Galatasaray", "Chelsea", "Impact Montréal", "Phoenix Rising"],
+    "answer": "Didier Drogba",
+    "options": ["Didier Drogba", "Samuel Eto'o", "Nicolas Anelka", "Demba Ba"],
+    "difficulty": 2
+  },
+  {
+    "id": "m61",
+    "clubs": ["Real Madrid", "FC Porto"],
+    "answer": "Iker Casillas",
+    "options": ["Iker Casillas", "Pepe", "Keylor Navas", "Raúl"],
+    "difficulty": 1
+  },
+  {
+    "id": "m62",
+    "clubs": ["Real Madrid", "Schalke 04", "Al-Sadd", "New York Cosmos"],
+    "answer": "Raúl González",
+    "options": ["Raúl González", "Guti", "Fernando Morientes", "David Villa"],
+    "difficulty": 2
+  },
+  {
+    "id": "m63",
+    "clubs": ["São Paulo", "AC Milan", "Real Madrid", "AC Milan", "São Paulo", "Orlando City"],
+    "answer": "Kaká",
+    "options": ["Kaká", "Pato", "Robinho", "Cafu"],
+    "difficulty": 2
+  },
+  {
+    "id": "m64",
+    "clubs": ["Santa Cruz", "Mogi Mirim", "Corinthians", "Deportivo La Corogne", "FC Barcelone", "AC Milan", "Cruzeiro", "Olympiacos", "AEK Athènes", "Bunyodkor", "São Paulo", "Kabuscorp", "São Caetano", "Mogi Mirim"],
+    "answer": "Rivaldo",
+    "options": ["Rivaldo", "Ronaldinho", "Romário", "Bebeto"],
+    "difficulty": 3
+  },
+  {
+    "id": "m65",
+    "clubs": ["Manchester United", "Real Madrid", "LA Galaxy", "AC Milan", "LA Galaxy", "Paris SG"],
+    "answer": "David Beckham",
+    "options": ["David Beckham", "Michael Owen", "Ruud van Nistelrooy", "Zlatan Ibrahimović"],
+    "difficulty": 1
+  },
+  {
+    "id": "m66",
+    "clubs": ["Everton", "Manchester United", "Everton", "DC United", "Derby County"],
+    "answer": "Wayne Rooney",
+    "options": ["Wayne Rooney", "Carlos Tévez", "Rio Ferdinand", "Paul Scholes"],
+    "difficulty": 2
+  },
+  {
+    "id": "m67",
+    "clubs": ["Liverpool", "LA Galaxy"],
+    "answer": "Steven Gerrard",
+    "options": ["Steven Gerrard", "Frank Lampard", "Robbie Keane", "Jamie Carragher"],
+    "difficulty": 1
+  },
+  {
+    "id": "m68",
+    "clubs": ["AS Monaco", "Juventus", "Arsenal", "FC Barcelone", "New York Red Bulls"],
+    "answer": "Thierry Henry",
+    "options": ["Thierry Henry", "David Trezeguet", "Robert Pirès", "Patrick Vieira"],
+    "difficulty": 1
+  },
+  {
+    "id": "m69",
+    "clubs": ["Feyenoord", "Arsenal", "Manchester United", "Fenerbahçe", "Feyenoord"],
+    "answer": "Robin van Persie",
+    "options": ["Robin van Persie", "Dirk Kuyt", "Dennis Bergkamp", "Ruud van Nistelrooy"],
+    "difficulty": 2
+  },
+  {
+    "id": "m70",
+    "clubs": ["Ajax", "Real Madrid", "Inter Milan", "Galatasaray", "OGC Nice", "Al-Gharafa"],
+    "answer": "Wesley Sneijder",
+    "options": ["Wesley Sneijder", "Rafael van der Vaart", "Arjen Robben", "Mario Balotelli"],
+    "difficulty": 2
+  },
+  {
+    "id": "m71",
+    "clubs": ["Rot Weiss Ahlen", "Borussia Mönchengladbach", "Borussia Dortmund", "LA Galaxy"],
+    "answer": "Marco Reus",
+    "options": ["Marco Reus", "Mario Götze", "Mats Hummels", "Bastian Schweinsteiger"],
+    "difficulty": 2
+  },
+  {
+    "id": "m72",
+    "clubs": ["AC Milan", "Dijon", "Lille", "AS Monaco", "Saint-Étienne", "Borussia Dortmund", "Arsenal", "FC Barcelone", "Chelsea", "Marseille", "Al-Qadsiah"],
+    "answer": "Pierre-Emerick Aubameyang",
+    "options": ["Pierre-Emerick Aubameyang", "Nicolas Pépé", "Michy Batshuayi", "Alexandre Lacazette"],
+    "difficulty": 3
+  },
+  {
+    "id": "m73",
+    "clubs": ["PSV Eindhoven", "Manchester United", "Lyon", "FC Barcelone", "Atlético Madrid", "Corinthians"],
+    "answer": "Memphis Depay",
+    "options": ["Memphis Depay", "Georginio Wijnaldum", "Anthony Martial", "Cody Gakpo"],
+    "difficulty": 2
+  },
+  {
+    "id": "m74",
+    "clubs": ["Quimper", "Le Havre", "Leicester", "Manchester City", "Al-Ahli"],
+    "answer": "Riyad Mahrez",
+    "options": ["Riyad Mahrez", "N'Golo Kanté", "Islam Slimani", "Saïd Benrahma"],
+    "difficulty": 2
+  },
+  {
+    "id": "m75",
+    "clubs": ["Novara", "Udinese", "Sampdoria", "Sporting CP", "Manchester United"],
+    "answer": "Bruno Fernandes",
+    "options": ["Bruno Fernandes", "Nani", "João Cancelo", "Paul Pogba"],
+    "difficulty": 2
+  },
+  {
+    "id": "m76",
+    "clubs": ["Benfica", "AS Monaco", "Manchester City"],
+    "answer": "Bernardo Silva",
+    "options": ["Bernardo Silva", "Rúben Dias", "João Moutinho", "Fabinho"],
+    "difficulty": 1
+  },
+  {
+    "id": "m77",
+    "clubs": ["Internacional", "AS Roma", "Liverpool"],
+    "answer": "Alisson Becker",
+    "options": ["Alisson Becker", "Ederson", "Dida", "Júlio César"],
+    "difficulty": 2
+  },
+  {
+    "id": "m78",
+    "clubs": ["FC Groningen", "Celtic", "Southampton", "Liverpool"],
+    "answer": "Virgil van Dijk",
+    "options": ["Virgil van Dijk", "Matthijs de Ligt", "Jaap Stam", "Toby Alderweireld"],
+    "difficulty": 2
+  },
+  {
+    "id": "m79",
+    "clubs": ["Liverpool", "Manchester City", "Chelsea", "Arsenal"],
+    "answer": "Raheem Sterling",
+    "options": ["Raheem Sterling", "Daniel Sturridge", "Gabriel Jesus", "Nicolas Anelka"],
+    "difficulty": 2
+  },
+  {
+    "id": "m80",
+    "clubs": ["Benfica", "Atlético Madrid", "Chelsea", "FC Barcelone", "Chelsea"],
+    "answer": "João Félix",
+    "options": ["João Félix", "Antoine Griezmann", "Gonçalo Guedes", "Ferran Torres"],
+    "difficulty": 2
+  },
+  {
+    "id": "m81",
+    "clubs": ["Ajax", "Juventus", "Bayern Munich", "Manchester United"],
+    "answer": "Matthijs de Ligt",
+    "options": ["Matthijs de Ligt", "Frenkie de Jong", "Noussair Mazraoui", "Donny van de Beek"],
+    "difficulty": 2
+  },
+  {
+    "id": "m82",
+    "clubs": ["Rennes", "Borussia Dortmund", "FC Barcelone", "Paris SG"],
+    "answer": "Ousmane Dembélé",
+    "options": ["Ousmane Dembélé", "Raphinha", "Neymar Jr", "Kingsley Coman"],
+    "difficulty": 1
+  },
+  {
+    "id": "m83",
+    "clubs": ["Avaí", "Vitória Guimarães", "Sporting CP", "Rennes", "Leeds United", "FC Barcelone"],
+    "answer": "Raphinha",
+    "options": ["Raphinha", "Antony", "Richarlison", "Malcom"],
+    "difficulty": 2
+  },
+  {
+    "id": "m84",
+    "clubs": ["São Paulo", "Real Madrid", "FC Porto", "Real Madrid", "Manchester United"],
+    "answer": "Casemiro",
+    "options": ["Casemiro", "Fabinho", "Fred", "Kaká"],
+    "difficulty": 1
+  },
+  {
+    "id": "m85",
+    "clubs": ["Lens", "Real Madrid", "Manchester United", "Como"],
+    "answer": "Raphaël Varane",
+    "options": ["Raphaël Varane", "Samuel Umtiti", "Ibrahima Konaté", "Pepe"],
+    "difficulty": 2
+  },
+  {
+    "id": "m86",
+    "clubs": ["Saprissa", "Albacete", "Levante", "Real Madrid", "Paris SG", "Nottingham Forest"],
+    "answer": "Keylor Navas",
+    "options": ["Keylor Navas", "Gianluigi Donnarumma", "Claudio Bravo", "Guillermo Ochoa"],
+    "difficulty": 2
+  },
+  {
+    "id": "m87",
+    "clubs": ["Arsenal", "FC Barcelone", "Chelsea", "AS Monaco", "Como"],
+    "answer": "Cesc Fàbregas",
+    "options": ["Cesc Fàbregas", "Pedro", "Juan Mata", "Santi Cazorla"],
+    "difficulty": 2
+  },
+  {
+    "id": "m88",
+    "clubs": ["Atlético Madrid", "Liverpool", "Chelsea", "AC Milan", "Atlético Madrid", "Sagan Tosu"],
+    "answer": "Fernando Torres",
+    "options": ["Fernando Torres", "Álvaro Morata", "David Villa", "Diego Costa"],
+    "difficulty": 2
+  },
+  {
+    "id": "m89",
+    "clubs": ["Sporting CP", "FC Barcelone", "Real Madrid", "Inter Milan"],
+    "answer": "Luís Figo",
+    "options": ["Luís Figo", "Ronaldo Nazário", "Rui Costa", "Zinédine Zidane"],
+    "difficulty": 1
+  },
+  {
+    "id": "m90",
+    "clubs": ["Dukla Prague", "Sparta Prague", "Lazio", "Juventus"],
+    "answer": "Pavel Nedvěd",
+    "options": ["Pavel Nedvěd", "Karel Poborský", "Milan Baroš", "Marek Hamšík"],
+    "difficulty": 2
+  },
+  {
+    "id": "m91",
+    "clubs": ["Dynamo Kiev", "AC Milan", "Chelsea", "Dynamo Kiev"],
+    "answer": "Andriy Shevchenko",
+    "options": ["Andriy Shevchenko", "Filippo Inzaghi", "Hernán Crespo", "Kakha Kaladze"],
+    "difficulty": 2
+  },
+  {
+    "id": "m92",
+    "clubs": ["Newell's Old Boys", "River Plate", "Boca Juniors", "Fiorentina", "AS Roma", "Al-Arabi"],
+    "answer": "Gabriel Batistuta",
+    "options": ["Gabriel Batistuta", "Hernán Crespo", "Francesco Totti", "Abel Balbo"],
+    "difficulty": 2
+  },
+  {
+    "id": "m93",
+    "clubs": ["Boca Juniors", "Corinthians", "West Ham", "Manchester United", "Manchester City", "Juventus", "Boca Juniors", "Shanghai Shenhua", "Boca Juniors"],
+    "answer": "Carlos Tévez",
+    "options": ["Carlos Tévez", "Javier Mascherano", "Sergio Agüero", "Ezequiel Lavezzi"],
+    "difficulty": 3
+  },
+  {
+    "id": "m94",
+    "clubs": ["River Plate", "Corinthians", "West Ham", "Liverpool", "FC Barcelone", "Hebei China Fortune", "Estudiantes"],
+    "answer": "Javier Mascherano",
+    "options": ["Javier Mascherano", "Carlos Tévez", "Gabriel Heinze", "Esteban Cambiasso"],
+    "difficulty": 3
+  },
+  {
+    "id": "m95",
+    "clubs": ["Marítimo", "FC Porto", "Real Madrid", "Besiktas", "FC Porto"],
+    "answer": "Pepe",
+    "options": ["Pepe", "Ricardo Carvalho", "Sergio Ramos", "Bruno Alves"],
+    "difficulty": 2
+  },
+  {
+    "id": "m96",
+    "clubs": ["Lyon", "Marseille", "Newcastle", "Hull City", "Nice", "Paris SG", "Rennes", "Valladolid", "Bordeaux", "Lille"],
+    "answer": "Hatem Ben Arfa",
+    "options": ["Hatem Ben Arfa", "Samir Nasri", "Jérémy Ménez", "Loïc Rémy"],
+    "difficulty": 3
+  },
+  {
+    "id": "m97",
+    "clubs": ["Schalke 04", "Werder Brême", "Real Madrid", "Arsenal", "Fenerbahçe", "Istanbul Başakşehir"],
+    "answer": "Mesut Özil",
+    "options": ["Mesut Özil", "Lukas Podolski", "Sami Khedira", "Nuri Şahin"],
+    "difficulty": 2
+  },
+  {
+    "id": "m98",
+    "clubs": ["Hertha Berlin", "Tottenham", "Borussia Dortmund", "Portsmouth", "AC Milan", "Schalke 04", "AC Milan", "Las Palmas", "Eintracht Francfort", "Sassuolo", "FC Barcelone", "Fiorentina", "Beşiktaş", "Monza", "Hertha Berlin"],
+    "answer": "Kevin-Prince Boateng",
+    "options": ["Kevin-Prince Boateng", "Mario Balotelli", "Jérôme Boateng", "Sulley Muntari"],
+    "difficulty": 3
+  },
+  {
+    "id": "m99",
+    "clubs": ["Maccabi Petah-Tikva", "Hapoël Tel-Aviv", "Racing Santander", "West Ham", "Liverpool", "Chelsea", "Arsenal", "Bnei Yehuda", "Beitar Jerusalem"],
+    "answer": "Yossi Benayoun",
+    "options": ["Yossi Benayoun", "Eyal Berkovic", "Nicolas Anelka", "Joe Cole"],
+    "difficulty": 3
+  },
+  {
+    "id": "m100",
+    "clubs": ["Strasbourg", "Atlético Madrid", "Lens", "Séville FC", "FC Barcelone", "Atlético Madrid", "Inter Milan", "Benfica", "Espanyol"],
+    "answer": "Kevin Gameiro",
+    "options": ["Kevin Gameiro", "Wissam Ben Yedder", "Geoffrey Kondogbia", "Lucas Digne"],
+    "difficulty": 3
+  },
+  {
+    "id": "m101",
+    "clubs": ["FC Barcelone", "Paris SG", "Inter Miami"],
+    "answer": "Lionel Messi",
+    "options": ["Lionel Messi", "Neymar Jr", "Angel Di Maria", "Luis Suarez"],
+    "difficulty": 1
+  },
+  {
+    "id": "m102",
+    "clubs": ["AC Milan"],
+    "answer": "Paolo Maldini",
+    "options": ["Paolo Maldini", "Franco Baresi", "Alessandro Costacurta", "Javier Zanetti"],
+    "difficulty": 1
+  },
+  {
+    "id": "m103",
+    "clubs": ["AS Roma"],
+    "answer": "Francesco Totti",
+    "options": ["Francesco Totti", "Daniele De Rossi", "Alessandro Del Piero", "Antonio Di Natale"],
+    "difficulty": 1
+  },
+  {
+    "id": "m104",
+    "clubs": ["AS Cannes", "AC Milan", "Arsenal", "Juventus", "Inter Milan", "Manchester City"],
+    "answer": "Patrick Vieira",
+    "options": ["Patrick Vieira", "Emmanuel Petit", "Thierry Henry", "Claude Makélélé"],
+    "difficulty": 2
+  },
+  {
+    "id": "m105",
+    "clubs": ["Parme", "Juventus", "Paris SG", "Juventus", "Parme"],
+    "answer": "Gianluigi Buffon",
+    "options": ["Gianluigi Buffon", "Fabio Cannavaro", "Andrea Pirlo", "Gianluigi Donnarumma"],
+    "difficulty": 1
+  },
+  {
+    "id": "m106",
+    "clubs": ["Flamengo", "Real Madrid", "Manchester United"],
+    "answer": "Vinícius Júnior",
+    "options": ["Vinícius Júnior", "Rodrygo", "Neymar Jr", "Antony"],
+    "difficulty": 1
+  },
+  {
+    "id": "m107",
+    "clubs": ["Schalke 04", "Werder Brême", "Bayern Munich", "Real Madrid"],
+    "answer": "Mesut Özil",
+    "options": ["Mesut Özil", "Toni Kroos", "Sami Khedira", "Michael Ballack"],
+    "difficulty": 2
+  },
+  {
+    "id": "m108",
+    "clubs": ["Chemnitzer FC", "Kaiserslautern", "Bayer Leverkusen", "Bayern Munich", "Chelsea", "Bayer Leverkusen"],
+    "answer": "Michael Ballack",
+    "options": ["Michael Ballack", "Bastian Schweinsteiger", "Lothar Matthäus", "Oliver Kahn"],
+    "difficulty": 2
+  },
+  {
+    "id": "m109",
+    "clubs": ["Padova", "Juventus", "Sydney FC", "Delhi Dynamos"],
+    "answer": "Alessandro Del Piero",
+    "options": ["Alessandro Del Piero", "Roberto Baggio", "Gianluca Vialli", "David Trezeguet"],
+    "difficulty": 2
+  },
+  {
+    "id": "m110",
+    "clubs": ["Southampton", "Blackburn", "Newcastle"],
+    "answer": "Alan Shearer",
+    "options": ["Alan Shearer", "Michael Owen", "Andy Cole", "Teddy Sheringham"],
+    "difficulty": 1
+  },
+  {
+    "id": "m111",
+    "clubs": ["São Paulo", "Real Saragosse", "Juventude", "Palmeiras", "AS Roma", "AC Milan"],
+    "answer": "Cafu",
+    "options": ["Cafu", "Roberto Carlos", "Maicon", "Dani Alves"],
+    "difficulty": 2
+  },
+  {
+    "id": "m112",
+    "clubs": ["União São João", "Palmeiras", "Inter Milan", "Real Madrid", "Fenerbahçe", "Corinthians", "Anzhi Makhachkala", "Delhi Dynamos"],
+    "answer": "Roberto Carlos",
+    "options": ["Roberto Carlos", "Marcelo", "Cafu", "Ronaldo Nazário"],
+    "difficulty": 2
+  },
+  {
+    "id": "m113",
+    "clubs": ["Lazio", "AC Milan", "Impact Montréal", "Chennaiyin FC"],
+    "answer": "Alessandro Nesta",
+    "options": ["Alessandro Nesta", "Paolo Maldini", "Fabio Cannavaro", "Andrea Barzagli"],
+    "difficulty": 2
+  },
+  {
+    "id": "m114",
+    "clubs": ["Napoli", "Parme", "Inter Milan", "Juventus", "Real Madrid", "Juventus", "Al-Ahli"],
+    "answer": "Fabio Cannavaro",
+    "options": ["Fabio Cannavaro", "Giorgio Chiellini", "Leonardo Bonucci", "Gianluca Zambrotta"],
+    "difficulty": 2
+  },
+  {
+    "id": "m115",
+    "clubs": ["River Plate", "Parme", "Lazio", "Inter Milan", "Chelsea", "AC Milan", "Inter Milan", "Parme"],
+    "answer": "Hernán Crespo",
+    "options": ["Hernán Crespo", "Gabriel Batistuta", "Claudio López", "Juan Sebastián Verón"],
+    "difficulty": 3
+  },
+  {
+    "id": "m116",
+    "clubs": ["Torino", "Pisa", "Ravenne", "Venise", "Atalanta", "Juventus", "Atlético Madrid", "Lazio", "Inter Milan", "AC Milan", "AS Monaco", "Atalanta", "Fiorentina", "Atalanta"],
+    "answer": "Christian Vieri",
+    "options": ["Christian Vieri", "Filippo Inzaghi", "Luca Toni", "Alberto Gilardino"],
+    "difficulty": 3
+  },
+  {
+    "id": "m117",
+    "clubs": ["Plaisance", "Parme", "Atalanta", "Juventus", "AC Milan"],
+    "answer": "Filippo Inzaghi",
+    "options": ["Filippo Inzaghi", "Christian Vieri", "Alessandro Del Piero", "Vincenzo Montella"],
+    "difficulty": 2
+  },
+  {
+    "id": "m118",
+    "clubs": ["Sporting Gijón", "Real Saragosse", "Valence CF", "FC Barcelone", "Atlético Madrid", "New York City FC", "Melbourne City", "Vissel Kobe"],
+    "answer": "David Villa",
+    "options": ["David Villa", "Fernando Torres", "Raúl", "Pedro"],
+    "difficulty": 2
+  },
+  {
+    "id": "m119",
+    "clubs": ["Bayern Munich", "Manchester United", "Chicago Fire"],
+    "answer": "Bastian Schweinsteiger",
+    "options": ["Bastian Schweinsteiger", "Philipp Lahm", "Michael Ballack", "Thomas Müller"],
+    "difficulty": 1
+  },
+  {
+    "id": "m120",
+    "clubs": ["Bayern Munich", "VfB Stuttgart", "Bayern Munich"],
+    "answer": "Philipp Lahm",
+    "options": ["Philipp Lahm", "Joshua Kimmich", "David Alaba", "Manuel Neuer"],
+    "difficulty": 1
+  },
+  {
+    "id": "m121",
+    "clubs": ["Rapid Vienne", "Bayern Munich", "Hoffenheim", "Bayern Munich", "Real Madrid"],
+    "answer": "David Alaba",
+    "options": ["David Alaba", "Marcel Sabitzer", "Marko Arnautović", "Alphonso Davies"],
+    "difficulty": 1
+  },
+  {
+    "id": "m122",
+    "clubs": ["Fluminense", "Real Madrid", "Olympiacos", "Fluminense"],
+    "answer": "Marcelo",
+    "options": ["Marcelo", "Roberto Carlos", "Casemiro", "Danilo"],
+    "difficulty": 1
+  },
+  {
+    "id": "m123",
+    "clubs": ["Hambourg SV", "Bayer Leverkusen", "Tottenham", "Manchester United", "Fulham", "Monaco", "PAOK"],
+    "answer": "Dimitar Berbatov",
+    "options": ["Dimitar Berbatov", "Hristo Stoichkov", "Robbie Keane", "Ruud van Nistelrooy"],
+    "difficulty": 2
+  },
+  {
+    "id": "m124",
+    "clubs": ["Den Bosch", "Heerenveen", "PSV Eindhoven", "Manchester United", "Real Madrid", "Hambourg SV", "Málaga"],
+    "answer": "Ruud van Nistelrooy",
+    "options": ["Ruud van Nistelrooy", "Patrick Kluivert", "Roy Makaay", "Klaas-Jan Huntelaar"],
+    "difficulty": 2
+  },
+  {
+    "id": "m125",
+    "clubs": ["West Ham", "Leeds United", "Manchester United", "Queens Park Rangers"],
+    "answer": "Rio Ferdinand",
+    "options": ["Rio Ferdinand", "Nemanja Vidić", "Sol Campbell", "John Terry"],
+    "difficulty": 2
+  },
+  {
+    "id": "m126",
+    "clubs": ["Spartak Subotica", "Spartak Moscou", "Manchester United", "Inter Milan"],
+    "answer": "Nemanja Vidić",
+    "options": ["Nemanja Vidić", "Branislav Ivanović", "Aleksandar Kolarov", "Rio Ferdinand"],
+    "difficulty": 2
+  },
+  {
+    "id": "m127",
+    "clubs": ["West Ham", "Chelsea", "Nottingham Forest", "Aston Villa"],
+    "answer": "John Terry",
+    "options": ["John Terry", "Frank Lampard", "Gary Cahill", "Ashley Cole"],
+    "difficulty": 2
+  },
+  {
+    "id": "m128",
+    "clubs": ["Arsenal", "Crystal Palace", "Chelsea", "AS Roma", "LA Galaxy", "Derby County"],
+    "answer": "Ashley Cole",
+    "options": ["Ashley Cole", "Patrice Evra", "Gaël Clichy", "William Gallas"],
+    "difficulty": 2
+  },
+  {
+    "id": "m129",
+    "clubs": ["Nice", "Monaco", "Manchester United", "Juventus", "OGC Nice"],
+    "answer": "Patrice Evra",
+    "options": ["Patrice Evra", "Paul Pogba", "Fabian Barthez", "Anthony Martial"],
+    "difficulty": 2
+  },
+  {
+    "id": "m130",
+    "clubs": ["Nantes", "Marseille", "Bordeaux", "Juventus", "Chelsea", "Valence CF"],
+    "answer": "Didier Deschamps",
+    "options": ["Didier Deschamps", "Laurent Blanc", "Marcel Desailly", "Zinédine Zidane"],
+    "difficulty": 2
+  },
+  {
+    "id": "m131",
+    "clubs": ["Nantes", "Marseille", "AC Milan", "Chelsea", "Al-Gharafa", "Qatar SC"],
+    "answer": "Marcel Desailly",
+    "options": ["Marcel Desailly", "Lilian Thuram", "Frank Lebœuf", "Basile Boli"],
+    "difficulty": 2
+  },
+  {
+    "id": "m132",
+    "clubs": ["Monaco", "Parme", "Juventus", "FC Barcelone"],
+    "answer": "Lilian Thuram",
+    "options": ["Lilian Thuram", "William Gallas", "Bixente Lizarazu", "Eric Abidal"],
+    "difficulty": 2
+  },
+  {
+    "id": "m133",
+    "clubs": ["Toulouse", "Marseille", "Monaco", "Manchester United", "Nantes"],
+    "answer": "Fabien Barthez",
+    "options": ["Fabien Barthez", "Grégory Coupet", "Hugo Lloris", "Steve Mandanda"],
+    "difficulty": 2
+  },
+  {
+    "id": "m134",
+    "clubs": ["Nice", "Lyon", "Tottenham", "LAFC"],
+    "answer": "Hugo Lloris",
+    "options": ["Hugo Lloris", "Mike Maignan", "Steve Mandanda", "Fabien Barthez"],
+    "difficulty": 1
+  },
+  {
+    "id": "m135",
+    "clubs": ["Hombourg 08", "Kaiserslautern", "Werder Brême", "Bayern Munich", "Lazio", "Bayern Munich"],
+    "answer": "Miroslav Klose",
+    "options": ["Miroslav Klose", "Lukas Podolski", "Thomas Müller", "Mario Gómez"],
+    "difficulty": 2
+  },
+  {
+    "id": "m136",
+    "clubs": ["Cologne", "Bayern Munich", "Cologne", "Arsenal", "Inter Milan", "Galatasaray", "Vissel Kobe", "Antalyaspor", "Górnik Zabrze"],
+    "answer": "Lukas Podolski",
+    "options": ["Lukas Podolski", "Bastian Schweinsteiger", "Mesut Özil", "Miroslav Klose"],
+    "difficulty": 2
+  },
+  {
+    "id": "m137",
+    "clubs": ["Ajax", "Sampdoria", "Real Madrid", "Inter Milan", "AC Milan", "Botafogo"],
+    "answer": "Clarence Seedorf",
+    "options": ["Clarence Seedorf", "Edgar Davids", "Patrick Kluivert", "Ruud Gullit"],
+    "difficulty": 2
+  },
+  {
+    "id": "m138",
+    "clubs": ["Ajax", "AC Milan", "Juventus", "FC Barcelone", "Inter Milan", "Tottenham", "Ajax", "Crystal Palace", "Barnet"],
+    "answer": "Edgar Davids",
+    "options": ["Edgar Davids", "Clarence Seedorf", "Patrick Kluivert", "Marc Overmars"],
+    "difficulty": 3
+  },
+  {
+    "id": "m139",
+    "clubs": ["Ajax", "AC Milan", "FC Barcelone", "Newcastle", "Valence CF", "PSV Eindhoven", "Lille"],
+    "answer": "Patrick Kluivert",
+    "options": ["Patrick Kluivert", "Ruud van Nistelrooy", "Dennis Bergkamp", "Justin Kluivert"],
+    "difficulty": 2
+  },
+  {
+    "id": "m140",
+    "clubs": ["Ajax", "Inter Milan", "Arsenal"],
+    "answer": "Dennis Bergkamp",
+    "options": ["Dennis Bergkamp", "Thierry Henry", "Robin van Persie", "Marc Overmars"],
+    "difficulty": 1
+  },
+  {
+    "id": "m141",
+    "clubs": ["Santos", "Real Madrid", "Manchester City", "AC Milan", "Santos", "Guangzhou Evergrande", "Atlético Mineiro", "Sivasspor", "Istanbul Başakşehir"],
+    "answer": "Robinho",
+    "options": ["Robinho", "Alexandre Pato", "Neymar Jr", "Ronaldinho"],
+    "difficulty": 3
+  },
+  {
+    "id": "m142",
+    "clubs": ["Internacional", "AC Milan", "Corinthians", "São Paulo", "Chelsea", "Villarreal", "Tianjin Quanjian", "São Paulo", "Orlando City"],
+    "answer": "Alexandre Pato",
+    "options": ["Alexandre Pato", "Kaká", "Oscar", "Philippe Coutinho"],
+    "difficulty": 3
+  },
+  {
+    "id": "m143",
+    "clubs": ["Ajax", "Liverpool", "Atlético Madrid", "Nacional", "Grêmio", "Inter Miami"],
+    "answer": "Luis Suárez",
+    "options": ["Luis Suárez", "Diego Forlán", "Edinson Cavani", "Darwin Núñez"],
+    "difficulty": 1
+  },
+  {
+    "id": "m144",
+    "clubs": ["Independiente del Valle", "Brighton", "Chelsea"],
+    "answer": "Moisés Caicedo",
+    "options": ["Moisés Caicedo", "Enzo Fernández", "Alexis Mac Allister", "Pervis Estupiñán"],
+    "difficulty": 2
+  },
+  {
+    "id": "m145",
+    "clubs": ["River Plate", "Benfica", "Chelsea"],
+    "answer": "Enzo Fernández",
+    "options": ["Enzo Fernández", "Julián Álvarez", "Alexis Mac Allister", "Javier Mascherano"],
+    "difficulty": 1
+  },
+  {
+    "id": "m146",
+    "clubs": ["Argentinos Juniors", "Boca Juniors", "Brighton", "Liverpool"],
+    "answer": "Alexis Mac Allister",
+    "options": ["Alexis Mac Allister", "Enzo Fernández", "Dominik Szoboszlai", "Rodrigo De Paul"],
+    "difficulty": 2
+  },
+  {
+    "id": "m147",
+    "clubs": ["Sheffield United", "Hull City", "Leicester", "Manchester United"],
+    "answer": "Harry Maguire",
+    "options": ["Harry Maguire", "John Stones", "Gary Cahill", "Chris Smalling"],
+    "difficulty": 2
+  },
+  {
+    "id": "m148",
+    "clubs": ["Barnsley", "Everton", "Manchester City"],
+    "answer": "John Stones",
+    "options": ["John Stones", "Kyle Walker", "Harry Maguire", "Ruben Dias"],
+    "difficulty": 2
+  },
+  {
+    "id": "m149",
+    "clubs": ["Sheffield United", "Tottenham", "Manchester City", "Bayern Munich"],
+    "answer": "Kyle Walker",
+    "options": ["Kyle Walker", "Kieran Trippier", "Trent Alexander-Arnold", "Reece James"],
+    "difficulty": 2
+  },
+  {
+    "id": "m150",
+    "clubs": ["Aston Villa", "Manchester City"],
+    "answer": "Jack Grealish",
+    "options": ["Jack Grealish", "Phil Foden", "Raheem Sterling", "James Maddison"],
+    "difficulty": 1
+  },
+  {
+    "id": "m151",
+    "clubs": ["Manchester City", "Chelsea"],
+    "answer": "Cole Palmer",
+    "options": ["Cole Palmer", "Raheem Sterling", "Mason Mount", "Phil Foden"],
+    "difficulty": 1
+  },
+  {
+    "id": "m152",
+    "clubs": ["Chelsea", "Arsenal"],
+    "answer": "Kai Havertz",
+    "options": ["Kai Havertz", "Timo Werner", "Jorginho", "Mason Mount"],
+    "difficulty": 2
+  },
+  {
+    "id": "m153",
+    "clubs": ["VfB Stuttgart", "RB Leipzig", "Chelsea", "Tottenham"],
+    "answer": "Timo Werner",
+    "options": ["Timo Werner", "Kai Havertz", "Christopher Nkunku", "Julian Draxler"],
+    "difficulty": 2
+  },
+  {
+    "id": "m154",
+    "clubs": ["Paris SG", "RB Leipzig", "Chelsea"],
+    "answer": "Christopher Nkunku",
+    "options": ["Christopher Nkunku", "Moussa Diaby", "Kingsley Coman", "Ousmane Dembélé"],
+    "difficulty": 2
+  },
+  {
+    "id": "m155",
+    "clubs": ["Paris SG", "Juventus", "Bayern Munich"],
+    "answer": "Kingsley Coman",
+    "options": ["Kingsley Coman", "Douglas Costa", "Franck Ribéry", "Leroy Sané"],
+    "difficulty": 1
+  },
+  {
+    "id": "m156",
+    "clubs": ["Schalke 04", "Manchester City", "Bayern Munich"],
+    "answer": "Leroy Sané",
+    "options": ["Leroy Sané", "Serge Gnabry", "Ilkay Gündogan", "Jamal Musiala"],
+    "difficulty": 1
+  },
+  {
+    "id": "m157",
+    "clubs": ["Stuttgart", "Arsenal", "Werder Brême", "Hoffenheim", "Bayern Munich"],
+    "answer": "Serge Gnabry",
+    "options": ["Serge Gnabry", "Leroy Sané", "Kai Havertz", "Joshua Kimmich"],
+    "difficulty": 2
+  },
+  {
+    "id": "m158",
+    "clubs": ["RB Leipzig", "Stuttgart", "RB Leipzig", "Bayern Munich"],
+    "answer": "Joshua Kimmich",
+    "options": ["Joshua Kimmich", "Leon Goretzka", "Toni Kroos", "Philipp Lahm"],
+    "difficulty": 2
+  },
+  {
+    "id": "m159",
+    "clubs": ["Bochum", "Schalke 04", "Bayern Munich"],
+    "answer": "Leon Goretzka",
+    "options": ["Leon Goretzka", "Joshua Kimmich", "Manuel Neuer", "Julian Draxler"],
+    "difficulty": 2
+  },
+  {
+    "id": "m160",
+    "clubs": ["Schalke 04", "Wolfsburg", "Paris SG", "Benfica", "Al-Ahli"],
+    "answer": "Julian Draxler",
+    "options": ["Julian Draxler", "Thilo Kehrer", "Mario Götze", "Kevin Trapp"],
+    "difficulty": 2
+  },
+  {
+    "id": "m161",
+    "clubs": ["Borussia Dortmund", "Bayern Munich", "Borussia Dortmund", "PSV Eindhoven", "Eintracht Francfort"],
+    "answer": "Mario Götze",
+    "options": ["Mario Götze", "Marco Reus", "Mats Hummels", "Thomas Müller"],
+    "difficulty": 2
+  },
+  {
+    "id": "m162",
+    "clubs": ["Bayern Munich", "Borussia Dortmund", "Bayern Munich", "Borussia Dortmund", "AS Roma"],
+    "answer": "Mats Hummels",
+    "options": ["Mats Hummels", "Niklas Süle", "Jerome Boateng", "Antonio Rüdiger"],
+    "difficulty": 2
+  },
+  {
+    "id": "m163",
+    "clubs": ["Hertha Berlin", "Hambourg SV", "Manchester City", "Bayern Munich", "Lyon", "Salernitana", "LASK"],
+    "answer": "Jérôme Boateng",
+    "options": ["Jérôme Boateng", "Dante", "David Alaba", "Mats Hummels"],
+    "difficulty": 2
+  },
+  {
+    "id": "m164",
+    "clubs": ["VfB Stuttgart", "AS Roma", "Chelsea", "Real Madrid"],
+    "answer": "Antonio Rüdiger",
+    "options": ["Antonio Rüdiger", "Andreas Christensen", "David Alaba", "Eder Militão"],
+    "difficulty": 1
+  },
+  {
+    "id": "m165",
+    "clubs": ["Brøndby", "Borussia Mönchengladbach", "Chelsea", "FC Barcelone"],
+    "answer": "Andreas Christensen",
+    "options": ["Andreas Christensen", "Simon Kjaer", "Marcos Alonso", "César Azpilicueta"],
+    "difficulty": 2
+  },
+  {
+    "id": "m166",
+    "clubs": ["Osasuna", "Marseille", "Chelsea", "Atlético Madrid"],
+    "answer": "César Azpilicueta",
+    "options": ["César Azpilicueta", "Marcos Alonso", "Juanfran", "Koke"],
+    "difficulty": 2
+  },
+  {
+    "id": "m167",
+    "clubs": ["Real Madrid", "Bolton", "Fiorentina", "Sunderland", "Chelsea", "FC Barcelone", "Celta Vigo"],
+    "answer": "Marcos Alonso",
+    "options": ["Marcos Alonso", "César Azpilicueta", "Jordi Alba", "Emerson Royal"],
+    "difficulty": 3
+  },
+  {
+    "id": "m168",
+    "clubs": ["Valence CF", "FC Barcelone", "Inter Miami"],
+    "answer": "Jordi Alba",
+    "options": ["Jordi Alba", "Sergio Busquets", "Gerard Piqué", "Juan Bernat"],
+    "difficulty": 1
+  },
+  {
+    "id": "m169",
+    "clubs": ["FC Barcelone"],
+    "answer": "Sergio Busquets",
+    "options": ["Sergio Busquets", "Xavi", "Andrés Iniesta", "Sergi Roberto"],
+    "difficulty": 1
+  },
+  {
+    "id": "m170",
+    "clubs": ["Manchester United", "Real Saragosse", "FC Barcelone"],
+    "answer": "Gerard Piqué",
+    "options": ["Gerard Piqué", "Carles Puyol", "Cesc Fàbregas", "Victor Valdés"],
+    "difficulty": 1
+  },
+  {
+    "id": "m171",
+    "clubs": ["FC Barcelone", "Manchester United", "Middlesbrough", "Standard de Liège"],
+    "answer": "Víctor Valdés",
+    "options": ["Víctor Valdés", "Pepe Reina", "David de Gea", "Iker Casillas"],
+    "difficulty": 2
+  },
+  {
+    "id": "m172",
+    "clubs": ["FC Barcelone", "Villarreal", "Liverpool", "Napoli", "Bayern Munich", "AC Milan", "Aston Villa", "Villarreal", "Como"],
+    "answer": "Pepe Reina",
+    "options": ["Pepe Reina", "Víctor Valdés", "Adrián", "Iker Casillas"],
+    "difficulty": 3
+  },
+  {
+    "id": "m173",
+    "clubs": ["Copenhague", "Sturm Graz", "Atalanta", "Manchester United"],
+    "answer": "Rasmus Højlund",
+    "options": ["Rasmus Højlund", "Christian Eriksen", "Kasper Dolberg", "Joshua Zirkzee"],
+    "difficulty": 2
+  },
+  {
+    "id": "m174",
+    "clubs": ["Nordsjaelland", "Ajax", "West Ham", "Ajax"],
+    "answer": "Mohammed Kudus",
+    "options": ["Mohammed Kudus", "Edson Álvarez", "Antony", "André Onana"],
+    "difficulty": 2
+  },
+  {
+    "id": "m175",
+    "clubs": ["FC Barcelone", "Ajax", "Inter Milan", "Manchester United"],
+    "answer": "André Onana",
+    "options": ["André Onana", "Samuel Eto'o", "Edouard Mendy", "Mike Maignan"],
+    "difficulty": 2
+  },
+  {
+    "id": "m176",
+    "clubs": ["Cherbourg", "Reims", "Rennes", "Chelsea", "Al-Ahli"],
+    "answer": "Édouard Mendy",
+    "options": ["Édouard Mendy", "Kalidou Koulibaly", "Kepa Arrizabalaga", "Sadio Mané"],
+    "difficulty": 2
+  },
+  {
+    "id": "m177",
+    "clubs": ["Metz", "Genk", "Napoli", "Chelsea", "Al-Hilal"],
+    "answer": "Kalidou Koulibaly",
+    "options": ["Kalidou Koulibaly", "Sadio Mané", "Édouard Mendy", "Nicolas Jackson"],
+    "difficulty": 2
+  },
+  {
+    "id": "m178",
+    "clubs": ["Athletic Bilbao", "Chelsea", "Real Madrid", "Bournemouth"],
+    "answer": "Kepa Arrizabalaga",
+    "options": ["Kepa Arrizabalaga", "David de Gea", "Unai Simón", "Robert Sánchez"],
+    "difficulty": 2
+  },
+  {
+    "id": "m179",
+    "clubs": ["Dinamo Tbilissi", "Rustavi", "Lokomotiv Moscou", "Rubin Kazan", "Valence", "Napoli"],
+    "answer": "Khvicha Kvaratskhelia",
+    "options": ["Khvicha Kvaratskhelia", "Henrikh Mkhitaryan", "Kakha Kaladze", "Victor Osimhen"],
+    "difficulty": 2
+  },
+  {
+    "id": "m180",
+    "clubs": ["Dinamo Tbilissi", "Dinamo Kiev", "AC Milan", "Genoa"],
+    "answer": "Kakha Kaladze",
+    "options": ["Kakha Kaladze", "Andriy Shevchenko", "Paolo Maldini", "Levan Kobiashvili"],
+    "difficulty": 3
+  },
+  {
+    "id": "m181",
+    "clubs": ["Pyunik", "Metalurg Donetsk", "Chakhtar Donetsk", "Borussia Dortmund", "Manchester United", "Arsenal", "AS Roma", "Inter Milan"],
+    "answer": "Henrikh Mkhitaryan",
+    "options": ["Henrikh Mkhitaryan", "Edin Džeko", "Hakan Çalhanoğlu", "Oleksandr Zinchenko"],
+    "difficulty": 2
+  },
+  {
+    "id": "m182",
+    "clubs": ["Karlsruhe", "Hambourg SV", "Bayer Leverkusen", "AC Milan", "Inter Milan"],
+    "answer": "Hakan Çalhanoğlu",
+    "options": ["Hakan Çalhanoğlu", "Mesut Özil", "Nuri Şahin", "Ilkay Gündogan"],
+    "difficulty": 2
+  },
+  {
+    "id": "m183",
+    "clubs": ["Željezničar", "Teplice", "Wolfsburg", "Manchester City", "AS Roma", "Inter Milan", "Fenerbahçe"],
+    "answer": "Edin Džeko",
+    "options": ["Edin Džeko", "Miralem Pjanić", "Mario Mandžukić", "Aleksandar Kolarov"],
+    "difficulty": 2
+  },
+  {
+    "id": "m184",
+    "clubs": ["Metz", "Lyon", "AS Roma", "Juventus", "FC Barcelone", "Beşiktaş", "Sharjah FC", "CSKA Moscou"],
+    "answer": "Miralem Pjanić",
+    "options": ["Miralem Pjanić", "Edin Džeko", "Mehdi Benatia", "Radja Nainggolan"],
+    "difficulty": 2
+  },
+  {
+    "id": "m185",
+    "clubs": ["Plaisance", "Cagliari", "AS Roma", "Inter Milan", "Cagliari", "Royal Antwerp", "SPAL", "Bhayangkara"],
+    "answer": "Radja Nainggolan",
+    "options": ["Radja Nainggolan", "Dries Mertens", "Kevin Strootman", "Arturo Vidal"],
+    "difficulty": 3
+  },
+  {
+    "id": "m186",
+    "clubs": ["AGOVV", "Utrecht", "PSV Eindhoven", "Napoli", "Galatasaray"],
+    "answer": "Dries Mertens",
+    "options": ["Dries Mertens", "Lorenzo Insigne", "Marek Hamšík", "Romelu Lukaku"],
+    "difficulty": 2
+  },
+  {
+    "id": "m187",
+    "clubs": ["Slovan Bratislava", "Brescia", "Napoli", "Dalian Pro", "IFK Göteborg", "Trabzonspor"],
+    "answer": "Marek Hamšík",
+    "options": ["Marek Hamšík", "Milan Škriniar", "Stanislav Lobotka", "Pavel Nedvěd"],
+    "difficulty": 2
+  },
+  {
+    "id": "m188",
+    "clubs": ["Napoli", "Pescara", "Napoli", "Toronto FC"],
+    "answer": "Lorenzo Insigne",
+    "options": ["Lorenzo Insigne", "Ciro Immobile", "Federico Bernardeschi", "Marco Verratti"],
+    "difficulty": 2
+  },
+  {
+    "id": "m189",
+    "clubs": ["Fiorentina", "Juventus", "Toronto FC"],
+    "answer": "Federico Bernardeschi",
+    "options": ["Federico Bernardeschi", "Lorenzo Insigne", "Federico Chiesa", "Domenico Berardi"],
+    "difficulty": 2
+  },
+  {
+    "id": "m190",
+    "clubs": ["Livourne", "Fiorentina", "Juventus", "LAFC"],
+    "answer": "Giorgio Chiellini",
+    "options": ["Giorgio Chiellini", "Leonardo Bonucci", "Andrea Barzagli", "Gianluigi Buffon"],
+    "difficulty": 1
+  },
+  {
+    "id": "m191",
+    "clubs": ["Inter Milan", "Bari", "Juventus", "AC Milan", "Juventus", "Union Berlin", "Fenerbahçe"],
+    "answer": "Leonardo Bonucci",
+    "options": ["Leonardo Bonucci", "Giorgio Chiellini", "Matthijs de Ligt", "Medhi Benatia"],
+    "difficulty": 2
+  },
+  {
+    "id": "m192",
+    "clubs": ["AIK", "Borussia Dortmund", "Willem II", "Real Sociedad", "Newcastle"],
+    "answer": "Alexander Isak",
+    "options": ["Alexander Isak", "Zlatan Ibrahimović", "Henrik Larsson", "Viktor Gyökeres"],
+    "difficulty": 2
+  },
+  {
+    "id": "m193",
+    "clubs": ["Brommapojkarna", "Coventry", "Sporting CP"],
+    "answer": "Viktor Gyökeres",
+    "options": ["Viktor Gyökeres", "Alexander Isak", "Zlatan Ibrahimović", "Dejan Kulusevski"],
+    "difficulty": 2
+  },
+  {
+    "id": "m194",
+    "clubs": ["Sochaux", "Guingamp", "Borussia Mönchengladbach", "Inter Milan"],
+    "answer": "Marcus Thuram",
+    "options": ["Marcus Thuram", "Khéphren Thuram", "Randal Kolo Muani", "Alassane Pléa"],
+    "difficulty": 2
+  },
+  {
+    "id": "m195",
+    "clubs": ["Nantes", "Eintracht Francfort", "Paris SG"],
+    "answer": "Randal Kolo Muani",
+    "options": ["Randal Kolo Muani", "Ousmane Dembélé", "Bradley Barcola", "Marcus Thuram"],
+    "difficulty": 2
+  },
+  {
+    "id": "m196",
+    "clubs": ["Real Madrid", "Borussia Dortmund", "Inter Milan", "Paris SG"],
+    "answer": "Achraf Hakimi",
+    "options": ["Achraf Hakimi", "Theo Hernández", "Noussair Mazraoui", "Dani Carvajal"],
+    "difficulty": 1
+  },
+  {
+    "id": "m197",
+    "clubs": ["Atlético Madrid", "Alavés", "Real Madrid", "AC Milan"],
+    "answer": "Theo Hernández",
+    "options": ["Theo Hernández", "Lucas Hernández", "Ferland Mendy", "Benjamin Pavard"],
+    "difficulty": 1
+  },
+  {
+    "id": "m198",
+    "clubs": ["Atlético Madrid", "Bayern Munich", "Paris SG"],
+    "answer": "Lucas Hernández",
+    "options": ["Lucas Hernández", "Theo Hernández", "Benjamin Pavard", "Dayot Upamecano"],
+    "difficulty": 2
+  },
+  {
+    "id": "m199",
+    "clubs": ["Sporting CP", "FC Barcelone", "FC Porto", "Inter Milan", "Chelsea", "Beşiktaş", "Al-Ahli", "FC Porto", "Beşiktaş", "Kasımpaşa", "Vitória Guimarães"],
+    "answer": "Ricardo Quaresma",
+    "options": ["Ricardo Quaresma", "Nani", "Simão Sabrosa", "Cristiano Ronaldo"],
+    "difficulty": 3
+  },
+  {
+    "id": "m200",
+    "clubs": ["River Plate", "Corinthians", "West Ham", "Manchester United", "Manchester City", "Juventus", "Boca Juniors", "Shanghai Shenhua", "Boca Juniors"],
+    "answer": "Carlos Tévez",
+    "options": ["Carlos Tévez", "Sergio Agüero", "Javier Mascherano", "Diego Forlán"],
+    "difficulty": 2
+  }
+]
