@@ -14,7 +14,7 @@ import MissingPieceMode from './components/MissingPieceMode';
 import HigherLowerMode from './components/HigherLowerMode';
 
 /**
- * Composant principal de l'application - VERSION AMÉLIORÉE
+ * Composant principal de l'application - VERSION MOBILE-RESPONSIVE
  */
 function App() {
   const { isLoaded, loadError } = useGameData();
@@ -23,15 +23,15 @@ function App() {
   // Chargement des données
   if (!isLoaded) {
     return (
-      <div className="min-h-screen bg-gradient-to-br from-slate-900 via-purple-900 to-slate-900 flex items-center justify-center">
+      <div className="min-h-screen bg-gradient-to-br from-amber-50 via-orange-50 to-yellow-50 flex items-center justify-center p-4">
         <div className="text-center">
           <div className="relative">
-            <div className="animate-spin rounded-full h-32 w-32 border-b-4 border-t-4 border-yellow-400 mx-auto mb-4"></div>
-            <div className="absolute top-1/2 left-1/2 transform -translate-x-1/2 -translate-y-1/2 text-5xl">
+            <div className="animate-spin rounded-full h-24 w-24 sm:h-32 sm:w-32 border-b-4 border-t-4 border-yellow-500 mx-auto mb-4"></div>
+            <div className="absolute top-1/2 left-1/2 transform -translate-x-1/2 -translate-y-1/2 text-4xl sm:text-5xl">
               ⚽
             </div>
           </div>
-          <p className="text-2xl font-bold text-white animate-pulse">Chargement...</p>
+          <p className="text-xl sm:text-2xl font-bold text-orange-700 animate-pulse">Chargement...</p>
         </div>
       </div>
     );
@@ -40,14 +40,14 @@ function App() {
   // Erreur de chargement
   if (loadError) {
     return (
-      <div className="min-h-screen bg-gradient-to-br from-red-900 to-pink-900 flex items-center justify-center p-8">
-        <div className="max-w-md bg-white/10 backdrop-blur-md rounded-2xl p-8 border-2 border-red-400 shadow-2xl">
-          <div className="text-6xl mb-4 text-center">❌</div>
-          <h1 className="text-3xl font-black text-white mb-4 text-center">Erreur</h1>
-          <p className="text-lg text-white mb-4 text-center">
+      <div className="min-h-screen bg-gradient-to-br from-red-100 to-pink-100 flex items-center justify-center p-4 sm:p-8">
+        <div className="max-w-md bg-white/80 backdrop-blur-md rounded-2xl p-6 sm:p-8 border-2 border-red-400 shadow-2xl">
+          <div className="text-5xl sm:text-6xl mb-4 text-center">❌</div>
+          <h1 className="text-2xl sm:text-3xl font-black text-red-700 mb-4 text-center">Erreur</h1>
+          <p className="text-base sm:text-lg text-gray-700 mb-4 text-center">
             Impossible de charger les données du jeu.
           </p>
-          <p className="text-sm text-white/70 text-center">{loadError.message}</p>
+          <p className="text-sm text-gray-600 text-center">{loadError.message}</p>
         </div>
       </div>
     );
@@ -83,29 +83,29 @@ function App() {
 
   // Menu principal
   return (
-    <div className="min-h-screen bg-gradient-to-br from-slate-900 via-purple-900 to-slate-900 p-8 overflow-hidden">
+    <div className="min-h-screen bg-gradient-to-br from-amber-50 via-orange-50 to-yellow-50 p-4 sm:p-6 md:p-8 overflow-hidden">
       {/* Effets d'arrière-plan animés */}
       <div className="fixed inset-0 overflow-hidden pointer-events-none">
-        <div className="absolute top-1/4 left-1/4 w-96 h-96 bg-purple-500/10 rounded-full blur-3xl animate-pulse"></div>
-        <div className="absolute bottom-1/4 right-1/4 w-96 h-96 bg-blue-500/10 rounded-full blur-3xl animate-pulse" style={{ animationDelay: '1s' }}></div>
+        <div className="absolute top-1/4 left-1/4 w-64 h-64 sm:w-96 sm:h-96 bg-orange-300/10 rounded-full blur-3xl animate-pulse"></div>
+        <div className="absolute bottom-1/4 right-1/4 w-64 h-64 sm:w-96 sm:h-96 bg-yellow-300/10 rounded-full blur-3xl animate-pulse" style={{ animationDelay: '1s' }}></div>
       </div>
 
       <div className="max-w-7xl mx-auto relative z-10">
         {/* En-tête */}
-        <div className="text-center mb-12 animate-fadeIn">
-          <div className="inline-block mb-6">
-            <div className="text-8xl animate-bounce">⚽</div>
+        <div className="text-center mb-8 sm:mb-12 animate-fadeIn">
+          <div className="inline-block mb-3 sm:mb-6">
+            <div className="text-5xl sm:text-6xl md:text-8xl animate-bounce">⚽</div>
           </div>
-          <h1 className="text-7xl md:text-8xl font-black text-transparent bg-clip-text bg-gradient-to-r from-yellow-400 via-red-500 to-purple-600 mb-4 drop-shadow-2xl animate-fadeIn">
+          <h1 className="text-4xl sm:text-5xl md:text-6xl lg:text-7xl xl:text-8xl font-black text-transparent bg-clip-text bg-gradient-to-r from-yellow-500 via-red-500 to-orange-600 mb-3 sm:mb-4 drop-shadow-lg animate-fadeIn leading-tight px-2">
             ULTIMATE FOOTBALL QUIZ
           </h1>
-          <p className="text-2xl md:text-3xl text-purple-300 font-semibold">
+          <p className="text-lg sm:text-xl md:text-2xl lg:text-3xl text-orange-700 font-semibold px-2">
             Prouve tes connaissances foot ! 🔥
           </p>
         </div>
 
         {/* Grille des modes */}
-        <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-6">
+        <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-4 sm:gap-5 md:gap-6">
           <ModeCard
             title="🏆 Le Champion"
             description="Bats le champion en répondant à 4 thèmes de 5 questions !"
@@ -198,9 +198,9 @@ function App() {
         </div>
 
         {/* Footer */}
-        <div className="mt-16 text-center animate-fadeIn">
-          <div className="inline-block bg-white/5 backdrop-blur-md border border-white/10 rounded-2xl px-8 py-4">
-            <p className="text-white/80 text-sm font-semibold">
+        <div className="mt-12 sm:mt-16 text-center animate-fadeIn">
+          <div className="inline-block bg-white/60 backdrop-blur-md border border-orange-200 rounded-2xl px-6 sm:px-8 py-3 sm:py-4 shadow-lg">
+            <p className="text-gray-700 text-xs sm:text-sm font-semibold">
               © 2026 Ultimate Football Quiz | 100% Offline | 2000+ Questions 🎮
             </p>
           </div>
@@ -211,7 +211,7 @@ function App() {
 }
 
 /**
- * Composant carte de mode de jeu - VERSION AMÉLIORÉE
+ * Composant carte de mode de jeu - VERSION MOBILE-RESPONSIVE
  */
 interface ModeCardProps {
   title: string;
@@ -235,12 +235,12 @@ const ModeCard: React.FC<ModeCardProps> = ({
   return (
     <button
       onClick={onClick}
-      className="group relative overflow-hidden rounded-3xl p-8 text-left transition-all duration-500 hover:scale-105 hover:shadow-2xl hover:shadow-purple-500/50 animate-fadeIn"
+      className="group relative overflow-hidden rounded-2xl sm:rounded-3xl p-5 sm:p-6 md:p-8 text-left transition-all duration-500 hover:scale-105 hover:shadow-2xl hover:shadow-orange-500/30 animate-fadeIn"
       style={{ animationDelay: `${index * 0.1}s` }}
     >
       {/* Gradient background avec effet glassmorphism */}
       <div
-        className={`absolute inset-0 bg-gradient-to-br ${color} opacity-80 group-hover:opacity-100 transition-all duration-500`}
+        className={`absolute inset-0 bg-gradient-to-br ${color} opacity-90 group-hover:opacity-100 transition-all duration-500`}
       ></div>
 
       {/* Effet de grille */}
@@ -248,26 +248,25 @@ const ModeCard: React.FC<ModeCardProps> = ({
 
       {/* Contenu */}
       <div className="relative z-10">
-        <h3 className="text-4xl font-black text-white mb-4 group-hover:scale-110 transition-transform duration-300 origin-left">
+        <h3 className="text-2xl sm:text-3xl md:text-4xl font-black text-white mb-3 sm:mb-4 group-hover:scale-110 transition-transform duration-300 origin-left leading-tight">
           {title}
         </h3>
-        <p className="text-lg text-white/95 mb-6 min-h-[60px] leading-relaxed font-medium">
+        <p className="text-sm sm:text-base md:text-lg text-white/95 mb-4 sm:mb-6 min-h-[48px] sm:min-h-[60px] leading-relaxed font-medium">
           {description}
         </p>
 
-        <div className="flex items-center justify-between border-t border-white/20 pt-4">
-          <div className="space-y-1">
-            <p className="text-xs text-white/70 uppercase tracking-wider font-bold">Difficulté</p>
-            <p className="text-lg font-black text-white">{difficulty}</p>
+        <div className="flex items-center justify-between border-t border-white/20 pt-3 sm:pt-4">
+          <div className="space-y-0.5 sm:space-y-1">
+            <p className="text-[10px] sm:text-xs text-white/70 uppercase tracking-wider font-bold">Difficulté</p>
+            <p className="text-base sm:text-lg md:text-xl font-black text-white">{difficulty}</p>
           </div>
-          <div className="text-right space-y-1">
-            <p className="text-xs text-white/70 uppercase tracking-wider font-bold">Contenu</p>
-            <p className="text-lg font-black text-white">{questionsCount}</p>
+          <div className="text-right space-y-0.5 sm:space-y-1">
+            <p className="text-base sm:text-lg md:text-xl font-black text-white">{questionsCount}</p>
           </div>
         </div>
 
-        {/* Arrow indicator avec animation */}
-        <div className="absolute bottom-6 right-6 text-5xl text-white/40 group-hover:text-white group-hover:translate-x-2 group-hover:scale-125 transition-all duration-500">
+        {/* Arrow indicator avec animation - SANS le texte "Contenu" */}
+        <div className="absolute bottom-4 sm:bottom-6 right-4 sm:right-6 text-4xl sm:text-5xl text-white/40 group-hover:text-white group-hover:translate-x-2 group-hover:scale-125 transition-all duration-500">
           →
         </div>
       </div>
@@ -276,7 +275,7 @@ const ModeCard: React.FC<ModeCardProps> = ({
       <div className="absolute inset-0 bg-gradient-to-r from-transparent via-white/20 to-transparent -translate-x-full group-hover:translate-x-full transition-transform duration-1000"></div>
 
       {/* Bordure lumineuse */}
-      <div className="absolute inset-0 border-2 border-white/10 group-hover:border-white/30 rounded-3xl transition-all duration-500"></div>
+      <div className="absolute inset-0 border-2 border-white/10 group-hover:border-white/30 rounded-2xl sm:rounded-3xl transition-all duration-500"></div>
     </button>
   );
 };
